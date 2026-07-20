@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039487117685109235",
+    "created_at": "2026-04-01T23:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T00:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039487117685109235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wohaokun555/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/wohaokun555/status/2039245605240005086",
+          "start": 8,
+          "url": "https://t.co/y6UiCJdSra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039487117685109235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039245605240005086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永远喜欢少年感 https://t.co/y6UiCJdSra"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039487117685109235",
+        "created_at": "2026-04-01T23:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039487117685109235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wohaokun555/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/wohaokun555/status/2039245605240005086",
+              "start": 8,
+              "url": "https://t.co/y6UiCJdSra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039487117685109235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039245605240005086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永远喜欢少年感 https://t.co/y6UiCJdSra"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2039245605240005086",
+        "created_at": "2026-04-01T07:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039245605240005086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039245605240005086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2058,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢那种干干净净的很清爽的人…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 72,
+          "like_count": 2108,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 939
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 99,
+          "like_count": 13823,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2537
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

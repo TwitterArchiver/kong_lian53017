@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052529394024149469",
+    "created_at": "2026-05-07T23:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T00:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052529394024149469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3ternaluv3/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/3ternaluv3/status/2052356919239836096",
+          "start": 2,
+          "url": "https://t.co/xTjBVsdqvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052529394024149469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052356919239836096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懂 https://t.co/xTjBVsdqvz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052529394024149469",
+        "created_at": "2026-05-07T23:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052529394024149469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3ternaluv3/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/3ternaluv3/status/2052356919239836096",
+              "start": 2,
+              "url": "https://t.co/xTjBVsdqvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052529394024149469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052356919239836096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂 https://t.co/xTjBVsdqvz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698367217879191552",
+        "conversation_id": "2052356919239836096",
+        "created_at": "2026-05-07T11:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052356919239836096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052356919239836096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫喜欢的人“哥哥”，不觉得很涩情吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 103,
+          "like_count": 13407,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4667
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T16:08:00.000Z",
+        "description": "生活的甜，是小蛋糕给的 🍰",
+        "id": "1698367217879191552",
+        "location": "好好吃饭，好好爱自己 ⋅ꫂ ၴႅၴ. ",
+        "name": "温柔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051220685058711552/7_kmkKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 164,
+          "like_count": 24649,
+          "listed_count": 1,
+          "media_count": 958,
+          "tweet_count": 3062
+        },
+        "username": "3ternaluv3",
+        "verified": false
+      }
+    ]
+  }
+}

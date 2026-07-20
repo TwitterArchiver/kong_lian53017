@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043400148588634588",
+    "created_at": "2026-04-12T18:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043400148588634588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Uu_uu63/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Uu_uu63/status/2043323386215162257",
+          "start": 8,
+          "url": "https://t.co/jte9IlIJfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043400148588634588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043323386215162257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要把你藏起来 https://t.co/jte9IlIJfn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043400148588634588",
+        "created_at": "2026-04-12T18:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043400148588634588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Uu_uu63/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Uu_uu63/status/2043323386215162257",
+              "start": 8,
+              "url": "https://t.co/jte9IlIJfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043400148588634588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043323386215162257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要把你藏起来 https://t.co/jte9IlIJfn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864235076730671105",
+        "conversation_id": "2043323386215162257",
+        "created_at": "2026-04-12T13:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043323386215162257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043323386215162257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7085,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢你\n求你 不要被别人看到不要被别人喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 89,
+          "like_count": 4824,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 2109
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T09:08:02.000Z",
+        "description": "不爱我的话就去死",
+        "id": "1864235076730671105",
+        "location": "Republic of Korea",
+        "name": "Uu",
+        "pinned_tweet_id": "2041539456675811691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864240789708296192/fZl38hVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 211,
+          "like_count": 594,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 961
+        },
+        "username": "Uu_uu63",
+        "verified": false
+      }
+    ]
+  }
+}

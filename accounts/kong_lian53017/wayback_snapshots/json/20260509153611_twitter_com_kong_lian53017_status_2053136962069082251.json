@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2053136602441056413",
+    "created_at": "2026-05-09T15:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053136962069082251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974819659766808576",
+          "start": 0,
+          "username": "zztiti482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053136962069082251",
+    "in_reply_to_user_id": "1974819659766808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053136602441056413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zztiti482 不敢说，我追的第一个是李易峰……古剑奇谭是真好看吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2053136602441056413",
+        "created_at": "2026-05-09T15:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053136962069082251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974819659766808576",
+              "start": 0,
+              "username": "zztiti482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053136962069082251",
+        "in_reply_to_user_id": "1974819659766808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053136602441056413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zztiti482 不敢说，我追的第一个是李易峰……古剑奇谭是真好看吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974819659766808576",
+        "conversation_id": "2053136602441056413",
+        "created_at": "2026-05-09T15:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053136602441056413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053136602441056413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我人生中第一个喜欢的男明星是吴亦凡 第一个女明星是郑爽 我追星运就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 105,
+          "like_count": 13783,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4766
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T12:51:32.000Z",
+        "description": "喜欢萌萌的一切 /发骚是一种态度 什么都发 爱发神经/想和可爱的人做朋友 /普通人 没🚪不爱营业/已有老公不回私信/淫商积累中/小号在@zyeez68080过互关和有礼貌的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "zyeez68080"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zztiti",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zztiti",
+                "start": 0,
+                "url": "https://t.co/CAuOoPX2TQ"
+              }
+            ]
+          }
+        },
+        "id": "1974819659766808576",
+        "name": "zztiti",
+        "pinned_tweet_id": "2045096457049612562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017511228315209728/TOrnK8zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 181,
+          "like_count": 5793,
+          "listed_count": 10,
+          "media_count": 85,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/CAuOoPX2TQ",
+        "username": "zztiti482",
+        "verified": false
+      }
+    ]
+  }
+}

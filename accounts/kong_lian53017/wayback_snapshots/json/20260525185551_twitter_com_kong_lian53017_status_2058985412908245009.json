@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058985412908245009",
+    "created_at": "2026-05-25T18:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058985412908245009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iiovoii00/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/iiovoii00/status/2058862715150778602",
+          "start": 47,
+          "url": "https://t.co/PAOPhviQgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058985412908245009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058862715150778602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和我相处很累的话 放弃我就好了呀 没关系 什么都没关系 错也行 错过也行 不重要了 我不要了 https://t.co/PAOPhviQgl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058985412908245009",
+        "created_at": "2026-05-25T18:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058985412908245009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiovoii00/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/iiovoii00/status/2058862715150778602",
+              "start": 47,
+              "url": "https://t.co/PAOPhviQgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058985412908245009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058862715150778602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我相处很累的话 放弃我就好了呀 没关系 什么都没关系 错也行 错过也行 不重要了 我不要了 https://t.co/PAOPhviQgl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961955188094468096",
+        "conversation_id": "2058862715150778602",
+        "created_at": "2026-05-25T10:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058862715150778602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058862715150778602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 545,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和我相处很累的话 放弃我就好了呀 没关系 什么都没关系 错也行 错过也行 不重要了 我不要了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17483,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 5890
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T00:52:35.000Z",
+        "description": "我害怕这个世界，所以人类只是我的兼职",
+        "id": "1961955188094468096",
+        "name": "小星ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056963710170939392/AVbfYJRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 4,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 126
+        },
+        "username": "iiovoii00",
+        "verified": false
+      }
+    ]
+  }
+}

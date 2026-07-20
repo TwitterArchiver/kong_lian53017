@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039230338241851582",
+    "created_at": "2026-04-01T06:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039230764102078492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974819659766808576",
+          "start": 0,
+          "username": "zztiti482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039230764102078492",
+    "in_reply_to_user_id": "1974819659766808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039230338241851582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zztiti482 不是？咋这么坏！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039230338241851582",
+        "created_at": "2026-04-01T06:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039230764102078492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974819659766808576",
+              "start": 0,
+              "username": "zztiti482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039230764102078492",
+        "in_reply_to_user_id": "1974819659766808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039230338241851582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zztiti482 不是？咋这么坏！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974819659766808576",
+        "conversation_id": "2039230338241851582",
+        "created_at": "2026-04-01T06:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039230338241851582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039230338241851582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这丑照片都有人盗 打水印显得人家小牌大耍🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 71,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 881
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T12:51:32.000Z",
+        "description": "喜欢萌萌的一切 /INTJ /168 55kg /不聊骚不约 发骚是一种态度 什么都发 想和可爱的人做朋友 /淫商积累中",
+        "id": "1974819659766808576",
+        "name": "zztiti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017511228315209728/TOrnK8zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 182,
+          "like_count": 4244,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 1028
+        },
+        "username": "zztiti482",
+        "verified": false
+      }
+    ]
+  }
+}

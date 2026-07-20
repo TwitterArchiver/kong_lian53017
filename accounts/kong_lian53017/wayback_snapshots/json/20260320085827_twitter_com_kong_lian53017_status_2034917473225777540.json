@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034917473225777540",
+    "created_at": "2026-03-20T08:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034917473225777540"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034917473225777540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比起怎么说我更在意对方会怎么做。答应我的事做不到我真的会永远记住且无法完全信任这个人了，不论什么关系。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034917473225777540",
+        "created_at": "2026-03-20T08:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034917473225777540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034917473225777540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起怎么说我更在意对方会怎么做。答应我的事做不到我真的会永远记住且无法完全信任这个人了，不论什么关系。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 34,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 201
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

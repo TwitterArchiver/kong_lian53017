@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042042212868034734",
+    "created_at": "2026-04-09T08:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042165040007307529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920316855471996928",
+          "start": 0,
+          "username": "salvation1074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042165040007307529",
+    "in_reply_to_user_id": "1920316855471996928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042163946099212338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salvation1074 我对所有关系都会……这确实会让对方很为难，所以我不交交心的朋友，表面朋友的话对方爱怎么样怎么样我才不会管😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042042212868034734",
+        "created_at": "2026-04-09T08:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042165040007307529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920316855471996928",
+              "start": 0,
+              "username": "salvation1074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042165040007307529",
+        "in_reply_to_user_id": "1920316855471996928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042163946099212338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salvation1074 我对所有关系都会……这确实会让对方很为难，所以我不交交心的朋友，表面朋友的话对方爱怎么样怎么样我才不会管😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920316855471996928",
+        "conversation_id": "2042042212868034734",
+        "created_at": "2026-04-09T08:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042163946099212338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042163946099212338",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042042212868034734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 对象的话感觉还可以……但是朋友的话好糟糕……我一个朋友因为我和我喜欢的人一起玩不开心……我也不知道该怎么办了 不想伤害好朋友也不想放弃喜欢的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 83,
+          "like_count": 3662,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1580
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T03:16:39.000Z",
+        "description": "🗑️垃圾桶 碎碎念",
+        "id": "1920316855471996928",
+        "location": "Japan",
+        "name": "saveu",
+        "pinned_tweet_id": "2039008232337973525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041063975790731264/K5bVFjRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 206
+        },
+        "username": "salvation1074",
+        "verified": false
+      }
+    ]
+  }
+}

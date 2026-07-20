@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038108990358626658",
+    "created_at": "2026-03-29T04:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T05:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038109138245615769"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038109138245615769",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038108990358626658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "买了我就删好友😸我就这么坏😸鸟都不鸟你😸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2038108980481019904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjRUcMa0AAur39.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038108990358626658",
+        "created_at": "2026-03-29T04:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038109138245615769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038109138245615769",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038108990358626658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买了我就删好友😸我就这么坏😸鸟都不鸟你😸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038108980481019904"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038108990358626658",
+        "created_at": "2026-03-29T04:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038108990358626658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKFp5Kw8iT",
+              "end": 39,
+              "expanded_url": "https://x.com/kong_lian53017/status/2038108990358626658/photo/1",
+              "media_key": "3_2038108980481019904",
+              "start": 16,
+              "url": "https://t.co/oKFp5Kw8iT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038108990358626658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无奖竞猜主包能不能圈到一套衣服 https://t.co/oKFp5Kw8iT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 66,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 654
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

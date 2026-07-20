@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039581013408694726",
+    "created_at": "2026-04-02T05:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039581013408694726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1932959085374418944",
+          "start": 3,
+          "username": "shuigehaijao124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039581013408694726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039567977763451216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuigehaijao124: 我真的特别讨厌人说话不算数 给人期待又落空 我讨厌那种你明明答应了又做不到的感觉 无论是在哪一种关系里 都很讨厌那种期待已久却被落空的感受 如果实在无能为力就要在承诺出口前就对自己的能力进行考量 而不是在信誓旦旦给了承诺之后 丝毫不愧疚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039581013408694726",
+        "created_at": "2026-04-02T05:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039581013408694726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1932959085374418944",
+              "start": 3,
+              "username": "shuigehaijao124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039581013408694726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039567977763451216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuigehaijao124: 我真的特别讨厌人说话不算数 给人期待又落空 我讨厌那种你明明答应了又做不到的感觉 无论是在哪一种关系里 都很讨厌那种期待已久却被落空的感受 如果实在无能为力就要在承诺出口前就对自己的能力进行考量 而不是在信誓旦旦给了承诺之后 丝毫不愧疚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932959085374418944",
+        "conversation_id": "2039567977763451216",
+        "created_at": "2026-04-02T04:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039567977763451216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039567977763451216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别讨厌人说话不算数 给人期待又落空 我讨厌那种你明明答应了又做不到的感觉 无论是在哪一种关系里 都很讨厌那种期待已久却被落空的感受 如果实在无能为力就要在承诺出口前就对自己的能力进行考量 而不是在信誓旦旦给了承诺之后 丝毫不愧疚的和你说抱歉无论是什么样的关系都要自己的承诺买单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 72,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 985
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T00:32:25.000Z",
+        "description": "想要很多钱和很多爱｜可以叫我叛逆｜07｜天蝎座｜xp是扇脸掐脖子粗口｜恋哥癖手控声控重度依赖^^🥣：周末接瓦   📪：https://t.co/u6K5DxW1aZ\n老婆：@Babyzxixim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Babyzxixim"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/shuigehaojiao1",
+                "end": 82,
+                "expanded_url": "https://ngl.link/shuigehaojiao1",
+                "start": 59,
+                "url": "https://t.co/u6K5DxW1aZ"
+              }
+            ]
+          }
+        },
+        "id": "1932959085374418944",
+        "location": "不约不线下 🚪152/288/520",
+        "name": "老公叛逆被判有妻徒刑",
+        "pinned_tweet_id": "2032263503508357505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999446331384094720/w_KrKy3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 60,
+          "like_count": 731,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 510
+        },
+        "username": "shuigehaijao124",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042026397083037823",
+    "created_at": "2026-04-09T00:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042030347135938934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705662085793976320",
+          "start": 0,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042030347135938934",
+    "in_reply_to_user_id": "1705662085793976320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042026397083037823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupidest_Lover 真的很恐怖……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042026397083037823",
+        "created_at": "2026-04-09T00:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042030347135938934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705662085793976320",
+              "start": 0,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042030347135938934",
+        "in_reply_to_user_id": "1705662085793976320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042026397083037823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupidest_Lover 真的很恐怖……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705662085793976320",
+        "conversation_id": "2042026397083037823",
+        "created_at": "2026-04-08T23:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042026397083037823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stupidest_love…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/stupidest_lover/status/2041816651688198230",
+              "start": 113,
+              "url": "https://t.co/iWojP1TutO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042026397083037823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041816651688198230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再活该，开盒举报的恨意也太吓人了\n人的恶意真的是一种很恐怖的东西\n还有那种1⃣️边吐槽一边又把截图发一次的，也，，，并非同情那些几个人，可恨的是把人信息曝出来毁掉别人的看客，而且这图片里的人如果不是真的，不又影响了两个陌生人 https://t.co/iWojP1TutO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 78,
+          "like_count": 3333,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1442
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页很话唠 没有陪聊的义务 忧郁 抽象 发骚ing\n想要变得温和平静善良自信不卑不亢有钱 女权主义\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 73,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 50,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "🚪 5200",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 92,
+          "like_count": 10451,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 622
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

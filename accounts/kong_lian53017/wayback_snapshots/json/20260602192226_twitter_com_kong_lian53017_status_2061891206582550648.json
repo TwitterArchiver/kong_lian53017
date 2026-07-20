@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2061891206582550648",
+    "created_at": "2026-06-02T19:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061891206582550648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sluvity_____/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/sluvity_____/status/2061730484426568073",
+          "start": 39,
+          "url": "https://t.co/NugfxjFJmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061891206582550648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061730484426568073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我早就知道结局不会有多好但我还是答应你了。我只是没想到那一天来的这么快。 https://t.co/NugfxjFJmu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2061891206582550648",
+        "created_at": "2026-06-02T19:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061891206582550648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sluvity_____/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/sluvity_____/status/2061730484426568073",
+              "start": 39,
+              "url": "https://t.co/NugfxjFJmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061891206582550648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061730484426568073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我早就知道结局不会有多好但我还是答应你了。我只是没想到那一天来的这么快。 https://t.co/NugfxjFJmu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418233271993962497",
+        "conversation_id": "2061730484426568073",
+        "created_at": "2026-06-02T08:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061730484426568073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061730484426568073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 8723,
+          "like_count": 405,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "If speaking your truth destroys a connection,\nit was meant to be destroyed."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 115,
+          "like_count": 19355,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4951
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T15:36:00.000Z",
+        "description": "🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soosoo.random?…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/soosoo.random?utm_medium=copy_link",
+                "start": 0,
+                "url": "https://t.co/coG6MUWq3V"
+              }
+            ]
+          }
+        },
+        "id": "1418233271993962497",
+        "location": "Johannesburg, South Africa",
+        "name": "soosoorandom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993610201274978304/vX47SLLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9099,
+          "following_count": 25,
+          "like_count": 95280,
+          "listed_count": 16,
+          "media_count": 1,
+          "tweet_count": 55234
+        },
+        "url": "https://t.co/coG6MUWq3V",
+        "username": "sluvity_____",
+        "verified": false
+      }
+    ]
+  }
+}

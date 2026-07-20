@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042044205393178720",
+    "created_at": "2026-04-09T10:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042191136752840957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1243809877505409025",
+          "start": 0,
+          "username": "CenCen0117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042191136752840957",
+    "in_reply_to_user_id": "1243809877505409025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042177923009097740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CenCen0117 真对男高男大无感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-09T10:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042191136752840957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1243809877505409025",
+              "start": 0,
+              "username": "CenCen0117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042191136752840957",
+        "in_reply_to_user_id": "1243809877505409025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042177923009097740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CenCen0117 真对男高男大无感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243809877505409025",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-09T09:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042177923009097740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042177923009097740",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042044205393178720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 好多青春期男高男大都蛮恶心的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 85,
+          "like_count": 3687,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1598
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T07:59:24.000Z",
+        "description": "在学习韩语和英语//学生//爱看动画，漫画，小说//INFP//电波系//已成年//互关，先关注再回关\n\n한국어·일본어·영어 공부 중//대학생//애니, 만화, 소설 좋아함//INFP//전파계//성인\n\n韓国語・日本語・英語勉強中//学生//アニメ・漫画・小説好//電波系",
+        "id": "1243809877505409025",
+        "name": "千千센코",
+        "pinned_tweet_id": "1924489051350126651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895697472342880256/mjEeC-qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 118,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 72
+        },
+        "username": "CenCen0117",
+        "verified": false
+      }
+    ]
+  }
+}

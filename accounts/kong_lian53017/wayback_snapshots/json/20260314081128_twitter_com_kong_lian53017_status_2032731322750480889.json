@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2032731322750480889",
+    "created_at": "2026-03-14T08:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T09:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032731322750480889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032731322750480889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不愿瞻前顾后看着可能存在的幸福溜走，可我的爱和勇气又是不可再生的。我付出并不是为了要求对方给予对等的回报，至少得到的不应该是痛苦和难过吧，不值得的人欠我的谁又能来还给我呢。不论哪种亲密关系，人吃一堑真的能长一智吗。没被真正爱过的人是谈不了健康的恋爱的，也分辨不出什么是真正的爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2032731322750480889",
+        "created_at": "2026-03-14T08:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032731322750480889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032731322750480889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不愿瞻前顾后看着可能存在的幸福溜走，可我的爱和勇气又是不可再生的。我付出并不是为了要求对方给予对等的回报，至少得到的不应该是痛苦和难过吧，不值得的人欠我的谁又能来还给我呢。不论哪种亲密关系，人吃一堑真的能长一智吗。没被真正爱过的人是谈不了健康的恋爱的，也分辨不出什么是真正的爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 22,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 58
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

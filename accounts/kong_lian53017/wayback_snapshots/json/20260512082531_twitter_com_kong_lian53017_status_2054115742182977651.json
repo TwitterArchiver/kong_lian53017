@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2054115742182977651",
+    "created_at": "2026-05-12T08:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054115742182977651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/May1L0v3you/st…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/May1L0v3you/status/2054114820132393376",
+          "start": 95,
+          "url": "https://t.co/yrGP7BqjPx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054115742182977651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054114820132393376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推上某位互关，从玩推的那天起，我就关注你了，经常翻你主页，不善言辞的我，不敢和你聊天，怕打扰你，但是我很确信这是喜欢，马上就是 5 月 20 号了，我想和你一起过，你要同意，你就偷偷私我。 https://t.co/yrGP7BqjPx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2054115742182977651",
+        "created_at": "2026-05-12T08:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054115742182977651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/May1L0v3you/st…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/May1L0v3you/status/2054114820132393376",
+              "start": 95,
+              "url": "https://t.co/yrGP7BqjPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054115742182977651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054114820132393376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推上某位互关，从玩推的那天起，我就关注你了，经常翻你主页，不善言辞的我，不敢和你聊天，怕打扰你，但是我很确信这是喜欢，马上就是 5 月 20 号了，我想和你一起过，你要同意，你就偷偷私我。 https://t.co/yrGP7BqjPx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880274849123454976",
+        "conversation_id": "2054114820132393376",
+        "created_at": "2026-05-12T08:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054114820132393376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054114820132393376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推上某位小美人，从玩推的那天起，我就关注你了，经常翻你主页，不善言辞的我，不敢和你聊天，怕打扰你，但是我很确信这是喜欢，马上就是 5 月 20 号了，我想和你一起过，你要同意，你就偷偷私我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 107,
+          "like_count": 14459,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 4996
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T15:24:04.000Z",
+        "description": "说我的眼泪比别人珍贵",
+        "id": "1880274849123454976",
+        "name": "NovemberRain",
+        "pinned_tweet_id": "2032171277222625736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053977629339107329/SAjslEne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 123,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "May1L0v3you",
+        "verified": false
+      }
+    ]
+  }
+}

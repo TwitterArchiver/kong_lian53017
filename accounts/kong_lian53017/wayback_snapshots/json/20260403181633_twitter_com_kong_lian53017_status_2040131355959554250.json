@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040129832680575013",
+    "created_at": "2026-04-03T18:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T19:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040131355959554250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974819659766808576",
+          "start": 0,
+          "username": "zztiti482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040131355959554250",
+    "in_reply_to_user_id": "1974819659766808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040129832680575013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zztiti482 这个朋友怎么这样啊😡一点都不考虑同伴的感受诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040129832680575013",
+        "created_at": "2026-04-03T18:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040131355959554250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974819659766808576",
+              "start": 0,
+              "username": "zztiti482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040131355959554250",
+        "in_reply_to_user_id": "1974819659766808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040129832680575013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zztiti482 这个朋友怎么这样啊😡一点都不考虑同伴的感受诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974819659766808576",
+        "conversation_id": "2040129832680575013",
+        "created_at": "2026-04-03T18:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040129832680575013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040129832680575013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那天我月经第一天肚子痛得要死拿着俩包一个行李箱 没有想道德绑架任何人 你就那样让你对象帮你拿着所有行李你一个人大摇大摆的走在最前面的时候你在想什么 你在炫耀吗 你能帮我拿一下吗…我真的很累 你说我们出去玩的时候我总是跟对象秀恩爱 那你呢 你到底要证明什么 你被爱了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 75,
+          "like_count": 2429,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1090
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T12:51:32.000Z",
+        "description": "喜欢萌萌的一切 /发骚是一种态度 什么都发 爱发神经/想和可爱的人做朋友 /普通人 没🚪不爱营业/现生太忙私信有缘回/淫商积累中",
+        "id": "1974819659766808576",
+        "name": "zztiti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017511228315209728/TOrnK8zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 185,
+          "like_count": 4540,
+          "listed_count": 6,
+          "media_count": 37,
+          "tweet_count": 1082
+        },
+        "username": "zztiti482",
+        "verified": false
+      }
+    ]
+  }
+}

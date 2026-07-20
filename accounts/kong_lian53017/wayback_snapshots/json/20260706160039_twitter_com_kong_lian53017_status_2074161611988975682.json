@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2074010218099613958",
+    "created_at": "2026-07-06T16:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074161611988975682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1654489581499170820",
+          "start": 0,
+          "username": "krbjscam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074161611988975682",
+    "in_reply_to_user_id": "1654489581499170820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074145678994051351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krbjscam 在某些方面还挺幸运"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2074010218099613958",
+        "created_at": "2026-07-06T16:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074161611988975682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1654489581499170820",
+              "start": 0,
+              "username": "krbjscam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074161611988975682",
+        "in_reply_to_user_id": "1654489581499170820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074145678994051351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krbjscam 在某些方面还挺幸运"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654489581499170820",
+        "conversation_id": "2074010218099613958",
+        "created_at": "2026-07-06T14:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074145678994051351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074145678994051351",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074010218099613958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 很羡慕，真的。有点羡慕了，还挺羡慕你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 118,
+          "like_count": 23614,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 4383
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T14:13:59.000Z",
+        "description": "爱爸爸还是爱妈妈？",
+        "id": "1654489581499170820",
+        "location": "San Jose, CA",
+        "name": "吃饭吃饱了（养胃版）",
+        "pinned_tweet_id": "1996240982007017526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987015633310261248/5Fdghmtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 113,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "krbjscam",
+        "verified": false
+      }
+    ]
+  }
+}

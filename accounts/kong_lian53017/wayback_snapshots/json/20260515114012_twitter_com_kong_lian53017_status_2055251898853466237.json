@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033011928",
+          "name": "月刊少女野崎くん"
+        }
+      }
+    ],
+    "conversation_id": "2055251898853466237",
+    "created_at": "2026-05-15T11:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055251898853466237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuchuan25/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xuchuan25/status/2055215844515553707",
+          "start": 6,
+          "url": "https://t.co/4frF4ZaisP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055251898853466237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055215844515553707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神又在产出 https://t.co/4frF4ZaisP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2370,
+        "media_key": "3_2055215836638658560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWX6heawAARRIC.jpg",
+        "width": 1590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033011928",
+              "name": "月刊少女野崎くん"
+            }
+          }
+        ],
+        "conversation_id": "2055251898853466237",
+        "created_at": "2026-05-15T11:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055251898853466237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuchuan25/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xuchuan25/status/2055215844515553707",
+              "start": 6,
+              "url": "https://t.co/4frF4ZaisP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055251898853466237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055215844515553707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神又在产出 https://t.co/4frF4ZaisP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055215836638658560"
+          ]
+        },
+        "author_id": "1709917046656438272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033011928",
+              "name": "月刊少女野崎くん"
+            }
+          }
+        ],
+        "conversation_id": "2055215844515553707",
+        "created_at": "2026-05-15T09:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055215844515553707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "月刊少女野崎くん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZwZmETYwD",
+              "end": 63,
+              "expanded_url": "https://x.com/xuchuan25/status/2055215844515553707/photo/1",
+              "media_key": "3_2055215836638658560",
+              "start": 40,
+              "url": "https://t.co/uZwZmETYwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055215844515553707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 43233,
+          "like_count": 2647,
+          "quote_count": 27,
+          "reply_count": 4,
+          "retweet_count": 581
+        },
+        "reply_settings": "everyone",
+        "text": "比起录音，还是本人更好吧\n对比起来你俩真是进度喜人（落泪\n #月刊少女野崎くん https://t.co/uZwZmETYwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 109,
+          "like_count": 15092,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5179
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T13:03:08.000Z",
+        "description": "💛 トラファルガー・ロー 激推，🦊燐音suki，纯爱战士， 微博@序川_🚫Ai，Do not use my work without permission. email：2631185009@qq.com",
+        "id": "1709917046656438272",
+        "location": "China",
+        "name": "序川",
+        "pinned_tweet_id": "1767009131179680187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895791356213411841/zbTrlfnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135104,
+          "following_count": 457,
+          "like_count": 7465,
+          "listed_count": 445,
+          "media_count": 427,
+          "tweet_count": 1023
+        },
+        "username": "xuchuan25",
+        "verified": false
+      }
+    ]
+  }
+}

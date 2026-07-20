@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047131666674753708",
+    "created_at": "2026-04-23T03:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047149308055834896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740012227124744192",
+          "start": 0,
+          "username": "dejvvinthenight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047149308055834896",
+    "in_reply_to_user_id": "1740012227124744192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047131666674753708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dejvvinthenight 我最近就在看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047131666674753708",
+        "created_at": "2026-04-23T03:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047149308055834896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740012227124744192",
+              "start": 0,
+              "username": "dejvvinthenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047149308055834896",
+        "in_reply_to_user_id": "1740012227124744192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047131666674753708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dejvvinthenight 我最近就在看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740012227124744192",
+        "conversation_id": "2047131666674753708",
+        "created_at": "2026-04-23T01:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047131666674753708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047131666674753708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得所有自卑的主体性弱的人都应该去读西方哲学。虽然我现在很少看了，但没接触过西方哲学和20年起疯狂读了四年西方哲学的我简直判若两人。这种变化不只有自己察觉得到，是身边所有朋友包括家人都觉得我变了个人。仿佛也是从这之后我才真正开始了寻找自己、理解自己。20年以前我和我其实不太熟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 101,
+          "like_count": 8828,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3714
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:10:29.000Z",
+        "description": "born to live fast and die young｜intp-t｜174 140｜ 180以下请别私信我｜switch｜ask me anything https://t.co/VAFDH0qs8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wetislandme701…",
+                "end": 105,
+                "expanded_url": "https://ngl.link/wetislandme70185",
+                "start": 82,
+                "url": "https://t.co/VAFDH0qs8p"
+              }
+            ]
+          }
+        },
+        "id": "1740012227124744192",
+        "location": "Mars",
+        "name": "wetislandme",
+        "pinned_tweet_id": "1858054622427881818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046374978061561856/oSg1mvA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 75,
+          "like_count": 1274,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1237
+        },
+        "username": "dejvvinthenight",
+        "verified": false
+      }
+    ]
+  }
+}

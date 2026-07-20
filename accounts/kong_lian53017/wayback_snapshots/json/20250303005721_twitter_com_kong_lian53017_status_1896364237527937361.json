@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1896364237527937361",
+    "created_at": "2025-03-03T00:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T01:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896364237527937361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896364237527937361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我的青春期真的很荒谬 别人忙着学习忙着打王者的年龄 我跟男朋友在教学楼角落接吻在楼道做在公园做在车上做在包厢做在电影院指交 当时这样谈恋爱没影响到我学习成绩并且那个男朋友还辅导我理科相关的知识(因为我偏科 现在想想当时我的胆子怎么能这么大 也太早熟了😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1896364237527937361",
+        "created_at": "2025-03-03T00:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T01:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896364237527937361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896364237527937361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我的青春期真的很荒谬 别人忙着学习忙着打王者的年龄 我跟男朋友在教学楼角落接吻在楼道做在公园做在车上做在包厢做在电影院指交 当时这样谈恋爱没影响到我学习成绩并且那个男朋友还辅导我理科相关的知识(因为我偏科 现在想想当时我的胆子怎么能这么大 也太早熟了😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "叽里咕噜说什么呢｜不跟精虫上脑的人讲话",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1871624112441073693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 18,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

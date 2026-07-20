@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1872563967039857030",
+    "created_at": "2024-12-27T08:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T09:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872563967039857030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puppykillerlan…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/puppykillerlang/status/1856261927644868922",
+          "start": 2,
+          "url": "https://t.co/luTlBDXOIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872563967039857030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856261927644868922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蒽 https://t.co/luTlBDXOIy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1872563967039857030",
+        "created_at": "2024-12-27T08:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T09:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872563967039857030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puppykillerlan…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/puppykillerlang/status/1856261927644868922",
+              "start": 2,
+              "url": "https://t.co/luTlBDXOIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872563967039857030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856261927644868922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蒽 https://t.co/luTlBDXOIy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420782233783193604",
+        "conversation_id": "1856261927644868922",
+        "created_at": "2024-11-12T09:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T10:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856261927644868922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856261927644868922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9084,
+          "like_count": 35,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火象心里没有数嚒，你们这种好面子还爱开屏的性格，不论是做热情小狗，激情受虐狂还是霸道主人都是被低姿态的人哄得一愣一愣的，人家一钓一个准。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "幸福幸福何时能再降临我手心",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T16:24:29.000Z",
+        "description": "神爱世人//需要信徒供奉真实的痛苦和虚弱//平等地爱每一个人也平等地处决每一个人//禁忌：四爱 女化 幼男",
+        "id": "1420782233783193604",
+        "location": "inyoureyes",
+        "name": "木质绑带礼盒",
+        "pinned_tweet_id": "1638847318945566720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520285048758431744/DrdP2_bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7316,
+          "following_count": 801,
+          "like_count": 4333,
+          "listed_count": 16,
+          "media_count": 333,
+          "tweet_count": 4408
+        },
+        "username": "puppykillerlang",
+        "verified": false
+      }
+    ]
+  }
+}

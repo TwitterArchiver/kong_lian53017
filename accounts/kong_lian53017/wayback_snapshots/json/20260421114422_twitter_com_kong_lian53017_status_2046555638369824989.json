@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046276216110686510",
+    "created_at": "2026-04-21T11:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046555638369824989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930308556466892800",
+          "start": 0,
+          "username": "jiaxinguo636363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046555638369824989",
+    "in_reply_to_user_id": "1930308556466892800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046554490204041477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaxinguo636363 真没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046276216110686510",
+        "created_at": "2026-04-21T11:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046555638369824989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930308556466892800",
+              "start": 0,
+              "username": "jiaxinguo636363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046555638369824989",
+        "in_reply_to_user_id": "1930308556466892800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046554490204041477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaxinguo636363 真没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930308556466892800",
+        "conversation_id": "2046276216110686510",
+        "created_at": "2026-04-21T11:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046554490204041477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046554490204041477",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046276216110686510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我也是 我喜欢年上 但是没谈过好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 98,
+          "like_count": 8183,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3491
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T17:00:11.000Z",
+        "description": "记录身体 欣赏美女 互联网裸奔 谁也不是",
+        "id": "1930308556466892800",
+        "name": "纯情母蟑螂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930317374944665600/o19-6w-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 5,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 79
+        },
+        "username": "jiaxinguo636363",
+        "verified": false
+      }
+    ]
+  }
+}

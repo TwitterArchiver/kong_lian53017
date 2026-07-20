@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047354717068787887",
+    "created_at": "2026-04-23T16:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047357743556931857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604168045424914433",
+          "start": 0,
+          "username": "bobi01604691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047357743556931857",
+    "in_reply_to_user_id": "1604168045424914433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047354717068787887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi01604691 可以。希望你能熬到晚上吧我一般下午直接就昏过去了🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047354717068787887",
+        "created_at": "2026-04-23T16:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047357743556931857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604168045424914433",
+              "start": 0,
+              "username": "bobi01604691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047357743556931857",
+        "in_reply_to_user_id": "1604168045424914433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047354717068787887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi01604691 可以。希望你能熬到晚上吧我一般下午直接就昏过去了🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604168045424914433",
+        "conversation_id": "2047354717068787887",
+        "created_at": "2026-04-23T16:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047354717068787887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047354717068787887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连续昏睡了好吧，下午冲了个澡点了杯咖啡灌掉也没清醒又倒下了，想调整作息是不是应该从现在开始熬到明天晚上？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 103,
+          "like_count": 9181,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3873
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T17:34:08.000Z",
+        "description": "前看天辽地阔",
+        "id": "1604168045424914433",
+        "name": "萧余丶",
+        "pinned_tweet_id": "2044403264322773303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042995631342653440/bYlacDFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 146,
+          "like_count": 2615,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 901
+        },
+        "username": "bobi01604691",
+        "verified": false
+      }
+    ]
+  }
+}

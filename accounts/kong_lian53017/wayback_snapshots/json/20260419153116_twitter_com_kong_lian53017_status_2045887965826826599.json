@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045887965826826599",
+    "created_at": "2026-04-19T15:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045887965826826599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2000Mayyyy/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/2000Mayyyy/status/2045706421187022901",
+          "start": 2,
+          "url": "https://t.co/TlbiB53Asp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045887965826826599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045706421187022901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/TlbiB53Asp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045887965826826599",
+        "created_at": "2026-04-19T15:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045887965826826599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2000Mayyyy/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/2000Mayyyy/status/2045706421187022901",
+              "start": 2,
+              "url": "https://t.co/TlbiB53Asp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045887965826826599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045706421187022901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/TlbiB53Asp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239719145131794433",
+        "conversation_id": "2045706421187022901",
+        "created_at": "2026-04-19T03:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045706421187022901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045706421187022901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 32312,
+          "like_count": 397,
+          "quote_count": 7,
+          "reply_count": 96,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "好想有个随时随地能给我发裸照发身体各个部位照片的男朋友。纯好色纯生理性喜欢🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 95,
+          "like_count": 7434,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 3166
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T01:04:21.000Z",
+        "description": "碎碎念/记录一些性幻想",
+        "id": "1239719145131794433",
+        "name": "hhhhh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577931076571639808/9F-0ksCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 550,
+          "like_count": 1871,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 764
+        },
+        "username": "2000Mayyyy",
+        "verified": false
+      }
+    ]
+  }
+}

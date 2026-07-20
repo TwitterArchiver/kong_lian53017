@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058668640959082980",
+    "created_at": "2026-05-24T21:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T22:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058668640959082980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cidao2310/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/cidao2310/status/2058609975149339030",
+          "start": 4,
+          "url": "https://t.co/dtQxqYsjqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058668640959082980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058609975149339030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是呀！ https://t.co/dtQxqYsjqZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058668640959082980",
+        "created_at": "2026-05-24T21:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058668640959082980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cidao2310/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/cidao2310/status/2058609975149339030",
+              "start": 4,
+              "url": "https://t.co/dtQxqYsjqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058668640959082980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058609975149339030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是呀！ https://t.co/dtQxqYsjqZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965778226627911680",
+        "conversation_id": "2058609975149339030",
+        "created_at": "2026-05-24T18:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058609975149339030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058609975149339030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉说实话，就算我现实谈恋爱了我也不会停止发推的，因为本来玩推也不是为了找对象的呀，这里已经完全是我的一个日记本了呀，我可以不刷推，但是我不能不发推呀、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17217,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 5848
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:03:57.000Z",
+        "description": "我是叨叨。一百年后，我们都死了。\n📪 https://t.co/gK9nreqZ6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 42,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 19,
+                "url": "https://t.co/gK9nreqZ6m"
+              }
+            ]
+          }
+        },
+        "id": "1965778226627911680",
+        "location": "小舟",
+        "name": "兔子的脚",
+        "pinned_tweet_id": "2055975946436628850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029816491932364801/lEpnxFAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 186,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2133
+        },
+        "username": "cidao2310",
+        "verified": false
+      }
+    ]
+  }
+}

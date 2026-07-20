@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045016592782950698",
+    "created_at": "2026-04-17T05:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045016592782950698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moli_OXOX/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/moli_OXOX/status/2044450227755925748",
+          "start": 7,
+          "url": "https://t.co/jRXCKDjx48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045016592782950698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044450227755925748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就这样戒不掉 https://t.co/jRXCKDjx48"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2044450225436401664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9YpegaoAAn7dY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045016592782950698",
+        "created_at": "2026-04-17T05:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045016592782950698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moli_OXOX/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/moli_OXOX/status/2044450227755925748",
+              "start": 7,
+              "url": "https://t.co/jRXCKDjx48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045016592782950698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044450227755925748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样戒不掉 https://t.co/jRXCKDjx48"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044450225436401664"
+          ]
+        },
+        "author_id": "2031350820097380352",
+        "conversation_id": "2044450227755925748",
+        "created_at": "2026-04-15T16:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044450227755925748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5G50AqNmq",
+              "end": 36,
+              "expanded_url": "https://x.com/moli_OXOX/status/2044450227755925748/photo/1",
+              "media_key": "3_2044450225436401664",
+              "start": 13,
+              "url": "https://t.co/S5G50AqNmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044450227755925748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1505,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "连麦毁了我的正常生活。🥺 https://t.co/S5G50AqNmq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 91,
+          "like_count": 6297,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2721
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T12:46:10.000Z",
+        "description": "小孩不懂事乱发的^^ 不参与任何纷争 圈地自萌 专注自己的呆萌生活 晚上发布的内容不可信/不喜欢主动私信别人除非特别喜欢/定期删除/很脆弱骂我就装死 点赞关注评论是因为你很可爱/喜欢可爱的人/请善待我^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moli_xoxo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moli_xoxo",
+                "start": 0,
+                "url": "https://t.co/dWFWGmbIYl"
+              }
+            ]
+          }
+        },
+        "id": "2031350820097380352",
+        "name": "茉莉😼",
+        "pinned_tweet_id": "2044084588151234990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040709916948824064/p5mKNdtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 105,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/dWFWGmbIYl",
+        "username": "moli_OXOX",
+        "verified": false
+      }
+    ]
+  }
+}

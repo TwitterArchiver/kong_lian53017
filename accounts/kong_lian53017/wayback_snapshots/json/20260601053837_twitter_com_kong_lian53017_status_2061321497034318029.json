@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2061321497034318029",
+    "created_at": "2026-06-01T05:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061321497034318029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "872911556840792065",
+          "start": 3,
+          "username": "Yayuyo_shirushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061321497034318029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061076219672834542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yayuyo_shirushi: 「辛かったら逃げてもいいよ」ってよく言うけど、誰も逃げ先は準備してくれないし、逃げたあとの責任も取ってくれないから、結局逃げられないんだよ   死にたいしつらいけど生きていくしかないんだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2061321497034318029",
+        "created_at": "2026-06-01T05:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061321497034318029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "872911556840792065",
+              "start": 3,
+              "username": "Yayuyo_shirushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061321497034318029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061076219672834542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yayuyo_shirushi: 「辛かったら逃げてもいいよ」ってよく言うけど、誰も逃げ先は準備してくれないし、逃げたあとの責任も取ってくれないから、結局逃げられないんだよ   死にたいしつらいけど生きていくしかないんだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872911556840792065",
+        "conversation_id": "2061076219672834542",
+        "created_at": "2026-05-31T13:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061076219672834542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061076219672834542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 27307,
+          "like_count": 948,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "「辛かったら逃げてもいいよ」ってよく言うけど、誰も逃げ先は準備してくれないし、逃げたあとの責任も取ってくれないから、結局逃げられないんだよ   死にたいしつらいけど生きていくしかないんだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 113,
+          "like_count": 19117,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 6074
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-08T20:21:47.000Z",
+        "description": "人生辛いね／双極性障害と睡眠障害／休職↔短期離職／フォローお気軽に／リプライあまり返せませんが読んでいます",
+        "id": "872911556840792065",
+        "location": "生き地獄",
+        "name": "やゆよ",
+        "pinned_tweet_id": "1942111181382312209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933112529997418497/-moObBj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16158,
+          "following_count": 427,
+          "like_count": 21624,
+          "listed_count": 89,
+          "media_count": 1123,
+          "tweet_count": 17654
+        },
+        "username": "Yayuyo_shirushi",
+        "verified": false
+      }
+    ]
+  }
+}

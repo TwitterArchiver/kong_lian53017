@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045269023999549458",
+    "created_at": "2026-04-17T22:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045269023999549458"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045269023999549458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来被删的帖子依旧会显示在正在关注里，我说怎么有的帖子删了还能被点赞……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045269023999549458",
+        "created_at": "2026-04-17T22:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045269023999549458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045269023999549458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来被删的帖子依旧会显示在正在关注里，我说怎么有的帖子删了还能被点赞……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 92,
+          "like_count": 6663,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2867
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

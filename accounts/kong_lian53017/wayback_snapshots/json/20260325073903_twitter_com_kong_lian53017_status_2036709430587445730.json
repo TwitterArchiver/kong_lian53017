@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2036708914830463345",
+    "created_at": "2026-03-25T07:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T08:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036709430587445730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682760650442051587",
+          "start": 0,
+          "username": "senbuyu172144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036709430587445730",
+    "in_reply_to_user_id": "1682760650442051587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036708914830463345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senbuyu172144 假装了解是怕真相太赤裸裸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2036708914830463345",
+        "created_at": "2026-03-25T07:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036709430587445730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682760650442051587",
+              "start": 0,
+              "username": "senbuyu172144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036709430587445730",
+        "in_reply_to_user_id": "1682760650442051587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036708914830463345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senbuyu172144 假装了解是怕真相太赤裸裸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682760650442051587",
+        "conversation_id": "2036708914830463345",
+        "created_at": "2026-03-25T07:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036708914830463345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036708914830463345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自尊常常将人拖着，把爱都走曲折"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 47,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 261
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T14:33:10.000Z",
+        "description": "愿好朋友有情人终成眷属 讨厌的人给我成兄妹然后还要孽恋劈腿 ｜ 一个很温柔很好说话的人（不过温柔只给温柔的人）｜欢迎互fo大部分都会回的",
+        "id": "1682760650442051587",
+        "location": "吾心安处既是吾乡",
+        "name": "sen",
+        "pinned_tweet_id": "1969285791609188393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033955924595843072/pI6qYiV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 110,
+          "like_count": 7288,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2481
+        },
+        "username": "senbuyu172144",
+        "verified": false
+      }
+    ]
+  }
+}

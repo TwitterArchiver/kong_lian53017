@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2071893950537846882",
+    "created_at": "2026-06-30T10:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071900385288286464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957852552286060544",
+          "start": 0,
+          "username": "qi_si72468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071900385288286464",
+    "in_reply_to_user_id": "1957852552286060544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071893950537846882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si72468 用借口搪塞不给这种人带！没有一定要给谁跑腿的义务尤其是这种不识好歹道德绑架的😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2071893950537846882",
+        "created_at": "2026-06-30T10:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071900385288286464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957852552286060544",
+              "start": 0,
+              "username": "qi_si72468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071900385288286464",
+        "in_reply_to_user_id": "1957852552286060544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071893950537846882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si72468 用借口搪塞不给这种人带！没有一定要给谁跑腿的义务尤其是这种不识好歹道德绑架的😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957852552286060544",
+        "conversation_id": "2071893950537846882",
+        "created_at": "2026-06-30T09:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071893950537846882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071893950537846882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一想到每个星期一分跑腿费不收，光给别人带东西要自己先垫付一百来块钱还不一定收的回来就很想笑。\n女孩你特么不是家庭富裕幸福的人设吗。为什么一直不给我结账。\n特么我给我朋友带圣代，她看到之后在班上特别大声道德绑架我，让我明天去给你带一份一模一样的，吃准了我性子软呗不会说她呗^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 118,
+          "like_count": 22944,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 4363
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推丨欢迎投喂助力鱿鱿小吱的成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2065758306006618549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051961285441695744/gQKCSmHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 124,
+          "like_count": 10143,
+          "listed_count": 0,
+          "media_count": 478,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      }
+    ]
+  }
+}

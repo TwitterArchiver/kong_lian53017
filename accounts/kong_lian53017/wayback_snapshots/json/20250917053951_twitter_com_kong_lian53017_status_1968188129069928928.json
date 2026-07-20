@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1968188129069928928",
+    "created_at": "2025-09-17T05:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968188129069928928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/couplxpost/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/couplxpost/status/1968014565662470520",
+          "start": 3,
+          "url": "https://t.co/V4mppiwSxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968188129069928928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968014565662470520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯！ https://t.co/V4mppiwSxu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "16_1965792636641345536",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G0fl_OEWAAAiV5B.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G0fl_OEWAAAiV5B.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1968188129069928928",
+        "created_at": "2025-09-17T05:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968188129069928928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/couplxpost/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/couplxpost/status/1968014565662470520",
+              "start": 3,
+              "url": "https://t.co/V4mppiwSxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968188129069928928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968014565662470520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯！ https://t.co/V4mppiwSxu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1965792636641345536"
+          ],
+          "media_source_tweet_id": [
+            "1965792722750734823"
+          ]
+        },
+        "author_id": "1883967871900082180",
+        "conversation_id": "1968014565662470520",
+        "created_at": "2025-09-16T18:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T19:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968014565662470520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZ9EeheILw",
+              "end": 23,
+              "expanded_url": "https://x.com/lovecouplsx/status/1965792722750734823/photo/1",
+              "media_key": "16_1965792636641345536",
+              "start": 0,
+              "url": "https://t.co/lZ9EeheILw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968014565662470520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 745,
+          "impression_count": 88555,
+          "like_count": 3516,
+          "quote_count": 67,
+          "reply_count": 26,
+          "retweet_count": 630
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lZ9EeheILw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T19:58:55.000Z",
+        "description": "Follow for cute love post | @myxeets @meandwhovibes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "myxeets"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "meandwhovibes"
+              }
+            ]
+          }
+        },
+        "id": "1883967871900082180",
+        "location": "turn on notifications ",
+        "name": "⟢",
+        "pinned_tweet_id": "1965404344993656970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959340269779701760/vZwU0-tF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 276,
+          "like_count": 1259,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 47
+        },
+        "username": "couplxpost",
+        "verified": true
+      }
+    ]
+  }
+}

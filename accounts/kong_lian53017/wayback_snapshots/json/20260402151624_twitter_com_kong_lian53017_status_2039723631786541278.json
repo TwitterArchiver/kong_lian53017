@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039723631786541278",
+    "created_at": "2026-04-02T15:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039723631786541278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ssuyo7/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ssuyo7/status/2039488414056157565",
+          "start": 8,
+          "url": "https://t.co/6ClnCSPehC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039723631786541278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039488414056157565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢让对方吃醋 https://t.co/6ClnCSPehC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039723631786541278",
+        "created_at": "2026-04-02T15:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039723631786541278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ssuyo7/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ssuyo7/status/2039488414056157565",
+              "start": 8,
+              "url": "https://t.co/6ClnCSPehC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039723631786541278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039488414056157565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢让对方吃醋 https://t.co/6ClnCSPehC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400924597516656643",
+        "conversation_id": "2039488414056157565",
+        "created_at": "2026-04-01T23:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039488414056157565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039488414056157565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 9729,
+          "like_count": 286,
+          "quote_count": 13,
+          "reply_count": 5,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "被吃醋比被爱还爽，当有人对我占有欲大爆发说你要是我一个的就好了不许想别人只许爱我一个我要是你最特别的一个。我会特别爽闭着眼睛回味到情感抽离，然后一段时间继续嘴角上扬。有时候还会故意说一些话诱导人吃醋然后欣赏人的反应。想被贴着吸着颈边的味道然后紧紧的抱着不放手。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 72,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1023
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T21:17:13.000Z",
+        "description": "+44 电子小猫🐱别惹我",
+        "id": "1400924597516656643",
+        "location": "London, England",
+        "name": "jouahqueb",
+        "pinned_tweet_id": "2005114075609792888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790166546716717056/_IkJ8mwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3214,
+          "following_count": 83,
+          "like_count": 170,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 858
+        },
+        "username": "ssuyo7",
+        "verified": false
+      }
+    ]
+  }
+}

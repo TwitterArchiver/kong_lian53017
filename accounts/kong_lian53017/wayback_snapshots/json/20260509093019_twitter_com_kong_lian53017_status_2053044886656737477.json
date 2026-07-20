@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052943580608733629",
+    "created_at": "2026-05-09T09:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053044886656737477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1876826722504769536",
+          "start": 0,
+          "username": "Trevor_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053044886656737477",
+    "in_reply_to_user_id": "1876826722504769536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052943580608733629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trevor_520 哇噻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052943580608733629",
+        "created_at": "2026-05-09T09:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053044886656737477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1876826722504769536",
+              "start": 0,
+              "username": "Trevor_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053044886656737477",
+        "in_reply_to_user_id": "1876826722504769536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052943580608733629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trevor_520 哇噻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876826722504769536",
+        "conversation_id": "2052943580608733629",
+        "created_at": "2026-05-09T02:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052943580608733629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052943580608733629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同事姐在跟我分手后彻底黑化了，一改之前对我百般顺从的乖乖女人设，当着我的面说要跟追她的那些男的搞3p，一下子把我整乐了。以前对她毫无性欲，这次突然像被触发了什么开关，没忍住把她强行摁在床上一边羞辱一边操，刚开始她还扇我巴掌骂我贱狗，后边就老实了。唉😮‍💨我的感情又开始往奇怪的方向发展了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 105,
+          "like_count": 13657,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4729
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T03:02:32.000Z",
+        "description": "让我们一起找点乐子吧",
+        "id": "1876826722504769536",
+        "name": "水下放电",
+        "pinned_tweet_id": "2038525318584037532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028871082875273222/TOrRgznh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 43,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 550
+        },
+        "username": "Trevor_520",
+        "verified": false
+      }
+    ]
+  }
+}

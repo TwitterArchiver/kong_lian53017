@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040305947231559730",
+    "created_at": "2026-04-04T05:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040305947231559730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hvbetterchoice…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hvbetterchoice/status/2040065831929798801",
+          "start": 4,
+          "url": "https://t.co/6XR6n9eH8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040305947231559730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040065831929798801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没办法 https://t.co/6XR6n9eH8x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040305947231559730",
+        "created_at": "2026-04-04T05:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040305947231559730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hvbetterchoice…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hvbetterchoice/status/2040065831929798801",
+              "start": 4,
+              "url": "https://t.co/6XR6n9eH8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040305947231559730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040065831929798801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没办法 https://t.co/6XR6n9eH8x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922999120865751040",
+        "conversation_id": "2040065831929798801",
+        "created_at": "2026-04-03T13:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040065831929798801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040065831929798801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 26263,
+          "like_count": 337,
+          "quote_count": 13,
+          "reply_count": 51,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "我目前除了网恋没有任何方式能恋爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 75,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1154
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T12:55:11.000Z",
+        "description": "不爱男不爱女只爱露娜玩的厉害的\n@Aesinla",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Aesinla"
+              }
+            ]
+          }
+        },
+        "id": "1922999120865751040",
+        "name": "Briantiy",
+        "pinned_tweet_id": "2038216414289444877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036127162294513664/tLcZT9Qn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 24,
+          "like_count": 664,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 829
+        },
+        "username": "hvbetterchoice",
+        "verified": false
+      }
+    ]
+  }
+}

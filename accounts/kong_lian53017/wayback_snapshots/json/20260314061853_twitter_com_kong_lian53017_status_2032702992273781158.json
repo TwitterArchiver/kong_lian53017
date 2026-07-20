@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032702987945316352"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032702992273781158",
+    "created_at": "2026-03-14T06:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T07:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032702992273781158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O352d5eiMS",
+          "end": 48,
+          "expanded_url": "https://x.com/kong_lian53017/status/2032702992273781158/photo/1",
+          "media_key": "3_2032702987945316352",
+          "start": 25,
+          "url": "https://t.co/O352d5eiMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032702992273781158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天天在家裸奔😋\n咋这角度拍出来一大一小我没招了。 https://t.co/O352d5eiMS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032702992273781158].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032702992273781158",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032702992273781158"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1833,
+        "media_key": "3_2032702987945316352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWcmQpbEAAugkL.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037510300078133664",
+    "created_at": "2026-03-27T12:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037510300078133664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/71411z/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/71411z/status/2036853529193963989",
+          "start": 11,
+          "url": "https://t.co/btOYwVFiVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037510300078133664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036853529193963989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你去死好不好（不是） https://t.co/btOYwVFiVA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037510300078133664",
+        "created_at": "2026-03-27T12:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037510300078133664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/71411z/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/71411z/status/2036853529193963989",
+              "start": 11,
+              "url": "https://t.co/btOYwVFiVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037510300078133664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036853529193963989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你去死好不好（不是） https://t.co/btOYwVFiVA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623016625204252673",
+        "conversation_id": "2036853529193963989",
+        "created_at": "2026-03-25T17:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036853529193963989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036853529193963989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 92197,
+          "like_count": 1041,
+          "quote_count": 22,
+          "reply_count": 81,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢好不好这个词 感觉很亲密"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 56,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 425
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T17:51:43.000Z",
+        "description": "我会幸福的 ➡️互关通过@evszv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 12,
+                "username": "evszv"
+              }
+            ]
+          }
+        },
+        "id": "1623016625204252673",
+        "name": "收敛水",
+        "pinned_tweet_id": "1987814546795569393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843336344086736896/ZgfJD3XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5009,
+          "following_count": 282,
+          "like_count": 4099,
+          "listed_count": 14,
+          "media_count": 229,
+          "tweet_count": 1026
+        },
+        "username": "71411z",
+        "verified": false
+      }
+    ]
+  }
+}

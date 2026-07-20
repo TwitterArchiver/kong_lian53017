@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037482529624842282",
+    "created_at": "2026-03-27T13:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037520080284824028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035891424601030656",
+          "start": 0,
+          "username": "l0nlyyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037520080284824028",
+    "in_reply_to_user_id": "2035891424601030656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037519489827471427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l0nlyyyyyyy 有人黏着好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037482529624842282",
+        "created_at": "2026-03-27T13:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037520080284824028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035891424601030656",
+              "start": 0,
+              "username": "l0nlyyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037520080284824028",
+        "in_reply_to_user_id": "2035891424601030656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037519489827471427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l0nlyyyyyyy 有人黏着好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035891424601030656",
+        "conversation_id": "2037482529624842282",
+        "created_at": "2026-03-27T13:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037519489827471427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037519489827471427",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037482529624842282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 有人粘着好爽啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 56,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 432
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T01:28:44.000Z",
+        "description": "",
+        "id": "2035891424601030656",
+        "name": "孤独悲痛破碎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035891660278951936/h-LQyZQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 470
+        },
+        "username": "l0nlyyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

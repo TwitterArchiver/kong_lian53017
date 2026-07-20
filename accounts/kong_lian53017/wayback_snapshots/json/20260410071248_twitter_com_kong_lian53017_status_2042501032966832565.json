@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042501032966832565",
+    "created_at": "2026-04-10T07:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042501032966832565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/To_ska_/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/To_ska_/status/2042485137116709086",
+          "start": 15,
+          "url": "https://t.co/2BryO2ArJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501032966832565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042485137116709086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的精力好低……什么都不想做 https://t.co/2BryO2ArJp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042501032966832565",
+        "created_at": "2026-04-10T07:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042501032966832565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/To_ska_/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/To_ska_/status/2042485137116709086",
+              "start": 15,
+              "url": "https://t.co/2BryO2ArJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501032966832565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042485137116709086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的精力好低……什么都不想做 https://t.co/2BryO2ArJp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975245236453711874",
+        "conversation_id": "2042485137116709086",
+        "created_at": "2026-04-10T06:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042485137116709086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042485137116709086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经无力羡慕别人的天赋和能力 只求自己有正常人一般的身体和精力……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 88,
+          "like_count": 3980,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1703
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T17:02:39.000Z",
+        "description": "我们的关系胜过任何一种爱情。",
+        "id": "1975245236453711874",
+        "name": "木安",
+        "pinned_tweet_id": "2032036347247214714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976936144735813633/psCXN7Wt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 46,
+          "like_count": 1108,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 471
+        },
+        "username": "To_ska_",
+        "verified": false
+      }
+    ]
+  }
+}

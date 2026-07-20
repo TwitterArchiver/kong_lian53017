@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2049034177631453420",
+    "created_at": "2026-04-28T07:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049034868282339662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1975245236453711874",
+          "start": 0,
+          "username": "To_ska_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049034868282339662",
+    "in_reply_to_user_id": "1975245236453711874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049034177631453420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@To_ska_ 我也是！遇到女骑手态度比较好或者下雨天我就必打赏🥺但是上次雨天点外卖一直没找到打赏在哪，她递给我的时候手好冰好冰😭这个黄色袋鼠咋这样。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 464,
+        "media_key": "3_2049034167875477504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-huCzbIAAtpRZ.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2049034177631453420",
+        "created_at": "2026-04-28T07:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049034868282339662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1975245236453711874",
+              "start": 0,
+              "username": "To_ska_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049034868282339662",
+        "in_reply_to_user_id": "1975245236453711874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049034177631453420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@To_ska_ 我也是！遇到女骑手态度比较好或者下雨天我就必打赏🥺但是上次雨天点外卖一直没找到打赏在哪，她递给我的时候手好冰好冰😭这个黄色袋鼠咋这样。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049034167875477504"
+          ]
+        },
+        "author_id": "1975245236453711874",
+        "conversation_id": "2049034177631453420",
+        "created_at": "2026-04-28T07:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049034177631453420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1cEschWsO",
+              "end": 90,
+              "expanded_url": "https://x.com/To_ska_/status/2049034177631453420/photo/1",
+              "media_key": "3_2049034167875477504",
+              "start": 67,
+              "url": "https://t.co/A1cEschWsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049034177631453420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到是女骑手我闭着眼睛就是打赏 而且她看起来年纪还好小 特别有礼貌上楼梯还用跑的……女孩真好真好 可惜当时没看消息没回她🫳🏻🫳🏻🫳🏻 https://t.co/A1cEschWsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 100,
+          "like_count": 10803,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 4528
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T17:02:39.000Z",
+        "description": "我们的关系胜过任何一种爱情。",
+        "id": "1975245236453711874",
+        "name": "木安",
+        "pinned_tweet_id": "2032036347247214714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047120853729746944/GoiMW7cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 51,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 634
+        },
+        "username": "To_ska_",
+        "verified": false
+      }
+    ]
+  }
+}

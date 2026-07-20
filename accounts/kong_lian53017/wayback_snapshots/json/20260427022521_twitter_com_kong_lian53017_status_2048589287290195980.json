@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2048331870115635432",
+    "created_at": "2026-04-27T02:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048589287290195980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1985250196155142145",
+          "start": 0,
+          "username": "miyngyng155125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048589287290195980",
+    "in_reply_to_user_id": "1985250196155142145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048583267419574446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyngyng155125 是的🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2048331870115635432",
+        "created_at": "2026-04-27T02:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048589287290195980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1985250196155142145",
+              "start": 0,
+              "username": "miyngyng155125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048589287290195980",
+        "in_reply_to_user_id": "1985250196155142145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048583267419574446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyngyng155125 是的🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985250196155142145",
+        "conversation_id": "2048331870115635432",
+        "created_at": "2026-04-27T02:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048583267419574446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048583267419574446",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048331870115635432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 香迷糊了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 68,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 101,
+          "like_count": 10186,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 4335
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T07:38:39.000Z",
+        "description": "叫我死死/苦苦 非常低精力低道德猎奇xp非常之诡异 会发很多猎奇言论 恋尸癖人彘控 不要骂我不要骂我不要害我不要阴我 很怕痛又很恋痛不管是身体还是心理谢谢 脑子非常有病还有那个被害妄想症  双相精分焦虑 同类互fo 小骚骚：@Yemiy6c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 112,
+                "username": "Yemiy6c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1ovqyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1ovqyu",
+                "start": 0,
+                "url": "https://t.co/BTKgdR25Dd"
+              }
+            ]
+          }
+        },
+        "id": "1985250196155142145",
+        "name": "死ぬ前に人の優しさに触れたい",
+        "pinned_tweet_id": "2039018996805349721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033477587151028224/hn988M7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 114,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/BTKgdR25Dd",
+        "username": "miyngyng155125",
+        "verified": false
+      }
+    ]
+  }
+}

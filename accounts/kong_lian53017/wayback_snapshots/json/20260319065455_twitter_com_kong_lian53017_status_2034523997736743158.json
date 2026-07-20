@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034523997736743158",
+    "created_at": "2026-03-19T06:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034523997736743158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940963560202686467",
+          "start": 3,
+          "username": "aimm8899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034523997736743158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034192156227928504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aimm8899: 女神男神你继顶续着一窄张得都快没了的脸，下巴尖又又长，鼻又梁高又挺的模建脸一直说自己丑，我在手台术上脖子画着线虚一点也不冷也不累。你顶着70、80斤体的重焦虑，我猪在圈里真的一也点不难过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034523997736743158",
+        "created_at": "2026-03-19T06:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034523997736743158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940963560202686467",
+              "start": 3,
+              "username": "aimm8899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034523997736743158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034192156227928504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aimm8899: 女神男神你继顶续着一窄张得都快没了的脸，下巴尖又又长，鼻又梁高又挺的模建脸一直说自己丑，我在手台术上脖子画着线虚一点也不冷也不累。你顶着70、80斤体的重焦虑，我猪在圈里真的一也点不难过。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940963560202686467",
+        "conversation_id": "2034192156227928504",
+        "created_at": "2026-03-18T08:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034192156227928504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034192156227928504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4770,
+          "like_count": 133,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "女神男神你继顶续着一窄张得都快没了的脸，下巴尖又又长，鼻又梁高又挺的模建脸一直说自己丑，我在手台术上脖子画着线虚一点也不冷也不累。你顶着70、80斤体的重焦虑，我猪在圈里真的一也点不难过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 0,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 187
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T02:39:21.000Z",
+        "description": "或许我们可以一起喵喵天https://t.co/9YtSCmHt3D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aimm8899",
+                "end": 34,
+                "expanded_url": "https://ngl.link/aimm8899",
+                "start": 11,
+                "url": "https://t.co/9YtSCmHt3D"
+              }
+            ]
+          }
+        },
+        "id": "1940963560202686467",
+        "location": "🍔",
+        "name": "熊不熊为了俺对所有人都坏",
+        "pinned_tweet_id": "2021463562640818503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018505207773360128/3CTeMA72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 116,
+          "like_count": 11257,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 4702
+        },
+        "username": "aimm8899",
+        "verified": false
+      }
+    ]
+  }
+}

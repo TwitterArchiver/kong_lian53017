@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060217314335944894",
+    "created_at": "2026-05-29T04:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060217314335944894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/femmeslovely/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/femmeslovely/status/2060008384003223913",
+          "start": 3,
+          "url": "https://t.co/46PsmHBKs8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060217314335944894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060008384003223913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好品 https://t.co/46PsmHBKs8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060217314335944894",
+        "created_at": "2026-05-29T04:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060217314335944894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/femmeslovely/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/femmeslovely/status/2060008384003223913",
+              "start": 3,
+              "url": "https://t.co/46PsmHBKs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060217314335944894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060008384003223913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好品 https://t.co/46PsmHBKs8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884280818794958848",
+        "conversation_id": "2060008384003223913",
+        "created_at": "2026-05-28T14:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060008384003223913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060008384003223913",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1259,
+          "impression_count": 287727,
+          "like_count": 17574,
+          "quote_count": 209,
+          "reply_count": 42,
+          "retweet_count": 1893
+        },
+        "reply_settings": "everyone",
+        "text": "ninguém flerta melhor do que duas pessoas que se desejaram em segredo por tempo demais"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 111,
+          "like_count": 18090,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 5948
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T16:42:18.000Z",
+        "description": "alma de princesa, coração de lésbica e filha de afroditeㅤㅤㅤㅤ­ ⋆˙⟡𓍢ִ🦢⊹ ࣪ ˖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/femmeslovely",
+                "end": 23,
+                "expanded_url": "https://ngl.link/femmeslovely",
+                "start": 0,
+                "url": "https://t.co/m5b0G6xgx7"
+              }
+            ]
+          }
+        },
+        "id": "1884280818794958848",
+        "location": "23 • anjinha perversa ❤︎",
+        "name": "nia 𐙚",
+        "pinned_tweet_id": "2035022549961064780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046326853192101889/ZsyStsEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 1563,
+          "like_count": 30719,
+          "listed_count": 10,
+          "media_count": 951,
+          "tweet_count": 8895
+        },
+        "url": "https://t.co/m5b0G6xgx7",
+        "username": "femmeslovely",
+        "verified": false
+      }
+    ]
+  }
+}

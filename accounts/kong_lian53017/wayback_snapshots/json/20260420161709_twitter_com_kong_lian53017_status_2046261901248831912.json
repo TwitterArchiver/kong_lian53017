@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046258073392886156",
+    "created_at": "2026-04-20T16:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046261901248831912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979510869168947200",
+          "start": 0,
+          "username": "Fantasy16_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046261901248831912",
+    "in_reply_to_user_id": "1979510869168947200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046258073392886156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fantasy16_ 好吓人。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046258073392886156",
+        "created_at": "2026-04-20T16:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046261901248831912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979510869168947200",
+              "start": 0,
+              "username": "Fantasy16_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046261901248831912",
+        "in_reply_to_user_id": "1979510869168947200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046258073392886156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fantasy16_ 好吓人。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979510869168947200",
+        "conversation_id": "2046258073392886156",
+        "created_at": "2026-04-20T16:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046258073392886156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046258073392886156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像还没说起过当时前任做的又一件很逆天的事，当时放假我因为某些原因住在宾馆里，他知道我宾馆的位置，某天我提分手了以后他就在我不知情的情况下在他所知道的我住的房间门口敲了半天门，当时是晚上12点左右吧，好在当时我们在吵架我没告诉他我已经回家了，好可怕这种人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 97,
+          "like_count": 7862,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3343
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T11:32:46.000Z",
+        "description": "多了解我一点",
+        "id": "1979510869168947200",
+        "location": "不加任何联系方式",
+        "name": "念",
+        "pinned_tweet_id": "2029927711934930981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026701427771584512/pXemG5bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 25,
+          "like_count": 4946,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1521
+        },
+        "username": "Fantasy16_",
+        "verified": false
+      }
+    ]
+  }
+}

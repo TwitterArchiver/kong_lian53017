@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2032991826240745473"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032991848327979342",
+    "created_at": "2026-03-15T01:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T02:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032991848327979342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EytZPZGkK7",
+          "end": 37,
+          "expanded_url": "https://x.com/kong_lian53017/status/2032991848327979342/video/1",
+          "media_key": "7_2032991826240745473",
+          "start": 14,
+          "url": "https://t.co/EytZPZGkK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032991848327979342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海斗等复活的时候突然就这样 https://t.co/EytZPZGkK7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032991848327979342].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032991848327979342",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032991848327979342"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5201,
+        "height": 720,
+        "media_key": "7_2032991826240745473",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2032991826240745473/pu/img/mrGp92s5GT4CcvpO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032991826240745473/pu/vid/avc1/360x270/gz30yqd7IX8dPg0U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032991826240745473/pu/vid/avc1/480x360/3BSMEyaZ_uK-MTQf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032991826240745473/pu/vid/avc1/960x720/MExiAIxHiB9XQT-2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2032991826240745473/pu/pl/Uq48pU3f95hYjqnK.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 |00年INFJ|跟我互关聊天扩列的话我会很高兴",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 27,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043265032801468791",
+    "created_at": "2026-04-12T11:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043291305539981779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037546020029292544",
+          "start": 0,
+          "username": "yayakawai333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043291305539981779",
+    "in_reply_to_user_id": "2037546020029292544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043290936340611152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayakawai333 哎哟摸摸你……！换季是容易生病。有在吃药吗🥺咳嗽的话我之前吃咳特灵挺有用的不过这种东西应该不能乱吃（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043265032801468791",
+        "created_at": "2026-04-12T11:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043291305539981779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037546020029292544",
+              "start": 0,
+              "username": "yayakawai333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043291305539981779",
+        "in_reply_to_user_id": "2037546020029292544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043290936340611152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayakawai333 哎哟摸摸你……！换季是容易生病。有在吃药吗🥺咳嗽的话我之前吃咳特灵挺有用的不过这种东西应该不能乱吃（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037546020029292544",
+        "conversation_id": "2043265032801468791",
+        "created_at": "2026-04-12T11:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043290936340611152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043290936340611152",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043289756004647179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 重感冒好痛苦啊啊啊啊😭😭😭快一个星期了还没好，一直咳嗽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 88,
+          "like_count": 4675,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2023
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T15:05:16.000Z",
+        "description": "发着玩",
+        "id": "2037546020029292544",
+        "name": "鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041563473940000768/zuwfdrBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 132,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 120
+        },
+        "username": "yayakawai333",
+        "verified": false
+      }
+    ]
+  }
+}

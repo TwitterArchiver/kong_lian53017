@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047593503421767698",
+    "created_at": "2026-04-24T08:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047595240677335060"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047595240677335060",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047593503421767698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不至于把自己想崩溃，如果真的疯掉那很不体面，对我来说比死了还难受。如果我感觉痛苦要超出我能承受的范围我会放任自己放空慢慢调整自己的状态，所以不用担心~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2047593498145361921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqDcB1akAE4mf_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1035,
+        "media_key": "3_2047593498128633856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqDcBxbUAAFDCR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047593503421767698",
+        "created_at": "2026-04-24T08:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047595240677335060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047595240677335060",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047593503421767698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不至于把自己想崩溃，如果真的疯掉那很不体面，对我来说比死了还难受。如果我感觉痛苦要超出我能承受的范围我会放任自己放空慢慢调整自己的状态，所以不用担心~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047593498145361921",
+            "3_2047593498128633856"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047593503421767698",
+        "created_at": "2026-04-24T08:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047593503421767698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llAHqiYPsn",
+              "end": 28,
+              "expanded_url": "https://x.com/kong_lian53017/status/2047593503421767698/photo/1",
+              "media_key": "3_2047593498145361921",
+              "start": 5,
+              "url": "https://t.co/llAHqiYPsn"
+            },
+            {
+              "display_url": "pic.x.com/llAHqiYPsn",
+              "end": 28,
+              "expanded_url": "https://x.com/kong_lian53017/status/2047593503421767698/photo/1",
+              "media_key": "3_2047593498128633856",
+              "start": 5,
+              "url": "https://t.co/llAHqiYPsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047593503421767698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请查收！ https://t.co/llAHqiYPsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 103,
+          "like_count": 9335,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3920
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

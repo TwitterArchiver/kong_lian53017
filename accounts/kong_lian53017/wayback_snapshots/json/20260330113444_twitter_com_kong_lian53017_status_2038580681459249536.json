@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038579803843080619",
+    "created_at": "2026-03-30T11:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038580681459249536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1057668616408064001",
+          "start": 0,
+          "username": "HK416ABC"
+        },
+        {
+          "end": 26,
+          "id": "1705662085793976320",
+          "start": 10,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038580681459249536",
+    "in_reply_to_user_id": "1057668616408064001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038580499661373756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HK416ABC @Stupidest_Lover 还好手快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038579803843080619",
+        "created_at": "2026-03-30T11:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038580681459249536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1057668616408064001",
+              "start": 0,
+              "username": "HK416ABC"
+            },
+            {
+              "end": 26,
+              "id": "1705662085793976320",
+              "start": 10,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038580681459249536",
+        "in_reply_to_user_id": "1057668616408064001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038580499661373756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HK416ABC @Stupidest_Lover 还好手快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057668616408064001",
+        "conversation_id": "2038579803843080619",
+        "created_at": "2026-03-30T11:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038580499661373756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            },
+            {
+              "end": 32,
+              "id": "1705662085793976320",
+              "start": 16,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038580499661373756",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038580347454255181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 @Stupidest_Lover 那是非常恐怖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 66,
+          "like_count": 1710,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 737
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 657,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 964
+        },
+        "username": "HK416ABC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页话唠 偶尔清空 没有陪聊的义务 忧郁 抽象 发骚ing\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 53,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 30,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "有🚪 5200 纯绿（不会真有人发吧",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 92,
+          "like_count": 8491,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 443
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

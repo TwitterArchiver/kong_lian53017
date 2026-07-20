@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037915110413586784",
+    "created_at": "2026-03-29T01:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T02:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038068976245452937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394500556488540164",
+          "start": 0,
+          "username": "QvD6YyEv1TBevht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038068976245452937",
+    "in_reply_to_user_id": "1394500556488540164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038068513907294571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QvD6YyEv1TBevht 咪的天竟然是这样！感谢语文课代表😇第三句我真的读不懂一点……此人表达能力令人费解。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037915110413586784",
+        "created_at": "2026-03-29T01:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038068976245452937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394500556488540164",
+              "start": 0,
+              "username": "QvD6YyEv1TBevht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038068976245452937",
+        "in_reply_to_user_id": "1394500556488540164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038068513907294571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QvD6YyEv1TBevht 咪的天竟然是这样！感谢语文课代表😇第三句我真的读不懂一点……此人表达能力令人费解。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394500556488540164",
+        "conversation_id": "2037915110413586784",
+        "created_at": "2026-03-29T01:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038068513907294571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038068513907294571",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他大概意思就是：如果一个人并非天才，那他就需要一点有温度的生活。真正的天才，往往无人能懂他们的内心世界，所以他们渴望孤独的环境，在那里心无旁骛地学习、工作，最终绽放出属于自己的光芒。而我并非天才，所以我不愿孤独，我只希望，能有人陪伴。   不过我真是笑了。不能好好说话吗？非要搞这些花里胡哨的东西，以为这样就显得自己很有才华，结果却把自己的无知暴露得一览无余。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037915110413586784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 他大概意思就是：如果一个人并非天才，那他就需要一点有温度的生活。真正的天才，往往无人能懂他们的内心世界，所以他们渴望孤独的环境，在那里心无旁骛地学习、工作，最终绽放出属于自己的光芒。而我并非天才，所以我不愿孤独，我只希望，能有人陪伴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义及日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 65,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 620
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T03:50:25.000Z",
+        "description": "华五研究生在读，考研阅卷人\n我的所有帖子均为个人观点，评价一向力求客观。若有冒犯，请先自省。\n屏蔽我的人，必将学习崩盘、事业受挫、爱情破裂、健康状况堪忧，一生穷困潦倒、无人问津，最终以最痛苦的方式离开这个世界",
+        "id": "1394500556488540164",
+        "location": "距离你1光年",
+        "name": "🥄🖊匋亭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037330610415603712/rjA2NIVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 122,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 823
+        },
+        "username": "QvD6YyEv1TBevht",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1833470016098058581",
+    "created_at": "2024-09-10T11:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T12:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833470016098058581"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1833470016098058581",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实也有人想跟我做朋友，但我凭一己之力疏远了所有人，因为她们有别的朋友，不缺我一个。不论什么关系，总想别人的身边只有我一个。这太不切实际了，可我改不了，完全改不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1833470016098058581",
+        "created_at": "2024-09-10T11:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T12:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833470016098058581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833470016098058581",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实也有人想跟我做朋友，但我凭一己之力疏远了所有人，因为她们有别的朋友，不缺我一个。不论什么关系，总想别人的身边只有我一个。这太不切实际了，可我改不了，完全改不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "幸福幸福何时能再降临我手心",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825209816740192256/sqBkvv7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 43
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

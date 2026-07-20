@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1815385137846292481",
+    "created_at": "2024-07-22T13:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T14:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815385137846292481"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1815385137846292481",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉性癖完全是被初恋开发出来的 后来谈的男朋友没有一个在性生活方面跟我很合得来的 都好没意思 不是说时间可以治愈一切吗 为什么七八年了还是放不下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1815385137846292481",
+        "created_at": "2024-07-22T13:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T14:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815385137846292481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815385137846292481",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉性癖完全是被初恋开发出来的 后来谈的男朋友没有一个在性生活方面跟我很合得来的 都好没意思 不是说时间可以治愈一切吗 为什么七八年了还是放不下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "爱看色色的东西但其实是纯爱党┃直接发图发视频默认你是无偿给我看的┃女孩子全肯定bot┃分享欲旺盛的i人一枚┃不聊骚不视频不约┃随缘回关",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815255011137576960/W9JysngA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "tweet_count": 12
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

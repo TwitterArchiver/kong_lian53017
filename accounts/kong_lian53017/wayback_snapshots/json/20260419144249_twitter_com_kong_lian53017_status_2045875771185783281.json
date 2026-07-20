@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2045875769373839742",
+    "created_at": "2026-04-19T14:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045875771185783281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045875771185783281",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045875769373839742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是最大胆的一次了。我们谈的时候在学校都不敢太明显，每天都是互相写信在没人的地方递给彼此或夹在对方的课本里。我妈知道我早恋就是有一次收拾房间发现了我藏信的盒子然后她一封封看完了。当晚就给我教育了一顿，当时也闹的挺不愉快的但是后来我保证成绩不会下滑＋不会做出格的事于是我妈同意了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2045875769373839742",
+        "created_at": "2026-04-19T14:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045875771185783281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045875771185783281",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045875769373839742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是最大胆的一次了。我们谈的时候在学校都不敢太明显，每天都是互相写信在没人的地方递给彼此或夹在对方的课本里。我妈知道我早恋就是有一次收拾房间发现了我藏信的盒子然后她一封封看完了。当晚就给我教育了一顿，当时也闹的挺不愉快的但是后来我保证成绩不会下滑＋不会做出格的事于是我妈同意了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045875769373839742",
+        "created_at": "2026-04-19T14:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045875769373839742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045875769373839742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闷闷的热热的夜。突然想起初中有一次晚自习放学后和初恋在教学楼已经熄灯的楼道里接吻也是这样的夜晚，那一刻心跳得像是要从胸腔里跑出来。闷热的天气，背后的汗，楼下师生的吵嚷声，时不时因为楼下动静亮起来的声控灯，空白的大脑。然后他说：“这里没有摄像头。一点都不想跟你分开。明天见。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 95,
+          "like_count": 7416,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 3148
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

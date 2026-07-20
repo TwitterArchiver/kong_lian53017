@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058689336259051912",
+    "created_at": "2026-05-24T23:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T00:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058689336259051912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutest_animal1…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/cutest_animal1/status/2058485865996046597",
+          "start": 4,
+          "url": "https://t.co/UTZoYrIQ2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058689336259051912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058485865996046597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咪酥糊 https://t.co/UTZoYrIQ2L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36666,
+        "height": 784,
+        "media_key": "13_2058485803551268865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058485803551268865/img/LDfLXXuNGV6XUAxe.jpg",
+        "public_metrics": {
+          "view_count": 36526
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058485803551268865/vid/avc1/320x434/Gm6GsGvKNaGJGzGA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058485803551268865/vid/avc1/480x652/iV-Hh5zNUyzPWDLj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058485803551268865/vid/avc1/576x784/WPCqNAtOnzS6Xt_h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058485803551268865/pl/ks2glCCZ8Kvd5T8h.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058689336259051912",
+        "created_at": "2026-05-24T23:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058689336259051912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutest_animal1…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/cutest_animal1/status/2058485865996046597",
+              "start": 4,
+              "url": "https://t.co/UTZoYrIQ2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058689336259051912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058485865996046597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咪酥糊 https://t.co/UTZoYrIQ2L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058485803551268865"
+          ]
+        },
+        "author_id": "2351408209",
+        "conversation_id": "2058485865996046597",
+        "created_at": "2026-05-24T09:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058485865996046597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMspVXtsIZ",
+              "end": 34,
+              "expanded_url": "https://x.com/cutest_animal1/status/2058485865996046597/video/1",
+              "media_key": "13_2058485803551268865",
+              "start": 11,
+              "url": "https://t.co/WMspVXtsIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058485865996046597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 106148,
+          "like_count": 5869,
+          "quote_count": 18,
+          "reply_count": 14,
+          "retweet_count": 501
+        },
+        "reply_settings": "everyone",
+        "text": "すごく気持ちよさそう https://t.co/WMspVXtsIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17252,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 5855
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T09:14:51.000Z",
+        "description": "癒される動物の画像・動画を紹介していきます。癒されたらRT",
+        "id": "2351408209",
+        "name": "癒される動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/443909295256530944/8T92sYY4_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672193,
+          "following_count": 12448,
+          "like_count": 950,
+          "listed_count": 2312,
+          "media_count": 30259,
+          "tweet_count": 49089
+        },
+        "username": "cutest_animal1",
+        "verified": true
+      }
+    ]
+  }
+}

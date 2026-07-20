@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2073996169240604841",
+    "created_at": "2026-07-06T05:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073996987968729596"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073996987968729596",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073996169240604841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说实话除了上学的时候就不知道啃老到底是什么感觉。现在住他们租的房子也是因为他们常年在外地过年会回来平时没人住，并不是专门为我租的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2073996169240604841",
+        "created_at": "2026-07-06T05:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073996987968729596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073996987968729596",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073996169240604841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话除了上学的时候就不知道啃老到底是什么感觉。现在住他们租的房子也是因为他们常年在外地过年会回来平时没人住，并不是专门为我租的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2073996169240604841",
+        "created_at": "2026-07-06T05:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073996169240604841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073996169240604841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实不想说得太那什么，一般来说我父母对我找工作的帮助大概就是告诉我他们附近哪里招人然后把我带过去，剩下的事情就都需要我自己去解决了，比如找房子交房租添置东西拉网线搬东西去面试这类事情。我不工作的时候就是给我提供一个住的地方然后就是每个月给我发几百块钱。嗯总比完全不管我好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 117,
+          "like_count": 23548,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 4379
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

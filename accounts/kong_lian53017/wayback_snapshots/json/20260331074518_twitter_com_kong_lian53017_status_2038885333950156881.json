@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038885333950156881",
+    "created_at": "2026-03-31T07:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T08:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038885333950156881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ni_luvya/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Ni_luvya/status/2038575186933674015",
+          "start": 5,
+          "url": "https://t.co/2rgkEPffCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038885333950156881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038575186933674015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，爱。 https://t.co/2rgkEPffCE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2038575088745041920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp5Pgyb0AAAfQl.png",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038885333950156881",
+        "created_at": "2026-03-31T07:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038885333950156881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ni_luvya/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Ni_luvya/status/2038575186933674015",
+              "start": 5,
+              "url": "https://t.co/2rgkEPffCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038885333950156881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038575186933674015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，爱。 https://t.co/2rgkEPffCE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038575088745041920"
+          ]
+        },
+        "author_id": "857558575450685440",
+        "conversation_id": "2038575186933674015",
+        "created_at": "2026-03-30T11:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038575186933674015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mE82ytnolV",
+              "end": 33,
+              "expanded_url": "https://x.com/Ni_luvya/status/2038575186933674015/photo/1",
+              "media_key": "3_2038575088745041920",
+              "start": 10,
+              "url": "https://t.co/mE82ytnolV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038575186933674015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4908,
+          "like_count": 100,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "爱是慕强的反义词。 https://t.co/mE82ytnolV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 69,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 784
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-27T11:34:31.000Z",
+        "description": "小岛笔记，INFJ\n自体心理学，关注人际关系、亲密关系和个人成长\n鸟岛来信，常年生活在树上🏝️",
+        "id": "857558575450685440",
+        "name": "luvya",
+        "pinned_tweet_id": "2006012631560204605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884036274815946752/fHDOs_i3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 390,
+          "like_count": 5868,
+          "listed_count": 49,
+          "media_count": 473,
+          "tweet_count": 2650
+        },
+        "username": "Ni_luvya",
+        "verified": true
+      }
+    ]
+  }
+}

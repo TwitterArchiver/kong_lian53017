@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039949472894259417",
+    "created_at": "2026-04-03T06:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039949472894259417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/betty005981733…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/betty0059817333/status/2039816453113991454",
+          "start": 5,
+          "url": "https://t.co/xNlJ4DqQtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039949472894259417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039816453113991454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要这样 https://t.co/xNlJ4DqQtr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039949472894259417",
+        "created_at": "2026-04-03T06:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039949472894259417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/betty005981733…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/betty0059817333/status/2039816453113991454",
+              "start": 5,
+              "url": "https://t.co/xNlJ4DqQtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039949472894259417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039816453113991454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要这样 https://t.co/xNlJ4DqQtr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861944400038727680",
+        "conversation_id": "2039816453113991454",
+        "created_at": "2026-04-02T21:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T22:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039816453113991454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039816453113991454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的声音 身上的香味瞳孔的深度 嘴角的弧度 看向我的眼睛 我都快忘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 74,
+          "like_count": 2403,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1072
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T01:25:28.000Z",
+        "description": "花都已经枯萎了 你浇再多的水都是多余的",
+        "id": "1861944400038727680",
+        "name": "荼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868382632150773760/28awFf09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 147
+        },
+        "username": "betty0059817333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047644489247076688",
+    "created_at": "2026-04-25T00:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047828113485406321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705662085793976320",
+          "start": 0,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047828113485406321",
+    "in_reply_to_user_id": "1705662085793976320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047826897112010786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupidest_Lover 好嘟！谢谢觉🥺🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047644489247076688",
+        "created_at": "2026-04-25T00:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047828113485406321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705662085793976320",
+              "start": 0,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047828113485406321",
+        "in_reply_to_user_id": "1705662085793976320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047826897112010786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupidest_Lover 好嘟！谢谢觉🥺🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705662085793976320",
+        "conversation_id": "2047644489247076688",
+        "created_at": "2026-04-24T23:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047826897112010786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047826897112010786",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047710383247687872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 且初的嘞，但也不是说很明显效果，但还是有点，主要是感觉用起来也不会很油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 102,
+          "like_count": 9630,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4056
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页很话唠 没有陪聊的义务 忧郁 抽象 发骚ing\n想要变得温和平静善良自信不卑不亢有钱 女权主义\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 73,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 50,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "🚪5200",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 105,
+          "like_count": 13195,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1211
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

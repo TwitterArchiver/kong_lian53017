@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037936606573994017",
+    "created_at": "2026-03-28T17:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037952339949281438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974819659766808576",
+          "start": 0,
+          "username": "zztiti482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037952339949281438",
+    "in_reply_to_user_id": "1974819659766808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037951276751995276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zztiti482 这首很治愈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037936606573994017",
+        "created_at": "2026-03-28T17:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037952339949281438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974819659766808576",
+              "start": 0,
+              "username": "zztiti482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037952339949281438",
+        "in_reply_to_user_id": "1974819659766808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037951276751995276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zztiti482 这首很治愈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974819659766808576",
+        "conversation_id": "2037936606573994017",
+        "created_at": "2026-03-28T17:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037951276751995276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037951276751995276",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037936606573994017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 忘掉种过的花 重新的出发 放弃理想吧～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 66,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 581
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T12:51:32.000Z",
+        "description": "喜欢萌萌的一切 /INTJ /168 55kg /不聊骚不约 发骚是一种态度 什么都发 想和可爱的人做朋友 /淫商积累中",
+        "id": "1974819659766808576",
+        "name": "zztiti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017511228315209728/TOrnK8zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 175,
+          "like_count": 3880,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 928
+        },
+        "username": "zztiti482",
+        "verified": false
+      }
+    ]
+  }
+}

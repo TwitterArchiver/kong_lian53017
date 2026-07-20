@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046974977921200222",
+    "created_at": "2026-04-22T16:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046988953249849432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974819659766808576",
+          "start": 0,
+          "username": "zztiti482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046988953249849432",
+    "in_reply_to_user_id": "1974819659766808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046974977921200222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zztiti482 甜甜的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18156,
+        "height": 1280,
+        "media_key": "13_2046974894177722368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046974894177722368/img/SbZeEPKmhQi9uR77.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046974894177722368/vid/avc1/320x568/K_Wcyn2QR7D8_h6D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046974894177722368/vid/avc1/480x852/KdkGVDm-WCDncArc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046974894177722368/vid/avc1/720x1280/c6JUvYxjHjszdagh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046974894177722368/pl/0M_skPqj9YjejYRR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046974977921200222",
+        "created_at": "2026-04-22T16:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046988953249849432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974819659766808576",
+              "start": 0,
+              "username": "zztiti482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046988953249849432",
+        "in_reply_to_user_id": "1974819659766808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046974977921200222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zztiti482 甜甜的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046974894177722368"
+          ]
+        },
+        "author_id": "1974819659766808576",
+        "conversation_id": "2046974977921200222",
+        "created_at": "2026-04-22T15:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046974977921200222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mitku9Fqxr",
+              "end": 124,
+              "expanded_url": "https://x.com/zztiti482/status/2046974977921200222/video/1",
+              "media_key": "13_2046974894177722368",
+              "start": 101,
+              "url": "https://t.co/mitku9Fqxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046974977921200222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样不分场合随时随地摸来摸去还要撒娇\n他：你不是人（然后凑近到我耳边说：你是小狗～\n我：唔唔咦咦咦对呀对呀我是哥哥的小狗\n然后旁边路人走过去🚶‍♀️‍➡️🚶‍♀️‍➡️\n我俩尴尬的对着笑哈哈哈哈哈哈 https://t.co/mitku9Fqxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 101,
+          "like_count": 8699,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3641
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T12:51:32.000Z",
+        "description": "喜欢萌萌的一切 /发骚是一种态度 什么都发 爱发神经/想和可爱的人做朋友 /普通人 没🚪不爱营业/现生太忙私信有缘回/淫商积累中/小号在@zyeez68080过互关和有礼貌的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "zyeez68080"
+              }
+            ]
+          }
+        },
+        "id": "1974819659766808576",
+        "name": "zztiti",
+        "pinned_tweet_id": "2045096457049612562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017511228315209728/TOrnK8zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 180,
+          "like_count": 5214,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 1401
+        },
+        "username": "zztiti482",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060228011711189307",
+    "created_at": "2026-05-29T05:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060228011711189307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thisdecfairy/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/thisdecfairy/status/2059998134210613324",
+          "start": 11,
+          "url": "https://t.co/2GQczTvxgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060228011711189307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059998134210613324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢獭獭獭獭獭獭🥹 https://t.co/2GQczTvxgj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11700,
+        "height": 674,
+        "media_key": "13_2059709513444302851",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059709513444302851/img/fHLBGenXwa_MzhWQ.jpg",
+        "public_metrics": {
+          "view_count": 266098
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059709513444302851/vid/avc1/288x270/e52a_9EYxGvrpN6w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059709513444302851/vid/avc1/384x360/4F1TDuFevqayY65N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059709513444302851/vid/avc1/720x674/aZdF-M9XYvedqYLC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059709513444302851/pl/cxa3mOC7KXcImrhJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060228011711189307",
+        "created_at": "2026-05-29T05:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060228011711189307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thisdecfairy/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/thisdecfairy/status/2059998134210613324",
+              "start": 11,
+              "url": "https://t.co/2GQczTvxgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060228011711189307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059998134210613324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢獭獭獭獭獭獭🥹 https://t.co/2GQczTvxgj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059709513444302851"
+          ]
+        },
+        "author_id": "1791378900259397632",
+        "conversation_id": "2059998134210613324",
+        "created_at": "2026-05-28T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059998134210613324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eh7ecQBoEE",
+              "end": 46,
+              "expanded_url": "https://x.com/thisdecfairy/status/2059998134210613324/video/1",
+              "media_key": "13_2059709513444302851",
+              "start": 23,
+              "url": "https://t.co/eh7ecQBoEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059998134210613324",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3178,
+          "impression_count": 983531,
+          "like_count": 34183,
+          "quote_count": 594,
+          "reply_count": 220,
+          "retweet_count": 6621
+        },
+        "reply_settings": "everyone",
+        "text": "“I am not that clingy” https://t.co/eh7ecQBoEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 111,
+          "like_count": 18129,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 5965
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T08:03:25.000Z",
+        "description": "relatable memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/thisdecfairy",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/thisdecfairy",
+                "start": 0,
+                "url": "https://t.co/qdTTH9XLKc"
+              }
+            ]
+          }
+        },
+        "id": "1791378900259397632",
+        "name": "🦋 fairy 🧚‍♂️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014246931799937024/ex3aFb-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15713,
+          "following_count": 4816,
+          "like_count": 403289,
+          "listed_count": 16,
+          "media_count": 1300,
+          "tweet_count": 103962
+        },
+        "url": "https://t.co/qdTTH9XLKc",
+        "username": "thisdecfairy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046852619721916684",
+    "created_at": "2026-04-22T07:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046855906533814307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740012227124744192",
+          "start": 0,
+          "username": "dejvvinthenight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046855906533814307",
+    "in_reply_to_user_id": "1740012227124744192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046852619721916684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dejvvinthenight 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046852619721916684",
+        "created_at": "2026-04-22T07:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046855906533814307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740012227124744192",
+              "start": 0,
+              "username": "dejvvinthenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046855906533814307",
+        "in_reply_to_user_id": "1740012227124744192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046852619721916684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dejvvinthenight 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740012227124744192",
+        "conversation_id": "2046852619721916684",
+        "created_at": "2026-04-22T07:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046852619721916684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046852619721916684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友问我她谈的对象家里从小把他当太子一样供着，所以导致他在恋爱中特别自私自信怎么办，我回说那你就把自己当成比他还牛逼的皇太女就好了，实在没这个习惯条件就当演戏，皇太女是你饰演的角色。人就是这么贱的，爱情像弹簧，你强他就弱，你弱他就强。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 101,
+          "like_count": 8537,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3582
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:10:29.000Z",
+        "description": "born to live fast and die young｜intp-t｜174 switch｜这里只是盛满我烟蒂与泪水的日记｜ask me anything https://t.co/VAFDH0qs8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wetislandme701…",
+                "end": 105,
+                "expanded_url": "https://ngl.link/wetislandme70185",
+                "start": 82,
+                "url": "https://t.co/VAFDH0qs8p"
+              }
+            ]
+          }
+        },
+        "id": "1740012227124744192",
+        "location": "Mars",
+        "name": "wetislandme",
+        "pinned_tweet_id": "1858054622427881818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046374978061561856/oSg1mvA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 74,
+          "like_count": 1267,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1197
+        },
+        "username": "dejvvinthenight",
+        "verified": false
+      }
+    ]
+  }
+}

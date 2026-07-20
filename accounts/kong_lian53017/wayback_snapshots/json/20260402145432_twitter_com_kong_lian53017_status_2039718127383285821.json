@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039718127383285821",
+    "created_at": "2026-04-02T14:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039718127383285821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937784283621654528",
+          "start": 3,
+          "username": "filedpzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039718127383285821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039640692037992450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @filedpzz: 答应我 你只能是我的好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039718127383285821",
+        "created_at": "2026-04-02T14:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039718127383285821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937784283621654528",
+              "start": 3,
+              "username": "filedpzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039718127383285821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039640692037992450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @filedpzz: 答应我 你只能是我的好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937784283621654528",
+        "conversation_id": "2039640692037992450",
+        "created_at": "2026-04-02T09:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039640692037992450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039640692037992450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1162,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "答应我 你只能是我的好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 72,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1018
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T08:05:59.000Z",
+        "description": "不准认出我",
+        "id": "1937784283621654528",
+        "name": "吱吱zzii",
+        "pinned_tweet_id": "2033389122002522220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003663986089476096/OnggSk7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 38,
+          "like_count": 895,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 187
+        },
+        "username": "filedpzz",
+        "verified": false
+      }
+    ]
+  }
+}

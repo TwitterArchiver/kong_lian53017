@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2061877263776506074",
+    "created_at": "2026-06-02T18:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061877263776506074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haruhamaborosh…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/haruhamaboroshi/status/2061418346042773785",
+          "start": 3,
+          "url": "https://t.co/wh1ZysHYYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061877263776506074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061418346042773785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全 https://t.co/wh1ZysHYYq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2061877263776506074",
+        "created_at": "2026-06-02T18:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061877263776506074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haruhamaborosh…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/haruhamaboroshi/status/2061418346042773785",
+              "start": 3,
+              "url": "https://t.co/wh1ZysHYYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061877263776506074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061418346042773785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全 https://t.co/wh1ZysHYYq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915659329128325122",
+        "conversation_id": "2061418346042773785",
+        "created_at": "2026-06-01T12:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061418346042773785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061418346042773785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 19496,
+          "like_count": 1204,
+          "quote_count": 11,
+          "reply_count": 23,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "私が私である以上、私は私を好きになれない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 115,
+          "like_count": 19351,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4951
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T06:49:17.000Z",
+        "description": "躁鬱、20代♀︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/t1stxxdw1njuu1…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/t1stxxdw1njuu1g?t=GVf9OD&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5Iu71mrjdW"
+              }
+            ]
+          }
+        },
+        "id": "1915659329128325122",
+        "name": "まこ",
+        "pinned_tweet_id": "2000527615304872368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919385946333847552/_mvgQK2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 1522,
+          "like_count": 67223,
+          "listed_count": 12,
+          "media_count": 9,
+          "tweet_count": 4552
+        },
+        "url": "https://t.co/5Iu71mrjdW",
+        "username": "haruhamaboroshi",
+        "verified": false
+      }
+    ]
+  }
+}

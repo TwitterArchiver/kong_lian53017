@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052529859596104170",
+    "created_at": "2026-05-07T23:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T00:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052529859596104170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ouO1nieowo/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ouO1nieowo/status/2051999346711830884",
+          "start": 19,
+          "url": "https://t.co/TBvFy7zRA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052529859596104170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051999346711830884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真馋死了我决定下周四吃肯德基的蛋挞 https://t.co/TBvFy7zRA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051999321998999557",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoqgusXwAUGNeo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052529859596104170",
+        "created_at": "2026-05-07T23:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052529859596104170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ouO1nieowo/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ouO1nieowo/status/2051999346711830884",
+              "start": 19,
+              "url": "https://t.co/TBvFy7zRA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052529859596104170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051999346711830884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真馋死了我决定下周四吃肯德基的蛋挞 https://t.co/TBvFy7zRA4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051999321998999557"
+          ]
+        },
+        "author_id": "1567543722170253313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051999346711830884",
+        "created_at": "2026-05-06T12:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051999346711830884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWWAwoXMRR",
+              "end": 41,
+              "expanded_url": "https://x.com/ouO1nieowo/status/2051999346711830884/photo/1",
+              "media_key": "3_2051999321998999557",
+              "start": 18,
+              "url": "https://t.co/tWWAwoXMRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051999346711830884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14643,
+          "like_count": 395,
+          "quote_count": 2,
+          "reply_count": 169,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新鲜出炉 我爱烤箱 路过可以拿一个 https://t.co/tWWAwoXMRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 103,
+          "like_count": 13408,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4668
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "管好你自己/置顶推广自辨",
+        "id": "1567543722170253313",
+        "location": "🚪188/520/1314",
+        "name": "SweetyRoll",
+        "pinned_tweet_id": "2029278292415840553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11533,
+          "following_count": 39,
+          "like_count": 1067,
+          "listed_count": 41,
+          "media_count": 45,
+          "tweet_count": 808
+        },
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

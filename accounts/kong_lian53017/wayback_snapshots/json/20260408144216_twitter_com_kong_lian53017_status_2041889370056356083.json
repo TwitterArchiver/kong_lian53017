@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2041418226110972244",
+    "created_at": "2026-04-08T14:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041889370056356083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1875906425517662208",
+          "start": 0,
+          "username": "Asuka080s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041889370056356083",
+    "in_reply_to_user_id": "1875906425517662208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041758016434016491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka080s 我明白！其实有时候说对不起也是为了让自己好受点（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2041418226110972244",
+        "created_at": "2026-04-08T14:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041889370056356083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1875906425517662208",
+              "start": 0,
+              "username": "Asuka080s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041889370056356083",
+        "in_reply_to_user_id": "1875906425517662208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041758016434016491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka080s 我明白！其实有时候说对不起也是为了让自己好受点（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875906425517662208",
+        "conversation_id": "2041418226110972244",
+        "created_at": "2026-04-08T06:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041758016434016491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041758016434016491",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041418226110972244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 对不起不是道歉，是对痛苦，对对方没有办法无奈的话，没人喜欢听道歉，可是我已经不知道该说什么了•᎔•"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 77,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1418
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "请关注我，请关注我，谢谢",
+        "id": "1875906425517662208",
+        "location": "猫家",
+        "name": "我的猫很爱我.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038769189889146880/oCvkoCvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 49,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 334
+        },
+        "username": "Asuka080s",
+        "verified": false
+      }
+    ]
+  }
+}

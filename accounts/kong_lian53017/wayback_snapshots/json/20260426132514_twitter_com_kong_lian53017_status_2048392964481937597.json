@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048392961877311488"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048391577962459454",
+    "created_at": "2026-04-26T13:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048392964481937597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817803292875083776",
+          "start": 0,
+          "username": "utlramanzero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/47GTreFRCH",
+          "end": 52,
+          "expanded_url": "https://x.com/kong_lian53017/status/2048392964481937597/photo/1",
+          "media_key": "3_2048392961877311488",
+          "start": 29,
+          "url": "https://t.co/47GTreFRCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048392964481937597",
+    "in_reply_to_user_id": "1817803292875083776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048392276431548853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utlramanzero 国内的，还没上。还有个男铠。 https://t.co/47GTreFRCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2048392961877311488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1ai8UbgAAPfRX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048392961877311488"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048391577962459454",
+        "created_at": "2026-04-26T13:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048392964481937597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817803292875083776",
+              "start": 0,
+              "username": "utlramanzero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/47GTreFRCH",
+              "end": 52,
+              "expanded_url": "https://x.com/kong_lian53017/status/2048392964481937597/photo/1",
+              "media_key": "3_2048392961877311488",
+              "start": 29,
+              "url": "https://t.co/47GTreFRCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048392964481937597",
+        "in_reply_to_user_id": "1817803292875083776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048392276431548853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utlramanzero 国内的，还没上。还有个男铠。 https://t.co/47GTreFRCH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817803292875083776",
+        "conversation_id": "2048391577962459454",
+        "created_at": "2026-04-26T13:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048392276431548853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048392276431548853",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048391577962459454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我去，这是二创还是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 68,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 101,
+          "like_count": 10072,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4258
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T06:04:20.000Z",
+        "description": "90顺直男老登/肥宅丑比/焦虑型话唠/四处嘴贱评论抖机灵/不发文，查成分的看推文没用得看回复",
+        "id": "1817803292875083776",
+        "name": "Mr.North",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869266250876243968/LLy6ZOXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 108,
+          "like_count": 9017,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 3583
+        },
+        "username": "utlramanzero",
+        "verified": false
+      }
+    ]
+  }
+}

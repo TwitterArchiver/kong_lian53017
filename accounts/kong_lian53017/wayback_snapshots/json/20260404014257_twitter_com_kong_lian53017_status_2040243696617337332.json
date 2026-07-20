@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040142226316288149",
+    "created_at": "2026-04-04T01:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040243696617337332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040243696617337332",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040243228340039717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 突然断了必须得尽快解释吧不然我真的会很难受！突然挂我电话在我这是惹怒我的行为😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040142226316288149",
+        "created_at": "2026-04-04T01:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040243696617337332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040243696617337332",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040243228340039717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 突然断了必须得尽快解释吧不然我真的会很难受！突然挂我电话在我这是惹怒我的行为😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917734495786041344",
+        "conversation_id": "2040142226316288149",
+        "created_at": "2026-04-04T01:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040243228340039717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040243228340039717",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040142226316288149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 要是突然电话挂了还会难受一阵，想着是不是有什么事了（我就这样）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 75,
+          "like_count": 2537,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1125
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享",
+        "id": "1917734495786041344",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039302483038949376/lL6qKO_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 289,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 516
+        },
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

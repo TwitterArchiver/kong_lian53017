@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2063146610004279535",
+    "created_at": "2026-06-06T06:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063146610004279535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040674942858268672",
+          "start": 3,
+          "username": "hayu__tyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063146610004279535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062857508914614541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hayu__tyan: 死ぬことよりも、自殺失敗‼️の方がずっと怖いよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2063146610004279535",
+        "created_at": "2026-06-06T06:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063146610004279535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040674942858268672",
+              "start": 3,
+              "username": "hayu__tyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063146610004279535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062857508914614541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hayu__tyan: 死ぬことよりも、自殺失敗‼️の方がずっと怖いよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040674942858268672",
+        "conversation_id": "2062857508914614541",
+        "created_at": "2026-06-05T11:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062857508914614541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062857508914614541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 20966,
+          "like_count": 925,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "死ぬことよりも、自殺失敗‼️の方がずっと怖いよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 115,
+          "like_count": 20005,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 4245
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T06:17:53.000Z",
+        "description": "ョ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dvr1t8nbyrcpjr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/dvr1t8nbyrcpjrl?t=dpxJD2&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/biNW3b9WFw"
+              }
+            ]
+          }
+        },
+        "id": "2040674942858268672",
+        "location": "⍤⃝",
+        "name": "春結",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056015406901727232/w-Eqkcx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 144,
+          "like_count": 4717,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/biNW3b9WFw",
+        "username": "hayu__tyan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047642671456624753",
+    "created_at": "2026-04-24T11:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047642671456624753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HK416ABC/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/HK416ABC/status/2047641685488984439",
+          "start": 2,
+          "url": "https://t.co/0Jqof2d2lS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047642671456624753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047641685488984439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/0Jqof2d2lS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047642671456624753",
+        "created_at": "2026-04-24T11:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047642671456624753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HK416ABC/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/HK416ABC/status/2047641685488984439",
+              "start": 2,
+              "url": "https://t.co/0Jqof2d2lS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047642671456624753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047641685488984439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/0Jqof2d2lS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057668616408064001",
+        "conversation_id": "2047641685488984439",
+        "created_at": "2026-04-24T11:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047641685488984439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wngh3377/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wngh3377/status/2047634019375079673",
+              "start": 9,
+              "url": "https://t.co/C3ASLbZrop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047641685488984439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047634019375079673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真得接一接吧😭 https://t.co/C3ASLbZrop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 103,
+          "like_count": 9423,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3958
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 791,
+          "like_count": 5313,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2201
+        },
+        "username": "HK416ABC",
+        "verified": false
+      }
+    ]
+  }
+}

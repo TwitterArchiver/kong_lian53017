@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2048458987658682649",
+    "created_at": "2026-04-26T17:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048461414776635448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1005032686925242368",
+          "start": 0,
+          "username": "Ch0coIates_W00O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048461414776635448",
+    "in_reply_to_user_id": "1005032686925242368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048461011997663259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ch0coIates_W00O 我不理解……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2048458987658682649",
+        "created_at": "2026-04-26T17:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048461414776635448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1005032686925242368",
+              "start": 0,
+              "username": "Ch0coIates_W00O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048461414776635448",
+        "in_reply_to_user_id": "1005032686925242368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048461011997663259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ch0coIates_W00O 我不理解……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1005032686925242368",
+        "conversation_id": "2048458987658682649",
+        "created_at": "2026-04-26T17:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048461011997663259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048461011997663259",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048458987658682649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 这种自以为自己很懂的人都是啥心态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 68,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 101,
+          "like_count": 10164,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 4304
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T10:23:59.000Z",
+        "description": "Age:20↑ /162CM /50KG /#门槛 68解锁联系方式（口令or赞赏）/🎀🎨推し/Maimai DX/\n置顶推广自辨。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "门槛"
+              }
+            ]
+          }
+        },
+        "id": "1005032686925242368",
+        "location": "在你心里❤️",
+        "name": "樹状チョコレゐト",
+        "pinned_tweet_id": "2016731864648863996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984470484726194176/Zh_0LPOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5881,
+          "following_count": 198,
+          "like_count": 527,
+          "listed_count": 18,
+          "media_count": 577,
+          "tweet_count": 2969
+        },
+        "username": "Ch0coIates_W00O",
+        "verified": false
+      }
+    ]
+  }
+}

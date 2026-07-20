@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047641747543716342",
+    "created_at": "2026-04-24T11:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047642759125958933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604168045424914433",
+          "start": 0,
+          "username": "bobi01604691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047642759125958933",
+    "in_reply_to_user_id": "1604168045424914433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047641747543716342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi01604691 我懂。我现在用的就是这种。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2047641715113336832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqvSoCaIAAyM8Q.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047641747543716342",
+        "created_at": "2026-04-24T11:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047642759125958933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604168045424914433",
+              "start": 0,
+              "username": "bobi01604691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047642759125958933",
+        "in_reply_to_user_id": "1604168045424914433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047641747543716342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi01604691 我懂。我现在用的就是这种。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047641715113336832"
+          ]
+        },
+        "author_id": "1604168045424914433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047641747543716342",
+        "created_at": "2026-04-24T11:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047641747543716342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVC6ezmWmj",
+              "end": 35,
+              "expanded_url": "https://x.com/bobi01604691/status/2047641747543716342/photo/1",
+              "media_key": "3_2047641715113336832",
+              "start": 12,
+              "url": "https://t.co/OVC6ezmWmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047641747543716342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隔一段时间就会好馋泡面 https://t.co/OVC6ezmWmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 103,
+          "like_count": 9424,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3959
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T17:34:08.000Z",
+        "description": "前看天辽地阔",
+        "id": "1604168045424914433",
+        "name": "萧余丶",
+        "pinned_tweet_id": "2044403264322773303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042995631342653440/bYlacDFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 147,
+          "like_count": 2626,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 906
+        },
+        "username": "bobi01604691",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060785700166160506",
+    "created_at": "2026-05-30T18:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060785700166160506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592084850986872834",
+          "start": 3,
+          "username": "_mn2364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060785700166160506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060608088424763581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mn2364: 泣いてくれる人がいても死にたいもんは死にたいし、誰もいないなら余計死にたいし"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060785700166160506",
+        "created_at": "2026-05-30T18:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060785700166160506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592084850986872834",
+              "start": 3,
+              "username": "_mn2364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060785700166160506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060608088424763581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mn2364: 泣いてくれる人がいても死にたいもんは死にたいし、誰もいないなら余計死にたいし"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592084850986872834",
+        "conversation_id": "2060608088424763581",
+        "created_at": "2026-05-30T06:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060608088424763581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060608088424763581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1068,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "泣いてくれる人がいても死にたいもんは死にたいし、誰もいないなら余計死にたいし"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 113,
+          "like_count": 18750,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 6047
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T09:20:00.000Z",
+        "description": "いつか大丈夫になりたい。 ￤JK￤♂△￤DMは最奥の人だけ￤日常@_mn2362 最奥@_mn2363￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "_mn2362"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "_mn2363"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/d36n077qrzwtau…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/d36n077qrzwtaum?t=4Xi3Tn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/LnODR9T4Ms"
+              }
+            ]
+          }
+        },
+        "id": "1592084850986872834",
+        "location": "もうすぐ",
+        "name": "桃乃",
+        "pinned_tweet_id": "2058126604279414838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936742974383165440/_ES1Iez7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 171,
+          "like_count": 9495,
+          "listed_count": 10,
+          "media_count": 16,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/LnODR9T4Ms",
+        "username": "_mn2364",
+        "verified": false
+      }
+    ]
+  }
+}

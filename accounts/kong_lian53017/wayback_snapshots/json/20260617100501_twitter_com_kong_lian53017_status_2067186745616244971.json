@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066718798103937024"
+      ],
+      "media_source_tweet_id": [
+        "2066945149234749746"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      }
+    ],
+    "conversation_id": "2067186745616244971",
+    "created_at": "2026-06-17T10:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067186745616244971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689958703162961920",
+          "start": 3,
+          "username": "GuGi263"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8C9see9fE",
+          "end": 130,
+          "expanded_url": "https://x.com/GuGi263/status/2066945149234749746/video/1",
+          "media_key": "13_2066718798103937024",
+          "start": 107,
+          "url": "https://t.co/P8C9see9fE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067186745616244971",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2442
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066945149234749746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuGi263: \"After drinking milk, you have to burp me by patting my back, okay? Just like a little baby.\" https://t.co/P8C9see9fE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16161,
+        "height": 720,
+        "media_key": "13_2066718798103937024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066718798103937024/img/geZciMX9E6-hU3rf.jpg",
+        "public_metrics": {
+          "view_count": 128928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066718798103937024/vid/avc1/478x270/jHRmyz5fPfKeuxPM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066718798103937024/vid/avc1/638x360/ZnetD5iopL7Zf8Ua.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066718798103937024/vid/avc1/1276x720/kc0xBumnLoUCMYfJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066718798103937024/pl/xHvFG92_RQb3v_Wx.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066718798103937024"
+          ],
+          "media_source_tweet_id": [
+            "2066945149234749746"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2067186745616244971",
+        "created_at": "2026-06-17T10:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067186745616244971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689958703162961920",
+              "start": 3,
+              "username": "GuGi263"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8C9see9fE",
+              "end": 130,
+              "expanded_url": "https://x.com/GuGi263/status/2066945149234749746/video/1",
+              "media_key": "13_2066718798103937024",
+              "start": 107,
+              "url": "https://t.co/P8C9see9fE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067186745616244971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2442
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066945149234749746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuGi263: \"After drinking milk, you have to burp me by patting my back, okay? Just like a little baby.\" https://t.co/P8C9see9fE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066718798103937024"
+          ]
+        },
+        "author_id": "1689958703162961920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2066945149234749746",
+        "created_at": "2026-06-16T18:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066945149234749746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8C9see9fE",
+              "end": 117,
+              "expanded_url": "https://x.com/GuGi263/status/2066945149234749746/video/1",
+              "media_key": "13_2066718798103937024",
+              "start": 94,
+              "url": "https://t.co/P8C9see9fE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066945149234749746",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1750,
+          "impression_count": 299253,
+          "like_count": 24610,
+          "quote_count": 62,
+          "reply_count": 18,
+          "retweet_count": 2442
+        },
+        "reply_settings": "everyone",
+        "text": "\"After drinking milk, you have to burp me by patting my back, okay? Just like a little baby.\" https://t.co/P8C9see9fE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 114,
+          "like_count": 21550,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 4321
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T11:15:42.000Z",
+        "description": "Good movies, music, and nature🎶",
+        "id": "1689958703162961920",
+        "name": "Nature 🦜and Music 🎶",
+        "pinned_tweet_id": "2016841136892236034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993551486840979459/g5slCrBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50892,
+          "following_count": 3441,
+          "like_count": 5055,
+          "listed_count": 88,
+          "media_count": 5909,
+          "tweet_count": 7818
+        },
+        "username": "GuGi263",
+        "verified": true
+      }
+    ]
+  }
+}

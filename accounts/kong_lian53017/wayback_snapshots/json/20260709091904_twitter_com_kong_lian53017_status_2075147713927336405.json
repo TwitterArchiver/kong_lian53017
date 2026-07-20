@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2075147713927336405",
+    "created_at": "2026-07-09T09:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075147713927336405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanliang234/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yanliang234/status/2074804365593137409",
+          "start": 2,
+          "url": "https://t.co/iBNBGLbfAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075147713927336405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074804365593137409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/iBNBGLbfAO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2075147713927336405",
+        "created_at": "2026-07-09T09:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075147713927336405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanliang234/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yanliang234/status/2074804365593137409",
+              "start": 2,
+              "url": "https://t.co/iBNBGLbfAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075147713927336405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074804365593137409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/iBNBGLbfAO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798389435157147648",
+        "conversation_id": "2074804365593137409",
+        "created_at": "2026-07-08T10:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074804365593137409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074804365593137409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1111,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你凭什么说我好感度掉了？你打开状态栏看了吗？我的心情值、陪伴值、礼物值这三个隐藏属性你有关注过吗，我有那么好攻略吗？光靠每天打卡式聊天就指望我亮起爱心图标了？你甚至不愿意花心思了解一下我的专属攻略！现在好了，触发我的“冷漠”事件了，你满意了？自己去读档吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 119,
+          "like_count": 24076,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 4401
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T16:20:37.000Z",
+        "description": "I'll be your 1up boy Ι海面：@yanliang456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "yanliang456"
+              }
+            ]
+          }
+        },
+        "id": "1798389435157147648",
+        "location": "于是猪小水开始期待",
+        "name": "水",
+        "pinned_tweet_id": "1960951455797665975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929538124985901056/yqGmoBZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 212,
+          "like_count": 8563,
+          "listed_count": 0,
+          "media_count": 441,
+          "tweet_count": 5112
+        },
+        "url": "",
+        "username": "yanliang234",
+        "verified": false
+      }
+    ]
+  }
+}

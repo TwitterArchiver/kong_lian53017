@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052366534388174952",
+    "created_at": "2026-05-07T12:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052366534388174952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ddzkn/status/2…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Ddzkn/status/2052013374905696377",
+          "start": 26,
+          "url": "https://t.co/6jkFcQ7hQB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052366534388174952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052013374905696377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全没有现实社交，网络社交就是跟大家评论区互动…… https://t.co/6jkFcQ7hQB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052366534388174952",
+        "created_at": "2026-05-07T12:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052366534388174952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ddzkn/status/2…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Ddzkn/status/2052013374905696377",
+              "start": 26,
+              "url": "https://t.co/6jkFcQ7hQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052366534388174952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052013374905696377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全没有现实社交，网络社交就是跟大家评论区互动…… https://t.co/6jkFcQ7hQB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970396131088838656",
+        "conversation_id": "2052013374905696377",
+        "created_at": "2026-05-06T13:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052013374905696377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052013374905696377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 782,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是一个完全没有社交的阴暗批。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 103,
+          "like_count": 13126,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 4612
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T07:53:54.000Z",
+        "description": "性格极其恶劣",
+        "id": "1970396131088838656",
+        "name": "12345678990183644322117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050916218165739520/cW0OMZ92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 117,
+          "like_count": 2518,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 984
+        },
+        "username": "Ddzkn",
+        "verified": false
+      }
+    ]
+  }
+}

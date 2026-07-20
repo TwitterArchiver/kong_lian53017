@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047160571100029391",
+    "created_at": "2026-04-23T04:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047169301258621382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1259716350538211328",
+          "start": 0,
+          "username": "Jiang_Lemonnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047169301258621382",
+    "in_reply_to_user_id": "1259716350538211328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047160571100029391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiang_Lemonnn 燥候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047160571100029391",
+        "created_at": "2026-04-23T04:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047169301258621382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1259716350538211328",
+              "start": 0,
+              "username": "Jiang_Lemonnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047169301258621382",
+        "in_reply_to_user_id": "1259716350538211328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047160571100029391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiang_Lemonnn 燥候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259716350538211328",
+        "conversation_id": "2047160571100029391",
+        "created_at": "2026-04-23T03:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047160571100029391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047160571100029391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一不小心自动续费了一个月的剪映svip...我是不是应该进行一些产出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 101,
+          "like_count": 8887,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3729
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-11T05:26:08.000Z",
+        "description": "一个破男喘 私信看到都会回🚪188 目前只负责陪聊 我看到肯定会回复的！ 偶尔照片掉落 其他业务之后再说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.suzi04.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://go.suzi04.xyz/#/register?code=TPbUnCvk",
+                "start": 0,
+                "url": "https://t.co/ag1FfSdnoH"
+              }
+            ]
+          }
+        },
+        "id": "1259716350538211328",
+        "location": "推广自辨哦 | 自用高速🪜👇🏻",
+        "name": "小江",
+        "pinned_tweet_id": "1830090150350876794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752029051747975168/Ltz4tuM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108242,
+          "following_count": 443,
+          "like_count": 3469,
+          "listed_count": 152,
+          "media_count": 137,
+          "tweet_count": 1472
+        },
+        "url": "https://t.co/ag1FfSdnoH",
+        "username": "Jiang_Lemonnn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052405541285273915",
+    "created_at": "2026-05-07T15:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052406053812515002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052406053812515002",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052405541285273915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的道德和欲望在打架。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_2052405534335401984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHub9ZkbgAA_tFR.jpg",
+        "width": 933
+      },
+      {
+        "height": 584,
+        "media_key": "3_2052405538403876864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHub9oubgAAWTJ2.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052405541285273915",
+        "created_at": "2026-05-07T15:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052406053812515002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052406053812515002",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405541285273915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的道德和欲望在打架。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052405534335401984",
+            "3_2052405538403876864"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052405541285273915",
+        "created_at": "2026-05-07T15:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052405541285273915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7qKtNloyN",
+              "end": 45,
+              "expanded_url": "https://x.com/kong_lian53017/status/2052405541285273915/photo/1",
+              "media_key": "3_2052405534335401984",
+              "start": 22,
+              "url": "https://t.co/f7qKtNloyN"
+            },
+            {
+              "display_url": "pic.x.com/f7qKtNloyN",
+              "end": 45,
+              "expanded_url": "https://x.com/kong_lian53017/status/2052405541285273915/photo/1",
+              "media_key": "3_2052405538403876864",
+              "start": 22,
+              "url": "https://t.co/f7qKtNloyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405541285273915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左右脑互搏然后有一方搏成功了决定嘬一口老。 https://t.co/f7qKtNloyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 103,
+          "like_count": 13306,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4645
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

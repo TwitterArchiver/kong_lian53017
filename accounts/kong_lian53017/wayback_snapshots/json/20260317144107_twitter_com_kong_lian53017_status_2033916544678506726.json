@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032778179195306329",
+    "created_at": "2026-03-17T14:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033916544678506726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2033494567585218560",
+          "start": 0,
+          "username": "Sails_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033916544678506726",
+    "in_reply_to_user_id": "2033494567585218560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033913522690855288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sails_8 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2032778179195306329",
+        "created_at": "2026-03-17T14:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033916544678506726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2033494567585218560",
+              "start": 0,
+              "username": "Sails_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033916544678506726",
+        "in_reply_to_user_id": "2033494567585218560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033913522690855288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sails_8 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033494567585218560",
+        "conversation_id": "2032778179195306329",
+        "created_at": "2026-03-17T14:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033913522690855288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033913522690855288",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032778179195306329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我赞成，女孩子是香香软软的天使"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 33,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 148
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T10:45:09.000Z",
+        "description": "希望那些愿意给他人提供帮助的好人们总是平平安安的，少些烦恼多些快乐🙂",
+        "id": "2033494567585218560",
+        "name": "景溟渡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033496920145190912/g0neXEBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 98,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "Sails_8",
+        "verified": false
+      }
+    ]
+  }
+}

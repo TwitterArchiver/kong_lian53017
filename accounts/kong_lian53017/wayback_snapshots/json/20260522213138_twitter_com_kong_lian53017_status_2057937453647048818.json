@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2057937453647048818",
+    "created_at": "2026-05-22T21:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T22:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057937453647048818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momentisendles…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/momentisendless/status/2057522331573162297",
+          "start": 13,
+          "url": "https://t.co/PTFUiX5oW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057937453647048818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057522331573162297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对我占有欲很低的话同理。 https://t.co/PTFUiX5oW6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2057937453647048818",
+        "created_at": "2026-05-22T21:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057937453647048818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momentisendles…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/momentisendless/status/2057522331573162297",
+              "start": 13,
+              "url": "https://t.co/PTFUiX5oW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057937453647048818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057522331573162297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对我占有欲很低的话同理。 https://t.co/PTFUiX5oW6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953812757910106113",
+        "conversation_id": "2057522331573162297",
+        "created_at": "2026-05-21T18:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057522331573162297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057522331573162297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 22877,
+          "like_count": 810,
+          "quote_count": 19,
+          "reply_count": 48,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "我是比较病态的那种 如果对方对我窥探欲很低的话我会觉得特别没意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 113,
+          "like_count": 16753,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 5673
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T13:37:52.000Z",
+        "description": "一具尸体",
+        "id": "1953812757910106113",
+        "name": "纯白飘香裹尸布",
+        "pinned_tweet_id": "2057453604190228739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057519291621371904/au8uzvrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 111,
+          "like_count": 4592,
+          "listed_count": 21,
+          "media_count": 162,
+          "tweet_count": 4434
+        },
+        "username": "momentisendless",
+        "verified": false
+      }
+    ]
+  }
+}

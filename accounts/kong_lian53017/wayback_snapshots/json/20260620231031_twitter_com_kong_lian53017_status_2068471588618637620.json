@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2068471588618637620",
+    "created_at": "2026-06-20T23:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T00:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068471588618637620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/e_rror___00/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/e_rror___00/status/2067868154924323306",
+          "start": 4,
+          "url": "https://t.co/aqSp49hgoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068471588618637620",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067868154924323306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "T∧T https://t.co/aqSp49hgoM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2068471588618637620",
+        "created_at": "2026-06-20T23:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068471588618637620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/e_rror___00/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/e_rror___00/status/2067868154924323306",
+              "start": 4,
+              "url": "https://t.co/aqSp49hgoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068471588618637620",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067868154924323306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "T∧T https://t.co/aqSp49hgoM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861227940924792832",
+        "conversation_id": "2067868154924323306",
+        "created_at": "2026-06-19T07:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067868154924323306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067868154924323306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 22042,
+          "like_count": 1485,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "自分の将来とか考えたくない、はやく死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 114,
+          "like_count": 21814,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 4331
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T01:58:27.000Z",
+        "description": "死ねずにふらふら生きてます #病み垢 #OD #既読いいね",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 14,
+                "tag": "病み垢"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "OD"
+              },
+              {
+                "end": 29,
+                "start": 23,
+                "tag": "既読いいね"
+              }
+            ]
+          }
+        },
+        "id": "1861227940924792832",
+        "location": "酔生夢死 ",
+        "name": "zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026193485028786176/nOwstLsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 331,
+          "like_count": 9058,
+          "listed_count": 18,
+          "media_count": 4,
+          "tweet_count": 1884
+        },
+        "url": "",
+        "username": "e_rror___00",
+        "verified": false
+      }
+    ]
+  }
+}

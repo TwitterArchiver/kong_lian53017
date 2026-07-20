@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2074718442893332748",
+    "created_at": "2026-07-08T04:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074718442893332748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0n_xvn/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/0n_xvn/status/2074165166170894728",
+          "start": 4,
+          "url": "https://t.co/BPAlYxoWgn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074718442893332748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165166170894728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全！ https://t.co/BPAlYxoWgn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2074718442893332748",
+        "created_at": "2026-07-08T04:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074718442893332748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0n_xvn/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/0n_xvn/status/2074165166170894728",
+              "start": 4,
+              "url": "https://t.co/BPAlYxoWgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074718442893332748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165166170894728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全！ https://t.co/BPAlYxoWgn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655576210259968",
+        "conversation_id": "2074165166170894728",
+        "created_at": "2026-07-06T16:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074165166170894728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074165166170894728",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 10702,
+          "like_count": 447,
+          "quote_count": 17,
+          "reply_count": 3,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "서로가 서로가 너무 좋아 죽는 연애를 하고싶다\n서로가 너무 좋아서 미쳐버릴 지경 그냥 안고만 있어도 심장이 뛰는 그런 연애"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 118,
+          "like_count": 23848,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 4369
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:38:02.000Z",
+        "description": "나이는 친해지면 알려드려요\n여자입니다",
+        "id": "2056655576210259968",
+        "name": "온",
+        "pinned_tweet_id": "2056995327836930415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056655707060195328/p4t7s4AF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 25,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "0n_xvn",
+        "verified": false
+      }
+    ]
+  }
+}

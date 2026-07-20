@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039559716129665201",
+    "created_at": "2026-04-02T04:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039559716129665201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NGNGVXX/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/NGNGVXX/status/2039557343726424398",
+          "start": 15,
+          "url": "https://t.co/Uw0vXuhDnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039559716129665201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039557343726424398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虚伪的人是接不住真诚的爱的。 https://t.co/Uw0vXuhDnr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039559716129665201",
+        "created_at": "2026-04-02T04:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039559716129665201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/2039557343726424398",
+              "start": 15,
+              "url": "https://t.co/Uw0vXuhDnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039559716129665201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039557343726424398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虚伪的人是接不住真诚的爱的。 https://t.co/Uw0vXuhDnr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2039557343726424398",
+        "created_at": "2026-04-02T04:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039557343726424398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039557343726424398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一开始就明牌的人 不过是在测试你接不接得住她的真诚而已 你见过哪个明牌的人是怕输的 极度坦诚的人一开始你会觉得她傻 慢慢你会明白 原来 阳谋无解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 72,
+          "like_count": 2181,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 974
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8134,
+          "following_count": 5,
+          "like_count": 987,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1766
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039260119561822429",
+    "created_at": "2026-04-01T08:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039260119561822429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/justakittyc/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/justakittyc/status/2038980703468318788",
+          "start": 4,
+          "url": "https://t.co/nRmPAjfi3F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039260119561822429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038980703468318788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都有😭 https://t.co/nRmPAjfi3F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039260119561822429",
+        "created_at": "2026-04-01T08:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039260119561822429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/justakittyc/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/justakittyc/status/2038980703468318788",
+              "start": 4,
+              "url": "https://t.co/nRmPAjfi3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039260119561822429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038980703468318788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都有😭 https://t.co/nRmPAjfi3F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969689682222170112",
+        "conversation_id": "2038980703468318788",
+        "created_at": "2026-03-31T14:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038980703468318788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038980703468318788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在制约我进食的，已经不是热量了，是钱包。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 71,
+          "like_count": 1990,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 900
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:06:39.000Z",
+        "description": "可以叫我咪咪/碎碎念狂魔-最近变身大力小厨娘一枚💪🏻/只和感兴趣的人交友/@mmsyzwdkadxmdx悄悄话存储地^ ^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "mmsyzwdkadxmdx"
+              }
+            ]
+          }
+        },
+        "id": "1969689682222170112",
+        "location": "谢谢你喜欢我^ ^",
+        "name": "🐱",
+        "pinned_tweet_id": "2026505152983871997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969690815841931264/RPPMz8GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3964,
+          "following_count": 56,
+          "like_count": 3479,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1819
+        },
+        "username": "justakittyc",
+        "verified": false
+      }
+    ]
+  }
+}

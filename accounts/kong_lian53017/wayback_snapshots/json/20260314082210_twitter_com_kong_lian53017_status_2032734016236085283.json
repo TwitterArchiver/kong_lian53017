@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032734016236085283",
+    "created_at": "2026-03-14T08:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T09:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032734016236085283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889273834479693824",
+          "start": 3,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032734016236085283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032520744790602064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xvxnuo: 你根本不是非我不可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2032734016236085283",
+        "created_at": "2026-03-14T08:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032734016236085283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889273834479693824",
+              "start": 3,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032734016236085283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032520744790602064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xvxnuo: 你根本不是非我不可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2032520744790602064",
+        "created_at": "2026-03-13T18:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032520744790602064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032520744790602064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 697,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你根本不是非我不可"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 22,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 60
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xnuo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xnuo1",
+                "start": 0,
+                "url": "https://t.co/MGovzs8e0S"
+              }
+            ]
+          }
+        },
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2031245435814412754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029937228215156736/5CS9KvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 42,
+          "like_count": 18063,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 4790
+        },
+        "url": "https://t.co/MGovzs8e0S",
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

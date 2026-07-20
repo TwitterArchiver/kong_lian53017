@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2036384955354456455",
+    "created_at": "2026-03-24T13:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036433217851646261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007789371144216576",
+          "start": 0,
+          "username": "ljngjng12123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036433217851646261",
+    "in_reply_to_user_id": "2007789371144216576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036421426379468977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljngjng12123 其实聊得不频繁，有时候生活上感情上找不到人说才会主动跟他们联系。都认识五六年了，我也看他们谈过几次。他们都比我大，很多时候都是把我当需要帮助的小妹妹看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2036384955354456455",
+        "created_at": "2026-03-24T13:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036433217851646261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007789371144216576",
+              "start": 0,
+              "username": "ljngjng12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036433217851646261",
+        "in_reply_to_user_id": "2007789371144216576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036421426379468977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljngjng12123 其实聊得不频繁，有时候生活上感情上找不到人说才会主动跟他们联系。都认识五六年了，我也看他们谈过几次。他们都比我大，很多时候都是把我当需要帮助的小妹妹看。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007789371144216576",
+        "conversation_id": "2036384955354456455",
+        "created_at": "2026-03-24T12:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036421426379468977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036421426379468977",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036399726296453506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 嗯……大部分男孩子都这样，没感觉压根不会多聊一句。尤其你还跟他们聊天的情况，你又有点优势比如好看比如身材好比如情绪价值高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 207
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T12:21:23.000Z",
+        "description": "",
+        "id": "2007789371144216576",
+        "name": "腿毛一根三千不讲价",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033864821976776704/3OLBSbKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "username": "ljngjng12123",
+        "verified": false
+      }
+    ]
+  }
+}

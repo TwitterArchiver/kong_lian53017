@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042865074398990349",
+    "created_at": "2026-04-11T07:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042865419686678731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705662085793976320",
+          "start": 0,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042865419686678731",
+    "in_reply_to_user_id": "1705662085793976320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042865074398990349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupidest_Lover 总结：想做爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042865074398990349",
+        "created_at": "2026-04-11T07:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042865419686678731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705662085793976320",
+              "start": 0,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042865419686678731",
+        "in_reply_to_user_id": "1705662085793976320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042865074398990349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupidest_Lover 总结：想做爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705662085793976320",
+        "conversation_id": "2042865074398990349",
+        "created_at": "2026-04-11T07:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042865074398990349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kong_lian53017…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/kong_lian53017/status/2042863027138236881",
+              "start": 82,
+              "url": "https://t.co/rZ4drgP1KV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042865074398990349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042863027138236881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嘟，日常我朋友会发，情绪价值豆包更会哄我🍜论花心思我自己也有，钱我自己的也有，，，恋爱不图东西，我做不到，目前唯一需要恋爱的理由，没人法我🍜算了假唧唧捅两下得了 https://t.co/rZ4drgP1KV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 91,
+          "like_count": 4254,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1831
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页很话唠 没有陪聊的义务 忧郁 抽象 发骚ing\n想要变得温和平静善良自信不卑不亢有钱 女权主义\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 73,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 50,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "🚪 5200",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 99,
+          "like_count": 10943,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 720
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2068451049472745727",
+    "created_at": "2026-06-20T21:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T22:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068451049472745727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727273302857822208",
+          "start": 3,
+          "username": "sisi7758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068451049472745727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068285367493787993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sisi7758: 那种塌一个网黄就有人跳出来喊“都怪你们我没片看了”，我看到这种评论我是真的笑的难受，脑子里面长了个瘤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2068451049472745727",
+        "created_at": "2026-06-20T21:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068451049472745727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727273302857822208",
+              "start": 3,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068451049472745727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068285367493787993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sisi7758: 那种塌一个网黄就有人跳出来喊“都怪你们我没片看了”，我看到这种评论我是真的笑的难受，脑子里面长了个瘤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727273302857822208",
+        "conversation_id": "2068285367493787993",
+        "created_at": "2026-06-20T10:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068285367493787993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068285367493787993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 32988,
+          "like_count": 467,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "那种塌一个网黄就有人跳出来喊“都怪你们我没片看了”，我看到这种评论我是真的笑的难受，脑子里面长了个瘤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 114,
+          "like_count": 21802,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 4330
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "name": "sisi",
+        "pinned_tweet_id": "2068280598838534159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13555,
+          "following_count": 9,
+          "like_count": 2418,
+          "listed_count": 33,
+          "media_count": 168,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "sisi7758",
+        "verified": false
+      }
+    ]
+  }
+}

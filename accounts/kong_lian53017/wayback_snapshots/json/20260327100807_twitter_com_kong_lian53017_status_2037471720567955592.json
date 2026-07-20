@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037471720567955592",
+    "created_at": "2026-03-27T10:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037471720567955592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037471720567955592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给暧昧对象发二十条消息他忙到只能回我三条，再也不要发了……我的高需求后男友在哪我请问了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037471720567955592",
+        "created_at": "2026-03-27T10:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037471720567955592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037471720567955592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给暧昧对象发二十条消息他忙到只能回我三条，再也不要发了……我的高需求后男友在哪我请问了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 55,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 393
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

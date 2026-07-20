@@ -1,0 +1,126 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1815728443516211548",
+    "created_at": "2024-07-23T13:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T14:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815734381023236362"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1815734381023236362",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815728443516211548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只对特别讨厌的人适用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1815728443516211548",
+        "created_at": "2024-07-23T13:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T14:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815734381023236362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815734381023236362",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815728443516211548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只对特别讨厌的人适用"
+      },
+      {
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1815728443516211548",
+        "created_at": "2024-07-23T12:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T13:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815728443516211548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815728443516211548",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的生气的时候就应该什么都不说冷着对方 疯狂发一些激烈的具有侮辱性的词汇只会显得很在意对方 而且那副模样也算不上好看 虽然很讨厌冷暴力但是现在才明白原来冷暴力才是惩罚厌恶的人最有效的手段 有些人真是恶心到直接骂怕他会爽到的程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "发碎碎念┃好说话 心情不好的时候不聊天┃天塌下来我也要搞纯爱┃switch┃分享欲旺盛的i人┃双标 只对喜欢的人特别┃回避型┃网络社交不涉三┃不图不文不磕炮 直接发图发视频我会已读不回",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815255011137576960/W9JysngA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 22,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

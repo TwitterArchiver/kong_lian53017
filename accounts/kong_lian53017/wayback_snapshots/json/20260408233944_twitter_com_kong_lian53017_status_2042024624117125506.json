@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2041598072808190349",
+    "created_at": "2026-04-08T23:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T00:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042024624117125506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012213944572858368",
+          "start": 0,
+          "username": "wxSCQdKBYf21348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042024624117125506",
+    "in_reply_to_user_id": "2012213944572858368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041889552244355462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxSCQdKBYf21348 今天好了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2041598072808190349",
+        "created_at": "2026-04-08T23:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042024624117125506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012213944572858368",
+              "start": 0,
+              "username": "wxSCQdKBYf21348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042024624117125506",
+        "in_reply_to_user_id": "2012213944572858368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041889552244355462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxSCQdKBYf21348 今天好了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012213944572858368",
+        "conversation_id": "2041598072808190349",
+        "created_at": "2026-04-08T14:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041889552244355462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041889552244355462",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041598072808190349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 网络卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 78,
+          "like_count": 3329,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1439
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T17:23:48.000Z",
+        "description": "06，刚玩x新人一个|男|纯色|\nimnb |中中混血 |双非|绩点0.1/4 |0年国奖|人生是睡觉|我命由天不由我|拼好饭|都怪资本|A1家庭|莫欺少年穷|莫欺中年穷|莫欺老年穷|我要从今天开始锻炼！",
+        "id": "2012213944572858368",
+        "name": "抽象",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037958190927888384/q_RwGmsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 273
+        },
+        "username": "wxSCQdKBYf21348",
+        "verified": false
+      }
+    ]
+  }
+}

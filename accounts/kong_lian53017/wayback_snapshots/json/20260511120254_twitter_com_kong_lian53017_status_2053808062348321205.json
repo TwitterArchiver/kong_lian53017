@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2053771955296145761",
+    "created_at": "2026-05-11T12:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053808062348321205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2033511101703364608",
+          "start": 0,
+          "username": "Maxu4o4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053808062348321205",
+    "in_reply_to_user_id": "2033511101703364608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053771955296145761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxu4o4 如此美萌！冰美式我笑纳了，你我更是笑纳了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053771940511227904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB2stPWIAAX3I9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2053771955296145761",
+        "created_at": "2026-05-11T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053808062348321205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2033511101703364608",
+              "start": 0,
+              "username": "Maxu4o4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053808062348321205",
+        "in_reply_to_user_id": "2033511101703364608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053771955296145761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxu4o4 如此美萌！冰美式我笑纳了，你我更是笑纳了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053771940511227904"
+          ]
+        },
+        "author_id": "2033511101703364608",
+        "conversation_id": "2053771955296145761",
+        "created_at": "2026-05-11T09:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053771955296145761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKtvMbr2yC",
+              "end": 33,
+              "expanded_url": "https://x.com/Maxu4o4/status/2053771955296145761/photo/1",
+              "media_key": "3_2053771940511227904",
+              "start": 10,
+              "url": "https://t.co/aKtvMbr2yC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053771955296145761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天热就要喝冰美式🥤 https://t.co/aKtvMbr2yC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 106,
+          "like_count": 14243,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 4895
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:51:45.000Z",
+        "description": "“哲学是我的远星。”\nshe/her！声控。私聊易冷场请谨慎⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/max11352",
+                "end": 23,
+                "expanded_url": "https://ngl.link/max11352",
+                "start": 0,
+                "url": "https://t.co/yySXwVcjYt"
+              }
+            ]
+          }
+        },
+        "id": "2033511101703364608",
+        "name": "麦颗丝",
+        "pinned_tweet_id": "2042615711621644375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033511770527076352/kQEeGQUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 56,
+          "like_count": 5923,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/yySXwVcjYt",
+        "username": "Maxu4o4",
+        "verified": false
+      }
+    ]
+  }
+}

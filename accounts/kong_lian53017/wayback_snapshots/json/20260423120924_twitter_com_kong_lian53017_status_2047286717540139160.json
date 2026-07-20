@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047286715375902950",
+    "created_at": "2026-04-23T12:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047286717540139160"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047286717540139160",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047286715375902950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我弟都18了再过几年估计就不操心我要开始操心他这方面的事了。我弟是个二次元社恐宅男，难度更是重量级。太惨了弟🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047286715375902950",
+        "created_at": "2026-04-23T12:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047286717540139160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047286717540139160",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047286715375902950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我弟都18了再过几年估计就不操心我要开始操心他这方面的事了。我弟是个二次元社恐宅男，难度更是重量级。太惨了弟🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047286715375902950",
+        "created_at": "2026-04-23T12:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047286715375902950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047286715375902950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又探我口风劝我三十岁之前找个有车有房的男朋友结婚，不然以后养老压力大，老了也没人照顾。我说老了就死呗。我又不是独生女，给他们养老有我弟一起。而且现在好的都不流通了，找个老了还得照顾他的就完蛋了。结婚受罪干什么，问就是不结不生。然后我妈没话说了说让我自己考虑清楚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 101,
+          "like_count": 9032,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 3797
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1816973805463699821",
+    "created_at": "2024-07-26T23:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T00:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816973805463699821"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1816973805463699821",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我服了 梦见找男小三被抓包了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1816973805463699821",
+        "created_at": "2024-07-26T23:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T00:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816973805463699821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816973805463699821",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了 梦见找男小三被抓包了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "发碎碎念┃00年狮子座┃天塌下来我也要搞纯爱┃switch┃只对喜欢的人特别┃回避型┃网络社交不涉三┃不图不文不磕炮 直接发图发视频我会已读不回",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815255011137576960/W9JysngA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

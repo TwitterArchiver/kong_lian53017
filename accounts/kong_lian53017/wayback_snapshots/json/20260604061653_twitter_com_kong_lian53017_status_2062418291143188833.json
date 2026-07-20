@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2062418291143188833",
+    "created_at": "2026-06-04T06:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062418291143188833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yayakawai333/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yayakawai333/status/2062416367375303081",
+          "start": 2,
+          "url": "https://t.co/5DQVDuGC7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062418291143188833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062416367375303081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/5DQVDuGC7A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2062418291143188833",
+        "created_at": "2026-06-04T06:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062418291143188833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yayakawai333/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yayakawai333/status/2062416367375303081",
+              "start": 2,
+              "url": "https://t.co/5DQVDuGC7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062418291143188833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062416367375303081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/5DQVDuGC7A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037546020029292544",
+        "conversation_id": "2062416367375303081",
+        "created_at": "2026-06-04T06:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062416367375303081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062416367375303081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙突然靠近的男人果然没有好东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 115,
+          "like_count": 19589,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 4287
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T15:05:16.000Z",
+        "description": "……",
+        "id": "2037546020029292544",
+        "name": "クラス~",
+        "pinned_tweet_id": "2056745265424630100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062082555864821760/apGImhJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 99,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 735
+        },
+        "username": "yayakawai333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047990484472303718",
+    "created_at": "2026-04-25T10:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047991620692586918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1931829992427601920",
+          "start": 0,
+          "username": "zhanxie_0439"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047991620692586918",
+    "in_reply_to_user_id": "1931829992427601920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047990484472303718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhanxie_0439 美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5916,
+        "height": 854,
+        "media_key": "13_2047990469477670912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047990469477670912/img/MoDdVdKZ2PSnTj3s.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047990469477670912/vid/avc1/320x692/AU47fvuGXQuMlCY_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047990469477670912/vid/avc1/394x854/EEUCCjt660nMNlL1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047990469477670912/pl/4mRXSCryjP38u8kR.m3u8"
+          }
+        ],
+        "width": 394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047990484472303718",
+        "created_at": "2026-04-25T10:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047991620692586918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1931829992427601920",
+              "start": 0,
+              "username": "zhanxie_0439"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047991620692586918",
+        "in_reply_to_user_id": "1931829992427601920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047990484472303718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhanxie_0439 美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047990469477670912"
+          ]
+        },
+        "author_id": "1931829992427601920",
+        "conversation_id": "2047990484472303718",
+        "created_at": "2026-04-25T10:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047990484472303718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFrGLtoEvo",
+              "end": 40,
+              "expanded_url": "https://x.com/zhanxie_0439/status/2047990484472303718/video/1",
+              "media_key": "13_2047990469477670912",
+              "start": 17,
+              "url": "https://t.co/RFrGLtoEvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047990484472303718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别骂我！别骂我！发音不准别骂我！ https://t.co/RFrGLtoEvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 102,
+          "like_count": 9805,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 4129
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T21:45:57.000Z",
+        "description": "青年 双鱼 INTP 直男 此男极为变态（接陪聊 其他）只回关注的私信 爱视奸 碎碎念@siemun439 匿名https://t.co/Acu5G4HVv2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "siemun439"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhanxie0439",
+                "end": 79,
+                "expanded_url": "https://ngl.link/zhanxie0439",
+                "start": 56,
+                "url": "https://t.co/Acu5G4HVv2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhanxie0439",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhanxie0439",
+                "start": 0,
+                "url": "https://t.co/Acu5G4HVv2"
+              }
+            ]
+          }
+        },
+        "id": "1931829992427601920",
+        "location": "1.0km",
+        "name": "尼罗河",
+        "pinned_tweet_id": "1998313807417073678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046632197017542657/MDFmYOHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9993,
+          "following_count": 35,
+          "like_count": 52943,
+          "listed_count": 14,
+          "media_count": 243,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/Acu5G4HVv2",
+        "username": "zhanxie_0439",
+        "verified": false
+      }
+    ]
+  }
+}

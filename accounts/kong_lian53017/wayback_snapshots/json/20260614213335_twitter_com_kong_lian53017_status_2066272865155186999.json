@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066135224019468288"
+      ],
+      "media_source_tweet_id": [
+        "2066135240658284633"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2066272865155186999",
+    "created_at": "2026-06-14T21:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066272865155186999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1785682886089232384",
+          "start": 3,
+          "username": "MomokoOoum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rAUeEP024Y",
+          "end": 52,
+          "expanded_url": "https://x.com/MomokoOoum/status/2066135240658284633/photo/1",
+          "media_key": "3_2066135224019468288",
+          "start": 29,
+          "url": "https://t.co/rAUeEP024Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066272865155186999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066135240658284633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @MomokoOoum: 有一个重要的事情跟你们说 https://t.co/rAUeEP024Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2066135224019468288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxjChWaQAABN3v.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066135224019468288"
+          ],
+          "media_source_tweet_id": [
+            "2066135240658284633"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2066272865155186999",
+        "created_at": "2026-06-14T21:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066272865155186999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1785682886089232384",
+              "start": 3,
+              "username": "MomokoOoum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAUeEP024Y",
+              "end": 52,
+              "expanded_url": "https://x.com/MomokoOoum/status/2066135240658284633/photo/1",
+              "media_key": "3_2066135224019468288",
+              "start": 29,
+              "url": "https://t.co/rAUeEP024Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066272865155186999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066135240658284633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @MomokoOoum: 有一个重要的事情跟你们说 https://t.co/rAUeEP024Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066135224019468288"
+          ]
+        },
+        "author_id": "1785682886089232384",
+        "conversation_id": "2066135240658284633",
+        "created_at": "2026-06-14T12:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066135240658284633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAUeEP024Y",
+              "end": 36,
+              "expanded_url": "https://x.com/MomokoOoum/status/2066135240658284633/photo/1",
+              "media_key": "3_2066135224019468288",
+              "start": 13,
+              "url": "https://t.co/rAUeEP024Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066135240658284633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2422,
+          "like_count": 169,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "有一个重要的事情跟你们说 https://t.co/rAUeEP024Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 114,
+          "like_count": 21273,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 4323
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:49:38.000Z",
+        "description": "infpuppy 日记本 不接推广勿私信",
+        "id": "1785682886089232384",
+        "location": "止于推 骚扰我的我要把你们头扭下来当球踢",
+        "name": "Momoko",
+        "pinned_tweet_id": "1939154257619677510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813209043705733120/C05okhTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8266,
+          "following_count": 47,
+          "like_count": 4957,
+          "listed_count": 27,
+          "media_count": 612,
+          "tweet_count": 4567
+        },
+        "username": "MomokoOoum",
+        "verified": false
+      }
+    ]
+  }
+}

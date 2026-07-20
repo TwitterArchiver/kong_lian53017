@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2059018084011376916",
+    "created_at": "2026-05-25T21:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T22:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059018084011376916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoxer15/status…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/hoxer15/status/2058906712908952049",
+          "start": 72,
+          "url": "https://t.co/zRECXlFGtH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059018084011376916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058906712908952049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就算你不喜欢自己我也会喜欢你，就算你不相信自己我也会相信你，就算你否定自己我也会肯定你。无论你是怎样的人无论你处于怎样的境地我都会陪在你身边。 https://t.co/zRECXlFGtH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2059018084011376916",
+        "created_at": "2026-05-25T21:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059018084011376916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoxer15/status…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/hoxer15/status/2058906712908952049",
+              "start": 72,
+              "url": "https://t.co/zRECXlFGtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059018084011376916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058906712908952049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就算你不喜欢自己我也会喜欢你，就算你不相信自己我也会相信你，就算你否定自己我也会肯定你。无论你是怎样的人无论你处于怎样的境地我都会陪在你身边。 https://t.co/zRECXlFGtH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2058906712908952049",
+        "created_at": "2026-05-25T13:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058906712908952049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058906712908952049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 675,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没关系的。你怎么样都没关系。想躲起来也没关系。不想面对也没关系。脏脏的旧旧的也没关系。碎掉了也没关系。我把你藏起来，我把你裹起来，我把你擦干净，我把你拼起来，我捂住你的耳朵。只要闭上眼睛额头靠着额头，这个世界就只剩下我们两个了，不要害怕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 114,
+          "like_count": 17513,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 5899
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055922171453775872/uBdHwtjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 212,
+          "like_count": 24501,
+          "listed_count": 0,
+          "media_count": 563,
+          "tweet_count": 13232
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

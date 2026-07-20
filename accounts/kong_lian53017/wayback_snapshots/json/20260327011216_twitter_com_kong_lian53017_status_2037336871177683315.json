@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037336871177683315",
+    "created_at": "2026-03-27T01:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T02:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037336871177683315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chy79872448730…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/chy798724487304/status/2037164356589511085",
+          "start": 4,
+          "url": "https://t.co/QwYFo0Ix0j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037336871177683315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037164356589511085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我跪求 https://t.co/QwYFo0Ix0j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037336871177683315",
+        "created_at": "2026-03-27T01:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037336871177683315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chy79872448730…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/chy798724487304/status/2037164356589511085",
+              "start": 4,
+              "url": "https://t.co/QwYFo0Ix0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037336871177683315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037164356589511085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我跪求 https://t.co/QwYFo0Ix0j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784103367889080320",
+        "conversation_id": "2037164356589511085",
+        "created_at": "2026-03-26T13:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037164356589511085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037164356589511085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3161,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求年上撒娇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 53,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 384
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T06:12:52.000Z",
+        "description": "🚪｜bratttt😋｜一些碎碎念&涩涩｜不线下 那些月抛自我介绍的人别给我发私信｜有话直说｜手控控控🤤！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimiovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mimiovo",
+                "start": 0,
+                "url": "https://t.co/Dt3EZGmLBw"
+              }
+            ]
+          }
+        },
+        "id": "1784103367889080320",
+        "name": "一只萌郁咪",
+        "pinned_tweet_id": "1825768332366328129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017982810188103680/CeeziVl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17825,
+          "following_count": 429,
+          "like_count": 60469,
+          "listed_count": 60,
+          "media_count": 205,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/Dt3EZGmLBw",
+        "username": "chy798724487304",
+        "verified": false
+      }
+    ]
+  }
+}

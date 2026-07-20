@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058935331790131667",
+    "created_at": "2026-05-25T15:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058935331790131667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kong_lian53017…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/kong_lian53017/status/2058934127597080660",
+          "start": 137,
+          "url": "https://t.co/pUQdookkbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058935331790131667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058934127597080660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起痛苦。我昨天刷到一个讨论为何现在的人要美化痛苦的视频。我觉得我有时候也会这样，会整理措辞把我痛苦的感受写得相对来说可接受一点，毕竟要放在公共平台，也不想让人特别担心。但其实痛苦就痛苦啊，真实的痛苦就是狼狈不堪又折磨。没有为什么，只是痛苦。只要活着就需要跟这份痛苦共存。 https://t.co/pUQdookkbY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058935331790131667",
+        "created_at": "2026-05-25T15:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058935331790131667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kong_lian53017…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/kong_lian53017/status/2058934127597080660",
+              "start": 137,
+              "url": "https://t.co/pUQdookkbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058935331790131667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058934127597080660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起痛苦。我昨天刷到一个讨论为何现在的人要美化痛苦的视频。我觉得我有时候也会这样，会整理措辞把我痛苦的感受写得相对来说可接受一点，毕竟要放在公共平台，也不想让人特别担心。但其实痛苦就痛苦啊，真实的痛苦就是狼狈不堪又折磨。没有为什么，只是痛苦。只要活着就需要跟这份痛苦共存。 https://t.co/pUQdookkbY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058934127597080660",
+        "created_at": "2026-05-25T15:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058934127597080660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058934127597080660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我是自由随性洒脱浪漫的。如果选择幸福会被条条框框束缚那我宁愿自由地痛苦着并享受这份痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17429,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 5884
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

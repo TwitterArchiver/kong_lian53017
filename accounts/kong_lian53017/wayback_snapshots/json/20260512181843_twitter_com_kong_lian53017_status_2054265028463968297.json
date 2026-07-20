@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2054264501059633159",
+    "created_at": "2026-05-12T18:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054265028463968297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705662085793976320",
+          "start": 0,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054265028463968297",
+    "in_reply_to_user_id": "1705662085793976320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054264501059633159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupidest_Lover 真去死吧这种东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2054264501059633159",
+        "created_at": "2026-05-12T18:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054265028463968297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705662085793976320",
+              "start": 0,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054265028463968297",
+        "in_reply_to_user_id": "1705662085793976320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054264501059633159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupidest_Lover 真去死吧这种东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705662085793976320",
+        "conversation_id": "2054264501059633159",
+        "created_at": "2026-05-12T18:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054264501059633159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiejiaozi/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/xiejiaozi/status/2054263026782765283",
+              "start": 88,
+              "url": "https://t.co/RtYxqrO3cD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054264501059633159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054263026782765283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去死吧，，搞代孕，诱导别人卖卵的\n。。。。。。。。。。。。。。。。\n好奇点进主页（本来就感觉没安好心）\n看到代孕卖卵，真的生理不适加生气\n子宫可以买卖，真的是件很恐怖的事情呀 https://t.co/RtYxqrO3cD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 110,
+          "like_count": 14643,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5093
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页很话唠 没有陪聊的义务 忧郁 抽象 发骚ing\n想要变得温和平静善良自信不卑不亢有钱 女权主义\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 73,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 50,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "🚪8888 不约不线下不v不q 可赞赏码投喂，喵~",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 115,
+          "like_count": 15747,
+          "listed_count": 7,
+          "media_count": 77,
+          "tweet_count": 2043
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043072318541562285",
+    "created_at": "2026-04-11T21:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043072318541562285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yayayyyyy520/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yayayyyyy520/status/2042946773556363405",
+          "start": 15,
+          "url": "https://t.co/C0y4MkAYQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043072318541562285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042946773556363405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想跟后男友戴。后男友你在哪？ https://t.co/C0y4MkAYQF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043072318541562285",
+        "created_at": "2026-04-11T21:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043072318541562285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yayayyyyy520/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yayayyyyy520/status/2042946773556363405",
+              "start": 15,
+              "url": "https://t.co/C0y4MkAYQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043072318541562285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042946773556363405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想跟后男友戴。后男友你在哪？ https://t.co/C0y4MkAYQF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656893344482758656",
+        "conversation_id": "2042946773556363405",
+        "created_at": "2026-04-11T12:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042946773556363405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042946773556363405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6784,
+          "like_count": 132,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我从未和任何前任戴过情侣对戒\n在我个人看来戒指不是随便戴的 对戒的含义太重了 只有感情好到让我觉得非他不可的时候 我才会想戴戒指\n小小的指环好像圈住你也圈住了我 在见不到面的日子里轻微转动戒指就好像你还在我身边 但也会思考分开后戒指的去留 害怕摘下后看到手指上的戒痕 那是我们相爱过的痕迹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 85,
+          "like_count": 4470,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1925
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T05:25:44.000Z",
+        "description": "不出yw 不接线下。私信随缘回。",
+        "id": "1656893344482758656",
+        "name": "yayayyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966407421477498880/Cal4wn36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8472,
+          "following_count": 78,
+          "like_count": 876,
+          "listed_count": 27,
+          "media_count": 416,
+          "tweet_count": 2070
+        },
+        "username": "yayayyyyy520",
+        "verified": false
+      }
+    ]
+  }
+}

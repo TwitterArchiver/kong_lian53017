@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060752335153094656"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060752337304744224",
+    "created_at": "2026-05-30T15:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060752337304744224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BE7VIFtgsq",
+          "end": 38,
+          "expanded_url": "https://x.com/kong_lian53017/status/2060752337304744224/photo/1",
+          "media_key": "3_2060752335153094656",
+          "start": 15,
+          "url": "https://t.co/BE7VIFtgsq"
+        },
+        {
+          "display_url": "x.com/kong_lian53017…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/kong_lian53017/status/2060741053133828393",
+          "start": 39,
+          "url": "https://t.co/1nxDxsBY3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060752337304744224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060741053133828393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "遇到难回答的问题又不讲话了。 https://t.co/BE7VIFtgsq https://t.co/1nxDxsBY3k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2060752335153094656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlDVJrbYAAWjV1.jpg",
+        "width": 397
+      },
+      {
+        "height": 192,
+        "media_key": "3_2060741050491351040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk5ETCaMAAUQEv.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060752335153094656"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060752337304744224",
+        "created_at": "2026-05-30T15:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060752337304744224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BE7VIFtgsq",
+              "end": 38,
+              "expanded_url": "https://x.com/kong_lian53017/status/2060752337304744224/photo/1",
+              "media_key": "3_2060752335153094656",
+              "start": 15,
+              "url": "https://t.co/BE7VIFtgsq"
+            },
+            {
+              "display_url": "x.com/kong_lian53017…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kong_lian53017/status/2060741053133828393",
+              "start": 39,
+              "url": "https://t.co/1nxDxsBY3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060752337304744224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060741053133828393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遇到难回答的问题又不讲话了。 https://t.co/BE7VIFtgsq https://t.co/1nxDxsBY3k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060741050491351040"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060741053133828393",
+        "created_at": "2026-05-30T15:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060741053133828393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSdwAyFQTI",
+              "end": 30,
+              "expanded_url": "https://x.com/kong_lian53017/status/2060741053133828393/photo/1",
+              "media_key": "3_2060741050491351040",
+              "start": 7,
+              "url": "https://t.co/oSdwAyFQTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060741053133828393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要饭的来了。 https://t.co/oSdwAyFQTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 113,
+          "like_count": 18650,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 6025
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

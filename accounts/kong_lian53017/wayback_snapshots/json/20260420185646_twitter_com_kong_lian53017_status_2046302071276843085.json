@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046302071276843085",
+    "created_at": "2026-04-20T18:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T19:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046302071276843085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yi0214owo/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yi0214owo/status/2046222791976886481",
+          "start": 7,
+          "url": "https://t.co/fZo7DH4raO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046302071276843085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046222791976886481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不秒回的不要 https://t.co/fZo7DH4raO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046302071276843085",
+        "created_at": "2026-04-20T18:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046302071276843085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yi0214owo/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yi0214owo/status/2046222791976886481",
+              "start": 7,
+              "url": "https://t.co/fZo7DH4raO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046302071276843085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046222791976886481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不秒回的不要 https://t.co/fZo7DH4raO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830802483314307072",
+        "conversation_id": "2046222791976886481",
+        "created_at": "2026-04-20T13:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046222791976886481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046222791976886481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6316,
+          "like_count": 54,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "期待男人回消息就是倒霉的开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 97,
+          "like_count": 7943,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3375
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T02:58:34.000Z",
+        "description": "嗯。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiiii11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiiii11",
+                "start": 0,
+                "url": "https://t.co/2EPxu7uUpr"
+              }
+            ]
+          }
+        },
+        "id": "1830802483314307072",
+        "name": "乱情小姨子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902879184290189314/U0axHL2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 33,
+          "like_count": 1221,
+          "listed_count": 7,
+          "media_count": 70,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/2EPxu7uUpr",
+        "username": "yi0214owo",
+        "verified": false
+      }
+    ]
+  }
+}

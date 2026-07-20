@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034529670306365771",
+    "created_at": "2026-03-19T07:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034529670306365771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutedreamvibes…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cutedreamvibes/status/2034350114722939311",
+          "start": 6,
+          "url": "https://t.co/MYVXFgI3al"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034529670306365771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034350114722939311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢🥺🥺🥺 https://t.co/MYVXFgI3al"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2034350107542618112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDt2pPTbAAA7O7c.jpg",
+        "width": 736
+      },
+      {
+        "height": 817,
+        "media_key": "3_2034350107387125760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDt2pOuWYAAkuS2.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034529670306365771",
+        "created_at": "2026-03-19T07:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034529670306365771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutedreamvibes…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cutedreamvibes/status/2034350114722939311",
+              "start": 6,
+              "url": "https://t.co/MYVXFgI3al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034529670306365771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034350114722939311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢🥺🥺🥺 https://t.co/MYVXFgI3al"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034350107542618112",
+            "3_2034350107387125760"
+          ]
+        },
+        "author_id": "1880665153634504704",
+        "conversation_id": "2034350114722939311",
+        "created_at": "2026-03-18T19:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T20:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034350114722939311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Tct4rl9as",
+              "end": 23,
+              "expanded_url": "https://x.com/cutedreamvibes/status/2034350114722939311/photo/1",
+              "media_key": "3_2034350107542618112",
+              "start": 0,
+              "url": "https://t.co/5Tct4rl9as"
+            },
+            {
+              "display_url": "pic.x.com/5Tct4rl9as",
+              "end": 23,
+              "expanded_url": "https://x.com/cutedreamvibes/status/2034350114722939311/photo/1",
+              "media_key": "3_2034350107387125760",
+              "start": 0,
+              "url": "https://t.co/5Tct4rl9as"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034350114722939311",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 612,
+          "impression_count": 171464,
+          "like_count": 8410,
+          "quote_count": 195,
+          "reply_count": 7,
+          "retweet_count": 1202
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5Tct4rl9as"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 0,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 188
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T17:14:54.000Z",
+        "description": "",
+        "id": "1880665153634504704",
+        "name": "only cute things",
+        "pinned_tweet_id": "1904617854072221995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893467133624864769/icQ2gNAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180179,
+          "following_count": 13,
+          "like_count": 6276,
+          "listed_count": 432,
+          "media_count": 13598,
+          "tweet_count": 14267
+        },
+        "username": "cutedreamvibes",
+        "verified": true
+      }
+    ]
+  }
+}

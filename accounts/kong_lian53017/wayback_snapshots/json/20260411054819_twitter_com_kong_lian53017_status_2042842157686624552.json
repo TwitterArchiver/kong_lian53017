@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042841594144133266",
+    "created_at": "2026-04-11T05:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042842157686624552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957852552286060544",
+          "start": 0,
+          "username": "qi_si72468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042842157686624552",
+    "in_reply_to_user_id": "1957852552286060544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042841594144133266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si72468 这太坏了。如果真的特别想吃可以去问一下供应商（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042841590549614593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmhmmkakAEpqck.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042841589979205632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmhmkca0AAADhS.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042841594144133266",
+        "created_at": "2026-04-11T05:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042842157686624552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957852552286060544",
+              "start": 0,
+              "username": "qi_si72468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042842157686624552",
+        "in_reply_to_user_id": "1957852552286060544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042841594144133266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si72468 这太坏了。如果真的特别想吃可以去问一下供应商（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042841590549614593",
+            "3_2042841589979205632"
+          ]
+        },
+        "author_id": "1957852552286060544",
+        "conversation_id": "2042841594144133266",
+        "created_at": "2026-04-11T05:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042841594144133266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dppejcz7Ur",
+              "end": 34,
+              "expanded_url": "https://x.com/qi_si72468/status/2042841594144133266/photo/1",
+              "media_key": "3_2042841590549614593",
+              "start": 11,
+              "url": "https://t.co/Dppejcz7Ur"
+            },
+            {
+              "display_url": "pic.x.com/Dppejcz7Ur",
+              "end": 34,
+              "expanded_url": "https://x.com/qi_si72468/status/2042841594144133266/photo/1",
+              "media_key": "3_2042841589979205632",
+              "start": 11,
+              "url": "https://t.co/Dppejcz7Ur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042841594144133266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会永远想念我的薯条 https://t.co/Dppejcz7Ur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 91,
+          "like_count": 4232,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1822
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2037821389626085494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040268323246813185/dqLPTa68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 51,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      }
+    ]
+  }
+}

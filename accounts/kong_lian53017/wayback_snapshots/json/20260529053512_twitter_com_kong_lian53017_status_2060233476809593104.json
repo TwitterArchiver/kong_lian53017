@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dance",
+          "id": "847870201580232704",
+          "name": "Dance"
+        }
+      }
+    ],
+    "conversation_id": "2060233476809593104",
+    "created_at": "2026-05-29T05:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060233476809593104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "862875254338846721",
+          "start": 3,
+          "username": "_Pammy_DS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060233476809593104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060005693558526389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Pammy_DS_: Intimacy isn't just about sex. It's having heart-to-hearts, going on dates, dancing, cuddIing, sharing chiIdhood memories,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2060233476809593104",
+        "created_at": "2026-05-29T05:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060233476809593104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "862875254338846721",
+              "start": 3,
+              "username": "_Pammy_DS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060233476809593104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060005693558526389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Pammy_DS_: Intimacy isn't just about sex. It's having heart-to-hearts, going on dates, dancing, cuddIing, sharing chiIdhood memories,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "862875254338846721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2060005693558526389",
+        "created_at": "2026-05-28T14:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060005693558526389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060005693558526389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 27573,
+          "like_count": 359,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "Intimacy isn't just about sex. It's having heart-to-hearts, going on dates, dancing, cuddIing, sharing chiIdhood memories, thoughts, fears, dreams &amp; hopes for the future. It's uncontrollable laughter, direct eye contact &amp; feeling each other without touching–it's exchanging energy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 111,
+          "like_count": 18160,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 5968
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-12T03:41:06.000Z",
+        "description": "What's the meaning of it all  ¯\\_(ツ)_/¯ \n\n🩷 MY ONLY ACCOUNT 🩷\n\n~ INFJ ~ Life path 33\n☀️♉🌙♏ ⇡ ♒ 888 555 777 ✨",
+        "id": "862875254338846721",
+        "location": "Glasgow, Scotland",
+        "name": "𝙋𝙖𝙢𝙢𝙮 ✨️",
+        "pinned_tweet_id": "1632415704052908042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1312181442978480129/7BRliyMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377635,
+          "following_count": 858,
+          "like_count": 333277,
+          "listed_count": 1480,
+          "media_count": 694,
+          "tweet_count": 60756
+        },
+        "username": "_Pammy_DS_",
+        "verified": true
+      }
+    ]
+  }
+}

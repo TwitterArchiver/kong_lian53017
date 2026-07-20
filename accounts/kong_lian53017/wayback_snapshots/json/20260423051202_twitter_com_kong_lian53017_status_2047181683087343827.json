@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047020437071388862",
+    "created_at": "2026-04-23T05:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047181683087343827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1057668616408064001",
+          "start": 0,
+          "username": "HK416ABC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047181683087343827",
+    "in_reply_to_user_id": "1057668616408064001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047180188983959891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HK416ABC 😠😠😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047020437071388862",
+        "created_at": "2026-04-23T05:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047181683087343827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1057668616408064001",
+              "start": 0,
+              "username": "HK416ABC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047181683087343827",
+        "in_reply_to_user_id": "1057668616408064001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047180188983959891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HK416ABC 😠😠😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057668616408064001",
+        "conversation_id": "2047020437071388862",
+        "created_at": "2026-04-23T05:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047180188983959891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047180188983959891",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047020437071388862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 笑得我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 101,
+          "like_count": 8916,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3752
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 785,
+          "like_count": 5216,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2172
+        },
+        "username": "HK416ABC",
+        "verified": false
+      }
+    ]
+  }
+}

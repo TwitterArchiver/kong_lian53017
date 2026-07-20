@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038575290809749949",
+    "created_at": "2026-03-30T11:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038575290809749949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1316611332922200069",
+          "start": 0,
+          "username": "BRAmMRDZsG2fKU2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/creepioi/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/creepioi/status/2038520103218950654",
+          "start": 17,
+          "url": "https://t.co/wQPl0mmKLq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038575290809749949",
+    "in_reply_to_user_id": "1316611332922200069",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038520103218950654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BRAmMRDZsG2fKU2 https://t.co/wQPl0mmKLq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038575290809749949",
+        "created_at": "2026-03-30T11:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038575290809749949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1316611332922200069",
+              "start": 0,
+              "username": "BRAmMRDZsG2fKU2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/creepioi/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/creepioi/status/2038520103218950654",
+              "start": 17,
+              "url": "https://t.co/wQPl0mmKLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038575290809749949",
+        "in_reply_to_user_id": "1316611332922200069",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038520103218950654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BRAmMRDZsG2fKU2 https://t.co/wQPl0mmKLq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933730779571638272",
+        "conversation_id": "2038520103218950654",
+        "created_at": "2026-03-30T07:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038520103218950654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038520103218950654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6589,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "啊我真的好喜欢骚骚的男的啊萌死了萌死了萌死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 66,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 731
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:26:26.000Z",
+        "description": "推纯属发疯其实我是搞纯爱的/射手别钓我 我承认你是神/人格很多如果被你讨厌了那是你的问题嘻嘻😁",
+        "id": "1316611332922200069",
+        "location": "香港",
+        "name": "游呐王子",
+        "pinned_tweet_id": "1392116077543399424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977811457791475712/3fLEsTgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 37,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 650
+        },
+        "username": "BRAmMRDZsG2fKU2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T03:38:46.000Z",
+        "description": "我有抑郁症、焦虑症、双向情感障碍症、幻想症、被害妄想症、被爱妄想症、虚无妄想症、多动症、自闭症、失眠症、嗜睡症、精神分裂症、人格分裂症、洁癖、恋物癖、拖延癖、晚睡癖、偷窥癖、自虐癖、恋足癖、暴露癖、施虐癖、小猫癖、气味癖、依赖癖、撒娇癖、粘人癖、已读不回内心戏癖、突然自慰癖",
+        "id": "1933730779571638272",
+        "location": "我来自地狱🚪",
+        "name": "creep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038460351008923649/9LLk3Awt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15389,
+          "following_count": 111,
+          "like_count": 2374,
+          "listed_count": 15,
+          "media_count": 14,
+          "tweet_count": 994
+        },
+        "username": "creepioi",
+        "verified": false
+      }
+    ]
+  }
+}

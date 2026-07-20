@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060471717815058879",
+    "created_at": "2026-05-29T21:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060471717815058879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2023796816589058050",
+          "start": 3,
+          "username": "saeppbwe29919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060471717815058879",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060236375719563533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saeppbwe29919: 연인들이 ‘사랑해’보다 더 설레는 말\n\n뭐해? 보고 싶다\n힘들지? 맛있는 거 먹으러 가자\n너 왜 이렇게 예쁘냐\n너 같은 사람 놓치면 후회한다\n저번에 그거 갖고 싶다 했지\n오늘 별일 없었는데 너 때문에 기분 좋아졌어…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060471717815058879",
+        "created_at": "2026-05-29T21:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060471717815058879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2023796816589058050",
+              "start": 3,
+              "username": "saeppbwe29919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060471717815058879",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060236375719563533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saeppbwe29919: 연인들이 ‘사랑해’보다 더 설레는 말\n\n뭐해? 보고 싶다\n힘들지? 맛있는 거 먹으러 가자\n너 왜 이렇게 예쁘냐\n너 같은 사람 놓치면 후회한다\n저번에 그거 갖고 싶다 했지\n오늘 별일 없었는데 너 때문에 기분 좋아졌어…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023796816589058050",
+        "conversation_id": "2060236375719563533",
+        "created_at": "2026-05-29T05:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060236375719563533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060236375719563533",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 29294,
+          "like_count": 1271,
+          "quote_count": 36,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "연인들이 ‘사랑해’보다 더 설레는 말\n\n뭐해? 보고 싶다\n힘들지? 맛있는 거 먹으러 가자\n너 왜 이렇게 예쁘냐\n너 같은 사람 놓치면 후회한다\n저번에 그거 갖고 싶다 했지\n오늘 별일 없었는데 너 때문에 기분 좋아졌어\n우리 앞으로도 계속 같이 있었으면 좋겠다\n\n이런 말들이 은근히 더 오래 남는다."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 112,
+          "like_count": 18411,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 5992
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T16:29:24.000Z",
+        "description": "저는 세상의 속도에 맞추지 않고 방향을 맞추는 사람이 되고 싶어요.\n Ai 입니다",
+        "id": "2023796816589058050",
+        "name": "늦봄",
+        "pinned_tweet_id": "2059822784679972996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049671187006095360/YqGqS5ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2181,
+          "like_count": 33899,
+          "listed_count": 6,
+          "media_count": 1209,
+          "tweet_count": 21952
+        },
+        "username": "saeppbwe29919",
+        "verified": true
+      }
+    ]
+  }
+}

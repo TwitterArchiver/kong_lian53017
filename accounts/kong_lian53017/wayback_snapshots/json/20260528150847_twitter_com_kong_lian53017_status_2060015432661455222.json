@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060015432661455222",
+    "created_at": "2026-05-28T15:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060015432661455222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ethanhwong05/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ethanhwong05/status/2059875933428072537",
+          "start": 9,
+          "url": "https://t.co/VjVbdDLS1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060015432661455222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059875933428072537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实际上三个都发😹 https://t.co/VjVbdDLS1w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060015432661455222",
+        "created_at": "2026-05-28T15:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060015432661455222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ethanhwong05/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ethanhwong05/status/2059875933428072537",
+              "start": 9,
+              "url": "https://t.co/VjVbdDLS1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060015432661455222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059875933428072537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上三个都发😹 https://t.co/VjVbdDLS1w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973666613762334722",
+        "conversation_id": "2059875933428072537",
+        "created_at": "2026-05-28T05:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059875933428072537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059875933428072537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我玩x其实是为了戒微博和发朋友圈，后来我发现x比微博微信都好玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 111,
+          "like_count": 18013,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 5937
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T08:29:45.000Z",
+        "description": "05ENTP｜男孩",
+        "id": "1973666613762334722",
+        "name": "发条橙鱼",
+        "pinned_tweet_id": "2059210443630239826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059267804940165120/yQLgduE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 129,
+          "like_count": 3557,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 528
+        },
+        "username": "ethanhwong05",
+        "verified": false
+      }
+    ]
+  }
+}

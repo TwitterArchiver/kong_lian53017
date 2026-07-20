@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2077834594385039723",
+    "created_at": "2026-07-16T20:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T21:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077845769055502632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2019305666465394689",
+          "start": 0,
+          "username": "Xuan1136985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077845769055502632",
+    "in_reply_to_user_id": "2019305666465394689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077834594385039723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuan1136985 好漂亮呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077834579788861441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXzip5WkAE1hS_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2077834594385039723",
+        "created_at": "2026-07-16T20:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077845769055502632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019305666465394689",
+              "start": 0,
+              "username": "Xuan1136985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077845769055502632",
+        "in_reply_to_user_id": "2019305666465394689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077834594385039723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuan1136985 好漂亮呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077834579788861441"
+          ]
+        },
+        "author_id": "2019305666465394689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077834594385039723",
+        "created_at": "2026-07-16T19:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077834594385039723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azITxukieh",
+              "end": 29,
+              "expanded_url": "https://x.com/Xuan1136985/status/2077834594385039723/photo/1",
+              "media_key": "3_2077834579788861441",
+              "start": 6,
+              "url": "https://t.co/azITxukieh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077834594385039723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "茉莉 好美 https://t.co/azITxukieh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 121,
+          "like_count": 25163,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 4481
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T07:03:00.000Z",
+        "description": "对我请保持礼貌🐰 \n我是照片本人\nintp\n（活人版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xu%E2%80%86an1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xu%E2%80%86an1",
+                "start": 0,
+                "url": "https://t.co/VRASSOMtYq"
+              }
+            ]
+          }
+        },
+        "id": "2019305666465394689",
+        "location": "世界各地",
+        "name": "YuY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077830993327628288/xeRcrJPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 36,
+          "like_count": 2553,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/VRASSOMtYq",
+        "username": "Xuan1136985",
+        "verified": false
+      }
+    ]
+  }
+}

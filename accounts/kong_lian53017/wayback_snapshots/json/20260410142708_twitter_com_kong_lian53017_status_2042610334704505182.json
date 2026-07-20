@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042553368380608847",
+    "created_at": "2026-04-10T14:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042610334704505182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2033511101703364608",
+          "start": 0,
+          "username": "Maxu4o4"
+        },
+        {
+          "end": 25,
+          "id": "1705662085793976320",
+          "start": 9,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042610334704505182",
+    "in_reply_to_user_id": "2033511101703364608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042607696235405384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxu4o4 @Stupidest_Lover 好😠！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042553368380608847",
+        "created_at": "2026-04-10T14:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042610334704505182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2033511101703364608",
+              "start": 0,
+              "username": "Maxu4o4"
+            },
+            {
+              "end": 25,
+              "id": "1705662085793976320",
+              "start": 9,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042610334704505182",
+        "in_reply_to_user_id": "2033511101703364608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042607696235405384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxu4o4 @Stupidest_Lover 好😠！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033511101703364608",
+        "conversation_id": "2042553368380608847",
+        "created_at": "2026-04-10T14:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042607696235405384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            },
+            {
+              "end": 32,
+              "id": "1705662085793976320",
+              "start": 16,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042607696235405384",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042580642207273024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 @Stupidest_Lover 两个好宝宝，下次觉得自己差就要想对面让你觉得自己差的更很差劲！或者还有什么比现在这个世界更差劲的呢！都是超级好的宝宝！责怪他者是生命议题☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 90,
+          "like_count": 4055,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1741
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:51:45.000Z",
+        "description": "“哲学是我的远星。”\nentp，喜正装/制服，声控。私聊易冷场请谨慎⚠️",
+        "id": "2033511101703364608",
+        "name": "麦颗丝",
+        "pinned_tweet_id": "2041558734816633013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033511770527076352/kQEeGQUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 64,
+          "like_count": 3822,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 850
+        },
+        "username": "Maxu4o4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页很话唠 没有陪聊的义务 忧郁 抽象 发骚ing\n想要变得温和平静善良自信不卑不亢有钱 女权主义\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 73,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 50,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "🚪 5200",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 98,
+          "like_count": 10803,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 677
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

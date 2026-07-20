@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046041329071972476",
+    "created_at": "2026-04-20T06:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046114441163575349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046114441163575349",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046041329071972476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1770,
+        "media_key": "3_2046041319634788352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT_vWSaYAA7u1_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2046041319639011328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT_vWTa0AAK1Cv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 506,
+        "media_key": "3_2046041319634808832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT_vWSasAA0WvY.jpg",
+        "width": 581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046041329071972476",
+        "created_at": "2026-04-20T06:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046114441163575349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046114441163575349",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046041329071972476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046041319634788352",
+            "3_2046041319639011328",
+            "3_2046041319634808832"
+          ]
+        },
+        "author_id": "1917734495786041344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046041329071972476",
+        "created_at": "2026-04-20T01:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046041329071972476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N31Acr45uQ",
+              "end": 156,
+              "expanded_url": "https://x.com/chelsey24517/status/2046041329071972476/photo/1",
+              "media_key": "3_2046041319634788352",
+              "start": 133,
+              "url": "https://t.co/N31Acr45uQ"
+            },
+            {
+              "display_url": "pic.x.com/N31Acr45uQ",
+              "end": 156,
+              "expanded_url": "https://x.com/chelsey24517/status/2046041329071972476/photo/1",
+              "media_key": "3_2046041319639011328",
+              "start": 133,
+              "url": "https://t.co/N31Acr45uQ"
+            },
+            {
+              "display_url": "pic.x.com/N31Acr45uQ",
+              "end": 156,
+              "expanded_url": "https://x.com/chelsey24517/status/2046041329071972476/photo/1",
+              "media_key": "3_2046041319634808832",
+              "start": 133,
+              "url": "https://t.co/N31Acr45uQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046041329071972476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面食大学习（我不是西北人，只是记录）\n凉皮=米皮/面皮+油泼辣子+小菜 \n是集主食和凉菜于一身的神奇食物，“夹馍，冰峰，凉皮”被称作三秦套餐，相当于重庆的小面\n简单来说米皮就是用米粉做的，面皮就是面粉做的，制作工艺大同小异\n当中还有的分支就是擀面皮，烙面皮以及呱呱 https://t.co/N31Acr45uQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 95,
+          "like_count": 7695,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 3233
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享",
+        "id": "1917734495786041344",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044735517334601728/oafe0JEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 292,
+          "like_count": 1847,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 776
+        },
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

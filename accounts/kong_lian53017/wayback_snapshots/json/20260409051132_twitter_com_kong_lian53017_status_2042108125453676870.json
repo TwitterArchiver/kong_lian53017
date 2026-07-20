@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2042108077483450368"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042108125453676870",
+    "created_at": "2026-04-09T05:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042108125453676870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HBhxuvtlHv",
+          "end": 54,
+          "expanded_url": "https://x.com/kong_lian53017/status/2042108125453676870/video/1",
+          "media_key": "7_2042108077483450368",
+          "start": 31,
+          "url": "https://t.co/HBhxuvtlHv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042108125453676870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "努力夹依旧没有很甜。自己听着有一种淡淡的死感，还挺好笑的…… https://t.co/HBhxuvtlHv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32500,
+        "height": 720,
+        "media_key": "7_2042108077483450368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042108077483450368/pu/img/_VWJN4zMxS25j8um.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042108077483450368/pu/vid/avc1/480x270/5KDnCzK270MBWtBn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042108077483450368/pu/vid/avc1/640x360/1wm-be6xGVtHWSWF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042108077483450368/pu/vid/avc1/1280x720/s3vCBDnnFHKL1Cmw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042108077483450368/pu/pl/OUh5Bp9-s2LQ8_27.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042108077483450368"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042108125453676870",
+        "created_at": "2026-04-09T05:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042108125453676870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBhxuvtlHv",
+              "end": 54,
+              "expanded_url": "https://x.com/kong_lian53017/status/2042108125453676870/video/1",
+              "media_key": "7_2042108077483450368",
+              "start": 31,
+              "url": "https://t.co/HBhxuvtlHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042108125453676870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "努力夹依旧没有很甜。自己听着有一种淡淡的死感，还挺好笑的…… https://t.co/HBhxuvtlHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 85,
+          "like_count": 3551,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1531
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

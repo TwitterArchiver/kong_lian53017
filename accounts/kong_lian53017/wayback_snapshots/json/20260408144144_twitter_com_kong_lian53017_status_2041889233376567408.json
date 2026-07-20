@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2041584020644143234",
+    "created_at": "2026-04-08T14:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041889233376567408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1875906425517662208",
+          "start": 0,
+          "username": "Asuka080s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041889233376567408",
+    "in_reply_to_user_id": "1875906425517662208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041758751385145804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka080s 我就是这样的。我根本不交现实朋友。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2041584020644143234",
+        "created_at": "2026-04-08T14:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041889233376567408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1875906425517662208",
+              "start": 0,
+              "username": "Asuka080s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041889233376567408",
+        "in_reply_to_user_id": "1875906425517662208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041758751385145804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka080s 我就是这样的。我根本不交现实朋友。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875906425517662208",
+        "conversation_id": "2041584020644143234",
+        "created_at": "2026-04-08T06:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041758751385145804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041758751385145804",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041584020644143234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 只和父母有时候有些必要联系就好了，不喜欢和他人联系自己一个人就好，有需求的时候其实每天的占比并不多(⸝⸝ɞ̴̶̷ ·̮ ‹⸝⸝ᐡ) ⟡.·"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 77,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1417
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "请关注我，请关注我，谢谢",
+        "id": "1875906425517662208",
+        "location": "猫家",
+        "name": "我的猫很爱我.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038769189889146880/oCvkoCvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 49,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 334
+        },
+        "username": "Asuka080s",
+        "verified": false
+      }
+    ]
+  }
+}

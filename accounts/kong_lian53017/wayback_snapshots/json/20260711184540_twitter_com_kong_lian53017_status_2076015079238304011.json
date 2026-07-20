@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2076015079238304011",
+    "created_at": "2026-07-11T18:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076015079238304011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906339730511560704",
+          "start": 3,
+          "username": "wuaichun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076015079238304011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075608285621997866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuaichun: 别搁那儿pua自己了，无视你的情感需求和感受就是不喜欢你，人对自己不想失去和重视的东西是不会随便对待的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2076015079238304011",
+        "created_at": "2026-07-11T18:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076015079238304011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906339730511560704",
+              "start": 3,
+              "username": "wuaichun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076015079238304011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075608285621997866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuaichun: 别搁那儿pua自己了，无视你的情感需求和感受就是不喜欢你，人对自己不想失去和重视的东西是不会随便对待的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906339730511560704",
+        "conversation_id": "2075608285621997866",
+        "created_at": "2026-07-10T15:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075608285621997866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075608285621997866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 16238,
+          "like_count": 537,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "别搁那儿pua自己了，无视你的情感需求和感受就是不喜欢你，人对自己不想失去和重视的东西是不会随便对待的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 119,
+          "like_count": 24408,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 4410
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T13:36:34.000Z",
+        "description": "找个地方说话｜",
+        "id": "1906339730511560704",
+        "name": "大智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974162252283719680/hCgbgySF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 136,
+          "like_count": 6256,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 2213
+        },
+        "url": "",
+        "username": "wuaichun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2055749305022210258",
+    "created_at": "2026-05-17T03:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055859762110267781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854716757845401605",
+          "start": 0,
+          "username": "BrandoDio14903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055859762110267781",
+    "in_reply_to_user_id": "1854716757845401605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055854962261758077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrandoDio14903 完全就是我。到后边我一直在等对方提但是对方不提所以最后还是我提的。主要是很难想象对方听到这个事情的反应以及不知道到时候该以什么样的状态情绪去处理这件事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055749305022210258",
+        "created_at": "2026-05-17T03:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055859762110267781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854716757845401605",
+              "start": 0,
+              "username": "BrandoDio14903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055859762110267781",
+        "in_reply_to_user_id": "1854716757845401605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055854962261758077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrandoDio14903 完全就是我。到后边我一直在等对方提但是对方不提所以最后还是我提的。主要是很难想象对方听到这个事情的反应以及不知道到时候该以什么样的状态情绪去处理这件事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854716757845401605",
+        "conversation_id": "2055749305022210258",
+        "created_at": "2026-05-17T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055854962261758077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055854962261758077",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055751451780223440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我不排斥另一方和我分手，但是让我提的话 我就说不出这种话。甚至如果很累的话 我可能会故意引导另一方提分手。现在回想起来感觉自己就是很差劲的自我巨婴吧。也可能是我喜欢表演得很负责任？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 111,
+          "like_count": 15434,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 5263
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T02:45:20.000Z",
+        "description": "",
+        "id": "1854716757845401605",
+        "name": "Chill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031495293699764224/50c5fbjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 450,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 187
+        },
+        "username": "BrandoDio14903",
+        "verified": false
+      }
+    ]
+  }
+}

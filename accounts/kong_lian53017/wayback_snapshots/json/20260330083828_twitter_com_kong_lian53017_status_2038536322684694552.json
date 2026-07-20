@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038463723434860980",
+    "created_at": "2026-03-30T08:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038536322684694552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1057668616408064001",
+          "start": 0,
+          "username": "HK416ABC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038536322684694552",
+    "in_reply_to_user_id": "1057668616408064001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038463723434860980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HK416ABC 好厨艺！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038463720196878336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoT9AnbMAA3m4d.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1558,
+        "media_key": "3_2038463719232131072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoT89BaUAAhqMX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2038463719672524800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoT8-qaMAA-ft6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038463723434860980",
+        "created_at": "2026-03-30T08:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038536322684694552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1057668616408064001",
+              "start": 0,
+              "username": "HK416ABC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038536322684694552",
+        "in_reply_to_user_id": "1057668616408064001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038463723434860980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HK416ABC 好厨艺！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038463720196878336",
+            "3_2038463719232131072",
+            "3_2038463719672524800"
+          ]
+        },
+        "author_id": "1057668616408064001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038463723434860980",
+        "created_at": "2026-03-30T03:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038463723434860980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnxhjOQAdU",
+              "end": 39,
+              "expanded_url": "https://x.com/HK416ABC/status/2038463723434860980/photo/1",
+              "media_key": "3_2038463720196878336",
+              "start": 16,
+              "url": "https://t.co/fnxhjOQAdU"
+            },
+            {
+              "display_url": "pic.x.com/fnxhjOQAdU",
+              "end": 39,
+              "expanded_url": "https://x.com/HK416ABC/status/2038463723434860980/photo/1",
+              "media_key": "3_2038463719232131072",
+              "start": 16,
+              "url": "https://t.co/fnxhjOQAdU"
+            },
+            {
+              "display_url": "pic.x.com/fnxhjOQAdU",
+              "end": 39,
+              "expanded_url": "https://x.com/HK416ABC/status/2038463723434860980/photo/1",
+              "media_key": "3_2038463719672524800",
+              "start": 16,
+              "url": "https://t.co/fnxhjOQAdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038463723434860980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论一只甜皮鸭的一生🤤 我做的！ https://t.co/fnxhjOQAdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 66,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 717
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 651,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 950
+        },
+        "username": "HK416ABC",
+        "verified": false
+      }
+    ]
+  }
+}

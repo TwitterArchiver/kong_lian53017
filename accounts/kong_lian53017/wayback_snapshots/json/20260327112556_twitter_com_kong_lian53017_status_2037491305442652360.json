@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037491305442652360",
+    "created_at": "2026-03-27T11:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037491305442652360"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037491305442652360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是个难搞麻烦的人，对亲密关系挑剔又苛刻。可能我不幸福是因为我太过追求没有瑕疵的关系，可我就是做不到凑合和将就我也不想做到。就算我父母现在想好好爱我其实在我看来好像也不是很需要了。我应该给他们机会但我没资格替当时的自己原谅任何人。我们都爱也不够爱恨也不够恨，中式家庭的恨海情天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037491305442652360",
+        "created_at": "2026-03-27T11:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037491305442652360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037491305442652360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是个难搞麻烦的人，对亲密关系挑剔又苛刻。可能我不幸福是因为我太过追求没有瑕疵的关系，可我就是做不到凑合和将就我也不想做到。就算我父母现在想好好爱我其实在我看来好像也不是很需要了。我应该给他们机会但我没资格替当时的自己原谅任何人。我们都爱也不够爱恨也不够恨，中式家庭的恨海情天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 56,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 405
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

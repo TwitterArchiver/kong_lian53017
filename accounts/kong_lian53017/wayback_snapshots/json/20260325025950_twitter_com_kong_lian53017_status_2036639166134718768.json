@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994360528979030016"
+      ],
+      "media_source_tweet_id": [
+        "2036273042813309362"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2036639166134718768",
+    "created_at": "2026-03-25T02:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T03:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036639166134718768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1890380424003891200",
+          "start": 3,
+          "username": "everythingdogss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZdsMXi4FHb",
+          "end": 44,
+          "expanded_url": "https://x.com/cutiespuppies/status/2036273042813309362/video/1",
+          "media_key": "13_1994360528979030016",
+          "start": 21,
+          "url": "https://t.co/ZdsMXi4FHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036639166134718768",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036406826464395457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @everythingdogss: https://t.co/ZdsMXi4FHb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19574,
+        "height": 1280,
+        "media_key": "13_1994360528979030016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994360528979030016/img/c7aIa_gKKLdsAAif.jpg",
+        "public_metrics": {
+          "view_count": 108086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994360528979030016/vid/avc1/320x568/4zjoloqQ-lEdwwA4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994360528979030016/vid/avc1/480x852/LUUbNQp8NMEQEfkf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994360528979030016/vid/avc1/720x1280/bGnTH4QSjVYqDRl8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994360528979030016/pl/_mg7or0AuzrYZolq.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994360528979030016"
+          ],
+          "media_source_tweet_id": [
+            "2036273042813309362"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2036639166134718768",
+        "created_at": "2026-03-25T02:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036639166134718768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1890380424003891200",
+              "start": 3,
+              "username": "everythingdogss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdsMXi4FHb",
+              "end": 44,
+              "expanded_url": "https://x.com/cutiespuppies/status/2036273042813309362/video/1",
+              "media_key": "13_1994360528979030016",
+              "start": 21,
+              "url": "https://t.co/ZdsMXi4FHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036639166134718768",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036406826464395457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @everythingdogss: https://t.co/ZdsMXi4FHb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994360528979030016"
+          ],
+          "media_source_tweet_id": [
+            "2036273042813309362"
+          ]
+        },
+        "author_id": "1890380424003891200",
+        "conversation_id": "2036406826464395457",
+        "created_at": "2026-03-24T11:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036406826464395457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdsMXi4FHb",
+              "end": 23,
+              "expanded_url": "https://x.com/cutiespuppies/status/2036273042813309362/video/1",
+              "media_key": "13_1994360528979030016",
+              "start": 0,
+              "url": "https://t.co/ZdsMXi4FHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036406826464395457",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 19983,
+          "like_count": 1184,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZdsMXi4FHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 42,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 203
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T12:40:04.000Z",
+        "description": "cute and funny pictures and video's about dogs! follow for more 🩵",
+        "id": "1890380424003891200",
+        "location": "turn on notifications! 🔔",
+        "name": "everything dogs 🐶",
+        "pinned_tweet_id": "2036560277727023550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923870086059716608/zrK4oG9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48683,
+          "following_count": 87,
+          "like_count": 1173,
+          "listed_count": 80,
+          "media_count": 2956,
+          "tweet_count": 2988
+        },
+        "username": "everythingdogss",
+        "verified": true
+      }
+    ]
+  }
+}

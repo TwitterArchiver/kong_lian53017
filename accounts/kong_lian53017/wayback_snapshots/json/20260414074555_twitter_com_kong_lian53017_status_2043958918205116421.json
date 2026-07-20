@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043957910703882449",
+    "created_at": "2026-04-14T07:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043958918205116421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038300113920249857",
+          "start": 0,
+          "username": "bibibibib1470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043958918205116421",
+    "in_reply_to_user_id": "2038300113920249857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043958255135928486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibibib1470 嘿嘿！七月份还有个特摄o，不过不确定那时候我还在不在河南所以还没买票🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043957910703882449",
+        "created_at": "2026-04-14T07:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043958918205116421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038300113920249857",
+              "start": 0,
+              "username": "bibibibib1470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043958918205116421",
+        "in_reply_to_user_id": "2038300113920249857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043958255135928486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibibib1470 嘿嘿！七月份还有个特摄o，不过不确定那时候我还在不在河南所以还没买票🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038300113920249857",
+        "conversation_id": "2043957910703882449",
+        "created_at": "2026-04-14T07:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043958255135928486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043958255135928486",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043957910703882449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 那你蛮幸运的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 91,
+          "like_count": 5269,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2298
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T17:00:59.000Z",
+        "description": "想和别人聊天，任何人都可以（不聊H）\n别一进来就骂我😮‍💨\n一般都在😎",
+        "id": "2038300113920249857",
+        "name": "Hai",
+        "pinned_tweet_id": "2043533593990009076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038440194194735104/BR4Z6k2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 517
+        },
+        "username": "bibibibib1470",
+        "verified": false
+      }
+    ]
+  }
+}

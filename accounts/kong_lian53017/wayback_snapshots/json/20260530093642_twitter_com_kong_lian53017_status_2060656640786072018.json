@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060656640786072018",
+    "created_at": "2026-05-30T09:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060656640786072018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xu065708391703…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/xu0657083917039/status/2060649007584584024",
+          "start": 4,
+          "url": "https://t.co/aeD5RK78pC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060656640786072018",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060649007584584024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "TvT https://t.co/aeD5RK78pC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060656640786072018",
+        "created_at": "2026-05-30T09:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060656640786072018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xu065708391703…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/xu0657083917039/status/2060649007584584024",
+              "start": 4,
+              "url": "https://t.co/aeD5RK78pC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060656640786072018",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060649007584584024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TvT https://t.co/aeD5RK78pC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818418625558331392",
+        "conversation_id": "2060649007584584024",
+        "created_at": "2026-05-30T09:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060649007584584024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060649007584584024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有些事情我没办法跟你讲 以后我要在我哥哥怀里一边哭一边说的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 112,
+          "like_count": 18547,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 6007
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "欢迎参观我的尸体、我的脏器 和这一套加诸我身的酷刑",
+        "id": "1818418625558331392",
+        "location": "不约 看眼缘互关 墙内外社媒不互通不加v",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2056032536736808995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046544994031267840/0jNgrcfK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 32,
+          "like_count": 1618,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 864
+        },
+        "username": "xu0657083917039",
+        "verified": false
+      }
+    ]
+  }
+}

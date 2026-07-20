@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2049033462737203541",
+    "created_at": "2026-04-28T11:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049093736609837287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661415676819673089",
+          "start": 0,
+          "username": "kyirekevin83614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049093736609837287",
+    "in_reply_to_user_id": "1661415676819673089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049060872803197290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyirekevin83614 确实帅啊我趣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2049060869909233664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-6AToXwAAMSi5.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2049033462737203541",
+        "created_at": "2026-04-28T11:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049093736609837287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661415676819673089",
+              "start": 0,
+              "username": "kyirekevin83614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049093736609837287",
+        "in_reply_to_user_id": "1661415676819673089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049060872803197290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyirekevin83614 确实帅啊我趣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049060869909233664"
+          ]
+        },
+        "author_id": "1661415676819673089",
+        "conversation_id": "2049033462737203541",
+        "created_at": "2026-04-28T09:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049060872803197290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P73o3sx4qm",
+              "end": 49,
+              "expanded_url": "https://x.com/kyirekevin83614/status/2049060872803197290/photo/1",
+              "media_key": "3_2049060869909233664",
+              "start": 26,
+              "url": "https://t.co/P73o3sx4qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049060872803197290",
+        "in_reply_to_user_id": "1661415676819673089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049033828635717652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补一张实图，真的帅麻了啊啊，50w以内最帅轿跑好吗 https://t.co/P73o3sx4qm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 101,
+          "like_count": 10896,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4590
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T16:55:54.000Z",
+        "description": "皮下男和门槛姐不要点赞关注我",
+        "id": "1661415676819673089",
+        "location": "guangzhou",
+        "name": "kyirekevin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036746414881955840/poN_UOxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 45,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 402
+        },
+        "username": "kyirekevin83614",
+        "verified": false
+      }
+    ]
+  }
+}

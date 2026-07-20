@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2055198388367614295",
+    "created_at": "2026-05-15T08:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055198388367614295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/2054948340614430790",
+          "start": 14,
+          "url": "https://t.co/VdlCRGIfLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055198388367614295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054948340614430790",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用成对的饰品就可以锁住你吗 https://t.co/VdlCRGIfLt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055198388367614295",
+        "created_at": "2026-05-15T08:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055198388367614295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/2054948340614430790",
+              "start": 14,
+              "url": "https://t.co/VdlCRGIfLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055198388367614295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054948340614430790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用成对的饰品就可以锁住你吗 https://t.co/VdlCRGIfLt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2054948340614430790",
+        "created_at": "2026-05-14T15:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054948340614430790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054948340614430790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 12808,
+          "like_count": 535,
+          "quote_count": 11,
+          "reply_count": 22,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢和你戴成对的饰品，听你的歌单，尝试你的口味，和你用一样的东西，我知道人缘自有天定，那么我努力后加的这些干系，有成功多打上一个结吗，在我们的命运，在你的心里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 109,
+          "like_count": 15081,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5174
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 113,
+          "like_count": 6835,
+          "listed_count": 14,
+          "media_count": 3632,
+          "tweet_count": 14264
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

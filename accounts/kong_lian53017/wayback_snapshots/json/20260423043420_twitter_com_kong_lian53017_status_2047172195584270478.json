@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046962253803794830",
+    "created_at": "2026-04-23T04:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047172195584270478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2033511101703364608",
+          "start": 0,
+          "username": "Maxu4o4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047172195584270478",
+    "in_reply_to_user_id": "2033511101703364608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047171849142816882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxu4o4 好噢！两年前我喝茶百道（）我这里没有树番茄鲜果😭龙井春和龙井香青团我可以试试🤤感谢安利！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046962253803794830",
+        "created_at": "2026-04-23T04:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047172195584270478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2033511101703364608",
+              "start": 0,
+              "username": "Maxu4o4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047172195584270478",
+        "in_reply_to_user_id": "2033511101703364608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047171849142816882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxu4o4 好噢！两年前我喝茶百道（）我这里没有树番茄鲜果😭龙井春和龙井香青团我可以试试🤤感谢安利！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033511101703364608",
+        "conversation_id": "2046962253803794830",
+        "created_at": "2026-04-23T04:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047171849142816882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047171849142816882",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046962253803794830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 果茶很清爽的！我很喜欢两年前（应该是）的一款芒芒大橘，现在好像有类似宽但料没有之前丰富，目前在售的树番茄鲜果也还行但不算很惊艳。我喜欢西子龙井春！龙井香青团也好！（龙井茶太香了呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 101,
+          "like_count": 8898,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3737
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:51:45.000Z",
+        "description": "“哲学是我的远星。”\nshe/her！！entp，喜正装/制服，声控。私聊易冷场请谨慎⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/max11352",
+                "end": 23,
+                "expanded_url": "https://ngl.link/max11352",
+                "start": 0,
+                "url": "https://t.co/yySXwVbM8V"
+              }
+            ]
+          }
+        },
+        "id": "2033511101703364608",
+        "name": "麦颗丝",
+        "pinned_tweet_id": "2036527145049002433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033511770527076352/kQEeGQUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 61,
+          "like_count": 5237,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/yySXwVbM8V",
+        "username": "Maxu4o4",
+        "verified": false
+      }
+    ]
+  }
+}

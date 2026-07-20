@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2059010927492735177",
+    "created_at": "2026-05-25T20:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T21:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059010927492735177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kong_lian53017…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/kong_lian53017/status/2059008377334956253",
+          "start": 72,
+          "url": "https://t.co/5OpNlt5o3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059010927492735177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059008377334956253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这世上最不缺的就是人。尽管如此还是想把对方当做非ta不可的存在去爱，我爱ta的时候ta就是最特别的那一个。或许我有别的选择，可我永远只选择你。 https://t.co/5OpNlt5o3s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2059010927492735177",
+        "created_at": "2026-05-25T20:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059010927492735177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kong_lian53017…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/kong_lian53017/status/2059008377334956253",
+              "start": 72,
+              "url": "https://t.co/5OpNlt5o3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059010927492735177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059008377334956253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这世上最不缺的就是人。尽管如此还是想把对方当做非ta不可的存在去爱，我爱ta的时候ta就是最特别的那一个。或许我有别的选择，可我永远只选择你。 https://t.co/5OpNlt5o3s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2059008377334956253",
+        "created_at": "2026-05-25T20:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059008377334956253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woaigaohuangse…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/woaigaohuangse6/status/2058781625983611092",
+              "start": 22,
+              "url": "https://t.co/eqTlJVZ6zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059008377334956253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058781625983611092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的相遇是命中注定，但并不是非彼此不可。 https://t.co/eqTlJVZ6zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 114,
+          "like_count": 17502,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 5895
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

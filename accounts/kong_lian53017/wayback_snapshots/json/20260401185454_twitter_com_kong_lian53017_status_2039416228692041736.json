@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039416228692041736",
+    "created_at": "2026-04-01T18:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T19:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039416228692041736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ting260314/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Ting260314/status/2039300105547997343",
+          "start": 3,
+          "url": "https://t.co/j73A4LOYiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039416228692041736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039300105547997343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然 https://t.co/j73A4LOYiW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039416228692041736",
+        "created_at": "2026-04-01T18:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039416228692041736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ting260314/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Ting260314/status/2039300105547997343",
+              "start": 3,
+              "url": "https://t.co/j73A4LOYiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039416228692041736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039300105547997343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然 https://t.co/j73A4LOYiW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000074771997020161",
+        "conversation_id": "2039300105547997343",
+        "created_at": "2026-04-01T11:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039300105547997343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039300105547997343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5097,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "给喜欢的人当狗难道不是奖励么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 71,
+          "like_count": 2088,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 920
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T05:26:08.000Z",
+        "description": "只回骚的",
+        "id": "2000074771997020161",
+        "location": "🚪128",
+        "name": "小蛋挞",
+        "pinned_tweet_id": "2038997829566579172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037963683360657408/NvIyqwg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 75
+        },
+        "username": "Ting260314",
+        "verified": false
+      }
+    ]
+  }
+}

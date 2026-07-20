@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037977998302015987",
+    "created_at": "2026-03-28T19:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T20:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037977998302015987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1705662085793976320",
+          "start": 3,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037977998302015987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037977481412796871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stupidest_Lover: 自慰的手拿出来，撸管的软下去，意淫的停止思考，od的吐出来，自残的放下刀，跳楼的停止坠落，抽烟的立刻熄灭，在家的出门，所有人来给我发红包转账"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037977998302015987",
+        "created_at": "2026-03-28T19:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037977998302015987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1705662085793976320",
+              "start": 3,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037977998302015987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037977481412796871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stupidest_Lover: 自慰的手拿出来，撸管的软下去，意淫的停止思考，od的吐出来，自残的放下刀，跳楼的停止坠落，抽烟的立刻熄灭，在家的出门，所有人来给我发红包转账"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705662085793976320",
+        "conversation_id": "2037977481412796871",
+        "created_at": "2026-03-28T19:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037977481412796871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/0twt012/status/2037949269228060879",
+              "start": 71,
+              "url": "https://t.co/meZwmyKSdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037977481412796871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037949269228060879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自慰的手拿出来，撸管的软下去，意淫的停止思考，od的吐出来，自残的放下刀，跳楼的停止坠落，抽烟的立刻熄灭，在家的出门，所有人来给我发红包转账 https://t.co/meZwmyKSdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 65,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 600
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页话唠 偶尔清空 没有陪聊的义务 忧郁 抽象 发骚ing\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 53,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 30,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "有🚪 5200 纯绿（不会真有人发吧",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 88,
+          "like_count": 7974,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 301
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060669414828380386",
+    "created_at": "2026-05-30T10:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060669414828380386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1464458476839653379",
+          "start": 3,
+          "username": "XingFuuu__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060669414828380386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060572938454331575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XingFuuu__: 像我这么感性的女孩，你应该散步的时候牵起我的手不放，送我鲜花，写给我想要的小作文，和我讲你小时候的趣事以及未来的规划，认真的看我写下的每一个文段，认真的回复我每一句话，听我的歌单，看我的推荐和朋友圈，慢慢了解我的喜欢，告诉我我有多重要，这样我才觉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060669414828380386",
+        "created_at": "2026-05-30T10:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060669414828380386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1464458476839653379",
+              "start": 3,
+              "username": "XingFuuu__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060669414828380386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060572938454331575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XingFuuu__: 像我这么感性的女孩，你应该散步的时候牵起我的手不放，送我鲜花，写给我想要的小作文，和我讲你小时候的趣事以及未来的规划，认真的看我写下的每一个文段，认真的回复我每一句话，听我的歌单，看我的推荐和朋友圈，慢慢了解我的喜欢，告诉我我有多重要，这样我才觉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464458476839653379",
+        "conversation_id": "2060572938454331575",
+        "created_at": "2026-05-30T04:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060572938454331575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060572938454331575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1093,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "像我这么感性的女孩，你应该散步的时候牵起我的手不放，送我鲜花，写给我想要的小作文，和我讲你小时候的趣事以及未来的规划，认真的看我写下的每一个文段，认真的回复我每一句话，听我的歌单，看我的推荐和朋友圈，慢慢了解我的喜欢，告诉我我有多重要，这样我才觉得你真的喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 112,
+          "like_count": 18564,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 6009
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T04:58:14.000Z",
+        "description": "时刻保持饥饿",
+        "id": "1464458476839653379",
+        "name": "芋泥奶绿",
+        "pinned_tweet_id": "2060253864679571474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875579479491497984/4YoOpGHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24859,
+          "following_count": 97,
+          "like_count": 7018,
+          "listed_count": 53,
+          "media_count": 1257,
+          "tweet_count": 8143
+        },
+        "username": "XingFuuu__",
+        "verified": false
+      }
+    ]
+  }
+}

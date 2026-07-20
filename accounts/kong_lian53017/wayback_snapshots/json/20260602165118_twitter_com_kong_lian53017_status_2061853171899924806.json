@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2061853171899924806",
+    "created_at": "2026-06-02T16:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061853171899924806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025959676236730368",
+          "start": 3,
+          "username": "rai_01rl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061853171899924806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061821560210821149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rai_01rl: 好きな人のことは表面だけじゃなくてその人が背負ってる過去とか弱さとか全部含めて好きでいたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2061853171899924806",
+        "created_at": "2026-06-02T16:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061853171899924806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025959676236730368",
+              "start": 3,
+              "username": "rai_01rl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061853171899924806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061821560210821149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rai_01rl: 好きな人のことは表面だけじゃなくてその人が背負ってる過去とか弱さとか全部含めて好きでいたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025959676236730368",
+        "conversation_id": "2061821560210821149",
+        "created_at": "2026-06-02T14:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061821560210821149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061821560210821149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1549,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人のことは表面だけじゃなくてその人が背負ってる過去とか弱さとか全部含めて好きでいたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 115,
+          "like_count": 19332,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4948
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T15:43:36.000Z",
+        "description": "バカ同盟・親友⇨@v4xn_l 251⇨@Haminnn1253 \nまいえんじぇる⇨@kagi_uxipunya bro⇨@Shi__rngas \n先輩⇨@satushobunkibou おたく⇨@o39hz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "v4xn_l"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Haminnn1253"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "kagi_uxipunya"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Shi__rngas"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "satushobunkibou"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "username": "o39hz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8s2l3duekanyfw…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8s2l3duekanyfwx?t=IUKYAa&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/vN6UKi4Lbb"
+              }
+            ]
+          }
+        },
+        "id": "2025959676236730368",
+        "location": "この不確かな甘さの裏の裏",
+        "name": "來",
+        "pinned_tweet_id": "2061432465366110329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061448576644059136/vS4pCSC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 191,
+          "like_count": 10557,
+          "listed_count": 32,
+          "media_count": 19,
+          "tweet_count": 5630
+        },
+        "url": "https://t.co/vN6UKi4Lbb",
+        "username": "rai_01rl",
+        "verified": false
+      }
+    ]
+  }
+}

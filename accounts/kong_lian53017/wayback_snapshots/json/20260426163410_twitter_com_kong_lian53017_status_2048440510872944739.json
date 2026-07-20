@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2048439203739185455",
+    "created_at": "2026-04-26T16:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048440510872944739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032066678822260736",
+          "start": 0,
+          "username": "redeemkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048440510872944739",
+    "in_reply_to_user_id": "2032066678822260736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048439203739185455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redeemkkk 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20076,
+        "height": 1280,
+        "media_key": "7_2048438425930571776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048438425930571776/pu/img/pbLDiykT-I6aPP3C.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048438425930571776/pu/vid/avc1/320x568/CmLwQvmLs1EsRtca.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048438425930571776/pu/vid/avc1/480x852/o4elyECU-pIA4b1u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048438425930571776/pu/vid/avc1/720x1280/rXpHUY_F9P52mNJW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048438425930571776/pu/pl/8pHsU09F_BYXiD2F.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2048439203739185455",
+        "created_at": "2026-04-26T16:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048440510872944739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032066678822260736",
+              "start": 0,
+              "username": "redeemkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048440510872944739",
+        "in_reply_to_user_id": "2032066678822260736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048439203739185455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redeemkkk 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048438425930571776"
+          ]
+        },
+        "author_id": "2032066678822260736",
+        "conversation_id": "2048439203739185455",
+        "created_at": "2026-04-26T16:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048439203739185455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWvLpujhuf",
+              "end": 23,
+              "expanded_url": "https://x.com/redeemkkk/status/2048439203739185455/video/1",
+              "media_key": "7_2048438425930571776",
+              "start": 0,
+              "url": "https://t.co/CWvLpujhuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048439203739185455",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CWvLpujhuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 68,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 101,
+          "like_count": 10124,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4280
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T12:10:49.000Z",
+        "description": "垃圾桶🗑️",
+        "id": "2032066678822260736",
+        "name": "kkk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033071815753609219/ArBPG9Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 63
+        },
+        "username": "redeemkkk",
+        "verified": false
+      }
+    ]
+  }
+}

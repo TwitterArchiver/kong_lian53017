@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047660320064479665",
+    "created_at": "2026-04-24T13:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047672713255530722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007362014805729280",
+          "start": 0,
+          "username": "Ryleeyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047672713255530722",
+    "in_reply_to_user_id": "2007362014805729280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047671448391606478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryleeyin 嘿嘿😸😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047660320064479665",
+        "created_at": "2026-04-24T13:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047672713255530722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007362014805729280",
+              "start": 0,
+              "username": "Ryleeyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047672713255530722",
+        "in_reply_to_user_id": "2007362014805729280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047671448391606478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryleeyin 嘿嘿😸😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007362014805729280",
+        "conversation_id": "2047660320064479665",
+        "created_at": "2026-04-24T13:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047671448391606478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047671448391606478",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047660320064479665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 萌萌恋恋🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 103,
+          "like_count": 9470,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3980
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T08:03:08.000Z",
+        "description": "🐈‍⬛black cat｜💋互fo请私｜🫰🏻年上小狗男我喜欢你🥺｜朴宝剑我喜欢你🫶🏻",
+        "id": "2007362014805729280",
+        "location": "citrus🤍🩵",
+        "name": "Rylee",
+        "pinned_tweet_id": "2040811110975316263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039337377106432000/-ViPAukJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 8,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 175
+        },
+        "username": "Ryleeyin",
+        "verified": false
+      }
+    ]
+  }
+}

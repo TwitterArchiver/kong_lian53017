@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052667714867708278",
+    "created_at": "2026-05-08T08:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052667714867708278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/obumemeow/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/obumemeow/status/2052661028941668655",
+          "start": 2,
+          "url": "https://t.co/xtarrHcMXy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052667714867708278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052661028941668655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/xtarrHcMXy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052667714867708278",
+        "created_at": "2026-05-08T08:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052667714867708278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/obumemeow/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/obumemeow/status/2052661028941668655",
+              "start": 2,
+              "url": "https://t.co/xtarrHcMXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052667714867708278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052661028941668655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/xtarrHcMXy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827001961750904832",
+        "conversation_id": "2052661028941668655",
+        "created_at": "2026-05-08T08:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052661028941668655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052661028941668655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做不到的事情不要随口答应我 说出的话就要做到不然就不要说 我一直是这样觉得的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 103,
+          "like_count": 13415,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4684
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:16:49.000Z",
+        "description": "♀/ 🇨🇳 / sub / m /  bi双性恋 /不搞4i！很爱碎碎念 偶尔一擦 不约不接推广 喜欢夸夸 欢迎你们都来和我玩🥺！这是我的匿名信箱⬇️！\nhave a nice day^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/obumemeow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/obumemeow",
+                "start": 0,
+                "url": "https://t.co/iiicEItk7C"
+              }
+            ]
+          }
+        },
+        "id": "1827001961750904832",
+        "location": "🚪66/99只有纯绿",
+        "name": "哦不喵喵",
+        "pinned_tweet_id": "1925530823991992664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827002281075806208/AvaSjiUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 202,
+          "like_count": 821,
+          "listed_count": 6,
+          "media_count": 254,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/iiicEItk7C",
+        "username": "obumemeow",
+        "verified": false
+      }
+    ]
+  }
+}

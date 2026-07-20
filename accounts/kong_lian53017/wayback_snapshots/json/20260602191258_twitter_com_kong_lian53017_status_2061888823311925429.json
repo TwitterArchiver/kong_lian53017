@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2061888823311925429",
+    "created_at": "2026-06-02T19:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061888823311925429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1328139484559511553",
+          "start": 3,
+          "username": "doeeyedglrl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061888823311925429",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 397
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061716206143316337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doeeyedglrl: every day i wish so badly that i had died at seventeen"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2061888823311925429",
+        "created_at": "2026-06-02T19:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061888823311925429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1328139484559511553",
+              "start": 3,
+              "username": "doeeyedglrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061888823311925429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 397
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061716206143316337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doeeyedglrl: every day i wish so badly that i had died at seventeen"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328139484559511553",
+        "conversation_id": "2061716206143316337",
+        "created_at": "2026-06-02T07:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061716206143316337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061716206143316337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 29006,
+          "like_count": 2240,
+          "quote_count": 23,
+          "reply_count": 14,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "every day i wish so badly that i had died at seventeen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 115,
+          "like_count": 19352,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4951
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T00:55:24.000Z",
+        "description": "bleary-eyed and bushy-tailed",
+        "id": "1328139484559511553",
+        "location": "she/her 21",
+        "name": "aria❀",
+        "pinned_tweet_id": "2030031618761707909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707219289697112064/bnLnFaZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11220,
+          "following_count": 656,
+          "like_count": 163532,
+          "listed_count": 18,
+          "media_count": 555,
+          "tweet_count": 7211
+        },
+        "username": "doeeyedglrl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2049032009088114827",
+    "created_at": "2026-04-28T07:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049032009088114827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhzh717171/sta…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/zhzh717171/status/2048666071624982881",
+          "start": 60,
+          "url": "https://t.co/W491xw0MHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049032009088114827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048666071624982881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有就是比较投入就被评价为恋爱脑。谈恋爱不这样谈应该咋样谈呢我请问。这么喜欢比较喜欢权衡利弊别谈恋爱了去当会计行不行。 https://t.co/W491xw0MHB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2049032009088114827",
+        "created_at": "2026-04-28T07:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049032009088114827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhzh717171/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/zhzh717171/status/2048666071624982881",
+              "start": 60,
+              "url": "https://t.co/W491xw0MHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049032009088114827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048666071624982881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有就是比较投入就被评价为恋爱脑。谈恋爱不这样谈应该咋样谈呢我请问。这么喜欢比较喜欢权衡利弊别谈恋爱了去当会计行不行。 https://t.co/W491xw0MHB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802057772806320128",
+        "conversation_id": "2048666071624982881",
+        "created_at": "2026-04-27T07:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048666071624982881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048666071624982881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很讨厌稍微对喜欢的人热情了一点就把自己叫做舔狗或者被朋友说这种行为是舔狗 你喜欢人家不得付出点代价 钱 情绪价值 总得有一样吧 反正我挺鄙视啥都没付出就装深情装可怜的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 100,
+          "like_count": 10799,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 4525
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T19:17:25.000Z",
+        "description": "",
+        "id": "1802057772806320128",
+        "location": "不开私信不加联系方式",
+        "name": "你要逼死我吗",
+        "pinned_tweet_id": "2003509210290749788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005836193460801536/qO2m8H9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 39,
+          "like_count": 28396,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 368
+        },
+        "username": "zhzh717171",
+        "verified": false
+      }
+    ]
+  }
+}

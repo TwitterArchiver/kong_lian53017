@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2033630672620032489",
+    "created_at": "2026-03-16T19:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T20:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033630672620032489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1959674017373462528",
+          "start": 3,
+          "username": "Alicemimimiao11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033630672620032489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033593975089799372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alicemimimiao11: 我真的对“好不好”这个词没有抵抗力 感觉在向我撒娇 一句“好不好”再大的问题都原谅了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2033630672620032489",
+        "created_at": "2026-03-16T19:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T20:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033630672620032489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1959674017373462528",
+              "start": 3,
+              "username": "Alicemimimiao11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033630672620032489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033593975089799372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alicemimimiao11: 我真的对“好不好”这个词没有抵抗力 感觉在向我撒娇 一句“好不好”再大的问题都原谅了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959674017373462528",
+        "conversation_id": "2033593975089799372",
+        "created_at": "2026-03-16T17:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033593975089799372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033593975089799372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 665,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的对“好不好”这个词没有抵抗力 感觉在向我撒娇 一句“好不好”再大的问题都原谅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 32,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 131
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T17:47:59.000Z",
+        "description": "分享我喜欢的｜不约不线下｜没有陪聊的义务 陪聊打钱谢谢｜骂我的没妈｜盗图狗替我挡灾｜自用VPN：https://t.co/nMxtjeNUdR｜另一个我@Alicemimimiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Alicemimimiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=wXmskh5r",
+                "start": 48,
+                "url": "https://t.co/nMxtjeNUdR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alice51462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alice51462",
+                "start": 0,
+                "url": "https://t.co/Py9CPZxB06"
+              }
+            ]
+          }
+        },
+        "id": "1959674017373462528",
+        "location": "🚪288/520/1314      匿名➡️",
+        "name": "Alice",
+        "pinned_tweet_id": "2006335726410183054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010237010825392128/cuiFSv0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6649,
+          "following_count": 150,
+          "like_count": 6256,
+          "listed_count": 31,
+          "media_count": 173,
+          "tweet_count": 2652
+        },
+        "url": "https://t.co/Py9CPZxB06",
+        "username": "Alicemimimiao11",
+        "verified": true
+      }
+    ]
+  }
+}

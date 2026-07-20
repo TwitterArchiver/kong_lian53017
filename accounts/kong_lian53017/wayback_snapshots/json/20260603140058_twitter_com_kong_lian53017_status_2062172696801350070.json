@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2062172696801350070",
+    "created_at": "2026-06-03T14:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062172696801350070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "wtfkanwogansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062172696801350070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061841849904742615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wtfkanwogansha: 斷絕一段關係就像是嘔吐 把手伸進嗓子眼裡 將從前的記憶全部摳挖出來吐一地 酸的苦的糊一嘴弄得眼淚婆娑 只有完全吐乾淨才罷休 一直吐一直吐 吐出酸水吐出胃液吐乾吐淨 在把罷休 太惡心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2062172696801350070",
+        "created_at": "2026-06-03T14:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062172696801350070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847153221900685312",
+              "start": 3,
+              "username": "wtfkanwogansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062172696801350070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061841849904742615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wtfkanwogansha: 斷絕一段關係就像是嘔吐 把手伸進嗓子眼裡 將從前的記憶全部摳挖出來吐一地 酸的苦的糊一嘴弄得眼淚婆娑 只有完全吐乾淨才罷休 一直吐一直吐 吐出酸水吐出胃液吐乾吐淨 在把罷休 太惡心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "2061841849904742615",
+        "created_at": "2026-06-02T16:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061841849904742615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061841849904742615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6627,
+          "like_count": 185,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "斷絕一段關係就像是嘔吐 把手伸進嗓子眼裡 將從前的記憶全部摳挖出來吐一地 酸的苦的糊一嘴弄得眼淚婆娑 只有完全吐乾淨才罷休 一直吐一直吐 吐出酸水吐出胃液吐乾吐淨 在把罷休 太惡心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 115,
+          "like_count": 19509,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 4301
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "我，我，我，我。",
+        "id": "1847153221900685312",
+        "name": "ダメ女",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009163482588155904/HNwyNfIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 617,
+          "like_count": 1329,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1635
+        },
+        "username": "wtfkanwogansha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2033788755837128922",
+    "created_at": "2026-03-17T06:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T07:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033792043252912153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033792043252912153",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033788755837128922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这一年感觉自己不再像之前那样通过被人需要去肯定自己的价值了。我的存在本身就很独特，也不需要靠谁的认可去肯定这种独特。其实我一直是个挺自负的人，以前这样我自认是过度自卑导致的，如今的自负是明白了自己确实是值得被喜欢被好好对待的。不然我经历的一切承受的痛苦算什么？好事也该轮到我了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2033788755837128922",
+        "created_at": "2026-03-17T06:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033792043252912153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033792043252912153",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033788755837128922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一年感觉自己不再像之前那样通过被人需要去肯定自己的价值了。我的存在本身就很独特，也不需要靠谁的认可去肯定这种独特。其实我一直是个挺自负的人，以前这样我自认是过度自卑导致的，如今的自负是明白了自己确实是值得被喜欢被好好对待的。不然我经历的一切承受的痛苦算什么？好事也该轮到我了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2033788755837128922",
+        "created_at": "2026-03-17T06:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033788755837128922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033788755837128922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仔细想想今年最大的变化就是配得感提升了且意识到自己确实有一点人格魅力（？）以前觉得别人不对我好选择离开是不是我做得不够好，如今只觉得被我喜欢就是件很幸福的事，失去我是他们的不幸，消耗我的人选择离开我对我来说是件好事。慢慢学着爱自己。虽仍无法与之前的自己和解，但重要的是现在和未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 32,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 138
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

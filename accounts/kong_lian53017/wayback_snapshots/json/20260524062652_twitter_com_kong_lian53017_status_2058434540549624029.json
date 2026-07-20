@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058433051986932083",
+    "created_at": "2026-05-24T06:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058434540549624029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114936322890719232",
+          "start": 0,
+          "username": "Cangshengxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058434540549624029",
+    "in_reply_to_user_id": "1114936322890719232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058434410958164402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cangshengxue 象征性等一下吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058433051986932083",
+        "created_at": "2026-05-24T06:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058434540549624029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114936322890719232",
+              "start": 0,
+              "username": "Cangshengxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058434540549624029",
+        "in_reply_to_user_id": "1114936322890719232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058434410958164402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cangshengxue 象征性等一下吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114936322890719232",
+        "conversation_id": "2058433051986932083",
+        "created_at": "2026-05-24T06:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058434410958164402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058434410958164402",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058433051986932083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 什么？还需要等十分钟吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 112,
+          "like_count": 17033,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 5787
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T17:01:48.000Z",
+        "description": "性别：男 /   ……偶尔会想起自己上推是为了看色图的。   /   或许是个很温柔的人  /   我会在这里喷射黑色泥浆   /   INFP-T   /   九型人格：2w1   /   泪失禁体质（日均哭三次）   /   音游苦手（菜但爱玩）  /    养猫的   /    堂&夏（但夏应该不会有闲心刷推？）",
+        "id": "1114936322890719232",
+        "name": "037",
+        "pinned_tweet_id": "2053154289087131672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053148859459842048/_1MKjyF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 564,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 393
+        },
+        "username": "Cangshengxue",
+        "verified": false
+      }
+    ]
+  }
+}

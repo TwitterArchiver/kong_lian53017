@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047264933726060748",
+    "created_at": "2026-04-23T10:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047268021706899488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036145376961667072",
+          "start": 0,
+          "username": "Yumi34954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047268021706899488",
+    "in_reply_to_user_id": "2036145376961667072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047264933726060748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumi34954 我看纯是为了折磨自己逼自己戒断来着（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047264933726060748",
+        "created_at": "2026-04-23T10:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047268021706899488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036145376961667072",
+              "start": 0,
+              "username": "Yumi34954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047268021706899488",
+        "in_reply_to_user_id": "2036145376961667072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047264933726060748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi34954 我看纯是为了折磨自己逼自己戒断来着（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036145376961667072",
+        "conversation_id": "2047264933726060748",
+        "created_at": "2026-04-23T10:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047264933726060748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047264933726060748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "截聊天记录和反复看聊天记录这些事我高中就不做了，原来很多人还会反复回味跟另一个人的聊天记录吗……\n其实我觉得没啥意义真的，因为不在意你的人就是不在意你，反复看多少次也不会发信息给你，而在意你的人基本会天天聊，压根也用不着这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 101,
+          "like_count": 8952,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 3779
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T18:17:52.000Z",
+        "description": "叫我小稚，M属性，喜欢小动物\n22↑  INFP\n随便发点照片和日常碎碎念",
+        "id": "2036145376961667072",
+        "location": "无🚪，除互关外不加v，礼貌夸夸私信会回复，发身材只是好玩",
+        "name": "oxo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036151126442254339/c7k9fARw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 64,
+          "like_count": 2955,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 155
+        },
+        "username": "Yumi34954",
+        "verified": false
+      }
+    ]
+  }
+}

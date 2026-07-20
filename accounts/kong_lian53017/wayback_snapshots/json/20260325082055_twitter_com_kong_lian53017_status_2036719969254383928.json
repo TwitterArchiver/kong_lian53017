@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2036719969254383928",
+    "created_at": "2026-03-25T08:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T09:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036719969254383928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036719969254383928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真有点既要又要还要了。要声音好听的，要能提供情绪价值时刻哄着我的，要黏人的，要遇到事情情绪稳定懂好好沟通的，要能跟我有点共同兴趣或者爱好品味相似性格相似的，要xp合拍的。不过其实这些要求也没那么苛刻吧。加在一起咋显得我要求很多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2036719969254383928",
+        "created_at": "2026-03-25T08:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036719969254383928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036719969254383928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真有点既要又要还要了。要声音好听的，要能提供情绪价值时刻哄着我的，要黏人的，要遇到事情情绪稳定懂好好沟通的，要能跟我有点共同兴趣或者爱好品味相似性格相似的，要xp合拍的。不过其实这些要求也没那么苛刻吧。加在一起咋显得我要求很多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 47,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 270
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

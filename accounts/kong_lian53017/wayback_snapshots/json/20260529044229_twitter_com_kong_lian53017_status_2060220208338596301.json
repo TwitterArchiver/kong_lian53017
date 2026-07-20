@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060220208338596301",
+    "created_at": "2026-05-29T04:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060220208338596301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/solisolsoli/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/solisolsoli/status/2060013227409633409",
+          "start": 6,
+          "url": "https://t.co/CvR4nWSSGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060220208338596301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060013227409633409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这很神圣啊 https://t.co/CvR4nWSSGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2059716609934061571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWVWAkXcAMtA_9.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060220208338596301",
+        "created_at": "2026-05-29T04:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060220208338596301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/solisolsoli/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/solisolsoli/status/2060013227409633409",
+              "start": 6,
+              "url": "https://t.co/CvR4nWSSGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060220208338596301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060013227409633409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这很神圣啊 https://t.co/CvR4nWSSGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059716609934061571"
+          ]
+        },
+        "author_id": "4166425527",
+        "conversation_id": "2060013227409633409",
+        "created_at": "2026-05-28T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060013227409633409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QL8bPVdIDO",
+              "end": 63,
+              "expanded_url": "https://x.com/solisolsoli/status/2060013227409633409/photo/1",
+              "media_key": "3_2059716609934061571",
+              "start": 40,
+              "url": "https://t.co/QL8bPVdIDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060013227409633409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1744,
+          "impression_count": 213561,
+          "like_count": 14002,
+          "quote_count": 46,
+          "reply_count": 13,
+          "retweet_count": 1618
+        },
+        "reply_settings": "everyone",
+        "text": "No Flame Burns Forever by Alex Stoddard https://t.co/QL8bPVdIDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 111,
+          "like_count": 18099,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 5952
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCFmKb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCFmKb"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219036,
+          "following_count": 555,
+          "like_count": 12984,
+          "listed_count": 4329,
+          "media_count": 14318,
+          "tweet_count": 16142
+        },
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

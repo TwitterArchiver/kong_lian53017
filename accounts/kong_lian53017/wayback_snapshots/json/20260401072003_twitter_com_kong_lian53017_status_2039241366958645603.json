@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039241366958645603",
+    "created_at": "2026-04-01T07:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039241366958645603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HK416ABC/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/HK416ABC/status/2039240791516942771",
+          "start": 36,
+          "url": "https://t.co/sNYs270KQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039241366958645603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039240791516942771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "[微信红包] \n愚人节快乐宝宝\n没有红包，你也不是宝宝，这里更不是微信 https://t.co/sNYs270KQa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039241366958645603",
+        "created_at": "2026-04-01T07:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039241366958645603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HK416ABC/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/HK416ABC/status/2039240791516942771",
+              "start": 36,
+              "url": "https://t.co/sNYs270KQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039241366958645603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039240791516942771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[微信红包] \n愚人节快乐宝宝\n没有红包，你也不是宝宝，这里更不是微信 https://t.co/sNYs270KQa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057668616408064001",
+        "conversation_id": "2039240791516942771",
+        "created_at": "2026-04-01T07:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039240791516942771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039240791516942771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[微信红包] \n愚人节快乐宝宝\n没有红包，你也不是宝宝，这里更不是微信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 71,
+          "like_count": 1978,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 894
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 661,
+          "like_count": 1456,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 998
+        },
+        "username": "HK416ABC",
+        "verified": false
+      }
+    ]
+  }
+}

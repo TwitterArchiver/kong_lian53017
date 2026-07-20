@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043154438735696081",
+    "created_at": "2026-04-12T03:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043171593321586977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "132630945",
+          "start": 0,
+          "username": "xy10171001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043171593321586977",
+    "in_reply_to_user_id": "132630945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043167718749397127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xy10171001 唉是的。主要觉得自己不稳定能力也不够，谈谈恋爱得了，不想牵扯太多七七八八的东西，结婚肯定得跟我父母商量一些东西，我觉得好烦😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043154438735696081",
+        "created_at": "2026-04-12T03:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043171593321586977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "132630945",
+              "start": 0,
+              "username": "xy10171001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043171593321586977",
+        "in_reply_to_user_id": "132630945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043167718749397127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xy10171001 唉是的。主要觉得自己不稳定能力也不够，谈谈恋爱得了，不想牵扯太多七七八八的东西，结婚肯定得跟我父母商量一些东西，我觉得好烦😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "132630945",
+        "conversation_id": "2043154438735696081",
+        "created_at": "2026-04-12T03:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043167718749397127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043167718749397127",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043165655059546472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 只谈恋爱挺好的，家的定义是上面宝盖头有地方居住，遮风挡雨，下面是猪的象形字，就是衣食无忧，互相有个保障备份。其实大家都婚前买了房，收入靠自己努力，没那么需要忍耐。谈恋爱就是喜欢就在一起，结婚现在就是增加了沉没成本。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 87,
+          "like_count": 4523,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1959
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-13T19:26:35.000Z",
+        "description": "",
+        "id": "132630945",
+        "location": "Hunan",
+        "name": "xy10171001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1163983461553598467/5OC9t7bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 1165,
+          "like_count": 3913,
+          "listed_count": 5,
+          "media_count": 83,
+          "tweet_count": 916
+        },
+        "username": "xy10171001",
+        "verified": false
+      }
+    ]
+  }
+}

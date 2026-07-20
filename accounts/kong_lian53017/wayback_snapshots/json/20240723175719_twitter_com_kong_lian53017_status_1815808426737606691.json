@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1815629891783786662",
+    "created_at": "2024-07-23T17:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T18:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815808426737606691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1691322196923449344",
+          "start": 0,
+          "username": "yarc98519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815808426737606691",
+    "in_reply_to_user_id": "1691322196923449344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815629891783786662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yarc98519 太经典了这一大段🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1815629891783786662",
+        "created_at": "2024-07-23T17:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T18:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815808426737606691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1691322196923449344",
+              "start": 0,
+              "username": "yarc98519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815808426737606691",
+        "in_reply_to_user_id": "1691322196923449344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815629891783786662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yarc98519 太经典了这一大段🤣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815629819146854400"
+          ]
+        },
+        "author_id": "1691322196923449344",
+        "conversation_id": "1815629891783786662",
+        "created_at": "2024-07-23T06:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T07:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815629891783786662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/h6EVCUYMKV",
+              "end": 90,
+              "expanded_url": "https://twitter.com/yarc98519/status/1815629891783786662/photo/1",
+              "media_key": "3_1815629819146854400",
+              "start": 67,
+              "url": "https://t.co/h6EVCUYMKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815629891783786662",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9945,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先我不是HR，你似乎投错地方了\n其次很难想象这是30岁男人写出来的，你跟那些私信发一句hi，hello，你好的人半斤八两吧我只能说 https://t.co/h6EVCUYMKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "发碎碎念┃00年的狮子座┃很i┃天塌下来我也要搞纯爱┃switch┃只对喜欢的人特别┃回避型┃网络社交不涉三┃不图不文不磕炮 直接发图发视频我会已读不回",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815255011137576960/W9JysngA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T05:34:37.000Z",
+        "description": "☁️的日记",
+        "id": "1691322196923449344",
+        "location": "🪐",
+        "name": "yarc",
+        "pinned_tweet_id": "1813733547460735435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790374083194159104/8ORwkOsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 155,
+          "like_count": 8628,
+          "listed_count": 9,
+          "tweet_count": 1459
+        },
+        "username": "yarc98519",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2044729927271084133",
+    "created_at": "2026-04-16T10:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044729927271084133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miyngyng155125…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/miyngyng155125/status/2044729719627948400",
+          "start": 5,
+          "url": "https://t.co/rq7zSubD7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044729927271084133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044729719627948400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能养我 https://t.co/rq7zSubD7I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2044729927271084133",
+        "created_at": "2026-04-16T10:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044729927271084133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miyngyng155125…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/miyngyng155125/status/2044729719627948400",
+              "start": 5,
+              "url": "https://t.co/rq7zSubD7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044729927271084133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044729719627948400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能养我 https://t.co/rq7zSubD7I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985250196155142145",
+        "conversation_id": "2044729719627948400",
+        "created_at": "2026-04-16T10:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044729719627948400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044729719627948400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能养我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 91,
+          "like_count": 6035,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2591
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T07:38:39.000Z",
+        "description": "叫我苦苦 非常低精力 同类互fo 双相精分焦虑 🚪52加v纯绿陪聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1ovqyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1ovqyu",
+                "start": 0,
+                "url": "https://t.co/BTKgdR25Dd"
+              }
+            ]
+          }
+        },
+        "id": "1985250196155142145",
+        "name": "未愈合的季風",
+        "pinned_tweet_id": "2039018996805349721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033477587151028224/hn988M7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 103,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/BTKgdR25Dd",
+        "username": "miyngyng155125",
+        "verified": false
+      }
+    ]
+  }
+}

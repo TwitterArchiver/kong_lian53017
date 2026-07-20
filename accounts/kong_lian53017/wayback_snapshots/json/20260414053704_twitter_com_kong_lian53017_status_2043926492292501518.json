@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043924179188363509",
+    "created_at": "2026-04-14T05:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043926492292501518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1921585254189735936",
+          "start": 0,
+          "username": "1ve6nn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043926492292501518",
+    "in_reply_to_user_id": "1921585254189735936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043926085310783802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ve6nn 好嘟！有多喝水🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043924179188363509",
+        "created_at": "2026-04-14T05:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043926492292501518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1921585254189735936",
+              "start": 0,
+              "username": "1ve6nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043926492292501518",
+        "in_reply_to_user_id": "1921585254189735936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043926085310783802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ve6nn 好嘟！有多喝水🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921585254189735936",
+        "conversation_id": "2043924179188363509",
+        "created_at": "2026-04-14T05:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043926085310783802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043926085310783802",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043924179188363509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 好好吃飯都喝水都會好起來的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 90,
+          "like_count": 5238,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2266
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T15:16:52.000Z",
+        "description": "誰可以跟我互fo呀qwq",
+        "id": "1921585254189735936",
+        "name": "好想當日本留學生",
+        "pinned_tweet_id": "2042264347385499944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041115636844421120/xg_1_Bdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "1ve6nn",
+        "verified": false
+      }
+    ]
+  }
+}

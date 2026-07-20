@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042908441543610461",
+    "created_at": "2026-04-11T10:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042910693243163109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604168045424914433",
+          "start": 0,
+          "username": "bobi01604691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042910693243163109",
+    "in_reply_to_user_id": "1604168045424914433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042910497125863836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi01604691 孤独咕嘟就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042908441543610461",
+        "created_at": "2026-04-11T10:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042910693243163109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604168045424914433",
+              "start": 0,
+              "username": "bobi01604691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042910693243163109",
+        "in_reply_to_user_id": "1604168045424914433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042910497125863836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi01604691 孤独咕嘟就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604168045424914433",
+        "conversation_id": "2042908441543610461",
+        "created_at": "2026-04-11T10:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042910497125863836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042910497125863836",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042908441543610461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 咋了咋了咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 91,
+          "like_count": 4300,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1850
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T17:34:08.000Z",
+        "description": "前看天辽地阔",
+        "id": "1604168045424914433",
+        "name": "萧余丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037606730281238528/I2cLF5Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 141,
+          "like_count": 2398,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 664
+        },
+        "username": "bobi01604691",
+        "verified": false
+      }
+    ]
+  }
+}

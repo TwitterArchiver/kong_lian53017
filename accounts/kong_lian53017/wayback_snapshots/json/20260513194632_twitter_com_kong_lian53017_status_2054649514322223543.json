@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2054649514322223543",
+    "created_at": "2026-05-13T19:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T20:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054649514322223543"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054649514322223543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天练弹唱练得有点破防了。挺简单的八句我练了两个多小时，纯弹能顺下来一开始唱右手就总错。其实自己也清楚自己才学一周基础都没学完不可能多速成，粉刷匠脱谱我当时都练了两天来着（哈哈笨蛋）……但总出错还是挺有挫败感的，对自己有点恼火。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2054649514322223543",
+        "created_at": "2026-05-13T19:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054649514322223543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054649514322223543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天练弹唱练得有点破防了。挺简单的八句我练了两个多小时，纯弹能顺下来一开始唱右手就总错。其实自己也清楚自己才学一周基础都没学完不可能多速成，粉刷匠脱谱我当时都练了两天来着（哈哈笨蛋）……但总出错还是挺有挫败感的，对自己有点恼火。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 110,
+          "like_count": 14757,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 5147
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058975698556195297",
+    "created_at": "2026-05-25T18:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058975698556195297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foreverabbit77…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/foreverabbit77/status/2058811399028285517",
+          "start": 65,
+          "url": "https://t.co/1yHnXJbkL2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058975698556195297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058811399028285517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。说句很冷漠的话就是有些人对我没那么重要，所以双取我也懒得特意解释什么。每个人都有不喜欢的权利。我根本没注意过有没有人取关我。 https://t.co/1yHnXJbkL2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058975698556195297",
+        "created_at": "2026-05-25T18:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058975698556195297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foreverabbit77…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/foreverabbit77/status/2058811399028285517",
+              "start": 65,
+              "url": "https://t.co/1yHnXJbkL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058975698556195297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058811399028285517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。说句很冷漠的话就是有些人对我没那么重要，所以双取我也懒得特意解释什么。每个人都有不喜欢的权利。我根本没注意过有没有人取关我。 https://t.co/1yHnXJbkL2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979251596501618688",
+        "conversation_id": "2058811399028285517",
+        "created_at": "2026-05-25T07:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058811399028285517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058811399028285517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2274,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎。还是说一下。双取不代表我讨厌你，可能只是某个点让我觉得不舒服了，不代表我们有冲突或者怎么样。偶尔可能是误取，但是大部分情况下我们只是网友呀…我没有想要谁做小粉丝的意思，所以也不要关注我好吗。我只想我的世界再小一点\n互fo也是。我不理解不互动为什么要互关。总和我玩的我其实都记得…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17466,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 5890
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "片段中 有些散落",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子？",
+        "pinned_tweet_id": "2058811399028285517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058591706225037312/m1gd3ID2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 126,
+          "like_count": 31370,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 10690
+        },
+        "username": "foreverabbit77",
+        "verified": false
+      }
+    ]
+  }
+}

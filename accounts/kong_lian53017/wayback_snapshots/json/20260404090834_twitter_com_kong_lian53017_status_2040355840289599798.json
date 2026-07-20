@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040355840289599798",
+    "created_at": "2026-04-04T09:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040355840289599798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OvOxiaomi/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/OvOxiaomi/status/2040283000953561462",
+          "start": 3,
+          "url": "https://t.co/bioklqY7se"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040355840289599798",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040283000953561462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想 https://t.co/bioklqY7se"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040355840289599798",
+        "created_at": "2026-04-04T09:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040355840289599798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OvOxiaomi/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/OvOxiaomi/status/2040283000953561462",
+              "start": 3,
+              "url": "https://t.co/bioklqY7se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040355840289599798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040283000953561462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想 https://t.co/bioklqY7se"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2040283000953561462",
+        "created_at": "2026-04-04T04:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040283000953561462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040283000953561462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 859,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "好想谈恋爱，好想和恋人同居，好想一起养一只猫，好想一起养一只毛茸茸的小狗，好想晚上可以抱抱睡，好想可以一起在家并排坐打游戏，好想没事的时候可以黏在一起，好想可以随时亲到对方抱到对方，好想给对方做好吃的饭菜，好想被对方埋颈贴贴，好想摸摸对方的头…操。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 75,
+          "like_count": 2647,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1185
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "请不要骚扰我谢谢!我只是一块三文鱼和一块寿司🍣我是一只苦力怕! @OnOxiaomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "匿名提问在➡️",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033793301028249601/U-7a-4bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 280,
+          "like_count": 27794,
+          "listed_count": 11,
+          "media_count": 916,
+          "tweet_count": 15186
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi",
+        "verified": false
+      }
+    ]
+  }
+}

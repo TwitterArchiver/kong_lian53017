@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042044205393178720",
+    "created_at": "2026-04-10T07:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042500223763964175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034917015912337408",
+          "start": 0,
+          "username": "Kittykitty689"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042500223763964175",
+    "in_reply_to_user_id": "2034917015912337408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042493499984261438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittykitty689 很难遇！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-10T07:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042500223763964175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034917015912337408",
+              "start": 0,
+              "username": "Kittykitty689"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042500223763964175",
+        "in_reply_to_user_id": "2034917015912337408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042493499984261438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittykitty689 很难遇！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034917015912337408",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-10T06:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042493499984261438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042493499984261438",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042044205393178720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 所以我的理想型是那种帅而不自知甚至很自卑的社交孤儿！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 88,
+          "like_count": 3979,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1702
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T08:57:35.000Z",
+        "description": "我就是只会复制粘贴加一和接接接的NPC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittykitty689",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittykitty689",
+                "start": 0,
+                "url": "https://t.co/V0wReXWShv"
+              }
+            ]
+          }
+        },
+        "id": "2034917015912337408",
+        "name": "装s和仇人用热熔胶玩滴蜡",
+        "pinned_tweet_id": "2041793460165025889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041925447089561600/_xeRmA89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/V0wReXWShv",
+        "username": "Kittykitty689",
+        "verified": false
+      }
+    ]
+  }
+}

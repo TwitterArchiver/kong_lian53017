@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032679843171807553",
+    "created_at": "2026-03-14T06:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T07:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032701150097703390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1976383726855839744",
+          "start": 0,
+          "username": "MmeTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032701150097703390",
+    "in_reply_to_user_id": "1976383726855839744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032679843171807553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MmeTuT 这种不喜欢的时候最绝情了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2032679843171807553",
+        "created_at": "2026-03-14T06:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032701150097703390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976383726855839744",
+              "start": 0,
+              "username": "MmeTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032701150097703390",
+        "in_reply_to_user_id": "1976383726855839744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032679843171807553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmeTuT 这种不喜欢的时候最绝情了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976383726855839744",
+        "conversation_id": "2032679843171807553",
+        "created_at": "2026-03-14T04:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032679843171807553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032679843171807553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你可以只喜欢我吗 你可以一直只对我好吗 你可以不要跟别的女孩子暧昧吗 你可以不要不理我吗 你可以只跟我打电话吗 你可以每天发语音说爱我吗 你可以不要冷冰冰吗 你可以不要给我落差感吗 你可以不要食言吗 你可以不要加别的女孩子吗 你可以只是我一个人的吗 你可以说到做到吗 你可以不要骗我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 54
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "哥哥控｜没有🚪不闲聊｜互关欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki95570",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki95570",
+                "start": 0,
+                "url": "https://t.co/wJeivsFncV"
+              }
+            ]
+          }
+        },
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024284032037720223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 127,
+          "like_count": 6431,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/wJeivsFncV",
+        "username": "MmeTuT",
+        "verified": false
+      }
+    ]
+  }
+}

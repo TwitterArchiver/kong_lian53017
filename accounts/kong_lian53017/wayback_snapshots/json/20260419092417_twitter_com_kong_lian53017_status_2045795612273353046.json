@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045788144986202607",
+    "created_at": "2026-04-19T09:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045795612273353046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1005032686925242368",
+          "start": 0,
+          "username": "Ch0coIates_W00O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045795612273353046",
+    "in_reply_to_user_id": "1005032686925242368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045788144986202607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ch0coIates_W00O 噢不🥺想想就难受。夏天的太阳坏😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045788139508445186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQZeU0bsAIJ8Zm.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045788144986202607",
+        "created_at": "2026-04-19T09:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045795612273353046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1005032686925242368",
+              "start": 0,
+              "username": "Ch0coIates_W00O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045795612273353046",
+        "in_reply_to_user_id": "1005032686925242368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045788144986202607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ch0coIates_W00O 噢不🥺想想就难受。夏天的太阳坏😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045788139508445186"
+          ]
+        },
+        "author_id": "1005032686925242368",
+        "conversation_id": "2045788144986202607",
+        "created_at": "2026-04-19T08:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045788144986202607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HusLjwWX0G",
+              "end": 128,
+              "expanded_url": "https://x.com/Ch0coIates_W00O/status/2045788144986202607/photo/1",
+              "media_key": "3_2045788139508445186",
+              "start": 105,
+              "url": "https://t.co/HusLjwWX0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045788144986202607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诡异...我半年没割过了 今天被太阳一晒以前的疤又痒又疼 还发红 其实是全是的皮肤都有点反应 只是伤疤那一块会特别难受\n而且我明明穿的长袖 虽然是很薄的一层纱 还是被击穿了吗 \n还好我夏天会变成昼伏夜出的动物 https://t.co/HusLjwWX0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 95,
+          "like_count": 7257,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3080
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T10:23:59.000Z",
+        "description": "Age:20↑ /162CM /50KG /#门槛 68解锁联系方式（口令or赞赏）/🎀🎨推し/Maimai DX/\n置顶推广自辨。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "门槛"
+              }
+            ]
+          }
+        },
+        "id": "1005032686925242368",
+        "location": "在你心里❤️",
+        "name": "樹状チョコレゐト",
+        "pinned_tweet_id": "2016731864648863996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984470484726194176/Zh_0LPOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 197,
+          "like_count": 515,
+          "listed_count": 17,
+          "media_count": 571,
+          "tweet_count": 2893
+        },
+        "username": "Ch0coIates_W00O",
+        "verified": false
+      }
+    ]
+  }
+}

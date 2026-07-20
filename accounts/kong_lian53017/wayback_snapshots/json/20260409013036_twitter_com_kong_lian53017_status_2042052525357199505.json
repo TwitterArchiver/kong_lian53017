@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042046309709050245",
+    "created_at": "2026-04-09T01:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042052525357199505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997141885589377026",
+          "start": 0,
+          "username": "syokora755476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042052525357199505",
+    "in_reply_to_user_id": "1997141885589377026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042046309709050245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syokora755476 祝现生愉快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2042046307146330112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbOTBBa8AArbIv.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042046309709050245",
+        "created_at": "2026-04-09T01:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042052525357199505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997141885589377026",
+              "start": 0,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042052525357199505",
+        "in_reply_to_user_id": "1997141885589377026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042046309709050245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syokora755476 祝现生愉快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042046307146330112"
+          ]
+        },
+        "author_id": "1997141885589377026",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042046309709050245",
+        "created_at": "2026-04-09T01:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042046309709050245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARSJKxEkjM",
+              "end": 33,
+              "expanded_url": "https://x.com/syokora755476/status/2042046309709050245/photo/1",
+              "media_key": "3_2042046307146330112",
+              "start": 10,
+              "url": "https://t.co/ARSJKxEkjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042046309709050245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将无限期淡推了🥰 https://t.co/ARSJKxEkjM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 81,
+          "like_count": 3478,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1490
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T03:12:08.000Z",
+        "description": "06 | infp | 偶尔会发女装 | 欢迎大家和我互fo | 喜欢s0m1 | 重度游戏依赖 |（我喜欢猫，请给我很多猫猫☺️）| 低精力老鼠人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus11903",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus11903",
+                "start": 0,
+                "url": "https://t.co/JVxlntnviM"
+              }
+            ]
+          }
+        },
+        "id": "1997141885589377026",
+        "location": "0.1km",
+        "name": "汐汐不嘻嘻",
+        "pinned_tweet_id": "2036337317015855423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041307115651055616/3tGZAfkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 195,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/JVxlntnviM",
+        "username": "syokora755476",
+        "verified": false
+      }
+    ]
+  }
+}

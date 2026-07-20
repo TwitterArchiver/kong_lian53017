@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2054902768771727365",
+    "created_at": "2026-05-14T12:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054908002432610772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705662085793976320",
+          "start": 0,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054908002432610772",
+    "in_reply_to_user_id": "1705662085793976320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054902768771727365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Stupidest_Lover 美好幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054902673233846273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR7GA4aoAEpths.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054902673233903617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR7GA4bgAEy5km.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054902673225449472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR7GA2agAA-03l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054902673229725697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR7GA3bwAEDzpR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2054902768771727365",
+        "created_at": "2026-05-14T12:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054908002432610772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705662085793976320",
+              "start": 0,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054908002432610772",
+        "in_reply_to_user_id": "1705662085793976320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054902768771727365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Stupidest_Lover 美好幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054902673233846273",
+            "3_2054902673233903617",
+            "3_2054902673225449472",
+            "3_2054902673229725697"
+          ]
+        },
+        "author_id": "1705662085793976320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054902768771727365",
+        "created_at": "2026-05-14T12:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054902768771727365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wU6PbTyHY6",
+              "end": 27,
+              "expanded_url": "https://x.com/Stupidest_Lover/status/2054902768771727365/photo/1",
+              "media_key": "3_2054902673233846273",
+              "start": 4,
+              "url": "https://t.co/wU6PbTyHY6"
+            },
+            {
+              "display_url": "pic.x.com/wU6PbTyHY6",
+              "end": 27,
+              "expanded_url": "https://x.com/Stupidest_Lover/status/2054902768771727365/photo/1",
+              "media_key": "3_2054902673233903617",
+              "start": 4,
+              "url": "https://t.co/wU6PbTyHY6"
+            },
+            {
+              "display_url": "pic.x.com/wU6PbTyHY6",
+              "end": 27,
+              "expanded_url": "https://x.com/Stupidest_Lover/status/2054902768771727365/photo/1",
+              "media_key": "3_2054902673225449472",
+              "start": 4,
+              "url": "https://t.co/wU6PbTyHY6"
+            },
+            {
+              "display_url": "pic.x.com/wU6PbTyHY6",
+              "end": 27,
+              "expanded_url": "https://x.com/Stupidest_Lover/status/2054902768771727365/photo/1",
+              "media_key": "3_2054902673229725697",
+              "start": 4,
+              "url": "https://t.co/wU6PbTyHY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054902768771727365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "哎哟我 https://t.co/wU6PbTyHY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 110,
+          "like_count": 14921,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 5164
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页很话唠 没有陪聊的义务 忧郁 抽象 发骚ing\n想要变得温和平静善良自信不卑不亢有钱 女权主义\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 73,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 50,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "🚪8888 不约不线下不v不q 可赞赏码投喂，喵~",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 117,
+          "like_count": 15933,
+          "listed_count": 7,
+          "media_count": 62,
+          "tweet_count": 1949
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042315421697904857",
+    "created_at": "2026-04-10T02:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042432091011600601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604168045424914433",
+          "start": 0,
+          "username": "bobi01604691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042432091011600601",
+    "in_reply_to_user_id": "1604168045424914433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042315421697904857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi01604691 如果是我我会选打。注定有就说明躲不过，躲不过那就面对，反正早死晚死都得死，选择打看起来死得还能酷一点有意义一点（不知道在燃什么）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042315421697904857",
+        "created_at": "2026-04-10T02:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042432091011600601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604168045424914433",
+              "start": 0,
+              "username": "bobi01604691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042432091011600601",
+        "in_reply_to_user_id": "1604168045424914433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042315421697904857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi01604691 如果是我我会选打。注定有就说明躲不过，躲不过那就面对，反正早死晚死都得死，选择打看起来死得还能酷一点有意义一点（不知道在燃什么）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604168045424914433",
+        "conversation_id": "2042315421697904857",
+        "created_at": "2026-04-09T18:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042315421697904857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042315421697904857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这个越来越坏的世界里，如果注定有一场残忍的败仗，那你打还是不打\n这个问题我直到现在现在还没法回答所以一直挂在朋友圈的置顶里\n就像今天跟朋友聊天他说自杀难以干预他会对自杀的人保持一种你解脱我为你开心的态度\n我追求“要做对的事”的那一部分本能地想反驳他，但其实心里也有别的部分有点认同他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 88,
+          "like_count": 3939,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1687
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T17:34:08.000Z",
+        "description": "前看天辽地阔",
+        "id": "1604168045424914433",
+        "name": "萧余丶",
+        "pinned_tweet_id": "2037317290690281620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037606730281238528/I2cLF5Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 141,
+          "like_count": 2383,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 636
+        },
+        "username": "bobi01604691",
+        "verified": false
+      }
+    ]
+  }
+}

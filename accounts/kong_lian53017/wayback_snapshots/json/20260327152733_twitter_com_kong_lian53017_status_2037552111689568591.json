@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037552111689568591",
+    "created_at": "2026-03-27T15:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037552111689568591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FFFWEAR/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/FFFWEAR/status/2037520372539801985",
+          "start": 5,
+          "url": "https://t.co/QbP81Hz5VQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037552111689568591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037520372539801985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永久心情 https://t.co/QbP81Hz5VQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037552111689568591",
+        "created_at": "2026-03-27T15:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037552111689568591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FFFWEAR/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/FFFWEAR/status/2037520372539801985",
+              "start": 5,
+              "url": "https://t.co/QbP81Hz5VQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037552111689568591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037520372539801985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永久心情 https://t.co/QbP81Hz5VQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024718499206356992",
+        "conversation_id": "2037520372539801985",
+        "created_at": "2026-03-27T13:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037520372539801985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037520372539801985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7136,
+          "like_count": 129,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特能不能出删评的功能，被蠢猪评论了很恶心😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 58,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 461
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:31:33.000Z",
+        "description": "去在意一些真的值得你在意的东西吧。前世@SSSSWEAR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "SSSSWEAR"
+              }
+            ]
+          }
+        },
+        "id": "2024718499206356992",
+        "name": "玻璃剑",
+        "pinned_tweet_id": "2033053770255577453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035006605499277313/8gwKuCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 7,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 120
+        },
+        "username": "FFFWEAR",
+        "verified": false
+      }
+    ]
+  }
+}

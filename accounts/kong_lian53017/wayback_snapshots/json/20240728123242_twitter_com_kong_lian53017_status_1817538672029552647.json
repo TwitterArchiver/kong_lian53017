@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1817538672029552647",
+    "created_at": "2024-07-28T12:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T13:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817538672029552647"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1817538672029552647",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "功课做得不充分的下场就是现在得天天听它嚎追着它屁股后边给它擦尿。刚刚又乱尿，把自己搞得一股味道又飞奔过来用头蹭我猛撒娇，闻到味的那一瞬间感觉不如死了。好沉重的爱……再忍几天，下个月就有钱带他嘎蛋了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1817538672029552647",
+        "created_at": "2024-07-28T12:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T13:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817538672029552647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817538672029552647",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "功课做得不充分的下场就是现在得天天听它嚎追着它屁股后边给它擦尿。刚刚又乱尿，把自己搞得一股味道又飞奔过来用头蹭我猛撒娇，闻到味的那一瞬间感觉不如死了。好沉重的爱……再忍几天，下个月就有钱带他嘎蛋了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "switch┃天塌下来我也要搞纯爱┃社恐┃不连不图不文不磕炮不约┃可以文字陪聊当情绪垃圾桶但请给我钱",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817230842420404224/A2U7EAnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040990439076241695",
+    "created_at": "2026-04-06T03:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040991060554584070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040991060554584070",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040990439076241695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找不到发声位置就这样硬唱，恨自己没有天赋😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16200,
+        "height": 720,
+        "media_key": "7_2040990413532835840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040990413532835840/pu/img/KweamIqLJdYRBh7V.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040990413532835840/pu/vid/avc1/480x270/OGMjmH4r9MKkG3yQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040990413532835840/pu/vid/avc1/640x360/tTuTGHknnNyhRU0B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040990413532835840/pu/vid/avc1/1280x720/PDI4bBjoay_pz41G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040990413532835840/pu/pl/2hus57iil-YBHG0o.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040990439076241695",
+        "created_at": "2026-04-06T03:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040991060554584070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040991060554584070",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040990439076241695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找不到发声位置就这样硬唱，恨自己没有天赋😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040990413532835840"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040990439076241695",
+        "created_at": "2026-04-06T03:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040990439076241695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7MeCe3xfx",
+              "end": 51,
+              "expanded_url": "https://x.com/kong_lian53017/status/2040990439076241695/video/1",
+              "media_key": "7_2040990413532835840",
+              "start": 28,
+              "url": "https://t.co/s7MeCe3xfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040990439076241695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既没有技巧也没有感情，又白又干巴，给自己听笑了🙂‍↔️ https://t.co/s7MeCe3xfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 77,
+          "like_count": 3018,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1313
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

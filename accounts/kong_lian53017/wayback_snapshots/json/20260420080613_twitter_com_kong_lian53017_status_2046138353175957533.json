@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046135785557258631",
+    "created_at": "2026-04-20T08:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046138353175957533"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046138353175957533",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046135785557258631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长大了不依赖父母是很正常的事吧，我只是提前长大了，只是可能提的有点太前了（笑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046135785557258631",
+        "created_at": "2026-04-20T08:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046138353175957533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046138353175957533",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046135785557258631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长大了不依赖父母是很正常的事吧，我只是提前长大了，只是可能提的有点太前了（笑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046135785557258631",
+        "created_at": "2026-04-20T07:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046135785557258631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046135785557258631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想过很多次如果他们不生我弟就好了，那样很多事情都不会发展到现在的地步。但是没有如果。也没有恨我弟怪我弟的意思，他过得也没有很快乐。我父母给我的感觉就是两头都想顾到最后两头都顾不住。很多时候在他们三人的关系中我心甘情愿当一个工具人，因为他们不能相互理解但我能理解他们三个每一个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 96,
+          "like_count": 7716,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 3245
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

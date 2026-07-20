@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043660946716184709",
+    "created_at": "2026-04-13T12:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043662555944812873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042191459655593984",
+          "start": 0,
+          "username": "OcTic2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043662555944812873",
+    "in_reply_to_user_id": "2042191459655593984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043660946716184709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OcTic2e 恭喜！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2043660936708587520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyKy03bgAAzH5G.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043660946716184709",
+        "created_at": "2026-04-13T12:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043662555944812873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042191459655593984",
+              "start": 0,
+              "username": "OcTic2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043662555944812873",
+        "in_reply_to_user_id": "2042191459655593984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043660946716184709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OcTic2e 恭喜！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043660936708587520"
+          ]
+        },
+        "author_id": "2042191459655593984",
+        "conversation_id": "2043660946716184709",
+        "created_at": "2026-04-13T12:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043660946716184709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FqzdGsT3MX",
+              "end": 40,
+              "expanded_url": "https://x.com/OcTic2e/status/2043660946716184709/photo/1",
+              "media_key": "3_2043660936708587520",
+              "start": 17,
+              "url": "https://t.co/FqzdGsT3MX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043660946716184709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道这就是我周一满课的奖励吗🥹🥹 https://t.co/FqzdGsT3MX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 90,
+          "like_count": 5042,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2184
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T10:44:48.000Z",
+        "description": "大家别删我 我最近不发言是因为回农村了手机没信号 每天得打摩的到镇上奶茶店蹭WiFi才能跟你们唠两句\n纯绿玩 ➕v52不退谢谢",
+        "id": "2042191459655593984",
+        "name": "808bass",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042192329533263872/W5O_1YWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 32,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "username": "OcTic2e",
+        "verified": false
+      }
+    ]
+  }
+}

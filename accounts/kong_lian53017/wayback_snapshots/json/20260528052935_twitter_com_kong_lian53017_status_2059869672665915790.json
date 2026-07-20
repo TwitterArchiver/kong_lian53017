@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2059869672665915790",
+    "created_at": "2026-05-28T05:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059869672665915790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029643662720897024",
+          "start": 3,
+          "username": "Inky030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059869672665915790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059690050863181974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Inky030: 要我什么都和你说，但实则也承担不了我的情绪和事逼行为，说着自己可以全都理解我接住我但这些只在你还很喜欢我的时候有效，我听过太多这样的话了。不动听。听到就想跑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2059869672665915790",
+        "created_at": "2026-05-28T05:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059869672665915790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029643662720897024",
+              "start": 3,
+              "username": "Inky030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059869672665915790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059690050863181974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Inky030: 要我什么都和你说，但实则也承担不了我的情绪和事逼行为，说着自己可以全都理解我接住我但这些只在你还很喜欢我的时候有效，我听过太多这样的话了。不动听。听到就想跑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029643662720897024",
+        "conversation_id": "2059690050863181974",
+        "created_at": "2026-05-27T17:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059690050863181974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059690050863181974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1020,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "要我什么都和你说，但实则也承担不了我的情绪和事逼行为，说着自己可以全都理解我接住我但这些只在你还很喜欢我的时候有效，我听过太多这样的话了。不动听。听到就想跑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 111,
+          "like_count": 17998,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 5932
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T19:42:33.000Z",
+        "description": "尸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pipo77355",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pipo77355",
+                "start": 0,
+                "url": "https://t.co/uJmO9tuwFE"
+              }
+            ]
+          }
+        },
+        "id": "2029643662720897024",
+        "name": "pipo",
+        "pinned_tweet_id": "2038869837548802202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029652122397200384/PrH_-rJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 80,
+          "like_count": 7000,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/uJmO9tuwFE",
+        "username": "Inky030",
+        "verified": false
+      }
+    ]
+  }
+}

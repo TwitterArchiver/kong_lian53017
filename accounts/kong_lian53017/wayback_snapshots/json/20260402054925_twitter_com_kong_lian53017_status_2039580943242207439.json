@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039580943242207439",
+    "created_at": "2026-04-02T05:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039580943242207439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuehhh174115/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/xuehhh174115/status/2039399306717974765",
+          "start": 15,
+          "url": "https://t.co/lluNSz3nky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039580943242207439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039399306717974765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就喜欢这样的要谈就谈这样的 https://t.co/lluNSz3nky"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039580943242207439",
+        "created_at": "2026-04-02T05:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039580943242207439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuehhh174115/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xuehhh174115/status/2039399306717974765",
+              "start": 15,
+              "url": "https://t.co/lluNSz3nky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039580943242207439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039399306717974765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就喜欢这样的要谈就谈这样的 https://t.co/lluNSz3nky"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736375109374689280",
+        "conversation_id": "2039399306717974765",
+        "created_at": "2026-04-01T17:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039399306717974765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039399306717974765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 903,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年上谈恋爱是这样的，一般都是宠着你，哄你，对你好，可以解决问题和分析问题，抱着你睡觉，你可以无理取闹的，可以想哭就哭，反正我会哄好你，可以一直接受你这些小性子，你就是这样依赖着我。就算分手了，你也找不到像我这么好的，你会后悔，说没有人像我这样对他这么好，怎么办呢，好像离不开你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 72,
+          "like_count": 2203,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 984
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T13:17:53.000Z",
+        "description": "谁叫我妈妈，就拉黑谁，不接推广，无门\n\n     碎碎念念，话唠",
+        "id": "1736375109374689280",
+        "location": "♡",
+        "name": "芥末巧克力",
+        "pinned_tweet_id": "2008123687384633469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823716770924150784/psq2lkyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 101,
+          "like_count": 3124,
+          "listed_count": 6,
+          "media_count": 101,
+          "tweet_count": 3627
+        },
+        "username": "xuehhh174115",
+        "verified": false
+      }
+    ]
+  }
+}

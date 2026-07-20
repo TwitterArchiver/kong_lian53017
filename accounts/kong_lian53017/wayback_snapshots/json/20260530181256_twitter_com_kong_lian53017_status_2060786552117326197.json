@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060786552117326197",
+    "created_at": "2026-05-30T18:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060786552117326197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059845545804636160",
+          "start": 3,
+          "username": "argbdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060786552117326197",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060565145659773230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @argbdn: 毎日死しか考えれないんだよな、\nきっかけとか無い、もうとにかく死にたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060786552117326197",
+        "created_at": "2026-05-30T18:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060786552117326197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059845545804636160",
+              "start": 3,
+              "username": "argbdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060786552117326197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060565145659773230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @argbdn: 毎日死しか考えれないんだよな、\nきっかけとか無い、もうとにかく死にたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059845545804636160",
+        "conversation_id": "2060565145659773230",
+        "created_at": "2026-05-30T03:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060565145659773230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060565145659773230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 928,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "毎日死しか考えれないんだよな、\nきっかけとか無い、もうとにかく死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 113,
+          "like_count": 18755,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 6047
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T03:54:22.000Z",
+        "description": "09｜通信｜病みツイ多め｜全コンプ｜希死念慮\n目標は17歳のうちに死ぬこと or 希死念慮を消すこと",
+        "id": "2059845545804636160",
+        "location": "𝐓𝐰𝐢𝐭𝐭𝐞𝐫 𝐋𝐚𝐧𝐝",
+        "name": "くらり",
+        "pinned_tweet_id": "2060371607001199058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059845845512814592/pyQ-4U4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 64,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 90
+        },
+        "username": "argbdn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045213115256881408",
+    "created_at": "2026-04-17T18:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045213115256881408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zzzjm1h/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Zzzjm1h/status/2045041245249294589",
+          "start": 2,
+          "url": "https://t.co/vGxC3NjeMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045213115256881408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045041245249294589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是 https://t.co/vGxC3NjeMS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045213115256881408",
+        "created_at": "2026-04-17T18:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045213115256881408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zzzjm1h/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Zzzjm1h/status/2045041245249294589",
+              "start": 2,
+              "url": "https://t.co/vGxC3NjeMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045213115256881408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045041245249294589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是 https://t.co/vGxC3NjeMS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040486559569649664",
+        "conversation_id": "2045041245249294589",
+        "created_at": "2026-04-17T07:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045041245249294589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045041245249294589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7534,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "没有陪聊的义务。除非我对你感兴趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 92,
+          "like_count": 6640,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2854
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T17:48:57.000Z",
+        "description": "大家可以礼貌一点吗。\n我会尽量回每一个小女孩的评论的！我爱你们 谢谢你们夸我 谢谢你们喜欢我 希望你们天天开心 一定要幸福\n我是isfp双鱼！\nhttps://t.co/FRaB74Wcpz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzz60265",
+                "end": 95,
+                "expanded_url": "https://ngl.link/zzz60265",
+                "start": 72,
+                "url": "https://t.co/FRaB74Wcpz"
+              }
+            ]
+          }
+        },
+        "id": "2040486559569649664",
+        "name": "Zzz",
+        "pinned_tweet_id": "2042272893460271445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040689744053751808/caxDDCn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 62,
+          "like_count": 3304,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 730
+        },
+        "username": "Zzzjm1h",
+        "verified": false
+      }
+    ]
+  }
+}

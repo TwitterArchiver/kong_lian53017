@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034221282720624683",
+    "created_at": "2026-03-18T10:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034221282720624683"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "好美",
+          "probability": 0.6497,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/uvu_ge/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/uvu_ge/status/2033930086710481119",
+          "start": 3,
+          "url": "https://t.co/7eWNp9jDzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034221282720624683",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033930086710481119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好美 https://t.co/7eWNp9jDzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2033930081794691073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDn4ohdakAEURnR.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034221282720624683",
+        "created_at": "2026-03-18T10:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034221282720624683"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "好美",
+              "probability": 0.6497,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/uvu_ge/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/uvu_ge/status/2033930086710481119",
+              "start": 3,
+              "url": "https://t.co/7eWNp9jDzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034221282720624683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033930086710481119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好美 https://t.co/7eWNp9jDzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033930081794691073"
+          ]
+        },
+        "author_id": "1897599871643013120",
+        "conversation_id": "2033930086710481119",
+        "created_at": "2026-03-17T15:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033930086710481119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vZYWO2bab",
+              "end": 28,
+              "expanded_url": "https://x.com/uvu_ge/status/2033930086710481119/photo/1",
+              "media_key": "3_2033930081794691073",
+              "start": 5,
+              "url": "https://t.co/7vZYWO2bab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033930086710481119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 39130,
+          "like_count": 2693,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "避〇器具 https://t.co/7vZYWO2bab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 34,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 178
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:47:29.000Z",
+        "description": "対話が好きな人。",
+        "id": "1897599871643013120",
+        "name": "うぶ",
+        "pinned_tweet_id": "2033930086710481119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011036229341700097/BsFdtbkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 69,
+          "like_count": 3920,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 467
+        },
+        "username": "uvu_ge",
+        "verified": false
+      }
+    ]
+  }
+}

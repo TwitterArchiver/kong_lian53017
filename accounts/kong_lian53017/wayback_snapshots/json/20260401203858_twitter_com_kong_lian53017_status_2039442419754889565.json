@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039442419754889565",
+    "created_at": "2026-04-01T20:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039442419754889565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1405342081233559557",
+          "start": 3,
+          "username": "submaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039442419754889565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039342773774721162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @submaomao: 被吃醋比被爱还爽，当有人对我占有欲大爆发说你要是我一个的就好了不许想别人只许爱我一个我要是你最特别的一个。我会特别爽闭着眼睛回味到情感抽离，然后一段时间继续嘴角上扬。有时候还会故意说一些话诱导人吃醋然后欣赏人的反应。想被贴着吸着颈边的味道然后紧紧的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039442419754889565",
+        "created_at": "2026-04-01T20:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039442419754889565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1405342081233559557",
+              "start": 3,
+              "username": "submaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039442419754889565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039342773774721162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @submaomao: 被吃醋比被爱还爽，当有人对我占有欲大爆发说你要是我一个的就好了不许想别人只许爱我一个我要是你最特别的一个。我会特别爽闭着眼睛回味到情感抽离，然后一段时间继续嘴角上扬。有时候还会故意说一些话诱导人吃醋然后欣赏人的反应。想被贴着吸着颈边的味道然后紧紧的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1405342081233559557",
+        "conversation_id": "2039342773774721162",
+        "created_at": "2026-04-01T14:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039342773774721162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039342773774721162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被吃醋比被爱还爽，当有人对我占有欲大爆发说你要是我一个的就好了不许想别人只许爱我一个我要是你最特别的一个。我会特别爽闭着眼睛回味到情感抽离，然后一段时间继续嘴角上扬。有时候还会故意说一些话诱导人吃醋然后欣赏人的反应。想被贴着吸着颈边的味道然后紧紧的抱着不放手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 72,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 928
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T01:50:56.000Z",
+        "description": "switch偏m/enfp水瓶/颜控!!!/欢迎找我聊天打游戏🥺🚪99",
+        "id": "1405342081233559557",
+        "location": "杭州",
+        "name": "羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034862816520540160/X_VNaupa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5277,
+          "following_count": 76,
+          "like_count": 689,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 293
+        },
+        "username": "submaomao",
+        "verified": false
+      }
+    ]
+  }
+}

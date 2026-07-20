@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047677557089169744",
+    "created_at": "2026-04-24T14:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047687045485863009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038614200172326912",
+          "start": 0,
+          "username": "mingxukong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047687045485863009",
+    "in_reply_to_user_id": "2038614200172326912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047677557089169744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxukong ？？？哈？？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047677557089169744",
+        "created_at": "2026-04-24T14:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047687045485863009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038614200172326912",
+              "start": 0,
+              "username": "mingxukong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047687045485863009",
+        "in_reply_to_user_id": "2038614200172326912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047677557089169744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxukong ？？？哈？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038614200172326912",
+        "conversation_id": "2047677557089169744",
+        "created_at": "2026-04-24T14:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047677557089169744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047677557089169744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我们这里有个男的裸奔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 103,
+          "like_count": 9485,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3994
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T13:48:30.000Z",
+        "description": "OvO\n私信骚扰我的全家死完\n不加墙内",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo53075",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo53075",
+                "start": 0,
+                "url": "https://t.co/Mt2EOcLCvM"
+              }
+            ]
+          }
+        },
+        "id": "2038614200172326912",
+        "location": "我操你冯",
+        "name": "坏",
+        "pinned_tweet_id": "2040051215308906764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038614458411454464/f5UxqtBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 36,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/Mt2EOcLCvM",
+        "username": "mingxukong",
+        "verified": false
+      }
+    ]
+  }
+}

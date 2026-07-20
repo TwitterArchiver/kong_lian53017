@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2074917363011801410",
+    "created_at": "2026-07-08T18:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074917363011801410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansksn248178/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ansksn248178/status/2074629976377454668",
+          "start": 6,
+          "url": "https://t.co/d6kCX1FVEu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074917363011801410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074629976377454668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我人生态度 https://t.co/d6kCX1FVEu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2074917363011801410",
+        "created_at": "2026-07-08T18:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074917363011801410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansksn248178/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ansksn248178/status/2074629976377454668",
+              "start": 6,
+              "url": "https://t.co/d6kCX1FVEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074917363011801410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074629976377454668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我人生态度 https://t.co/d6kCX1FVEu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864990585058398208",
+        "conversation_id": "2074629976377454668",
+        "created_at": "2026-07-07T23:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074629976377454668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074629976377454668",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7521,
+          "like_count": 373,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "미래따윈생각안하고내좆대로살다가진짜좆되면자살할거임"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 119,
+          "like_count": 23992,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 4388
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T11:09:56.000Z",
+        "description": "11 | 초멘, 초뎀♡ | ○D 위주 | 섹트지뢰 | 디엠 잘 못봐요ㅠㅠ                         \n\n||🖤: @h20_1116 | @ododdd_08 | @uunghae2 | @1ah4n | @eoc_hyo | @emi8oa ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "h20_1116"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "ododdd_08"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "uunghae2"
+              },
+              {
+                "end": 115,
+                "start": 109,
+                "username": "1ah4n"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "username": "eoc_hyo"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "emi8oa"
+              }
+            ]
+          }
+        },
+        "id": "1864990585058398208",
+        "location": "나론",
+        "name": "잉잉(상태:팔로우 리밋)",
+        "pinned_tweet_id": "2060969082502164823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864991072767873028/NrA46lVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 399,
+          "like_count": 4828,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "ansksn248178",
+        "verified": false
+      }
+    ]
+  }
+}

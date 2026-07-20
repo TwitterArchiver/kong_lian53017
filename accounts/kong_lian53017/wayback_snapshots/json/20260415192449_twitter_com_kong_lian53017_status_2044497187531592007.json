@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2044497187531592007",
+    "created_at": "2026-04-15T19:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044497187531592007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ouO1nieowo/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ouO1nieowo/status/2043933325216362752",
+          "start": 9,
+          "url": "https://t.co/1U3uqabqz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044497187531592007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043933325216362752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样知错不改 https://t.co/1U3uqabqz0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2044497187531592007",
+        "created_at": "2026-04-15T19:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044497187531592007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ouO1nieowo/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ouO1nieowo/status/2043933325216362752",
+              "start": 9,
+              "url": "https://t.co/1U3uqabqz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044497187531592007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043933325216362752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样知错不改 https://t.co/1U3uqabqz0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567543722170253313",
+        "conversation_id": "2043933325216362752",
+        "created_at": "2026-04-14T06:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043933325216362752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043933325216362752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 66364,
+          "like_count": 1040,
+          "quote_count": 32,
+          "reply_count": 77,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感人进入亲密关系可能表现出来的就是喜欢没事找事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 91,
+          "like_count": 5789,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2494
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "管好你自己/不约不线下/置顶关评推广自辨",
+        "id": "1567543722170253313",
+        "name": "SweetyRoll",
+        "pinned_tweet_id": "2044006056326771144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10913,
+          "following_count": 40,
+          "like_count": 950,
+          "listed_count": 34,
+          "media_count": 36,
+          "tweet_count": 678
+        },
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

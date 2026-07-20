@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047367858024563001",
+    "created_at": "2026-04-24T16:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047707520211591191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036145376961667072",
+          "start": 0,
+          "username": "Yumi34954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047707520211591191",
+    "in_reply_to_user_id": "2036145376961667072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047703942684160336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumi34954 没。很诡异……都是美甲美睫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047367858024563001",
+        "created_at": "2026-04-24T16:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047707520211591191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036145376961667072",
+              "start": 0,
+              "username": "Yumi34954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047707520211591191",
+        "in_reply_to_user_id": "2036145376961667072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047703942684160336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi34954 没。很诡异……都是美甲美睫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036145376961667072",
+        "conversation_id": "2047367858024563001",
+        "created_at": "2026-04-24T15:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047703942684160336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047703942684160336",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047367858024563001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 没有穿耳钉的那种店吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 103,
+          "like_count": 9542,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 4016
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T18:17:52.000Z",
+        "description": "叫我小稚，sub小狗妹，喜欢小动物\n22↑  INFP\n随便发点照片和日常碎碎念",
+        "id": "2036145376961667072",
+        "location": "无🚪，除互关外不加v，发身材只是好玩",
+        "name": "oxo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036151126442254339/c7k9fARw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 65,
+          "like_count": 3232,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 165
+        },
+        "username": "Yumi34954",
+        "verified": false
+      }
+    ]
+  }
+}

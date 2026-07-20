@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2036679222236975225",
+    "created_at": "2026-03-25T05:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036679222236975225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Iris1208dzqIri…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Iris1208dzqIris/status/2036663552728268918",
+          "start": 4,
+          "url": "https://t.co/T3WLGvmvls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036679222236975225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036663552728268918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好有才 https://t.co/T3WLGvmvls"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2036679222236975225",
+        "created_at": "2026-03-25T05:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036679222236975225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Iris1208dzqIri…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Iris1208dzqIris/status/2036663552728268918",
+              "start": 4,
+              "url": "https://t.co/T3WLGvmvls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036679222236975225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036663552728268918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好有才 https://t.co/T3WLGvmvls"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969076990952275968",
+        "conversation_id": "2036663552728268918",
+        "created_at": "2026-03-25T04:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036663552728268918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036663552728268918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多男人不是性压抑\n反耳\n是性猖狂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 46,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 247
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "08｜我在寻找一把利剑｜另一个我@Sovereign_Iriss匿名提问↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "Sovereign_Iriss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris39495",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris39495",
+                "start": 0,
+                "url": "https://t.co/tRCWqg0Xsl"
+              }
+            ]
+          }
+        },
+        "id": "1969076990952275968",
+        "location": "地狱",
+        "name": "Iris",
+        "pinned_tweet_id": "2023461391441797486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021548781473566720/rBQIbFe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2942,
+          "following_count": 35,
+          "like_count": 590,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/tRCWqg0Xsl",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047272284868739442",
+    "created_at": "2026-04-23T11:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047272284868739442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/obumemeow/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/obumemeow/status/2047223564999496085",
+          "start": 2,
+          "url": "https://t.co/2ddAfmL7W5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047272284868739442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047223564999496085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/2ddAfmL7W5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047272284868739442",
+        "created_at": "2026-04-23T11:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047272284868739442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/obumemeow/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/obumemeow/status/2047223564999496085",
+              "start": 2,
+              "url": "https://t.co/2ddAfmL7W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047272284868739442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047223564999496085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/2ddAfmL7W5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827001961750904832",
+        "conversation_id": "2047223564999496085",
+        "created_at": "2026-04-23T07:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047223564999496085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047223564999496085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道强扭的瓜甜不甜 反正我想要的是瓜强求着我来扭他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 101,
+          "like_count": 9004,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 3780
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:16:49.000Z",
+        "description": "♀/ 🇨🇳 / sub / m /  bi双性恋 /不搞4i！很爱碎碎念 偶尔一擦 不约不接推广 喜欢夸夸 欢迎你们都来和我玩🥺！这是我的匿名信箱⬇️！have a nice day^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/obumemeow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/obumemeow",
+                "start": 0,
+                "url": "https://t.co/iiicEIsMi4"
+              }
+            ]
+          }
+        },
+        "id": "1827001961750904832",
+        "location": "🚪66/99纯绿",
+        "name": "哦不喵喵",
+        "pinned_tweet_id": "1925530823991992664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827002281075806208/AvaSjiUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 190,
+          "like_count": 687,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/iiicEIsMi4",
+        "username": "obumemeow",
+        "verified": false
+      }
+    ]
+  }
+}

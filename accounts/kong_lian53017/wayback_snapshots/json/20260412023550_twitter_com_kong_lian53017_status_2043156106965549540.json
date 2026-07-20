@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043154438735696081",
+    "created_at": "2026-04-12T02:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043156106965549540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905471455640649730",
+          "start": 0,
+          "username": "paki_great"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043156106965549540",
+    "in_reply_to_user_id": "1905471455640649730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043155118271742288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paki_great 对对。生了小孩以后两人的时间和精力都会有很大一部分花在孩子身上，而且要对孩子负责就要好好教导ta，物质上陪伴上也一点不能落下。对生命负责本就是很沉重的事何况ta还是一个人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043154438735696081",
+        "created_at": "2026-04-12T02:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043156106965549540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905471455640649730",
+              "start": 0,
+              "username": "paki_great"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043156106965549540",
+        "in_reply_to_user_id": "1905471455640649730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043155118271742288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paki_great 对对。生了小孩以后两人的时间和精力都会有很大一部分花在孩子身上，而且要对孩子负责就要好好教导ta，物质上陪伴上也一点不能落下。对生命负责本就是很沉重的事何况ta还是一个人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905471455640649730",
+        "conversation_id": "2043154438735696081",
+        "created_at": "2026-04-12T02:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043155118271742288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043155118271742288",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043154438735696081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 生了小孩之后感觉会因为教小孩冷落伴侣，而且孩子生下来后完全没有信心教导好小孩，也不能保证孩子长大后会过得比我好🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 87,
+          "like_count": 4496,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1946
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T04:06:40.000Z",
+        "description": "活着",
+        "id": "1905471455640649730",
+        "location": "随便在哪都好",
+        "name": "21世纪的精神异常者",
+        "pinned_tweet_id": "1940262943167586700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005219268468850688/IcQqd-zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 72,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 656
+        },
+        "username": "paki_great",
+        "verified": false
+      }
+    ]
+  }
+}

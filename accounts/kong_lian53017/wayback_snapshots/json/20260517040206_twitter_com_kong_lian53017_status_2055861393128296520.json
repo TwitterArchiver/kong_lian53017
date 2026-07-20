@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2055851579497222595",
+    "created_at": "2026-05-17T04:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055861393128296520"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055861393128296520",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055851579497222595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想尊重他人命运可你是我妈啊……我怎么可能完全不管你，谁我都可以不管但是我身上流着你的血，你在我叛逆的时候也尝试尊重理解我我怎么可能不管你。我觉得这个现实太魔幻了，好疲惫。我很多时候想如果我是孤儿就好了，起码死的时候可以毫无负担地去死。你不该活成这样但是我太没用了我也没有办法。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055851579497222595",
+        "created_at": "2026-05-17T04:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055861393128296520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055861393128296520",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055851579497222595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想尊重他人命运可你是我妈啊……我怎么可能完全不管你，谁我都可以不管但是我身上流着你的血，你在我叛逆的时候也尝试尊重理解我我怎么可能不管你。我觉得这个现实太魔幻了，好疲惫。我很多时候想如果我是孤儿就好了，起码死的时候可以毫无负担地去死。你不该活成这样但是我太没用了我也没有办法。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055851579497222595",
+        "created_at": "2026-05-17T03:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055851579497222595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055851579497222595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈你说的结婚有保障就是没钱的时候只能问我借吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 111,
+          "like_count": 15435,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 5265
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

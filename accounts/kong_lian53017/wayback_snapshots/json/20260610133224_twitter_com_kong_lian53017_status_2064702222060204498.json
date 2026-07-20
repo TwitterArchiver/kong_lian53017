@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064702215340818432"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064702222060204498",
+    "created_at": "2026-06-10T13:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064702222060204498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNIsLFDZQ9",
+          "end": 29,
+          "expanded_url": "https://x.com/kong_lian53017/status/2064702222060204498/photo/1",
+          "media_key": "3_2064702215340818432",
+          "start": 6,
+          "url": "https://t.co/uNIsLFDZQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064702222060204498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喝上了（） https://t.co/uNIsLFDZQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_2064702215340818432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdLucBaAAAXDXw.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064702215340818432"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064702222060204498",
+        "created_at": "2026-06-10T13:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064702222060204498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNIsLFDZQ9",
+              "end": 29,
+              "expanded_url": "https://x.com/kong_lian53017/status/2064702222060204498/photo/1",
+              "media_key": "3_2064702215340818432",
+              "start": 6,
+              "url": "https://t.co/uNIsLFDZQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064702222060204498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝上了（） https://t.co/uNIsLFDZQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 115,
+          "like_count": 20573,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 4294
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

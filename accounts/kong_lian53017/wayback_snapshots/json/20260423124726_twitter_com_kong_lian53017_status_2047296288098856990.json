@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047293830643458435",
+    "created_at": "2026-04-23T12:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047296288098856990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1330743352346611713",
+          "start": 0,
+          "username": "lengnuan1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047296288098856990",
+    "in_reply_to_user_id": "1330743352346611713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047295810182975749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengnuan1314 不对不对。已经有人看到了，我真要克制😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047293830643458435",
+        "created_at": "2026-04-23T12:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047296288098856990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1330743352346611713",
+              "start": 0,
+              "username": "lengnuan1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047296288098856990",
+        "in_reply_to_user_id": "1330743352346611713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047295810182975749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengnuan1314 不对不对。已经有人看到了，我真要克制😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330743352346611713",
+        "conversation_id": "2047293830643458435",
+        "created_at": "2026-04-23T12:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047295810182975749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047295810182975749",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047293830643458435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 然后吃的时候默默的删除了这条推文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 101,
+          "like_count": 9048,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3809
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T05:22:03.000Z",
+        "description": "男｜01｜世界上某处人类独居男性的日志",
+        "id": "1330743352346611713",
+        "name": "冷暖、",
+        "pinned_tweet_id": "1995363307600109943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043966005945462784/EqyNWrXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 262
+        },
+        "username": "lengnuan1314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1814964888453972339",
+    "created_at": "2024-07-21T10:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T11:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1814964888453972339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1814964888453972339",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "聊不了几天不是想kp就是想看腿，想找女菩萨何必来钓我呢？是觉得我好骗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1814964888453972339",
+        "created_at": "2024-07-21T10:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T11:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814964888453972339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814964888453972339",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聊不了几天不是想kp就是想看腿，想找女菩萨何必来钓我呢？是觉得我好骗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "不稳定到极致也算是一种稳定┃不定时话密",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814795497707876352/oFcJKwmT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

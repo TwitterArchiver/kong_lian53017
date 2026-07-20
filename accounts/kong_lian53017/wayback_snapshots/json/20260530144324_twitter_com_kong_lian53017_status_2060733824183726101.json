@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060733824183726101",
+    "created_at": "2026-05-30T14:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060733824183726101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaaaakkkkkj_/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/aaaaakkkkkj_/status/2060732089633542247",
+          "start": 10,
+          "url": "https://t.co/LE7DVHgvyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060733824183726101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060732089633542247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对面让我笑得不行。 https://t.co/LE7DVHgvyB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2060732083421773826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkw6WGbAAIJrtW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060733824183726101",
+        "created_at": "2026-05-30T14:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060733824183726101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaaaakkkkkj_/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/aaaaakkkkkj_/status/2060732089633542247",
+              "start": 10,
+              "url": "https://t.co/LE7DVHgvyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060733824183726101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060732089633542247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对面让我笑得不行。 https://t.co/LE7DVHgvyB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060732083421773826"
+          ]
+        },
+        "author_id": "1805852934091251712",
+        "conversation_id": "2060732089633542247",
+        "created_at": "2026-05-30T14:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060732089633542247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09I592lNJL",
+              "end": 25,
+              "expanded_url": "https://x.com/aaaaakkkkkj_/status/2060732089633542247/photo/1",
+              "media_key": "3_2060732083421773826",
+              "start": 2,
+              "url": "https://t.co/09I592lNJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060732089633542247",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/09I592lNJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 113,
+          "like_count": 18600,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 6018
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T06:38:01.000Z",
+        "description": "我是真的好无聊",
+        "id": "1805852934091251712",
+        "name": "沉溺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041430775586045952/znmkMXJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 19,
+          "like_count": 149,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 149
+        },
+        "username": "aaaaakkkkkj_",
+        "verified": false
+      }
+    ]
+  }
+}

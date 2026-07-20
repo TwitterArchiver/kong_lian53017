@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2056624267647914455",
+    "created_at": "2026-05-19T06:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056626536451858473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056626536451858473",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056624267647914455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实也不是破音就是突然断掉了，接起来后的声线有点不一样有点割裂🙂‍↔️"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44966,
+        "height": 720,
+        "media_key": "7_2056624178879709185",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056624178879709185/pu/img/ySQ8DoWH7oVYNwek.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056624178879709185/pu/vid/avc1/360x270/vi8Vu0oVj67zPj7g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056624178879709185/pu/vid/avc1/480x360/ejnWLuT3hynosCWU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056624178879709185/pu/vid/avc1/960x720/a1fHlhzhrXe4Yk2P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056624178879709185/pu/pl/tcLSqmZogSV3X7lA.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2056624267647914455",
+        "created_at": "2026-05-19T06:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056626536451858473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056626536451858473",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056624267647914455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也不是破音就是突然断掉了，接起来后的声线有点不一样有点割裂🙂‍↔️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056624178879709185"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2056624267647914455",
+        "created_at": "2026-05-19T06:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056624267647914455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrjkOE0aYt",
+              "end": 80,
+              "expanded_url": "https://x.com/kong_lian53017/status/2056624267647914455/video/1",
+              "media_key": "7_2056624178879709185",
+              "start": 57,
+              "url": "https://t.co/CrjkOE0aYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056624267647914455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下雨天（不完整版 背景音是雨声非常符合\n戛然而止是因为后边有点破音了\n懒得再唱了这段时间感觉自己唱歌好白🙂‍↔️ https://t.co/CrjkOE0aYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 111,
+          "like_count": 15913,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 5367
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

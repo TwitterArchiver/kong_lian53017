@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2053321920444321969",
+    "created_at": "2026-05-10T03:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053321920444321969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Babydoll675482…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Babydoll675482/status/2053319945841430783",
+          "start": 3,
+          "url": "https://t.co/cl9xw8DxEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053321920444321969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053319945841430783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉。 https://t.co/cl9xw8DxEe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2053321920444321969",
+        "created_at": "2026-05-10T03:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053321920444321969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Babydoll675482…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Babydoll675482/status/2053319945841430783",
+              "start": 3,
+              "url": "https://t.co/cl9xw8DxEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053321920444321969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053319945841430783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉。 https://t.co/cl9xw8DxEe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813393863819587584",
+        "conversation_id": "2053319945841430783",
+        "created_at": "2026-05-10T03:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053319945841430783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053319945841430783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想和你互相浪费，一起虚度短的沉默，长的无意义。一起消磨精致而苍老的宇宙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 105,
+          "like_count": 13900,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4826
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T02:03:02.000Z",
+        "description": "你說過會陪我很久也許是一千萬年",
+        "id": "1813393863819587584",
+        "name": "坏狗",
+        "pinned_tweet_id": "1813867672997925198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041874154241343488/4arKGg9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 51,
+          "like_count": 8361,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2145
+        },
+        "username": "Babydoll675482",
+        "verified": false
+      }
+    ]
+  }
+}

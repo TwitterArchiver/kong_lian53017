@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039283509567832422",
+    "created_at": "2026-04-01T11:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039302177932669320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997141885589377026",
+          "start": 0,
+          "username": "syokora755476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039302177932669320",
+    "in_reply_to_user_id": "1997141885589377026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039283509567832422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syokora755476 贵贵嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039283496448036864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz9iRIaEAAvXX2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039283496888537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz9iSxbkAALhRF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039283509567832422",
+        "created_at": "2026-04-01T11:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039302177932669320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997141885589377026",
+              "start": 0,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039302177932669320",
+        "in_reply_to_user_id": "1997141885589377026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039283509567832422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syokora755476 贵贵嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039283496448036864",
+            "3_2039283496888537088"
+          ]
+        },
+        "author_id": "1997141885589377026",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039283509567832422",
+        "created_at": "2026-04-01T10:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039283509567832422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22VTEi7Qgf",
+              "end": 33,
+              "expanded_url": "https://x.com/syokora755476/status/2039283509567832422/photo/1",
+              "media_key": "3_2039283496448036864",
+              "start": 10,
+              "url": "https://t.co/22VTEi7Qgf"
+            },
+            {
+              "display_url": "pic.x.com/22VTEi7Qgf",
+              "end": 33,
+              "expanded_url": "https://x.com/syokora755476/status/2039283509567832422/photo/1",
+              "media_key": "3_2039283496888537088",
+              "start": 10,
+              "url": "https://t.co/22VTEi7Qgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039283509567832422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样的汉堡要32🥲 https://t.co/22VTEi7Qgf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 71,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 903
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T03:12:08.000Z",
+        "description": "06 | infp | 偶尔会发女装 | 欢迎大家和我互fo | 喜欢s0m1 | 重度游戏依赖 |（我喜欢猫，请给我很多猫猫☺️）| 低精力老鼠人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus11903",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus11903",
+                "start": 0,
+                "url": "https://t.co/JVxlntnviM"
+              }
+            ]
+          }
+        },
+        "id": "1997141885589377026",
+        "location": "0.1km",
+        "name": "汐汐不嘻嘻",
+        "pinned_tweet_id": "2036337317015855423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038476376869875712/7alwg_95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 182,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/JVxlntnviM",
+        "username": "syokora755476",
+        "verified": false
+      }
+    ]
+  }
+}

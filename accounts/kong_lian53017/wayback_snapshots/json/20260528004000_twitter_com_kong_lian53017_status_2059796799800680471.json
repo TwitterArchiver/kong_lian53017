@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2059796799800680471",
+    "created_at": "2026-05-28T00:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059796799800680471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akiakuno/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/akiakuno/status/2059665783001891155",
+          "start": 4,
+          "url": "https://t.co/h47rb6a4Be"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059796799800680471",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059665783001891155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已没招 https://t.co/h47rb6a4Be"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2059796799800680471",
+        "created_at": "2026-05-28T00:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059796799800680471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akiakuno/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/akiakuno/status/2059665783001891155",
+              "start": 4,
+              "url": "https://t.co/h47rb6a4Be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059796799800680471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059665783001891155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已没招 https://t.co/h47rb6a4Be"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760705336540057600",
+        "conversation_id": "2059498727199711392",
+        "created_at": "2026-05-27T15:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059665783001891155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059665783001891155",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1785,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059498727199711392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 这样形容有种主观的悲观色彩，其实综上所述很大时候只是无奈差劲处境下的假性清醒和正常情绪，我现在给 情绪冷漠症 改名了，它叫做 没招综合症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 111,
+          "like_count": 17955,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 5924
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "Life changes,why stay still.",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1870572257711697979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 150,
+          "like_count": 12899,
+          "listed_count": 3,
+          "media_count": 619,
+          "tweet_count": 6109
+        },
+        "username": "akiakuno",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1833147632354824558",
+    "created_at": "2024-09-09T14:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T15:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833147632354824558"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1833147632354824558",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想吃我妈做的煎饼。或许再也吃不到了，和她的关系生疏到再也无法开口提出任何请求。以前家就是我的全世界，后来却四分五裂了。渐渐地，再也不想和现实中的人接触，再也不想建立什么羁绊，所有的情感都无处安放，好像只能这样不安地度过余生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1833147632354824558",
+        "created_at": "2024-09-09T14:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T15:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833147632354824558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833147632354824558",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃我妈做的煎饼。或许再也吃不到了，和她的关系生疏到再也无法开口提出任何请求。以前家就是我的全世界，后来却四分五裂了。渐渐地，再也不想和现实中的人接触，再也不想建立什么羁绊，所有的情感都无处安放，好像只能这样不安地度过余生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "幸福幸福何时能再降临我手心",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825209816740192256/sqBkvv7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 38,
+          "listed_count": 0,
+          "tweet_count": 37
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

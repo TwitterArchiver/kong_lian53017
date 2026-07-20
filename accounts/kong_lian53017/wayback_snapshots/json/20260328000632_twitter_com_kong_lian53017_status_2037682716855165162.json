@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037642879448019193",
+    "created_at": "2026-03-28T00:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T01:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037682716855165162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1518083228136984576",
+          "start": 0,
+          "username": "ArivenDar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037682716855165162",
+    "in_reply_to_user_id": "1518083228136984576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037681830338707607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArivenDar 想不出更好的死法了。怎么死都会痛苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037642879448019193",
+        "created_at": "2026-03-28T00:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037682716855165162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1518083228136984576",
+              "start": 0,
+              "username": "ArivenDar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037682716855165162",
+        "in_reply_to_user_id": "1518083228136984576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037681830338707607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArivenDar 想不出更好的死法了。怎么死都会痛苦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518083228136984576",
+        "conversation_id": "2037642879448019193",
+        "created_at": "2026-03-28T00:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037681830338707607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037681830338707607",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037642879448019193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 猝死不是一瞬间死掉的，只是直接到了救不回的那种阶段，但身体还是会挣扎，很痛苦的😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 60,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 483
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T04:24:13.000Z",
+        "description": "我好咕嘟",
+        "id": "1518083228136984576",
+        "location": "好吧",
+        "name": "白烏鴉.",
+        "pinned_tweet_id": "2027681577552253020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036030548792246272/NRubp1El_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 2154,
+          "like_count": 119107,
+          "listed_count": 5,
+          "media_count": 1393,
+          "tweet_count": 12196
+        },
+        "username": "ArivenDar",
+        "verified": false
+      }
+    ]
+  }
+}

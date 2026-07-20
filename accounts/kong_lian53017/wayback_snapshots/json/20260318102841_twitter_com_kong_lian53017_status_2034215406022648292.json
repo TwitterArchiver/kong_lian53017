@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034215406022648292",
+    "created_at": "2026-03-18T10:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034215406022648292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuigehaijao12…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/shuigehaijao124/status/2033919457043877986",
+          "start": 17,
+          "url": "https://t.co/fNOKuKTPhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034215406022648292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033919457043877986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找就找能兜底撑腰爆金币会关心的😋 https://t.co/fNOKuKTPhW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034215406022648292",
+        "created_at": "2026-03-18T10:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034215406022648292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuigehaijao12…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/shuigehaijao124/status/2033919457043877986",
+              "start": 17,
+              "url": "https://t.co/fNOKuKTPhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034215406022648292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033919457043877986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找就找能兜底撑腰爆金币会关心的😋 https://t.co/fNOKuKTPhW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932959085374418944",
+        "conversation_id": "2033919457043877986",
+        "created_at": "2026-03-17T14:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033919457043877986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033919457043877986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1331,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人兜底是什么感觉 有人撑腰是什么感觉 有人爆金币是什么感觉 有人关心是什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 34,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 175
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T00:32:25.000Z",
+        "description": "贪财好色｜可以叫我叛逆｜07｜天蝎座♏️｜infp｜xp是扇脸掐脖子粗口｜恋哥癖手控声控重度依赖^^/ 🥣：周末接瓦📪：https://t.co/u6K5DxW1aZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuigehaojiao1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/shuigehaojiao1",
+                "start": 60,
+                "url": "https://t.co/u6K5DxW1aZ"
+              }
+            ]
+          }
+        },
+        "id": "1932959085374418944",
+        "location": "不约不线下 🚪152/288/520",
+        "name": "老公叛逆被判有妻徒刑",
+        "pinned_tweet_id": "2032263503508357505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999446331384094720/w_KrKy3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 57,
+          "like_count": 580,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 397
+        },
+        "username": "shuigehaijao124",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043001705592426879",
+    "created_at": "2026-04-11T16:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043001705592426879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HK416ABC/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/HK416ABC/status/2043001257162609047",
+          "start": 13,
+          "url": "https://t.co/OYuzRCfqmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043001705592426879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043001257162609047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有钱的给我打点钱，谢谢。 https://t.co/OYuzRCfqmP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043001705592426879",
+        "created_at": "2026-04-11T16:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043001705592426879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HK416ABC/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/HK416ABC/status/2043001257162609047",
+              "start": 13,
+              "url": "https://t.co/OYuzRCfqmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043001705592426879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043001257162609047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有钱的给我打点钱，谢谢。 https://t.co/OYuzRCfqmP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057668616408064001",
+        "conversation_id": "2043001257162609047",
+        "created_at": "2026-04-11T16:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043001257162609047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeuinmydreams…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/seeuinmydreamss/status/2042994463308664852",
+              "start": 12,
+              "url": "https://t.co/ceYOmBop0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043001257162609047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042994463308664852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有钱的给我打点钱，谢谢 https://t.co/ceYOmBop0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 91,
+          "like_count": 4392,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1885
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 729,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1497
+        },
+        "username": "HK416ABC",
+        "verified": false
+      }
+    ]
+  }
+}

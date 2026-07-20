@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040959938336600307",
+    "created_at": "2026-04-06T01:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040959938336600307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shirochankawa1…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shirochankawa1/status/2040752925224616153",
+          "start": 4,
+          "url": "https://t.co/MU2o3X2Spi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040959938336600307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040752925224616153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那咋办 https://t.co/MU2o3X2Spi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040959938336600307",
+        "created_at": "2026-04-06T01:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040959938336600307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shirochankawa1…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shirochankawa1/status/2040752925224616153",
+              "start": 4,
+              "url": "https://t.co/MU2o3X2Spi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040959938336600307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040752925224616153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那咋办 https://t.co/MU2o3X2Spi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2040752925224616153",
+        "created_at": "2026-04-05T11:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040752925224616153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040752925224616153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1401,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "其实你根本没躺平啊 你不是一直在跟你的焦虑、抑郁、恐慌、失眠、贫穷作斗争吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 77,
+          "like_count": 2996,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1306
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 2035,
+          "like_count": 68073,
+          "listed_count": 8,
+          "media_count": 1624,
+          "tweet_count": 10977
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

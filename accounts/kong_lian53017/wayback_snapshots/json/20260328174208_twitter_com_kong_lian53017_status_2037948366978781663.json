@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037944202730917984",
+    "created_at": "2026-03-28T17:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037948366978781663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021774786893103104",
+          "start": 0,
+          "username": "mingyumingxu"
+        },
+        {
+          "end": 28,
+          "id": "1997141885589377026",
+          "start": 14,
+          "username": "syokora755476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037948366978781663",
+    "in_reply_to_user_id": "2021774786893103104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037946619555946814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingyumingxu @syokora755476 什么竟然是老乡吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037944202730917984",
+        "created_at": "2026-03-28T17:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037948366978781663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021774786893103104",
+              "start": 0,
+              "username": "mingyumingxu"
+            },
+            {
+              "end": 28,
+              "id": "1997141885589377026",
+              "start": 14,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037948366978781663",
+        "in_reply_to_user_id": "2021774786893103104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037946619555946814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingyumingxu @syokora755476 什么竟然是老乡吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021774786893103104",
+        "conversation_id": "2037944202730917984",
+        "created_at": "2026-03-28T17:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037946619555946814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997141885589377026",
+              "start": 0,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037946619555946814",
+        "in_reply_to_user_id": "1997141885589377026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037945378209989025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syokora755476 看来你不是河南人 看懂的河南人都哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 66,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 574
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T02:34:23.000Z",
+        "description": "OvO\n直fo就是喜欢你",
+        "id": "2021774786893103104",
+        "location": "我操你冯",
+        "name": "坏",
+        "pinned_tweet_id": "2035369807038521371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035599796073852928/E1yOU6p7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 32,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 193
+        },
+        "username": "mingyumingxu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T03:12:08.000Z",
+        "description": "06 | infp | 偶尔会发女装 | 欢迎大家和我互fo | 喜欢s0m1 | 重度游戏依赖 |（我喜欢猫，请给我很多猫猫☺️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus11903",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus11903",
+                "start": 0,
+                "url": "https://t.co/JVxlntnviM"
+              }
+            ]
+          }
+        },
+        "id": "1997141885589377026",
+        "location": "0.1km",
+        "name": "汐汐不嘻嘻",
+        "pinned_tweet_id": "2036337317015855423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037742965247111168/A0hccBZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 153,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/JVxlntnviM",
+        "username": "syokora755476",
+        "verified": false
+      }
+    ]
+  }
+}

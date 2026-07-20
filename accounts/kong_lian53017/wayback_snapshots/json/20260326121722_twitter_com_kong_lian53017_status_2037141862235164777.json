@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036727898384793600"
+      ],
+      "media_source_tweet_id": [
+        "2036727908035871208"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037141862235164777",
+    "created_at": "2026-03-26T12:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037141862235164777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "171392004",
+          "start": 3,
+          "username": "murakaruki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TkFWgY58wW",
+          "end": 47,
+          "expanded_url": "https://x.com/murakaruki/status/2036727908035871208/photo/1",
+          "media_key": "3_2036727898384793600",
+          "start": 24,
+          "url": "https://t.co/TkFWgY58wW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037141862235164777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1704
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036727908035871208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @murakaruki: 銀魂/沖田総悟 https://t.co/TkFWgY58wW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2036727898384793600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPpO4dagAA0ePX.jpg",
+        "width": 2236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036727898384793600"
+          ],
+          "media_source_tweet_id": [
+            "2036727908035871208"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037141862235164777",
+        "created_at": "2026-03-26T12:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037141862235164777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "171392004",
+              "start": 3,
+              "username": "murakaruki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkFWgY58wW",
+              "end": 47,
+              "expanded_url": "https://x.com/murakaruki/status/2036727908035871208/photo/1",
+              "media_key": "3_2036727898384793600",
+              "start": 24,
+              "url": "https://t.co/TkFWgY58wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037141862235164777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1704
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036727908035871208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @murakaruki: 銀魂/沖田総悟 https://t.co/TkFWgY58wW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036727898384793600"
+          ]
+        },
+        "author_id": "171392004",
+        "conversation_id": "2036727908035871208",
+        "created_at": "2026-03-25T08:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036727908035871208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkFWgY58wW",
+              "end": 31,
+              "expanded_url": "https://x.com/murakaruki/status/2036727908035871208/photo/1",
+              "media_key": "3_2036727898384793600",
+              "start": 8,
+              "url": "https://t.co/TkFWgY58wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036727908035871208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1302,
+          "impression_count": 223275,
+          "like_count": 23094,
+          "quote_count": 36,
+          "reply_count": 2,
+          "retweet_count": 1704
+        },
+        "reply_settings": "everyone",
+        "text": "銀魂/沖田総悟 https://t.co/TkFWgY58wW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 51,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 348
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-27T06:56:46.000Z",
+        "description": "ninelive.所属（https://t.co/BOkd3VYkR3）\n創作/骨×白髪闇堕ち美少年用タグ  #境界ER\n境界ER用垢（@kyoukaiER）\n商業画集『我』/著書技法書/学マスMV/プロセカ\nご依頼についてはこちらhttps://t.co/Ce8y7Q2KgK\n仕事実績はハイライトにて",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "境界ER"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "kyoukaiER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ninelive.co.jp",
+                "end": 35,
+                "expanded_url": "https://ninelive.co.jp/",
+                "start": 12,
+                "url": "https://t.co/BOkd3VYkR3"
+              },
+              {
+                "display_url": "potofu.me/murakaruki",
+                "end": 139,
+                "expanded_url": "http://potofu.me/murakaruki",
+                "start": 116,
+                "url": "https://t.co/Ce8y7Q2KgK"
+              }
+            ]
+          }
+        },
+        "id": "171392004",
+        "location": "【連絡先】mura73424033@gmail.com",
+        "name": "👹🌙🍙村カルキ/画集発売中🎋🍘🍵",
+        "pinned_tweet_id": "2037078010374086850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651634790142214144/ABfdfn_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290482,
+          "following_count": 4454,
+          "like_count": 75900,
+          "listed_count": 2276,
+          "media_count": 6976,
+          "tweet_count": 147127
+        },
+        "username": "murakaruki",
+        "verified": true
+      }
+    ]
+  }
+}

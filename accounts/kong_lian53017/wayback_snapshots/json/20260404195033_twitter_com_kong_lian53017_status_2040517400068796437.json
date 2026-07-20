@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040517400068796437",
+    "created_at": "2026-04-04T19:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T20:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040517400068796437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hnrkesin/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Hnrkesin/status/2040156940781977999",
+          "start": 5,
+          "url": "https://t.co/QxppAILe7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040517400068796437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040156940781977999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真这样 https://t.co/QxppAILe7R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040517400068796437",
+        "created_at": "2026-04-04T19:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040517400068796437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hnrkesin/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Hnrkesin/status/2040156940781977999",
+              "start": 5,
+              "url": "https://t.co/QxppAILe7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040517400068796437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040156940781977999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真这样 https://t.co/QxppAILe7R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879046626620141568",
+        "conversation_id": "2040156940781977999",
+        "created_at": "2026-04-03T19:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T20:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040156940781977999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040156940781977999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 37287,
+          "like_count": 371,
+          "quote_count": 14,
+          "reply_count": 25,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我的控制欲具体表现在会要求你导管的时候看着我的照片。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 76,
+          "like_count": 2779,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1228
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T06:03:36.000Z",
+        "description": "此人乃世界屌丝之神。一切都是男的欠我女的骗我老的欺负我，生人勿近熟人更是滚开，靠近我的所有人都会被我赏一耳光。\nhttps://t.co/dqSYfdIrd6 祷告箱重出江湖。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hnrkesin",
+                "end": 79,
+                "expanded_url": "http://ngl.link/hnrkesin",
+                "start": 56,
+                "url": "https://t.co/dqSYfdIrd6"
+              }
+            ]
+          }
+        },
+        "id": "1879046626620141568",
+        "location": "清水无🚪。特别特别特别讨厌和陌生人聊天，不要给我发信息。",
+        "name": "蛋糕说的对",
+        "pinned_tweet_id": "2033085329520078888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040235297263521792/O7xvbcRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 56,
+          "like_count": 4580,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2996
+        },
+        "username": "Hnrkesin",
+        "verified": false
+      }
+    ]
+  }
+}

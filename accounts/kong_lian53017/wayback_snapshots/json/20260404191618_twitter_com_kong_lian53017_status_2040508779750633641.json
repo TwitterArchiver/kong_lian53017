@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040508779750633641",
+    "created_at": "2026-04-04T19:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T20:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040508779750633641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBxgxwnkl/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/BBxgxwnkl/status/2040459407541088660",
+          "start": 9,
+          "url": "https://t.co/5kXMtwU8ue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040508779750633641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040459407541088660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😦等会？几几年😱 https://t.co/5kXMtwU8ue"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040508779750633641",
+        "created_at": "2026-04-04T19:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040508779750633641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBxgxwnkl/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/BBxgxwnkl/status/2040459407541088660",
+              "start": 9,
+              "url": "https://t.co/5kXMtwU8ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040508779750633641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040459407541088660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😦等会？几几年😱 https://t.co/5kXMtwU8ue"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347924237042872320",
+        "conversation_id": "2040459407541088660",
+        "created_at": "2026-04-04T16:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040459407541088660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040459407541088660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8186,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推荐页一直在推什么网黄没有1v1还是什么的\n我震惊的点是：怎么07年的已经在做网黄了？我是什么老古董吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 75,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1222
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T15:12:50.000Z",
+        "description": "我会越来越好（不交友 不约炮）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=uDSMUrqe",
+                "start": 0,
+                "url": "https://t.co/n3PZGWgscr"
+              }
+            ]
+          }
+        },
+        "id": "1347924237042872320",
+        "location": "广东🪜:",
+        "name": "Maeve",
+        "pinned_tweet_id": "2040432385934622988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040461983682568192/Ip9mRrFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12438,
+          "following_count": 20,
+          "like_count": 796,
+          "listed_count": 37,
+          "media_count": 2182,
+          "tweet_count": 11147
+        },
+        "url": "https://t.co/n3PZGWgscr",
+        "username": "BBxgxwnkl",
+        "verified": false
+      }
+    ]
+  }
+}

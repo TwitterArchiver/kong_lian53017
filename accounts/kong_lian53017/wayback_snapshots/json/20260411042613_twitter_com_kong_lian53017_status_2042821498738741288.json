@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042610506704236597",
+    "created_at": "2026-04-11T04:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042821498738741288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038614200172326912",
+          "start": 0,
+          "username": "mingxukong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042821498738741288",
+    "in_reply_to_user_id": "2038614200172326912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042610506704236597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxukong 读完隔着屏幕都感觉天塌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042610506704236597",
+        "created_at": "2026-04-11T04:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042821498738741288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038614200172326912",
+              "start": 0,
+              "username": "mingxukong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042821498738741288",
+        "in_reply_to_user_id": "2038614200172326912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042610506704236597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxukong 读完隔着屏幕都感觉天塌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038614200172326912",
+        "conversation_id": "2042610506704236597",
+        "created_at": "2026-04-10T14:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042610506704236597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042610506704236597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1017,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直都觉得被父母发现看黄片是一件很尴尬的事\n因为我是真的被发现了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 91,
+          "like_count": 4185,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1801
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T13:48:30.000Z",
+        "description": "OvO\n私信骚扰我的死一家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo53075",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo53075",
+                "start": 0,
+                "url": "https://t.co/Mt2EOcLCvM"
+              }
+            ]
+          }
+        },
+        "id": "2038614200172326912",
+        "location": "我操你冯",
+        "name": "坏",
+        "pinned_tweet_id": "2040051215308906764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038614458411454464/f5UxqtBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 27,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/Mt2EOcLCvM",
+        "username": "mingxukong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1885813190149435634",
+    "created_at": "2025-02-05T16:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T17:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887182890234224966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1497953942520610822",
+          "start": 0,
+          "username": "Jason20772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887182890234224966",
+    "in_reply_to_user_id": "1497953942520610822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887061115554988251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason20772 好哦！谢谢🥰那我放心冲了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1885813190149435634",
+        "created_at": "2025-02-05T16:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T17:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887182890234224966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1497953942520610822",
+              "start": 0,
+              "username": "Jason20772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887182890234224966",
+        "in_reply_to_user_id": "1497953942520610822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887061115554988251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason20772 好哦！谢谢🥰那我放心冲了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497953942520610822",
+        "conversation_id": "1885813190149435634",
+        "created_at": "2025-02-05T08:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887061115554988251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887061115554988251",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885813190149435634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 硬款其实也比较q弹，我用是觉得完全不会刮得疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "幸福幸福何时能再降临我手心",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1871624112441073693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T15:17:13.000Z",
+        "description": "剩下的只有残酷      （she/her）",
+        "id": "1497953942520610822",
+        "location": "上海 ",
+        "name": "无敌小猫软糖",
+        "pinned_tweet_id": "1755423245933981979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697623948652097536/yz4mI7zH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 545,
+          "like_count": 17941,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2978
+        },
+        "username": "Jason20772",
+        "verified": false
+      }
+    ]
+  }
+}

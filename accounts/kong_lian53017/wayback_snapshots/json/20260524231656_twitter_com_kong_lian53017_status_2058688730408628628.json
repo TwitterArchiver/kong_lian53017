@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058688730408628628",
+    "created_at": "2026-05-24T23:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T00:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058688730408628628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ph2o9c/status/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/ph2o9c/status/2058538869872824572",
+          "start": 32,
+          "url": "https://t.co/j7n6HWexUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058688730408628628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058538869872824572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样。所以家里一定要有一个沙发，没精力洗澡的时候就躺沙发。 https://t.co/j7n6HWexUV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058688730408628628",
+        "created_at": "2026-05-24T23:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058688730408628628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ph2o9c/status/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ph2o9c/status/2058538869872824572",
+              "start": 32,
+              "url": "https://t.co/j7n6HWexUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058688730408628628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058538869872824572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样。所以家里一定要有一个沙发，没精力洗澡的时候就躺沙发。 https://t.co/j7n6HWexUV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942418187464892416",
+        "conversation_id": "2058538869872824572",
+        "created_at": "2026-05-24T13:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058538869872824572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058538869872824572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我不允许自己没洗过澡就上床，但宁愿在地上玩两个小时手机也不去洗澡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17250,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 5854
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T02:59:35.000Z",
+        "description": "萌萌哒小水滴一枚～",
+        "id": "1942418187464892416",
+        "name": "李国栋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047575134731669504/AIcRHpbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 200,
+          "like_count": 22324,
+          "listed_count": 0,
+          "media_count": 530,
+          "tweet_count": 7781
+        },
+        "username": "ph2o9c",
+        "verified": false
+      }
+    ]
+  }
+}

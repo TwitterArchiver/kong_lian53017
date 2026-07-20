@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058973270456914033",
+    "created_at": "2026-05-25T18:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058973270456914033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomato199746/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/tomato199746/status/2058785035659158002",
+          "start": 3,
+          "url": "https://t.co/g6roUPdbIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058973270456914033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058785035659158002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "允许 https://t.co/g6roUPdbIg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058973270456914033",
+        "created_at": "2026-05-25T18:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058973270456914033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomato199746/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tomato199746/status/2058785035659158002",
+              "start": 3,
+              "url": "https://t.co/g6roUPdbIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058973270456914033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058785035659158002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "允许 https://t.co/g6roUPdbIg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917159597191897088",
+        "conversation_id": "2058785035659158002",
+        "created_at": "2026-05-25T05:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058785035659158002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058785035659158002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2477,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "允许关系的随风而逝\n允许它无疾而终，允许失去，允许消亡。\n不去追问为什么，不去强求一个结局，也不必再替对方找任何借口。把别人的人生课题还给别人，把维系关系的重担从自己的责任清单上彻底划掉\n我不需要靠留住任何人，来证明自己值得被爱\n我本就值得被爱呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17462,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 5889
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T10:10:50.000Z",
+        "description": "@matchaar_9746 此号日常废话记录bo 谨慎关注\n一枚infj普通人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "matchaar_9746"
+              }
+            ]
+          }
+        },
+        "id": "1917159597191897088",
+        "location": "猫窝",
+        "name": "因为想吃薯条所以点了番茄酱（废话版",
+        "pinned_tweet_id": "2005674642095444384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051584584928944128/YbAB3fg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 14,
+          "like_count": 480,
+          "listed_count": 9,
+          "media_count": 444,
+          "tweet_count": 1309
+        },
+        "username": "tomato199746",
+        "verified": false
+      }
+    ]
+  }
+}

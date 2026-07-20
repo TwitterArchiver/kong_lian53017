@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032764394107748826",
+    "created_at": "2026-03-14T10:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032764394107748826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Apipleeeee/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Apipleeeee/status/2032748291432263789",
+          "start": 3,
+          "url": "https://t.co/cR1a5qFNqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032764394107748826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032748291432263789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行！ https://t.co/cR1a5qFNqc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2032764394107748826",
+        "created_at": "2026-03-14T10:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032764394107748826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Apipleeeee/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Apipleeeee/status/2032748291432263789",
+              "start": 3,
+              "url": "https://t.co/cR1a5qFNqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764394107748826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032748291432263789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行！ https://t.co/cR1a5qFNqc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2032748291432263789",
+        "created_at": "2026-03-14T09:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032748291432263789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032748291432263789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 810,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没谈过帅哥的别说自己谈过恋爱 直到谈上帅的这才是你的初恋懂了吗妹宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 22,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 76
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "虚室生白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "pinned_tweet_id": "2028059330134839594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10959,
+          "following_count": 2,
+          "like_count": 1994,
+          "listed_count": 33,
+          "media_count": 320,
+          "tweet_count": 1055
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

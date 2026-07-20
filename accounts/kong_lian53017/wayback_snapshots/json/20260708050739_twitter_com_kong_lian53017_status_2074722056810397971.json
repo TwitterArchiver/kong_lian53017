@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2074722056810397971",
+    "created_at": "2026-07-08T05:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074722056810397971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794642446716190721",
+          "start": 3,
+          "username": "DLFKD_AUTHOR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074722056810397971",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074150781436285176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @DLFKD_AUTHOR: 다 망해버린 세상에 너랑 나 단 둘만 서있고 싶다."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2074722056810397971",
+        "created_at": "2026-07-08T05:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074722056810397971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794642446716190721",
+              "start": 3,
+              "username": "DLFKD_AUTHOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074722056810397971",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074150781436285176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @DLFKD_AUTHOR: 다 망해버린 세상에 너랑 나 단 둘만 서있고 싶다."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794642446716190721",
+        "conversation_id": "2074150781436285176",
+        "created_at": "2026-07-06T15:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074150781436285176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074150781436285176",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 4565,
+          "like_count": 164,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "다 망해버린 세상에 너랑 나 단 둘만 서있고 싶다."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 118,
+          "like_count": 23872,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 4372
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T08:11:43.000Z",
+        "description": "분노와 사랑과 절망을 담아.",
+        "id": "1794642446716190721",
+        "name": "作",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011433565683392512/fUxe2K6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 6,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "DLFKD_AUTHOR",
+        "verified": false
+      }
+    ]
+  }
+}

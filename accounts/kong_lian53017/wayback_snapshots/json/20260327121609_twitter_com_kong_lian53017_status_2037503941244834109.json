@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037495522605650225",
+    "created_at": "2026-03-27T12:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037503941244834109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1330743352346611713",
+          "start": 0,
+          "username": "lengnuan1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037503941244834109",
+    "in_reply_to_user_id": "1330743352346611713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037502613911183561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengnuan1314 确实是这样。我以前以为我脱离了环境就好了，确实好很多但其实情绪还是一直会反复并无法完全治愈自己。感觉是很难解决的人生课题啊。有些东西自己知道症结在哪，可我不想问谁要什么说法了，没有意义，只能等自己慢慢接受释怀吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037495522605650225",
+        "created_at": "2026-03-27T12:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037503941244834109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1330743352346611713",
+              "start": 0,
+              "username": "lengnuan1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037503941244834109",
+        "in_reply_to_user_id": "1330743352346611713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037502613911183561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengnuan1314 确实是这样。我以前以为我脱离了环境就好了，确实好很多但其实情绪还是一直会反复并无法完全治愈自己。感觉是很难解决的人生课题啊。有些东西自己知道症结在哪，可我不想问谁要什么说法了，没有意义，只能等自己慢慢接受释怀吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330743352346611713",
+        "conversation_id": "2037495522605650225",
+        "created_at": "2026-03-27T12:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037502613911183561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037502613911183561",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037501119929430305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 其实从心理角度上讲很多时候人的痛苦并不来源于实际的环境，而是来自一次次的感情压抑和坏回忆，然后心中的那个真实的自己突破了障壁开始主导自己的身体，它就像小孩一样，如果没有人引导就会肆意破坏直到宣泄平息，然后在静静等待下一次积攒出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 56,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 419
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T05:22:03.000Z",
+        "description": "男｜01｜我会成为很厉害、很幸福的人，你也是。",
+        "id": "1330743352346611713",
+        "name": "冷暖、",
+        "pinned_tweet_id": "1995363307600109943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036817184803192832/P3Ck_wQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 205
+        },
+        "username": "lengnuan1314",
+        "verified": false
+      }
+    ]
+  }
+}

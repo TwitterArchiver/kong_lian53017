@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2057462624863006796",
+    "created_at": "2026-05-21T17:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057514166420963355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057514166420963355",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057462624863006796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 全部笑纳了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2057462615354515456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2TWQbaIAAOTkA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057462615346200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2TWQZbQAAjILQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057462615354626048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2TWQbb0AAPIAq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057462615493001216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2TWQ8bQAAc087.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2057462624863006796",
+        "created_at": "2026-05-21T17:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057514166420963355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057514166420963355",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057462624863006796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 全部笑纳了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057462615354515456",
+            "3_2057462615346200576",
+            "3_2057462615354626048",
+            "3_2057462615493001216"
+          ]
+        },
+        "author_id": "1917734495786041344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057462624863006796",
+        "created_at": "2026-05-21T14:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057462624863006796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JfCrdQZqpw",
+              "end": 28,
+              "expanded_url": "https://x.com/chelsey24517/status/2057462624863006796/photo/1",
+              "media_key": "3_2057462615354515456",
+              "start": 5,
+              "url": "https://t.co/JfCrdQZqpw"
+            },
+            {
+              "display_url": "pic.x.com/JfCrdQZqpw",
+              "end": 28,
+              "expanded_url": "https://x.com/chelsey24517/status/2057462624863006796/photo/1",
+              "media_key": "3_2057462615346200576",
+              "start": 5,
+              "url": "https://t.co/JfCrdQZqpw"
+            },
+            {
+              "display_url": "pic.x.com/JfCrdQZqpw",
+              "end": 28,
+              "expanded_url": "https://x.com/chelsey24517/status/2057462624863006796/photo/1",
+              "media_key": "3_2057462615354626048",
+              "start": 5,
+              "url": "https://t.co/JfCrdQZqpw"
+            },
+            {
+              "display_url": "pic.x.com/JfCrdQZqpw",
+              "end": 28,
+              "expanded_url": "https://x.com/chelsey24517/status/2057462624863006796/photo/1",
+              "media_key": "3_2057462615493001216",
+              "start": 5,
+              "url": "https://t.co/JfCrdQZqpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057462624863006796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诸位，请 https://t.co/JfCrdQZqpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 112,
+          "like_count": 16423,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 5519
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享｜https://t.co/47ytjGff9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shenkl",
+                "end": 79,
+                "expanded_url": "https://ngl.link/shenkl",
+                "start": 56,
+                "url": "https://t.co/47ytjGff9h"
+              }
+            ]
+          }
+        },
+        "id": "1917734495786041344",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053846323108147200/Vv_JwD0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 298,
+          "like_count": 4162,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1203
+        },
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

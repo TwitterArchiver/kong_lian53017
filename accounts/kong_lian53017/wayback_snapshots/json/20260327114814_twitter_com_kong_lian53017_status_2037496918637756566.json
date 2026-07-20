@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037496918637756566",
+    "created_at": "2026-03-27T11:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037496918637756566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889273834479693824",
+          "start": 3,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037496918637756566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037463273537450048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xvxnuo: 究竟要花多长时间 来咀嚼生命的斑驳悲戚 才能适应它的酸涩与孤寂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037496918637756566",
+        "created_at": "2026-03-27T11:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037496918637756566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889273834479693824",
+              "start": 3,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037496918637756566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037463273537450048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xvxnuo: 究竟要花多长时间 来咀嚼生命的斑驳悲戚 才能适应它的酸涩与孤寂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2037463273537450048",
+        "created_at": "2026-03-27T09:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037463273537450048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037463273537450048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "究竟要花多长时间 来咀嚼生命的斑驳悲戚 才能适应它的酸涩与孤寂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 56,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 409
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2024154414425194969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037282417661362176/npToopZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 40,
+          "like_count": 18851,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 5140
+        },
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

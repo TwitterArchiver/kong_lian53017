@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058668347781517600",
+    "created_at": "2026-05-24T21:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T22:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058668347781517600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/o65518kuguagua…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/o65518kuguagua/status/2058193267163082973",
+          "start": 12,
+          "url": "https://t.co/dIoXb5z8MQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058668347781517600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058193267163082973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对，暧昧就只是暧昧呀。 https://t.co/dIoXb5z8MQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058668347781517600",
+        "created_at": "2026-05-24T21:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058668347781517600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o65518kuguagua…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/o65518kuguagua/status/2058193267163082973",
+              "start": 12,
+              "url": "https://t.co/dIoXb5z8MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058668347781517600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058193267163082973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对，暧昧就只是暧昧呀。 https://t.co/dIoXb5z8MQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2058193267163082973",
+        "created_at": "2026-05-23T14:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058193267163082973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058193267163082973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 71147,
+          "like_count": 1817,
+          "quote_count": 23,
+          "reply_count": 147,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得明确提出“跟我谈恋爱吧”和“好”才算谈恋爱 通过聊天和暧昧营造的恋爱氛围真的是没有根基 连个纪念日都找不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17216,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 5847
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 462,
+          "like_count": 7141,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2003
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

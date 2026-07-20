@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060784712881471919",
+    "created_at": "2026-05-30T18:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060784712881471919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1396129154920222723",
+          "start": 3,
+          "username": "rjmxrell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060784712881471919",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060678608138776679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rjmxrell: i just stop trying when i feel unwanted"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060784712881471919",
+        "created_at": "2026-05-30T18:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060784712881471919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1396129154920222723",
+              "start": 3,
+              "username": "rjmxrell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060784712881471919",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060678608138776679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rjmxrell: i just stop trying when i feel unwanted"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396129154920222723",
+        "conversation_id": "2060678608138776679",
+        "created_at": "2026-05-30T11:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060678608138776679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060678608138776679",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3905,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "i just stop trying when i feel unwanted"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 113,
+          "like_count": 18746,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 6043
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T15:43:46.000Z",
+        "description": "𝘄⃥𝗼⃥𝗿⃥𝗱⃥𝘀⃥ 𝗶⃥ 𝘄⃥𝗮⃥𝗻⃥𝘁⃥𝗲⃥𝗱⃥ 𝘁⃥𝗼⃥ 𝘀⃥𝗮⃥𝘆⃥ 𝗯⃥𝘂⃥𝘁⃥ 𝗻⃥𝗲⃥𝘃⃥𝗲⃥𝗿⃥ 𝗱⃥𝗶⃥𝗱⃥",
+        "id": "1396129154920222723",
+        "name": "⋆｡𖦹 °",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043046905161093120/mIdCzL5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348578,
+          "following_count": 14,
+          "like_count": 271705,
+          "listed_count": 572,
+          "media_count": 54,
+          "tweet_count": 3570
+        },
+        "username": "rjmxrell",
+        "verified": true
+      }
+    ]
+  }
+}

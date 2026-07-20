@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060595637666852917",
+    "created_at": "2026-05-30T05:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060595637666852917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MianSheep7/sta…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/MianSheep7/status/2060587451144396967",
+          "start": 51,
+          "url": "https://t.co/snktZI39kL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060595637666852917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060587451144396967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了。现在互联网上穿个廉价西装拼嘟嘟买个项圈sp道具就可以装s到处喊人母狗小猫了，成本低成啥了。 https://t.co/snktZI39kL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060595637666852917",
+        "created_at": "2026-05-30T05:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060595637666852917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MianSheep7/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/MianSheep7/status/2060587451144396967",
+              "start": 51,
+              "url": "https://t.co/snktZI39kL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060595637666852917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060587451144396967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了。现在互联网上穿个廉价西装拼嘟嘟买个项圈sp道具就可以装s到处喊人母狗小猫了，成本低成啥了。 https://t.co/snktZI39kL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613926971658108930",
+        "conversation_id": "2060587451144396967",
+        "created_at": "2026-05-30T05:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060587451144396967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060587451144396967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了，现在是个男的都说自己是s，知道s是啥吗就说自己是，s最基础的经济都没有，更别说能托举的能力，阅历等更重要的东西了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 112,
+          "like_count": 18481,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 6005
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T15:52:45.000Z",
+        "description": "高敏回避INFP/碎碎念日记📓\n有固排，约炮的别私信我了\n人就像一个洋葱，切下来每一片都让人落泪",
+        "id": "1613926971658108930",
+        "location": "眠眠羊的小世界",
+        "name": "眠眠羊",
+        "pinned_tweet_id": "2059200454651748403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059225882720350209/TJ464S_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 67,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1306
+        },
+        "username": "MianSheep7",
+        "verified": false
+      }
+    ]
+  }
+}

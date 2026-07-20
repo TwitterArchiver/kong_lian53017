@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039964277659025840",
+    "created_at": "2026-04-03T07:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039964277659025840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039964277659025840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你让我信任依赖你却又把我丢下。你说你只能保证在喜欢我的时候对我好，不能保证会陪我很久。你说你不希望你离开后我痛苦，你说你对我那么好是为了让我在你离开后也能好好爱自己。你是教会了我一些东西，可你也伤害我了。满足了自己的付出欲发现我不是你想象中的那样就离开。你一点都不好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039964277659025840",
+        "created_at": "2026-04-03T07:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039964277659025840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039964277659025840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你让我信任依赖你却又把我丢下。你说你只能保证在喜欢我的时候对我好，不能保证会陪我很久。你说你不希望你离开后我痛苦，你说你对我那么好是为了让我在你离开后也能好好爱自己。你是教会了我一些东西，可你也伤害我了。满足了自己的付出欲发现我不是你想象中的那样就离开。你一点都不好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 74,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1077
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

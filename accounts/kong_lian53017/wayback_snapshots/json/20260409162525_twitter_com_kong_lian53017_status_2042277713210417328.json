@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042063632247517379",
+    "created_at": "2026-04-09T16:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042277713210417328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827292245269344258",
+          "start": 0,
+          "username": "HoshinoAkuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042277713210417328",
+    "in_reply_to_user_id": "1827292245269344258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042277029597655040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoAkuya 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042063632247517379",
+        "created_at": "2026-04-09T16:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042277713210417328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827292245269344258",
+              "start": 0,
+              "username": "HoshinoAkuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042277713210417328",
+        "in_reply_to_user_id": "1827292245269344258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042277029597655040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoAkuya 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827292245269344258",
+        "conversation_id": "2042063632247517379",
+        "created_at": "2026-04-09T16:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042277029597655040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042277029597655040",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042063632247517379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 相似的灵魂太难遇到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 86,
+          "like_count": 3848,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1671
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:30:10.000Z",
+        "description": "和我谈恋爱的好处\n一、早上拿刀捅你叫你起床喵，死了就结束喵，没死就下一条喵\n二、中午怀疑你出轨喵，拿刀捅你喵，死了你就出轨了喵，没死你就是无辜想死喵\n三、下午对你阴阳怪气喵，你不顶嘴就是在怪我喵，我就捅死你喵，你顶嘴我就要捅死你喵\n四、晚上开始冷暴力喵，你不哄我就是变心了喵，捅死你喵，你哄我你太油嘴滑舌了喵，捅死你喵",
+        "id": "1827292245269344258",
+        "name": "北川秋子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906013630115749889/lCOuslSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 149,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "HoshinoAkuya",
+        "verified": false
+      }
+    ]
+  }
+}

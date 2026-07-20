@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1823853568153280978",
+    "created_at": "2024-08-14T22:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T23:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823853568153280978"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1823853568153280978",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说这说那不如给我爆点金币，起码这样我对你的态度能好点……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1823853568153280978",
+        "created_at": "2024-08-14T22:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T23:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823853568153280978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823853568153280978",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说这说那不如给我爆点金币，起码这样我对你的态度能好点……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "switch┃天塌下来我也要搞纯爱┃社恐┃不连不图不文不磕不约",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823468401857339392/FtSSRxnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

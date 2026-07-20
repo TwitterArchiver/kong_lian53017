@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1968015175858245744",
+    "created_at": "2025-09-16T18:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T19:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968017850188403013"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968017850188403013",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968015175858245744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比起询问，视而不见反而会让我好受。我觉得正常的描述在别人看来就是消极想不开，我在自己的账号发什么东西都开始束手束脚。我不理解，如果我敢去死我早就死了，又何必发一些有的没有。我只觉得抑郁真的很折磨人，两年多了还是反反复复，与其这样不如给我一个痛快。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1968015175858245744",
+        "created_at": "2025-09-16T18:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T19:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968017850188403013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968017850188403013",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968015175858245744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比起询问，视而不见反而会让我好受。我觉得正常的描述在别人看来就是消极想不开，我在自己的账号发什么东西都开始束手束脚。我不理解，如果我敢去死我早就死了，又何必发一些有的没有。我只觉得抑郁真的很折磨人，两年多了还是反反复复，与其这样不如给我一个痛快。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1968015175858245744",
+        "created_at": "2025-09-16T18:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T19:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968015175858245744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968015175858245744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正让我觉得自己完蛋了的是当我意识到病因是一些说不清道不明抓不住的东西，它们来自不同时间段不同的人不同的事，根本无从提起更不知道怎么去治愈。稍微相处久一点的人都问过我同样的一个问题，你怎么这么消极。可能是关心，对我来说却是揭开了我伪装成正常人的遮羞布，我不喜欢这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "凡事凭感觉",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967485429869170957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

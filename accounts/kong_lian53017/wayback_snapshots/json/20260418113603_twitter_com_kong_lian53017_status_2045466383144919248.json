@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045449672890982743",
+    "created_at": "2026-04-18T11:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045466383144919248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1956392790218399744",
+          "start": 0,
+          "username": "Flaws07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045466383144919248",
+    "in_reply_to_user_id": "1956392790218399744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045464701270716740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flaws07 那很可惜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045449672890982743",
+        "created_at": "2026-04-18T11:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045466383144919248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1956392790218399744",
+              "start": 0,
+              "username": "Flaws07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045466383144919248",
+        "in_reply_to_user_id": "1956392790218399744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045464701270716740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flaws07 那很可惜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956392790218399744",
+        "conversation_id": "2045449672890982743",
+        "created_at": "2026-04-18T11:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045464701270716740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045464701270716740",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045449672890982743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我这里蓝莓可贵了买不到这么便宜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 92,
+          "like_count": 6909,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2950
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T16:29:32.000Z",
+        "description": "无敌了孩子",
+        "id": "1956392790218399744",
+        "location": "美国",
+        "name": "庞欣然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045450516675919872/uzwX_IFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Flaws07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2055749305022210258",
+    "created_at": "2026-05-16T20:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055754156816900323"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055754156816900323",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055749305022210258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢我很糟糕，意识到我是什么样的人后大概率就不会喜欢我了。我觉得我这个人太抽离淡漠了。被说过恋爱观不成熟，总把付出当交换而不是真正因爱而爱，总是需要别人先那么做我才会那么做。或许他说得对吧，我不知道。对于感情我很迷茫。就像我说的，我不知道我到底想要什么，但我一定知道自己不要什么。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055749305022210258",
+        "created_at": "2026-05-16T20:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055754156816900323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055754156816900323",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055749305022210258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢我很糟糕，意识到我是什么样的人后大概率就不会喜欢我了。我觉得我这个人太抽离淡漠了。被说过恋爱观不成熟，总把付出当交换而不是真正因爱而爱，总是需要别人先那么做我才会那么做。或许他说得对吧，我不知道。对于感情我很迷茫。就像我说的，我不知道我到底想要什么，但我一定知道自己不要什么。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055749305022210258",
+        "created_at": "2026-05-16T20:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055749305022210258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055749305022210258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我时常怀疑自己是不是压根就不会主动喜欢上谁。我不知道遇到一个一见钟情非ta不可的人是什么感觉，不知道追求喜欢的人是什么感觉，不知道想迫切了解一个人的一切是什么感觉。我喜欢谁都是对方先喜欢我然后我才注意到他身上的某种特质，喜欢只是因为对方足够喜欢我或是某些创伤性吸引。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 111,
+          "like_count": 15448,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 5252
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

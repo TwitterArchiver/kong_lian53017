@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2054542425096597826",
+    "created_at": "2026-05-13T12:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054542425096597826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/To_ska_/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/To_ska_/status/2054540747911954490",
+          "start": 11,
+          "url": "https://t.co/Hc4PJZiKW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054542425096597826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054540747911954490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "掉眼泪只有自己会心疼 https://t.co/Hc4PJZiKW1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2054542425096597826",
+        "created_at": "2026-05-13T12:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054542425096597826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/To_ska_/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/To_ska_/status/2054540747911954490",
+              "start": 11,
+              "url": "https://t.co/Hc4PJZiKW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054542425096597826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054540747911954490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掉眼泪只有自己会心疼 https://t.co/Hc4PJZiKW1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975245236453711874",
+        "conversation_id": "2054540747911954490",
+        "created_at": "2026-05-13T12:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054540747911954490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054540747911954490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼泪多点怎么了 毕竟有那么多事值得一哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 110,
+          "like_count": 14686,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 5120
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T17:02:39.000Z",
+        "description": "我们的关系胜过任何一种爱情。",
+        "id": "1975245236453711874",
+        "name": "木安",
+        "pinned_tweet_id": "2032036347247214714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047120853729746944/GoiMW7cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 52,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 717
+        },
+        "username": "To_ska_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043511223191511286",
+    "created_at": "2026-04-13T02:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T03:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043511223191511286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hehuan333202/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/hehuan333202/status/2043366810075214181",
+          "start": 2,
+          "url": "https://t.co/kcrbgkauw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043511223191511286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043366810075214181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/kcrbgkauw0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043511223191511286",
+        "created_at": "2026-04-13T02:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043511223191511286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hehuan333202/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/hehuan333202/status/2043366810075214181",
+              "start": 2,
+              "url": "https://t.co/kcrbgkauw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043511223191511286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043366810075214181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/kcrbgkauw0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814242147605893120",
+        "conversation_id": "2043366810075214181",
+        "created_at": "2026-04-12T16:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043366810075214181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043366810075214181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5691,
+          "like_count": 179,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "想谈很直球的恋爱 。你只有我，我只有你。强控制，强占有欲，去哪里、干什么、想什么必须报备，在我面前不准回别人消息。吃醋我会说吃醋，想你就说真的很想你，想见你就要见面抱在一起。脖子带着刻我名字的项圈，高潮喊我的名字，从精神到肉体镌刻我的印记，只做我一个人的小狗。我爱你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 90,
+          "like_count": 4866,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2121
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T10:13:52.000Z",
+        "description": "以此观我，所见即所得。\nles|infj|dom1\n/私信会回/不接推广/男的别来\n🚫原创文字禁止转载",
+        "id": "1814242147605893120",
+        "location": "52🚪",
+        "name": "疑心病",
+        "pinned_tweet_id": "2020350432917483651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030205782533517312/DRn8Ed56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3871,
+          "following_count": 332,
+          "like_count": 3213,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 450
+        },
+        "username": "hehuan333202",
+        "verified": false
+      }
+    ]
+  }
+}

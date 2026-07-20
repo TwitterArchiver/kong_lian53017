@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060784170155262009",
+    "created_at": "2026-05-30T18:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060784170155262009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "822727418532139009",
+          "start": 3,
+          "username": "gutineko20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060784170155262009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060280469489611069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gutineko20: 「生まれてこない」\n\nやっぱこれが一番幸せよね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060784170155262009",
+        "created_at": "2026-05-30T18:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060784170155262009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "822727418532139009",
+              "start": 3,
+              "username": "gutineko20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060784170155262009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060280469489611069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gutineko20: 「生まれてこない」\n\nやっぱこれが一番幸せよね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822727418532139009",
+        "conversation_id": "2060280469489611069",
+        "created_at": "2026-05-29T08:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060280469489611069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060280469489611069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 14295,
+          "like_count": 1146,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "reply_settings": "following",
+        "text": "「生まれてこない」\n\nやっぱこれが一番幸せよね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 113,
+          "like_count": 18744,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 6041
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:47:56.000Z",
+        "description": "思ったことを書いていきます。",
+        "id": "822727418532139009",
+        "name": "愚痴猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941032720856956928/YU5q7hsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3601,
+          "following_count": 52,
+          "like_count": 16871,
+          "listed_count": 31,
+          "media_count": 459,
+          "tweet_count": 20156
+        },
+        "username": "gutineko20",
+        "verified": false
+      }
+    ]
+  }
+}

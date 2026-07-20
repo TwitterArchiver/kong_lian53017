@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052418457917104382",
+    "created_at": "2026-05-07T16:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052418984264491376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480934602290364416",
+          "start": 0,
+          "username": "zyeez68080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052418984264491376",
+    "in_reply_to_user_id": "1480934602290364416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052418457917104382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyeez68080 特别刺激特别美味！！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052418457917104382].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052418457917104382",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052418457917104382"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052418457917104382",
+        "created_at": "2026-05-07T16:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052418984264491376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480934602290364416",
+              "start": 0,
+              "username": "zyeez68080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052418984264491376",
+        "in_reply_to_user_id": "1480934602290364416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052418457917104382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyeez68080 特别刺激特别美味！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 103,
+          "like_count": 13336,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 4657
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T16:08:32.000Z",
+        "description": "幸福doi记录🙈身材一般 随手记录 谢谢喜欢～礼貌私信就给过 大号👉🏻@zztiti482",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "zztiti482"
+              }
+            ]
+          }
+        },
+        "id": "1480934602290364416",
+        "name": "小吱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028393131759353856/A0Hd-F84_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 16,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "username": "zyeez68080",
+        "verified": false
+      }
+    ]
+  }
+}

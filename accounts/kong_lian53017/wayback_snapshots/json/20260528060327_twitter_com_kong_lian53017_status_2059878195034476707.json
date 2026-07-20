@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2059878195034476707",
+    "created_at": "2026-05-28T06:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059878195034476707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hi_ovo_8/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Hi_ovo_8/status/2059650563294535723",
+          "start": 11,
+          "url": "https://t.co/0oMUjP7odp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059878195034476707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059650563294535723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你往我赞赏码里扫点钱 https://t.co/0oMUjP7odp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2059878195034476707",
+        "created_at": "2026-05-28T06:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059878195034476707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hi_ovo_8/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Hi_ovo_8/status/2059650563294535723",
+              "start": 11,
+              "url": "https://t.co/0oMUjP7odp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059878195034476707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059650563294535723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你往我赞赏码里扫点钱 https://t.co/0oMUjP7odp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016397985954037760",
+        "conversation_id": "2059650563294535723",
+        "created_at": "2026-05-27T14:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059650563294535723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059650563294535723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1409,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你往我赞赏码里扫点钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 111,
+          "like_count": 18001,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 5934
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T06:28:52.000Z",
+        "description": "抱怨这城市日光太曲折",
+        "id": "2016397985954037760",
+        "location": "喜欢请投币537/1600",
+        "name": "除了我都是猪",
+        "pinned_tweet_id": "2047910101332447415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041897597137481729/zuCztThp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3797,
+          "following_count": 1,
+          "like_count": 482,
+          "listed_count": 16,
+          "media_count": 136,
+          "tweet_count": 543
+        },
+        "username": "Hi_ovo_8",
+        "verified": false
+      }
+    ]
+  }
+}

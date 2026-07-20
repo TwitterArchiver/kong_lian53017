@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040494612117438937",
+    "created_at": "2026-04-04T18:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040494612117438937"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040494612117438937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在听到异性说喜欢我我第一反应是果然如此然后就想跑路。我觉得对我表现出的我有好感是很正常的事。跟我相处的人大多都说和我相处很舒适，觉得我挺有趣的。实际上舒适是因为根本没靠近我，而且其实我是个很无趣的人。我不知道在喜欢我什么，除了初恋基本都是喜欢我对他们好。我真的再也不信了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040494612117438937",
+        "created_at": "2026-04-04T18:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040494612117438937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040494612117438937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在听到异性说喜欢我我第一反应是果然如此然后就想跑路。我觉得对我表现出的我有好感是很正常的事。跟我相处的人大多都说和我相处很舒适，觉得我挺有趣的。实际上舒适是因为根本没靠近我，而且其实我是个很无趣的人。我不知道在喜欢我什么，除了初恋基本都是喜欢我对他们好。我真的再也不信了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 75,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1215
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2044424740929163441",
+    "created_at": "2026-04-15T14:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044425619531026888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1218553739012988929",
+          "start": 0,
+          "username": "yihuaaart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044425619531026888",
+    "in_reply_to_user_id": "1218553739012988929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044424740929163441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yihuaaart 我靠这个好好吃……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47969,
+        "height": 720,
+        "media_key": "13_2044424454512787457",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044424454512787457/img/UG263YYlbHff0g3N.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044424454512787457/vid/avc1/480x270/7QWK7UGdD-8NKDBf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044424454512787457/vid/avc1/640x360/qtxFR6Fx-gwBGlZ4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044424454512787457/vid/avc1/1280x720/B6nMTJudpL4y4ctD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044424454512787457/pl/eARv9Jxdh9mSsQv5.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2044424740929163441",
+        "created_at": "2026-04-15T14:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044425619531026888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1218553739012988929",
+              "start": 0,
+              "username": "yihuaaart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044425619531026888",
+        "in_reply_to_user_id": "1218553739012988929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044424740929163441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yihuaaart 我靠这个好好吃……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044424454512787457"
+          ]
+        },
+        "author_id": "1218553739012988929",
+        "conversation_id": "2044424740929163441",
+        "created_at": "2026-04-15T14:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044424740929163441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLDFTeC5mI",
+              "end": 177,
+              "expanded_url": "https://x.com/yihuaaart/status/2044424740929163441/video/1",
+              "media_key": "13_2044424454512787457",
+              "start": 154,
+              "url": "https://t.co/aLDFTeC5mI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044424740929163441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "omg！我太喜欢姐狗了\n像是那种网恋线下面基，做到一半男主很委屈说：我其实是处，我欺骗了你\n女主边动着嘴上安慰着说：你的第一次？那是很特别的一次！这种母系姐姐可以多来点吗🥺\n男主因为是处所以快泻了，女主还一直鼓励他说你可以cum没关系的，可以想象男主边射边哭了\n原推：stellaprematur\n#女性向 https://t.co/aLDFTeC5mI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 92,
+          "like_count": 5704,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2449
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-18T15:20:34.000Z",
+        "description": "人活着就是要吃美丽的饭、吃爽口的饭。\n努力成为一名做女性向口味饭的好厨子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=tjelsUQQ&from=%E6%B9%98%E6%B9%98%E5%85%B0%E5%AD%90",
+                "start": 0,
+                "url": "https://t.co/DtEgM1NG7x"
+              }
+            ]
+          }
+        },
+        "id": "1218553739012988929",
+        "location": "自用梯子！便宜好用！有需要的宝宝可以试试～",
+        "name": "湘湘兰子",
+        "pinned_tweet_id": "2041541789837115415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038324988957327360/1BrZ9-Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109038,
+          "following_count": 160,
+          "like_count": 748,
+          "listed_count": 112,
+          "media_count": 46,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/DtEgM1NG7x",
+        "username": "yihuaaart",
+        "verified": false
+      }
+    ]
+  }
+}

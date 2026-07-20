@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037939223647674705",
+    "created_at": "2026-03-28T17:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037939223647674705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037939223647674705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也不知道自己天天哪有这么多话想说。其实我上班的时候也是这种分享欲爆棚的状态。比如今天同事又在八卦什么，今天有什么抽象的工作内容，上下班路上遇见了小狗小猫小蜥蜴，树叶好像绿了黄了，月亮是圆是缺。所有一切有意义没意义的思绪在想到的那一刻我都会想跟一个人倾诉，我一直以为这是正常的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037939223647674705",
+        "created_at": "2026-03-28T17:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037939223647674705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037939223647674705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不知道自己天天哪有这么多话想说。其实我上班的时候也是这种分享欲爆棚的状态。比如今天同事又在八卦什么，今天有什么抽象的工作内容，上下班路上遇见了小狗小猫小蜥蜴，树叶好像绿了黄了，月亮是圆是缺。所有一切有意义没意义的思绪在想到的那一刻我都会想跟一个人倾诉，我一直以为这是正常的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 63,
+          "like_count": 1368,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 567
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

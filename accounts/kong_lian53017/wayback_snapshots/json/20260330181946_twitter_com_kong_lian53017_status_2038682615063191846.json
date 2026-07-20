@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038682615063191846",
+    "created_at": "2026-03-30T18:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038682615063191846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChunQingXiaoQ/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/ChunQingXiaoQ/status/2009554163613802681",
+          "start": 36,
+          "url": "https://t.co/LRq6ucvOzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038682615063191846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009554163613802681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最爱的情侣博主……何时更新新的饭饭😭就是要看真情侣做啊真的太可爱了🥹 https://t.co/LRq6ucvOzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 167200,
+        "height": 1080,
+        "media_key": "13_2009552643266641920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009552643266641920/img/h4P0olGmUxDNdMNk.jpg",
+        "public_metrics": {
+          "view_count": 988385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009552643266641920/vid/avc1/480x270/nXsW7qa8PAAXgoeU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009552643266641920/vid/avc1/640x360/ADfh7YnOJy7RIPn_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009552643266641920/vid/avc1/1280x720/OkLw1e8TKpY2ut4I.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009552643266641920/pl/WbgkVxm-Lqg8Vx9c.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038682615063191846",
+        "created_at": "2026-03-30T18:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038682615063191846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChunQingXiaoQ/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/ChunQingXiaoQ/status/2009554163613802681",
+              "start": 36,
+              "url": "https://t.co/LRq6ucvOzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038682615063191846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009554163613802681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最爱的情侣博主……何时更新新的饭饭😭就是要看真情侣做啊真的太可爱了🥹 https://t.co/LRq6ucvOzk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009552643266641920"
+          ]
+        },
+        "author_id": "1824731467815010305",
+        "conversation_id": "2009554163613802681",
+        "created_at": "2026-01-09T09:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009554163613802681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "情侣"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAWm5jV4CT",
+              "end": 145,
+              "expanded_url": "https://x.com/ChunQingXiaoQ/status/2009554163613802681/video/1",
+              "media_key": "13_2009552643266641920",
+              "start": 122,
+              "url": "https://t.co/rAWm5jV4CT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009554163613802681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3973,
+          "impression_count": 2056369,
+          "like_count": 16809,
+          "quote_count": 7,
+          "reply_count": 272,
+          "retweet_count": 628
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝等太久啦，真的超级抱歉，但我已经慢慢调整好状态啦，俺后续会狠狠弥补大家！\n这是一条久违的视频，宝宝们先看着，俺再去剪别的。\n这次喷的实在是太猛了，直接给泉夫洗头了。\n两个骚话连篇的\n“想不想被喷？”\n“夹得紧不紧”\n“是不是水娃”\n#情侣 https://t.co/rAWm5jV4CT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 67,
+          "like_count": 1738,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 760
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T08:54:30.000Z",
+        "description": "记录和老公的恋/do爱碎片丨情侣丨视频内同款玩具在🍑：小泉的玩具店 https://t.co/kQEkDHWuoN丨玩具抽奖微博：https://t.co/GYuWjm1s1N丨欢迎来社群讨论交流",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop174469421.taobao.com/?spm=a21n57.sh…",
+                "end": 57,
+                "expanded_url": "https://shop174469421.taobao.com/?spm=a21n57.shop_search.0.0.6946523cILYqmG",
+                "start": 34,
+                "url": "https://t.co/kQEkDHWuoN"
+              },
+              {
+                "display_url": "weibo.com/u/9030909197",
+                "end": 88,
+                "expanded_url": "https://weibo.com/u/9030909197",
+                "start": 65,
+                "url": "https://t.co/GYuWjm1s1N"
+              }
+            ]
+          }
+        },
+        "id": "1824731467815010305",
+        "location": "只此一个号无完整版",
+        "name": "纯情小泉",
+        "pinned_tweet_id": "1842552749784719846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824732452017065984/PqfsByEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737516,
+          "following_count": 29,
+          "like_count": 4056,
+          "listed_count": 1152,
+          "media_count": 169,
+          "tweet_count": 3478
+        },
+        "username": "ChunQingXiaoQ",
+        "verified": true
+      }
+    ]
+  }
+}

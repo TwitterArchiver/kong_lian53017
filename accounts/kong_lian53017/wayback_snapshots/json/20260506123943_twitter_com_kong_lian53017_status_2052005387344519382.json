@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052005387344519382",
+    "created_at": "2026-05-06T12:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052005387344519382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hgds0/status/2051999695023771685",
+          "start": 3,
+          "url": "https://t.co/iDRJLGGF1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052005387344519382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051999695023771685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会说 https://t.co/iDRJLGGF1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2051999687646072832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoq2A1bUAA7T2h.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052005387344519382",
+        "created_at": "2026-05-06T12:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052005387344519382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hgds0/status/2051999695023771685",
+              "start": 3,
+              "url": "https://t.co/iDRJLGGF1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052005387344519382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051999695023771685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会说 https://t.co/iDRJLGGF1L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051999687646072832"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051999695023771685",
+        "created_at": "2026-05-06T12:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051999695023771685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OlDkg7egI",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2051999695023771685/photo/1",
+              "media_key": "3_2051999687646072832",
+              "start": 0,
+              "url": "https://t.co/0OlDkg7egI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051999695023771685",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0OlDkg7egI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 101,
+          "like_count": 12960,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 4515
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97327,
+          "following_count": 2460,
+          "like_count": 44069,
+          "listed_count": 147,
+          "media_count": 4122,
+          "tweet_count": 8516
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

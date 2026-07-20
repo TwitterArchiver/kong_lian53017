@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034178797571113330",
+    "created_at": "2026-03-18T08:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034178797571113330"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034178797571113330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "INFJ就是很有魅力啊。戴不同社交面具用别人喜欢的方式迎合别人跟别人相处还要被说装和虚伪……出发点本来就是善意的凭什么这么说我们绿老头。真的太坏了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034178797571113330",
+        "created_at": "2026-03-18T08:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034178797571113330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034178797571113330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "INFJ就是很有魅力啊。戴不同社交面具用别人喜欢的方式迎合别人跟别人相处还要被说装和虚伪……出发点本来就是善意的凭什么这么说我们绿老头。真的太坏了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 33,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 168
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047040942260232266",
+    "created_at": "2026-04-23T04:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047177610661343421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707562397399941120",
+          "start": 0,
+          "username": "Mingming0810_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047177610661343421",
+    "in_reply_to_user_id": "1707562397399941120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047177420927549533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mingming0810_ 好！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047040942260232266",
+        "created_at": "2026-04-23T04:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047177610661343421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707562397399941120",
+              "start": 0,
+              "username": "Mingming0810_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047177610661343421",
+        "in_reply_to_user_id": "1707562397399941120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047177420927549533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mingming0810_ 好！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707562397399941120",
+        "conversation_id": "2047040942260232266",
+        "created_at": "2026-04-23T04:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047177420927549533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047177420927549533",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047040942260232266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 唱的自己开心能抒发自己的情绪就好了 ！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 101,
+          "like_count": 8910,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3748
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T01:06:22.000Z",
+        "description": "没有介绍就是我最好的介绍",
+        "id": "1707562397399941120",
+        "location": "New York, NY",
+        "name": "早起只为耍帅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925219811409190913/vjjyk8HB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 307,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 203
+        },
+        "username": "Mingming0810_",
+        "verified": false
+      }
+    ]
+  }
+}

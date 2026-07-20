@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2077521927670006157",
+    "created_at": "2026-07-15T23:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077537204805796086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749428995492573184",
+          "start": 0,
+          "username": "jiejieluo111423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077537204805796086",
+    "in_reply_to_user_id": "1749428995492573184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077521927670006157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejieluo111423 这太招笑了。我一直觉得没经济实力不配当上位者。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077521927670006157].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077521927670006157",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077521927670006157"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2077521927670006157",
+        "created_at": "2026-07-15T23:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077537204805796086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749428995492573184",
+              "start": 0,
+              "username": "jiejieluo111423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077537204805796086",
+        "in_reply_to_user_id": "1749428995492573184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077521927670006157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejieluo111423 这太招笑了。我一直觉得没经济实力不配当上位者。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 121,
+          "like_count": 25081,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 4453
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T13:49:27.000Z",
+        "description": "所以说  永远多长  永远短暂  永远很遗憾",
+        "id": "1749428995492573184",
+        "location": "广西",
+        "name": "jiejieluo",
+        "pinned_tweet_id": "2055730500657164685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040530635102765057/YLccjDga_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1117,
+          "like_count": 29219,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "jiejieluo111423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047177297388794068",
+    "created_at": "2026-04-23T05:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047182002433167447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637815681591967744",
+          "start": 0,
+          "username": "tear48664423313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047182002433167447",
+    "in_reply_to_user_id": "1637815681591967744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047181663114035493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tear48664423313 😌😌据说是叠纸私生女我就跑去玩了一阵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047177297388794068",
+        "created_at": "2026-04-23T05:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047182002433167447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637815681591967744",
+              "start": 0,
+              "username": "tear48664423313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047182002433167447",
+        "in_reply_to_user_id": "1637815681591967744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047181663114035493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tear48664423313 😌😌据说是叠纸私生女我就跑去玩了一阵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637815681591967744",
+        "conversation_id": "2047177297388794068",
+        "created_at": "2026-04-23T05:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047181663114035493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047181663114035493",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047177297388794068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我去，还有无期😭这也能看到橘子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 101,
+          "like_count": 8918,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3755
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T13:58:02.000Z",
+        "description": "",
+        "id": "1637815681591967744",
+        "name": "tear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637815770603466754/hSz_Z-tL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 66,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 85
+        },
+        "username": "tear48664423313",
+        "verified": false
+      }
+    ]
+  }
+}

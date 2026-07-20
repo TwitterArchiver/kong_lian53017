@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2061897028628811963",
+    "created_at": "2026-06-02T19:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061897028628811963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gureguremimi/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/gureguremimi/status/2061288160815108467",
+          "start": 4,
+          "url": "https://t.co/LIGocCTx1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061897028628811963",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061288160815108467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🙀🙀🙀 https://t.co/LIGocCTx1t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2061897028628811963",
+        "created_at": "2026-06-02T19:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061897028628811963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gureguremimi/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/gureguremimi/status/2061288160815108467",
+              "start": 4,
+              "url": "https://t.co/LIGocCTx1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061897028628811963",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061288160815108467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙀🙀🙀 https://t.co/LIGocCTx1t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842045388964188161",
+        "conversation_id": "2061288160815108467",
+        "created_at": "2026-06-01T03:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061288160815108467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061288160815108467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10825,
+          "like_count": 659,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "自殺もできない、安楽死もない、残り寿命長すぎ、生きていくのも辛い…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 115,
+          "like_count": 19361,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4952
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T03:35:14.000Z",
+        "description": "生きていくのも死ぬのも怖い私の病み垢です。希死念慮・数回未遂と精神病院入院歴アリ●鬱病・パニック障害・ASD・ADHD診断済●安楽死希望・反出生。暗い呟き&キリスト教関係の呟き多め●一応プロテスタントのクリスチャン。１人でも多くの、この世で苦しんでる病み垢さんに、ちょこっとでもキリストへの興味と天国への切符を🐑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/gureguremimi",
+                "end": 23,
+                "expanded_url": "http://mond.how/ja/gureguremimi",
+                "start": 0,
+                "url": "https://t.co/KjdQUwIhnS"
+              }
+            ]
+          }
+        },
+        "id": "1842045388964188161",
+        "location": "リプ・引用気付けなかったらすみません💦",
+        "name": "おミミ@鬱病クリスチャン",
+        "pinned_tweet_id": "1972684577069306287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014980204041560064/4DnVyUuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 260,
+          "like_count": 174190,
+          "listed_count": 23,
+          "media_count": 647,
+          "tweet_count": 13995
+        },
+        "url": "https://t.co/KjdQUwIhnS",
+        "username": "gureguremimi",
+        "verified": true
+      }
+    ]
+  }
+}

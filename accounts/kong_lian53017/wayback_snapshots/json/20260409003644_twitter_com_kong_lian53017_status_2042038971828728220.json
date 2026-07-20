@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042038971828728220",
+    "created_at": "2026-04-09T00:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042038971828728220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Charon_Nya/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Charon_Nya/status/2041461704312467934",
+          "start": 4,
+          "url": "https://t.co/FZsXLNByFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042038971828728220",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041461704312467934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺🥺🥺 https://t.co/FZsXLNByFE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042038971828728220",
+        "created_at": "2026-04-09T00:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042038971828728220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Charon_Nya/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Charon_Nya/status/2041461704312467934",
+              "start": 4,
+              "url": "https://t.co/FZsXLNByFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042038971828728220",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041461704312467934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺 https://t.co/FZsXLNByFE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783824424367755264",
+        "conversation_id": "2041461704312467934",
+        "created_at": "2026-04-07T10:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041461704312467934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041461704312467934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 65721,
+          "like_count": 1005,
+          "quote_count": 22,
+          "reply_count": 42,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "有小众XP的朋友小心翼翼地拉着你衣角 请求你满足他的时候真的很涩诶🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 78,
+          "like_count": 3447,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1469
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:44:28.000Z",
+        "description": "人机INFJ(O﹃O)｜有可爱小男友｜现在还是准男大x｜纯清水无里推｜快来fo我！",
+        "id": "1783824424367755264",
+        "location": "Guangdong",
+        "name": "𝘾𝙝𝙖𝙧𝙤𝙣卡戎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867063046641987584/jVynAskx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4269,
+          "following_count": 498,
+          "like_count": 26405,
+          "listed_count": 2,
+          "media_count": 550,
+          "tweet_count": 3604
+        },
+        "username": "Charon_Nya",
+        "verified": true
+      }
+    ]
+  }
+}

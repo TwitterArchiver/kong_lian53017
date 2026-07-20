@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060223577358844031",
+    "created_at": "2026-05-29T04:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060223577358844031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2050676871247839232",
+          "start": 3,
+          "username": "CamargoJes83987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060223577358844031",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1505
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059985164956991626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CamargoJes83987: Ser devorado sexualmente e protegido emocionalmente pela mesma pessoa deve ser uma sensação tão boa."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060223577358844031",
+        "created_at": "2026-05-29T04:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060223577358844031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2050676871247839232",
+              "start": 3,
+              "username": "CamargoJes83987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060223577358844031",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1505
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059985164956991626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CamargoJes83987: Ser devorado sexualmente e protegido emocionalmente pela mesma pessoa deve ser uma sensação tão boa."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050676871247839232",
+        "conversation_id": "2059985164956991626",
+        "created_at": "2026-05-28T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059985164956991626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059985164956991626",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 570,
+          "impression_count": 180663,
+          "like_count": 10249,
+          "quote_count": 238,
+          "reply_count": 55,
+          "retweet_count": 1505
+        },
+        "reply_settings": "everyone",
+        "text": "Ser devorado sexualmente e protegido emocionalmente pela mesma pessoa deve ser uma sensação tão boa."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 111,
+          "like_count": 18114,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 5959
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T20:40:52.000Z",
+        "description": "24 anos espalhando sorrisos\n👩🏻‍🎓 Pedagogia por amor 📚\n🌙 Solteira e em paz\n📱 WhatsApp: (44) 99712-3539",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wa.me/5544997123539",
+                "end": 23,
+                "expanded_url": "https://wa.me/5544997123539",
+                "start": 0,
+                "url": "https://t.co/RUs95cikPh"
+              }
+            ]
+          }
+        },
+        "id": "2050676871247839232",
+        "name": "Jéssica Camargo",
+        "pinned_tweet_id": "2059976953701011868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050677004723245056/bZjctHRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/RUs95cikPh",
+        "username": "CamargoJes83987",
+        "verified": false
+      }
+    ]
+  }
+}

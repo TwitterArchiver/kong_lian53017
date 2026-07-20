@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045884890030514595",
+    "created_at": "2026-04-19T15:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045884890030514595"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045884890030514595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前真的很好奇你会想起我吗。我那次在超市门口正面撞见你，跟我记忆里没什么区别，你跟朋友在聊天没有注意也没认出我，于是我低头跟你擦肩而过。这是分开几年后第二次现实中遇见你了。第一次是在某一年过年，也是在这个超市，我听到了你的声音立马就能锁定到你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045884890030514595",
+        "created_at": "2026-04-19T15:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045884890030514595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045884890030514595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前真的很好奇你会想起我吗。我那次在超市门口正面撞见你，跟我记忆里没什么区别，你跟朋友在聊天没有注意也没认出我，于是我低头跟你擦肩而过。这是分开几年后第二次现实中遇见你了。第一次是在某一年过年，也是在这个超市，我听到了你的声音立马就能锁定到你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 95,
+          "like_count": 7421,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 3158
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

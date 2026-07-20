@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042920521386594703",
+    "created_at": "2026-04-11T10:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042920521386594703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suibiankankan_…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/suibiankankan_6/status/2027407531166011626",
+          "start": 22,
+          "url": "https://t.co/4HeGssMGws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042920521386594703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027407531166011626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已品鉴原片。女主简直魅魔吧美成啥了我趣…… https://t.co/4HeGssMGws"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2435466,
+        "height": 1080,
+        "media_key": "13_2027404965694873600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027404965694873600/img/LFD29wN7aOVETU7N.jpg",
+        "public_metrics": {
+          "view_count": 249871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027404965694873600/pl/rrP3M44ZdAQNyUok.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027404965694873600/vid/avc1/1036x720/EMEip8aGemsL44AJ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027404965694873600/vid/avc1/388x270/7ah71paiY9t21_JG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027404965694873600/vid/avc1/518x360/Se0ngCD6362DoJsL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027404965694873600/vid/avc1/1554x1080/yvF1ph6YxLotG_X5.mp4"
+          }
+        ],
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042920521386594703",
+        "created_at": "2026-04-11T10:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042920521386594703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suibiankankan_…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/suibiankankan_6/status/2027407531166011626",
+              "start": 22,
+              "url": "https://t.co/4HeGssMGws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042920521386594703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027407531166011626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已品鉴原片。女主简直魅魔吧美成啥了我趣…… https://t.co/4HeGssMGws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027404965694873600"
+          ]
+        },
+        "author_id": "1688892767265775616",
+        "conversation_id": "2027407531166011626",
+        "created_at": "2026-02-27T15:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027407531166011626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "“相澤南”終於參加了人氣系列！ !!把喝醉的男員工帶走！女人可以把男人放在家裡嗎？符號！超可愛妝容的無胸罩休閒服！我請你！ ??在只有兩個人的封閉房間裡，慾望失控！我的同事“相澤南”戴綠帽子！ ??無與倫比的性愛！ !! “也許你可以和Minami一起勃起多次......”小惡魔誘惑？捲到第二天早上！ !! “如果你沒有末班車，你為什麼不來？”",
+              "display_url": "missav.ws/dm27/ipx-666-u…",
+              "end": 131,
+              "expanded_url": "https://missav.ws/dm27/ipx-666-uncensored-leak",
+              "images": [
+                {
+                  "height": 538,
+                  "url": "https://pbs.twimg.com/news_img/2041488507445874688/cgIB7KjZ?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041488507445874688/cgIB7KjZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "IPX-666 “沒趕上末班車，就來我家吧。” 愛人在家裡等著，結果錯過了末班車，就住在了女同事家。 .. ..南相澤 - 相澤南",
+              "unwound_url": "https://missav.ws/dm27/ipx-666-uncensored-leak",
+              "url": "https://t.co/DjTYwWgqgn"
+            },
+            {
+              "display_url": "pic.x.com/074NSkkmDH",
+              "end": 155,
+              "expanded_url": "https://x.com/suibiankankan_6/status/2027407531166011626/video/1",
+              "media_key": "13_2027404965694873600",
+              "start": 132,
+              "url": "https://t.co/074NSkkmDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027407531166011626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1498,
+          "impression_count": 755967,
+          "like_count": 4057,
+          "quote_count": 17,
+          "reply_count": 117,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚re的第二部，紧赶慢赶加上字幕发出来了，以后还是老实一部一部re了，连看两部到后面都没啥精力吐槽了给我看困了都，不过这一部能成为经典果然是有原因的，拍得太好看了，强烈推荐看原片\n\n番号：IPX-666 \n\n链接：https://t.co/DjTYwWgqgn https://t.co/074NSkkmDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 91,
+          "like_count": 4305,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1855
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T12:40:04.000Z",
+        "description": "随便看看，推些自己喜欢的女性向，可能不常上 / 建议链接都复制到浏览器打开，打不开换个浏览器和🪜路线（建议换到日本） / 推的片正文都带了链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip/?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/BqfCp72Tkr"
+              }
+            ]
+          }
+        },
+        "id": "1688892767265775616",
+        "location": "自用VPN👉🏼",
+        "name": "可以换条内裤吗",
+        "pinned_tweet_id": "2026534331779629139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688894271590662144/x_mKuANh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559609,
+          "following_count": 0,
+          "like_count": 701,
+          "listed_count": 759,
+          "media_count": 226,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/BqfCp72Tkr",
+        "username": "suibiankankan_6",
+        "verified": true
+      }
+    ]
+  }
+}

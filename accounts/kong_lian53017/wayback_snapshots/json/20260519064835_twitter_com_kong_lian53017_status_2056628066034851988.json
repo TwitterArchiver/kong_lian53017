@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2056624267647914455",
+    "created_at": "2026-05-19T06:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056628066034851988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769171984406241280",
+          "start": 0,
+          "username": "tong_chuyang"
+        },
+        {
+          "end": 30,
+          "id": "1234105466323685377",
+          "start": 14,
+          "username": "Ayushra58939206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056628066034851988",
+    "in_reply_to_user_id": "1769171984406241280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056627189978964301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tong_chuyang @Ayushra58939206 我笑得不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2056624267647914455",
+        "created_at": "2026-05-19T06:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056628066034851988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769171984406241280",
+              "start": 0,
+              "username": "tong_chuyang"
+            },
+            {
+              "end": 30,
+              "id": "1234105466323685377",
+              "start": 14,
+              "username": "Ayushra58939206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056628066034851988",
+        "in_reply_to_user_id": "1769171984406241280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056627189978964301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong_chuyang @Ayushra58939206 我笑得不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769171984406241280",
+        "conversation_id": "2056624267647914455",
+        "created_at": "2026-05-19T06:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056627189978964301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1234105466323685377",
+              "start": 0,
+              "username": "Ayushra58939206"
+            },
+            {
+              "end": 32,
+              "id": "1722693102367039488",
+              "start": 17,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056627189978964301",
+        "in_reply_to_user_id": "1234105466323685377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056625777932734862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayushra58939206 @kong_lian53017 谁家豆包😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 111,
+          "like_count": 15915,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 5369
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T01:21:20.000Z",
+        "description": "男的，缺爱b，请找我聊天好吗🥰",
+        "id": "1769171984406241280",
+        "name": "我没有良心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775809871642009600/LymjfB2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 101,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 672
+        },
+        "username": "tong_chuyang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-01T13:17:47.000Z",
+        "description": "🌍 稳定出海变现项目，自营项目\n🔥 签合同，包落地，有保障，有实力！\n➡️ 剧财官方账号：@OhhFrizz\n6️⃣ 流量变现：@C0lTG0OvrwauepQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "OhhFrizz"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "C0lTG0OvrwauepQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ai.feishu.cn/docx/AGLWd4Dkf…",
+                "end": 23,
+                "expanded_url": "https://ai.feishu.cn/docx/AGLWd4DkfoVZL9xH2eHcL2Z3n0b",
+                "start": 0,
+                "url": "https://t.co/KYRC11QYck"
+              }
+            ]
+          }
+        },
+        "id": "1234105466323685377",
+        "location": "义乌市【微信：OLDAN2026】",
+        "name": "体坛瓜田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1239617165440974852/uyBsg5dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/KYRC11QYck",
+        "username": "Ayushra58939206",
+        "verified": false
+      }
+    ]
+  }
+}

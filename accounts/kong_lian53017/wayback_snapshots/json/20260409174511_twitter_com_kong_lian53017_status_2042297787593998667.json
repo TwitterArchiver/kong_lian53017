@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042042212868034734",
+    "created_at": "2026-04-09T17:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042297787593998667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768284024651587584",
+          "start": 0,
+          "username": "s9082603766275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042297787593998667",
+    "in_reply_to_user_id": "1768284024651587584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042291246497218669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s9082603766275 我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042042212868034734",
+        "created_at": "2026-04-09T17:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042297787593998667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768284024651587584",
+              "start": 0,
+              "username": "s9082603766275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042297787593998667",
+        "in_reply_to_user_id": "1768284024651587584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042291246497218669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s9082603766275 我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768284024651587584",
+        "conversation_id": "2042042212868034734",
+        "created_at": "2026-04-09T17:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042291246497218669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042291246497218669",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042042212868034734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我就是这种人，我和一个人聊的时候我就会开始观察他是不是只和我聊，不是我就会立马让他滚。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 86,
+          "like_count": 3885,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1675
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T14:32:28.000Z",
+        "description": "我要看腹肌大老鼠和帅哥谢谢（骂人和开h腔死全家，性压抑离我远点，丑的也滚）不发自拍或者老鼠不回信息",
+        "id": "1768284024651587584",
+        "location": "Veracruz, Veracruz de Ignacio ",
+        "name": "苏",
+        "pinned_tweet_id": "2037174543446581262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936892423705174016/YROEmAel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 152,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 144
+        },
+        "username": "s9082603766275",
+        "verified": false
+      }
+    ]
+  }
+}

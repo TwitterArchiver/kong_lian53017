@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055995485509619712"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2055995525829435497",
+    "created_at": "2026-05-17T12:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055995525829435497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TEmFYcLjRp",
+          "end": 82,
+          "expanded_url": "https://x.com/kong_lian53017/status/2055995525829435497/video/1",
+          "media_key": "7_2055995485509619712",
+          "start": 59,
+          "url": "https://t.co/TEmFYcLjRp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055995525829435497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唱得不好所以一直拖着不想大，真的录了很久录累了，但这是第一次完整无错弹下来所以觉得很有纪念意义！让互关检验一下成果！ https://t.co/TEmFYcLjRp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49000,
+        "height": 720,
+        "media_key": "7_2055995485509619712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055995485509619712/pu/img/rZHa60inQtZHlUqt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055995485509619712/pu/vid/avc1/360x270/xjfm4ZBCySZF0DCn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055995485509619712/pu/vid/avc1/480x360/FB3pxaJLeQ4dznjc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055995485509619712/pu/vid/avc1/960x720/4rQz8Nl3mymj2vNs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055995485509619712/pu/pl/KF7zATtSDK96GJzH.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055995485509619712"
+          ]
+        },
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055995525829435497",
+        "created_at": "2026-05-17T12:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055995525829435497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEmFYcLjRp",
+              "end": 82,
+              "expanded_url": "https://x.com/kong_lian53017/status/2055995525829435497/video/1",
+              "media_key": "7_2055995485509619712",
+              "start": 59,
+              "url": "https://t.co/TEmFYcLjRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055995525829435497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唱得不好所以一直拖着不想大，真的录了很久录累了，但这是第一次完整无错弹下来所以觉得很有纪念意义！让互关检验一下成果！ https://t.co/TEmFYcLjRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 111,
+          "like_count": 15534,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 5281
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

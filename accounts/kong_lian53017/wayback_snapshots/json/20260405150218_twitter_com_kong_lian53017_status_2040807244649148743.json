@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039227314408771939",
+    "created_at": "2026-04-05T15:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040807244649148743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319691979144482821",
+          "start": 0,
+          "username": "SonuSha75693844"
+        },
+        {
+          "end": 26,
+          "id": "1057668616408064001",
+          "start": 17,
+          "username": "HK416ABC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040807244649148743",
+    "in_reply_to_user_id": "1319691979144482821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040615986857193715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonuSha75693844 @HK416ABC ok我研究研究！谢谢~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039227314408771939",
+        "created_at": "2026-04-05T15:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040807244649148743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319691979144482821",
+              "start": 0,
+              "username": "SonuSha75693844"
+            },
+            {
+              "end": 26,
+              "id": "1057668616408064001",
+              "start": 17,
+              "username": "HK416ABC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040807244649148743",
+        "in_reply_to_user_id": "1319691979144482821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040615986857193715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonuSha75693844 @HK416ABC ok我研究研究！谢谢~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319691979144482821",
+        "conversation_id": "2039227314408771939",
+        "created_at": "2026-04-05T02:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040615986857193715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            },
+            {
+              "end": 25,
+              "id": "1057668616408064001",
+              "start": 16,
+              "username": "HK416ABC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040615986857193715",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039233080863650142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 @HK416ABC 怕手疼可以学古典吉他，尼龙弦比钢弦软很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 76,
+          "like_count": 2798,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1236
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T17:28:20.000Z",
+        "description": "",
+        "id": "1319691979144482821",
+        "name": "怜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040616444850012161/yUwFDaEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "SonuSha75693844",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 698,
+          "like_count": 2229,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1309
+        },
+        "username": "HK416ABC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T17:28:20.000Z",
+        "description": "",
+        "id": "1319691979144482821",
+        "name": "怜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040616444850012161/yUwFDaEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "SonuSha75693844",
+        "verified": true
+      }
+    ]
+  }
+}

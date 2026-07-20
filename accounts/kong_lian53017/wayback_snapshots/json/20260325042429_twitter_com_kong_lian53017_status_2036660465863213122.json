@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2036610404248621168",
+    "created_at": "2026-03-25T04:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036660465863213122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1998947235133095936",
+          "start": 0,
+          "username": "panpanlyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036660465863213122",
+    "in_reply_to_user_id": "1998947235133095936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036610404248621168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@panpanlyy 欧莱雅紫色玻尿酸那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2036610404248621168",
+        "created_at": "2026-03-25T04:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036660465863213122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1998947235133095936",
+              "start": 0,
+              "username": "panpanlyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036660465863213122",
+        "in_reply_to_user_id": "1998947235133095936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036610404248621168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@panpanlyy 欧莱雅紫色玻尿酸那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998947235133095936",
+        "conversation_id": "2036610404248621168",
+        "created_at": "2026-03-25T01:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036610404248621168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036610404248621168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 456,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求超超超控油蓬松洗发水！！！\n想知道大油头朋友们都在用什么洗发水🥹\n真的是受够了这个只能蓬松一天的头发了\n第二天像从油桶里捞出来了一样😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 43,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 217
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T02:45:48.000Z",
+        "description": "📓",
+        "id": "1998947235133095936",
+        "location": "不要有期待",
+        "name": "苏噶栗子糖",
+        "pinned_tweet_id": "2028499295629135894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005652517926084608/MWP1qjbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 37,
+          "like_count": 7178,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 600
+        },
+        "username": "panpanlyy",
+        "verified": false
+      }
+    ]
+  }
+}

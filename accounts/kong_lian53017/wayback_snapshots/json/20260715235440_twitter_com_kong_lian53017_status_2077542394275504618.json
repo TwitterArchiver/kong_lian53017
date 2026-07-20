@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2077542394275504618",
+    "created_at": "2026-07-15T23:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077542394275504618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077542394275504618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我自己抽烟但是我不会找抽烟的另一半。以前觉得很带感但现在感觉爱抽烟的男的大概率都有一股难闻的烟味。我自己抽得并不凶，如果一次抽超过三根抽完后我会去刷牙。还有就是我不在人前抽烟，没让别人吸过自己的二手烟，甚至养猫的时候也不会让猫吸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2077542394275504618",
+        "created_at": "2026-07-15T23:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077542394275504618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077542394275504618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我自己抽烟但是我不会找抽烟的另一半。以前觉得很带感但现在感觉爱抽烟的男的大概率都有一股难闻的烟味。我自己抽得并不凶，如果一次抽超过三根抽完后我会去刷牙。还有就是我不在人前抽烟，没让别人吸过自己的二手烟，甚至养猫的时候也不会让猫吸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 121,
+          "like_count": 25082,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 4455
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

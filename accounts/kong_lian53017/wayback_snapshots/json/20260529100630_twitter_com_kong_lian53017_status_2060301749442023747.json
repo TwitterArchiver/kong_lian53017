@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060301749442023747",
+    "created_at": "2026-05-29T10:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060301749442023747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1165866465288843270",
+          "start": 3,
+          "username": "wyntwsxszcjlcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060301749442023747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060248867656872189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wyntwsxszcjlcw: “长大的标志就是你没有讨厌的人了。以前会全心全意讨厌一个人，现在只有冷漠。冷漠很残暴但是也很有效，我没有讨厌的人，只有不想看见和不想在乎的人。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060301749442023747",
+        "created_at": "2026-05-29T10:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060301749442023747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1165866465288843270",
+              "start": 3,
+              "username": "wyntwsxszcjlcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060301749442023747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060248867656872189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wyntwsxszcjlcw: “长大的标志就是你没有讨厌的人了。以前会全心全意讨厌一个人，现在只有冷漠。冷漠很残暴但是也很有效，我没有讨厌的人，只有不想看见和不想在乎的人。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165866465288843270",
+        "conversation_id": "2060248867656872189",
+        "created_at": "2026-05-29T06:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060248867656872189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060248867656872189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“长大的标志就是你没有讨厌的人了。以前会全心全意讨厌一个人，现在只有冷漠。冷漠很残暴但是也很有效，我没有讨厌的人，只有不想看见和不想在乎的人。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 112,
+          "like_count": 18261,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 5978
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T06:00:13.000Z",
+        "description": "老公对不起我不知道你砒霜过敏",
+        "id": "1165866465288843270",
+        "location": "晋G",
+        "name": "173.7",
+        "pinned_tweet_id": "2003325809055138076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585974711594295298/Rh1qr-gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 76,
+          "like_count": 12803,
+          "listed_count": 5,
+          "media_count": 420,
+          "tweet_count": 4554
+        },
+        "username": "wyntwsxszcjlcw",
+        "verified": false
+      }
+    ]
+  }
+}

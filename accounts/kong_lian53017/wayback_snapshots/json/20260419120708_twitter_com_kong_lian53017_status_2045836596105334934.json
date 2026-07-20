@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045833159942774889",
+    "created_at": "2026-04-19T12:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045836596105334934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740012227124744192",
+          "start": 0,
+          "username": "dejvvinthenight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045836596105334934",
+    "in_reply_to_user_id": "1740012227124744192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045836002238034378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dejvvinthenight 同意，听到这种话只会觉得很好笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045833159942774889",
+        "created_at": "2026-04-19T12:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045836596105334934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740012227124744192",
+              "start": 0,
+              "username": "dejvvinthenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045836596105334934",
+        "in_reply_to_user_id": "1740012227124744192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045836002238034378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dejvvinthenight 同意，听到这种话只会觉得很好笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740012227124744192",
+        "conversation_id": "2045833159942774889",
+        "created_at": "2026-04-19T12:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045836002238034378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045836002238034378",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045835444102074504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 大概只是为了表达当下足够爱吧，但我真的很讨厌随随便便说：“永远爱你，不管怎样都爱你”的人。未来的事现在的你凭什么能言之凿凿地保证。幼稚荒唐可笑。但其实不止爱，任何事情都是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 95,
+          "like_count": 7356,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3129
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:10:29.000Z",
+        "description": "born to live fast and die young｜intp-t｜174 70kg｜这里只是盛满我烟蒂与泪水的日记",
+        "id": "1740012227124744192",
+        "location": "Mars",
+        "name": "wetislandme",
+        "pinned_tweet_id": "1858054622427881818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045833745987674112/TKlduMfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 72,
+          "like_count": 1244,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1037
+        },
+        "username": "dejvvinthenight",
+        "verified": false
+      }
+    ]
+  }
+}

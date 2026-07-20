@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2048426940261134655",
+    "created_at": "2026-04-26T15:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048426940261134655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Destiny_26X/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Destiny_26X/status/2048098102998147323",
+          "start": 3,
+          "url": "https://t.co/RiPJTMXaeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048426940261134655",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048098102998147323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✔️ https://t.co/RiPJTMXaeO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2048426940261134655",
+        "created_at": "2026-04-26T15:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048426940261134655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Destiny_26X/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Destiny_26X/status/2048098102998147323",
+              "start": 3,
+              "url": "https://t.co/RiPJTMXaeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048426940261134655",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048098102998147323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✔️ https://t.co/RiPJTMXaeO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655514709733302273",
+        "conversation_id": "2048098102998147323",
+        "created_at": "2026-04-25T17:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048098102998147323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048098102998147323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15293,
+          "like_count": 140,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我不是陪聊，我回你是因为你说的话有趣或者你身材好，不代表我要无偿给你提供情绪价值，也没有给你发图片的义务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 68,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 101,
+          "like_count": 10096,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4261
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T10:07:30.000Z",
+        "description": "非典型intj   brat，脾气一般，只回复已关注感兴趣的礼貌私信，哦还有除非你身材特别好，说话也有趣，其他勿扰，谢谢 (防走失@Wildcat_YRX)   提问箱https://t.co/PvT7Hhql2q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Wildcat_YRX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xueye",
+                "end": 107,
+                "expanded_url": "https://ngl.link/xueye",
+                "start": 84,
+                "url": "https://t.co/PvT7Hhql2q"
+              }
+            ]
+          }
+        },
+        "id": "1655514709733302273",
+        "location": "自由",
+        "name": "等雪夜",
+        "pinned_tweet_id": "2048098102998147323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025251643194015745/gdqD9fF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 123,
+          "like_count": 1267,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 839
+        },
+        "username": "Destiny_26X",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2053820323699810718",
+    "created_at": "2026-05-12T05:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T06:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054067888638812232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1909478747239333888",
+          "start": 0,
+          "username": "beizili_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054067888638812232",
+    "in_reply_to_user_id": "1909478747239333888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054055647122198916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beizili_ 删了挺好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2053820323699810718",
+        "created_at": "2026-05-12T05:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054067888638812232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1909478747239333888",
+              "start": 0,
+              "username": "beizili_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054067888638812232",
+        "in_reply_to_user_id": "1909478747239333888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054055647122198916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beizili_ 删了挺好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909478747239333888",
+        "conversation_id": "2053820323699810718",
+        "created_at": "2026-05-12T04:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054055647122198916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054055647122198916",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053820323699810718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我就这样，发过然后全都删掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 106,
+          "like_count": 14325,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 4950
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T05:29:57.000Z",
+        "description": "眼淚是愛的遺言/不聊h不乱搞/推止于推",
+        "id": "1909478747239333888",
+        "name": "逃离被子大作战！",
+        "pinned_tweet_id": "2034658266480046116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033734544881524737/yJolW7sv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 381
+        },
+        "username": "beizili_",
+        "verified": false
+      }
+    ]
+  }
+}

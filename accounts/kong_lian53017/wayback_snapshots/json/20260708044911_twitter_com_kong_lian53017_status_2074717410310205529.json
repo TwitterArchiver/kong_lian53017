@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2074717410310205529",
+    "created_at": "2026-07-08T04:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074717410310205529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051451517224329216",
+          "start": 3,
+          "username": "citousuario"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074717410310205529",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 441
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074599341864493220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @citousuario: não adianta amar com palavras e decepcionar com atitudes."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2074717410310205529",
+        "created_at": "2026-07-08T04:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074717410310205529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051451517224329216",
+              "start": 3,
+              "username": "citousuario"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074717410310205529",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 441
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074599341864493220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @citousuario: não adianta amar com palavras e decepcionar com atitudes."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051451517224329216",
+        "conversation_id": "2074599341864493220",
+        "created_at": "2026-07-07T21:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074599341864493220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074599341864493220",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 36966,
+          "like_count": 1209,
+          "quote_count": 15,
+          "reply_count": 5,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "não adianta amar com palavras e decepcionar com atitudes."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 118,
+          "like_count": 23844,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 4367
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T23:59:13.000Z",
+        "description": "Saber que os temporais são temporários é o que me faz desistir de desistir 🫀",
+        "id": "2051451517224329216",
+        "name": "usuário",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "citousuario",
+        "verified": false
+      }
+    ]
+  }
+}

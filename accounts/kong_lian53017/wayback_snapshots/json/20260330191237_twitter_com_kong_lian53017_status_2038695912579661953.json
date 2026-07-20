@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038695378984599712",
+    "created_at": "2026-03-30T19:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T20:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038695912579661953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015353191219789824",
+          "start": 0,
+          "username": "Maybe1739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038695912579661953",
+    "in_reply_to_user_id": "2015353191219789824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038695848327184588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maybe1739 我服了吧！我说那个画那么帅！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038695378984599712",
+        "created_at": "2026-03-30T19:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038695912579661953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015353191219789824",
+              "start": 0,
+              "username": "Maybe1739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038695912579661953",
+        "in_reply_to_user_id": "2015353191219789824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038695848327184588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maybe1739 我服了吧！我说那个画那么帅！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015353191219789824",
+        "conversation_id": "2038695378984599712",
+        "created_at": "2026-03-30T19:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038695848327184588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038695848327184588",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038695378984599712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 懂得兄弟懂得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 68,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 764
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T09:17:15.000Z",
+        "description": "",
+        "id": "2015353191219789824",
+        "name": "江枫渔火",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035630778621853696/dz8__pOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 80
+        },
+        "username": "Maybe1739",
+        "verified": false
+      }
+    ]
+  }
+}

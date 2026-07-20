@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039950134885388362",
+    "created_at": "2026-04-03T06:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039950134885388362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luckykt17/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/luckykt17/status/2039934944471130157",
+          "start": 12,
+          "url": "https://t.co/1QKfEAvamA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039950134885388362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039934944471130157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人兜底到底是什么感觉 https://t.co/1QKfEAvamA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039950134885388362",
+        "created_at": "2026-04-03T06:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039950134885388362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luckykt17/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/luckykt17/status/2039934944471130157",
+              "start": 12,
+              "url": "https://t.co/1QKfEAvamA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039950134885388362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039934944471130157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人兜底到底是什么感觉 https://t.co/1QKfEAvamA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761655410820579328",
+        "conversation_id": "2039934944471130157",
+        "created_at": "2026-04-03T05:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039934944471130157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039934944471130157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人兜底到底是什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 74,
+          "like_count": 2411,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1075
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T07:32:50.000Z",
+        "description": "用微小的事情去感受幸福 @xiaying1117仅过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "xiaying1117"
+              }
+            ]
+          }
+        },
+        "id": "1761655410820579328",
+        "location": "无🚪",
+        "name": "恋绘兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002632185489338373/yn0gPdxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 181,
+          "like_count": 3208,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1353
+        },
+        "username": "luckykt17",
+        "verified": false
+      }
+    ]
+  }
+}

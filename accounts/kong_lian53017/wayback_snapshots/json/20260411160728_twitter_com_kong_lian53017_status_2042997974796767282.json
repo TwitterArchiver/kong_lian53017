@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042989820138623288",
+    "created_at": "2026-04-11T16:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042997974796767282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007362014805729280",
+          "start": 0,
+          "username": "Ryleeyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042997974796767282",
+    "in_reply_to_user_id": "2007362014805729280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042989820138623288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryleeyin 美神！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13767,
+        "height": 1280,
+        "media_key": "13_2042989751133966337",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042989751133966337/img/A_0DI9s0skSD_GVN.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042989751133966337/vid/avc1/320x568/1mq3B7saLMD1R7BV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042989751133966337/vid/avc1/480x852/IbBy4LKT7sFYeoxn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042989751133966337/vid/avc1/720x1280/1tMMyHHKuBUtOGma.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042989751133966337/pl/L5Yr-AmCFfDg_Ku8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042989820138623288",
+        "created_at": "2026-04-11T16:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042997974796767282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007362014805729280",
+              "start": 0,
+              "username": "Ryleeyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042997974796767282",
+        "in_reply_to_user_id": "2007362014805729280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042989820138623288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryleeyin 美神！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042989751133966337"
+          ]
+        },
+        "author_id": "2007362014805729280",
+        "conversation_id": "2042989820138623288",
+        "created_at": "2026-04-11T15:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042989820138623288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeEtUcVCql",
+              "end": 31,
+              "expanded_url": "https://x.com/Ryleeyin/status/2042989820138623288/video/1",
+              "media_key": "13_2042989751133966337",
+              "start": 8,
+              "url": "https://t.co/WeEtUcVCql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042989820138623288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我长这吊样 https://t.co/WeEtUcVCql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 91,
+          "like_count": 4346,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1870
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T08:03:08.000Z",
+        "description": "🐈‍⬛black cat｜💋互fo请私｜🫰🏻年上小狗男我喜欢你🥺｜朴宝剑我喜欢你🫶🏻",
+        "id": "2007362014805729280",
+        "location": "citrus🤍🩵",
+        "name": "Rylee",
+        "pinned_tweet_id": "2036903245755633989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039337377106432000/-ViPAukJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 5,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 109
+        },
+        "username": "Ryleeyin",
+        "verified": false
+      }
+    ]
+  }
+}

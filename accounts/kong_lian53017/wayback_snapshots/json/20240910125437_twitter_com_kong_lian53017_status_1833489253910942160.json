@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1833489253910942160",
+    "created_at": "2024-09-10T12:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T13:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833489253910942160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770600121778233344",
+          "start": 3,
+          "username": "hasbeentaken99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833489253910942160",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831599771473395728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasbeentaken99: 我不理解人们把“没有结果”做为分手的理由\n因为我认为所有的感情都是没有结果的\n结婚了可以离婚 有了孩子也可以\n什么是结果\n是你俩牵着手一起咽气吗\n在感情里强调结果本身就没有意义\n重要的是你和他在一起开心吗 让你比自己一个人的时候更好吗 你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1833489253910942160",
+        "created_at": "2024-09-10T12:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T13:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833489253910942160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1770600121778233344",
+              "start": 3,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833489253910942160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831599771473395728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasbeentaken99: 我不理解人们把“没有结果”做为分手的理由\n因为我认为所有的感情都是没有结果的\n结婚了可以离婚 有了孩子也可以\n什么是结果\n是你俩牵着手一起咽气吗\n在感情里强调结果本身就没有意义\n重要的是你和他在一起开心吗 让你比自己一个人的时候更好吗 你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770600121778233344",
+        "conversation_id": "1831599771473395728",
+        "created_at": "2024-09-05T07:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T08:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831599771473395728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831599771473395728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 52374,
+          "like_count": 542,
+          "quote_count": 10,
+          "reply_count": 30,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "我不理解人们把“没有结果”做为分手的理由\n因为我认为所有的感情都是没有结果的\n结婚了可以离婚 有了孩子也可以\n什么是结果\n是你俩牵着手一起咽气吗\n在感情里强调结果本身就没有意义\n重要的是你和他在一起开心吗 让你比自己一个人的时候更好吗 你喜欢这样的自己吗\n如果答案都是肯定的\n就够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "幸福幸福何时能再降临我手心",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825209816740192256/sqBkvv7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 41,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T23:55:51.000Z",
+        "description": "自我意识过剩｜Brat & DDLG｜来这发点墙内不能发的｜认出勿扰｜没门槛",
+        "id": "1770600121778233344",
+        "name": "幻想试验箱",
+        "pinned_tweet_id": "1778699600121221334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771494672005005312/_25gyE1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22810,
+          "following_count": 91,
+          "like_count": 4099,
+          "listed_count": 99,
+          "tweet_count": 3319
+        },
+        "username": "hasbeentaken99",
+        "verified": false
+      }
+    ]
+  }
+}

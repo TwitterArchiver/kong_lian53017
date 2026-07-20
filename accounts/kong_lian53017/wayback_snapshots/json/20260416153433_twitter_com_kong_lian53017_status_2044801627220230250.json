@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2044801426925162988",
+    "created_at": "2026-04-16T15:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044801627220230250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2033511101703364608",
+          "start": 0,
+          "username": "Maxu4o4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044801627220230250",
+    "in_reply_to_user_id": "2033511101703364608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044801426925162988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxu4o4 完全是建模脸……美死了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2044801409867022336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCYDGdXgAAHh6T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2044801426925162988",
+        "created_at": "2026-04-16T15:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044801627220230250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2033511101703364608",
+              "start": 0,
+              "username": "Maxu4o4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044801627220230250",
+        "in_reply_to_user_id": "2033511101703364608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044801426925162988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxu4o4 完全是建模脸……美死了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044801409867022336"
+          ]
+        },
+        "author_id": "2033511101703364608",
+        "conversation_id": "2044801426925162988",
+        "created_at": "2026-04-16T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044801426925162988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJ36IYc9TR",
+              "end": 41,
+              "expanded_url": "https://x.com/Maxu4o4/status/2044801426925162988/photo/1",
+              "media_key": "3_2044801409867022336",
+              "start": 18,
+              "url": "https://t.co/SJ36IYc9TR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044801426925162988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假装短发！每次到夏天都很想剪短发😌 https://t.co/SJ36IYc9TR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 91,
+          "like_count": 6167,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2663
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:51:45.000Z",
+        "description": "“哲学是我的远星。”\nshe/her！！entp，喜正装/制服，声控。私聊易冷场请谨慎⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/max11352",
+                "end": 23,
+                "expanded_url": "https://ngl.link/max11352",
+                "start": 0,
+                "url": "https://t.co/yySXwVbM8V"
+              }
+            ]
+          }
+        },
+        "id": "2033511101703364608",
+        "name": "麦颗丝",
+        "pinned_tweet_id": "2036527145049002433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033511770527076352/kQEeGQUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 58,
+          "like_count": 4340,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/yySXwVbM8V",
+        "username": "Maxu4o4",
+        "verified": false
+      }
+    ]
+  }
+}

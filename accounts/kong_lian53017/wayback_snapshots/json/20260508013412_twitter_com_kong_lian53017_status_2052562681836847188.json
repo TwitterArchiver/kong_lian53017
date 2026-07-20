@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052562681836847188",
+    "created_at": "2026-05-08T01:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T02:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052562681836847188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XingFuuu__/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/XingFuuu__/status/2052356673965375700",
+          "start": 2,
+          "url": "https://t.co/ze000LMAFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052562681836847188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052356673965375700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/ze000LMAFz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052562681836847188",
+        "created_at": "2026-05-08T01:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052562681836847188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XingFuuu__/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/XingFuuu__/status/2052356673965375700",
+              "start": 2,
+              "url": "https://t.co/ze000LMAFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052562681836847188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052356673965375700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/ze000LMAFz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464458476839653379",
+        "conversation_id": "2052356673965375700",
+        "created_at": "2026-05-07T11:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052356673965375700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052356673965375700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 15383,
+          "like_count": 411,
+          "quote_count": 15,
+          "reply_count": 107,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "你一旦被人好好爱过，你这辈子就完了，就定型了，你太知道真的爱你的人会怎么对你了，所以对于数量不够的爱、质量不高的爱，你一眼就能看出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 103,
+          "like_count": 13432,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4674
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T04:58:14.000Z",
+        "description": "求入门",
+        "id": "1464458476839653379",
+        "name": "芋泥奶绿",
+        "pinned_tweet_id": "2052464432526295377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875579479491497984/4YoOpGHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24630,
+          "following_count": 93,
+          "like_count": 6957,
+          "listed_count": 54,
+          "media_count": 1206,
+          "tweet_count": 8016
+        },
+        "username": "XingFuuu__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2048331870115635432",
+    "created_at": "2026-04-26T10:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048342595194261570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013218070689447936",
+          "start": 0,
+          "username": "rita_burns52614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048342595194261570",
+    "in_reply_to_user_id": "2013218070689447936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048341550602887503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rita_burns52614 不是哦，但是类似吧。就是干锅虾😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2048331870115635432",
+        "created_at": "2026-04-26T10:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048342595194261570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013218070689447936",
+              "start": 0,
+              "username": "rita_burns52614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048342595194261570",
+        "in_reply_to_user_id": "2013218070689447936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048341550602887503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rita_burns52614 不是哦，但是类似吧。就是干锅虾😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013218070689447936",
+        "conversation_id": "2048331870115635432",
+        "created_at": "2026-04-26T10:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048341550602887503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048341550602887503",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048331870115635432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 王婆大虾吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 68,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 101,
+          "like_count": 10031,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 4234
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123，互fo快来骚扰我\n07男大学生傻卵二次，新手交易员，碎碎念区煮波，可以找我打游戏apex|英雄联盟|邦邦人|明日方舟……\n喜欢我请给我打钱\n自用梯子yy：https://t.co/HTQeTyPE7T\n欢迎提问！https://t.co/bgDcJAfMGm\n100fo抽红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register",
+                "end": 113,
+                "expanded_url": "https://www.yy.tz69.vip/#/register",
+                "start": 90,
+                "url": "https://t.co/HTQeTyPE7T"
+              },
+              {
+                "display_url": "miyu.link/LST",
+                "end": 142,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 119,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "location": "520m",
+        "name": "困困神",
+        "pinned_tweet_id": "2046117109516865727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 258,
+          "like_count": 1819,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 982
+        },
+        "username": "rita_burns52614",
+        "verified": true
+      }
+    ]
+  }
+}

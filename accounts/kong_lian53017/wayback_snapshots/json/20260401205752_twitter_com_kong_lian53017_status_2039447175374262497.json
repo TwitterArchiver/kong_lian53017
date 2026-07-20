@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039447175374262497",
+    "created_at": "2026-04-01T20:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039447175374262497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rzrbsym/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/rzrbsym/status/2039253953662341295",
+          "start": 4,
+          "url": "https://t.co/qVKr93evsO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039447175374262497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039253953662341295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好香😭 https://t.co/qVKr93evsO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1582,
+        "media_key": "3_2039253790453583872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzihJra0AAH-HR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039447175374262497",
+        "created_at": "2026-04-01T20:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039447175374262497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rzrbsym/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/rzrbsym/status/2039253953662341295",
+              "start": 4,
+              "url": "https://t.co/qVKr93evsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039447175374262497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039253953662341295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好香😭 https://t.co/qVKr93evsO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039253790453583872"
+          ]
+        },
+        "author_id": "1799074357328969728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039253953662341295",
+        "created_at": "2026-04-01T08:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039253953662341295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQWUznWuWX",
+              "end": 44,
+              "expanded_url": "https://x.com/rzrbsym/status/2039253953662341295/photo/1",
+              "media_key": "3_2039253790453583872",
+              "start": 21,
+              "url": "https://t.co/ZQWUznWuWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039253953662341295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 38943,
+          "like_count": 1386,
+          "quote_count": 13,
+          "reply_count": 96,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "菠萝黑椒牛肉嘎嘎香！一出锅就炫不停！ 😍 https://t.co/ZQWUznWuWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 72,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 930
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T13:42:22.000Z",
+        "description": "喜欢旅游，喜欢美食，有志走遍天下，乃何兜里无钱。",
+        "id": "1799074357328969728",
+        "name": "兰花草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799074655208419328/quO3M0wH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 2001,
+          "like_count": 2286,
+          "listed_count": 4,
+          "media_count": 746,
+          "tweet_count": 1111
+        },
+        "username": "rzrbsym",
+        "verified": false
+      }
+    ]
+  }
+}

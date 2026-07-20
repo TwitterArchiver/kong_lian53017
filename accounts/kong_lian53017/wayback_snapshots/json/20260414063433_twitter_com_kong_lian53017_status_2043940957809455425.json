@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043940957809455425",
+    "created_at": "2026-04-14T06:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043940957809455425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043940957809455425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是不上班就等于富二代或家庭条件很好好吗。我真的很讨厌这种刻板印象。就我的存款我在大城市活一两个月就可以去死了……只是我住在小县城物价低＋目前不用付房租＋不工作物欲就很低而已。毕竟人不能既要又要。但凡了解我多一点的没一个不心疼我的。看起来过得爽纯是因为我会哄自己懂得知足常乐。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043940957809455425",
+        "created_at": "2026-04-14T06:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043940957809455425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043940957809455425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是不上班就等于富二代或家庭条件很好好吗。我真的很讨厌这种刻板印象。就我的存款我在大城市活一两个月就可以去死了……只是我住在小县城物价低＋目前不用付房租＋不工作物欲就很低而已。毕竟人不能既要又要。但凡了解我多一点的没一个不心疼我的。看起来过得爽纯是因为我会哄自己懂得知足常乐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 91,
+          "like_count": 5253,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2282
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2055197721464869286",
+    "created_at": "2026-05-15T08:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055197721464869286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuololxhssc/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kuololxhssc/status/2055189950069657719",
+          "start": 3,
+          "url": "https://t.co/yMpW7kHGIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055197721464869286",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055189950069657719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👁️ https://t.co/yMpW7kHGIZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055197721464869286",
+        "created_at": "2026-05-15T08:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055197721464869286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuololxhssc/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kuololxhssc/status/2055189950069657719",
+              "start": 3,
+              "url": "https://t.co/yMpW7kHGIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055197721464869286",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055189950069657719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👁️ https://t.co/yMpW7kHGIZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862884625833660416",
+        "conversation_id": "2055189950069657719",
+        "created_at": "2026-05-15T07:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055189950069657719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055189950069657719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "骗你的其实我不仅视奸你 还看你的关注 把你朋友翻个遍 你作品的下面评论的每个账号我都看了 作品我都仔细研究过了  甚至猜测你们的关系   插句 能把你的关注列表打开让我看吗   你评论的账号有点不够看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 109,
+          "like_count": 15078,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5172
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T15:41:30.000Z",
+        "description": "在这里放只小猫ᓚᘏᗢ 路过可以摸摸它^v^",
+        "id": "1862884625833660416",
+        "location": "我喜欢你ᯇ⩊ᯇ",
+        "name": "香草薄荷",
+        "pinned_tweet_id": "2054497332717298133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045006452927188992/D1K_Nh7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 34,
+          "like_count": 345,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 159
+        },
+        "username": "kuololxhssc",
+        "verified": false
+      }
+    ]
+  }
+}

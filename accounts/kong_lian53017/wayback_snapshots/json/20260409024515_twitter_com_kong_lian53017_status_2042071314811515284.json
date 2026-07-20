@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042063632247517379",
+    "created_at": "2026-04-09T02:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042071314811515284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2005654385817534464",
+          "start": 0,
+          "username": "CarriPruit86096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042071314811515284",
+    "in_reply_to_user_id": "2005654385817534464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042068556620382297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarriPruit86096 没关系，能意识到就是改变的开始，慢慢来吧，就算一直在原地也没关系，说不定哪天你的沙漠会下起雨来呢，未来是难以预测的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042063632247517379",
+        "created_at": "2026-04-09T02:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042071314811515284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2005654385817534464",
+              "start": 0,
+              "username": "CarriPruit86096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042071314811515284",
+        "in_reply_to_user_id": "2005654385817534464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042068556620382297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarriPruit86096 没关系，能意识到就是改变的开始，慢慢来吧，就算一直在原地也没关系，说不定哪天你的沙漠会下起雨来呢，未来是难以预测的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005654385817534464",
+        "conversation_id": "2042063632247517379",
+        "created_at": "2026-04-09T02:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042068556620382297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042068556620382297",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042066696312389991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 哎哎，我应该也要有这种心理的，不然天天恶心自己也太难受了。我愿意把这比喻成沙漠里的唯一一口水了，就算她流走了，对我来说也是最后的希望，就算知道怎么也找不回来了，也一直待在原地，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 82,
+          "like_count": 3494,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1496
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T14:57:41.000Z",
+        "description": "春风一吹想起谁",
+        "id": "2005654385817534464",
+        "location": "呃呃有没有人想听我每天说垃圾话",
+        "name": "cc1101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005654983006683136/0YVvLdAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "username": "CarriPruit86096",
+        "verified": false
+      }
+    ]
+  }
+}

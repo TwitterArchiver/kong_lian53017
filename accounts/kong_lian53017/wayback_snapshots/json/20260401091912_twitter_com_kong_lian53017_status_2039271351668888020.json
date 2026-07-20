@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039271351668888020",
+    "created_at": "2026-04-01T09:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039271351668888020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaofuu07/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xiaofuu07/status/2039258193608708359",
+          "start": 2,
+          "url": "https://t.co/A3RdpTov8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039271351668888020",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039258193608708359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤 https://t.co/A3RdpTov8x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40077,
+        "height": 1920,
+        "media_key": "13_2039258026994192384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039258026994192384/img/hfipieuseLZxK7ST.jpg",
+        "public_metrics": {
+          "view_count": 343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039258026994192384/vid/avc1/720x1280/_9q8t51NDhJo1RHI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039258026994192384/pl/3ElkgVKZhQOxI_mQ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039258026994192384/vid/avc1/480x852/XqHIZH8yj1h3sE7B.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039258026994192384/vid/avc1/320x568/ZhBKRNCZHGRDkfp5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039258026994192384/vid/avc1/1080x1920/GUXemfLav9eSIk-0.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039271351668888020",
+        "created_at": "2026-04-01T09:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039271351668888020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaofuu07/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xiaofuu07/status/2039258193608708359",
+              "start": 2,
+              "url": "https://t.co/A3RdpTov8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039271351668888020",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039258193608708359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/A3RdpTov8x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039258026994192384"
+          ]
+        },
+        "author_id": "2005884573188796416",
+        "conversation_id": "2039258193608708359",
+        "created_at": "2026-04-01T08:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039258193608708359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "小符"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "声音"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "女性向"
+            },
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "xiaofuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RiPxXv4N2t",
+              "end": 56,
+              "expanded_url": "https://x.com/xiaofuu07/status/2039258193608708359/video/1",
+              "media_key": "13_2039258026994192384",
+              "start": 33,
+              "url": "https://t.co/RiPxXv4N2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039258193608708359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 749,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "饭也做了 爸爸也叫了\n#小符 #声音 #女性向 #xiaofuu https://t.co/RiPxXv4N2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 71,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 904
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T06:12:12.000Z",
+        "description": "個人勢Vtype\n可定制语音音频\n📬:xiaofuu07＠gmail.com\nTwitch-小符07\nIns-xiaofuu07",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/wpq4DJFjaC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/wpq4DJFjaC",
+                "start": 0,
+                "url": "https://t.co/nC1FswKN4z"
+              }
+            ]
+          }
+        },
+        "id": "2005884573188796416",
+        "name": "xiaofuu",
+        "pinned_tweet_id": "2005957114473169209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009995675153641474/rBcTqKRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8123,
+          "following_count": 40,
+          "like_count": 492,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/nC1FswKN4z",
+        "username": "xiaofuu07",
+        "verified": true
+      }
+    ]
+  }
+}

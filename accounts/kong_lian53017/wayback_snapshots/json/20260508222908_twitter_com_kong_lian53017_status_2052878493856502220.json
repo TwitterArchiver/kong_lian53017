@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2052878493856502220",
+    "created_at": "2026-05-08T22:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052878493856502220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiaYiChen16255…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/JiaYiChen162553/status/2052635782440230991",
+          "start": 6,
+          "url": "https://t.co/iDWAfeHMUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052878493856502220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052635782440230991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这太美味了 https://t.co/iDWAfeHMUd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2052878493856502220",
+        "created_at": "2026-05-08T22:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052878493856502220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiaYiChen16255…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/JiaYiChen162553/status/2052635782440230991",
+              "start": 6,
+              "url": "https://t.co/iDWAfeHMUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052878493856502220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052635782440230991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这太美味了 https://t.co/iDWAfeHMUd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712146519749799936",
+        "conversation_id": "2052635782440230991",
+        "created_at": "2026-05-08T06:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052635782440230991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052635782440230991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 91714,
+          "like_count": 1642,
+          "quote_count": 36,
+          "reply_count": 235,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉阻碍的时候最色的一句话就是我第一次见到你的时候就在意淫怎么跟你做了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 105,
+          "like_count": 13604,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4721
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T16:42:10.000Z",
+        "description": "水仙。",
+        "id": "1712146519749799936",
+        "name": "narc",
+        "pinned_tweet_id": "2051154977687777419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721025591003250688/4c983Pl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6397,
+          "following_count": 98,
+          "like_count": 589,
+          "listed_count": 27,
+          "media_count": 50,
+          "tweet_count": 153
+        },
+        "username": "JiaYiChen162553",
+        "verified": false
+      }
+    ]
+  }
+}

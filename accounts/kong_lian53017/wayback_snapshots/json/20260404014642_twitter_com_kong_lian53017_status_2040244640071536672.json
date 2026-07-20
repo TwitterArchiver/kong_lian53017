@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040139579534270875",
+    "created_at": "2026-04-04T01:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040244640071536672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877402179499339780",
+          "start": 0,
+          "username": "zh0998483853317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040244640071536672",
+    "in_reply_to_user_id": "1877402179499339780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040243313132048482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zh0998483853317 看了眼回复释怀了。已毕业😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040139579534270875",
+        "created_at": "2026-04-04T01:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040244640071536672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877402179499339780",
+              "start": 0,
+              "username": "zh0998483853317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040244640071536672",
+        "in_reply_to_user_id": "1877402179499339780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040243313132048482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zh0998483853317 看了眼回复释怀了。已毕业😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877402179499339780",
+        "conversation_id": "2040139579534270875",
+        "created_at": "2026-04-04T01:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040243313132048482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040243313132048482",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040139579534270875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 你这种傻B想法还想谈下一个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 75,
+          "like_count": 2537,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1126
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T17:09:35.000Z",
+        "description": "一朵鲜艳的花，一颗枝叶繁茂的树……任何良性的成长都需要用心血浇灌",
+        "id": "1877402179499339780",
+        "name": "解x=∞",
+        "pinned_tweet_id": "1881390663373385773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034745108705456128/rB22Qqim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1509
+        },
+        "username": "zh0998483853317",
+        "verified": false
+      }
+    ]
+  }
+}

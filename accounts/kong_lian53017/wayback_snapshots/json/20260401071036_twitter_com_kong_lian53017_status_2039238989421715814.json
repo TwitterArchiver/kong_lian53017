@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039238989421715814",
+    "created_at": "2026-04-01T07:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039238989421715814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784413526209261568",
+          "start": 3,
+          "username": "soyuyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039238989421715814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039165670924193911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soyuyy: 情人节你给情人转钱了吧，愚人节该给我们傻逼也转点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039238989421715814",
+        "created_at": "2026-04-01T07:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039238989421715814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784413526209261568",
+              "start": 3,
+              "username": "soyuyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039238989421715814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039165670924193911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soyuyy: 情人节你给情人转钱了吧，愚人节该给我们傻逼也转点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784413526209261568",
+        "conversation_id": "2039165670924193911",
+        "created_at": "2026-04-01T02:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039165670924193911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039165670924193911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "情人节你给情人转钱了吧，愚人节该给我们傻逼也转点了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 71,
+          "like_count": 1976,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 893
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T02:45:30.000Z",
+        "description": "我会 积累更多幸福的画面",
+        "id": "1784413526209261568",
+        "location": "天堂",
+        "name": "天真",
+        "pinned_tweet_id": "2032462475908821351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006038110988296194/H0jqjEix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 20,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 201
+        },
+        "username": "soyuyy",
+        "verified": false
+      }
+    ]
+  }
+}

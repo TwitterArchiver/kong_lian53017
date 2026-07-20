@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045877994594705859",
+    "created_at": "2026-04-19T15:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045888315279409464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903347848068075522",
+          "start": 0,
+          "username": "Mianm9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045888315279409464",
+    "in_reply_to_user_id": "1903347848068075522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045877994594705859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mianm9i 如果我有个妹妹我也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045877994594705859",
+        "created_at": "2026-04-19T15:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045888315279409464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903347848068075522",
+              "start": 0,
+              "username": "Mianm9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045888315279409464",
+        "in_reply_to_user_id": "1903347848068075522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045877994594705859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mianm9i 如果我有个妹妹我也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903347848068075522",
+        "conversation_id": "2045877994594705859",
+        "created_at": "2026-04-19T14:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045877994594705859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045877994594705859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实说到我妹妹，她还是我表妹，从小到大一起长大的，第一眼见到我就超级喜欢…我两差了六七岁。基本上认识我的朋友，附带认识我妹妹…我自己也没意识到。直到有一天，一个朋友说我太妹控了啥事都要把她挂嘴边。我才反应过来，对我来说有啥好东西我第一个想到的就是给妹妹整一个。因为我觉得她会喜欢🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 95,
+          "like_count": 7445,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 3170
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T07:28:39.000Z",
+        "description": "一只邪恶且脆弱的恶俗流浪咪(៸៸᳐⦁⩊⦁៸៸᳐ )੭｜ 备忘录偶尔发点碎碎念/擦边/幻想｜喜欢年上…声控手控颜控｜负面情绪使我面目全非(υ . . υ)｜自愿被我⭕入🚪：52/88/131.4",
+        "id": "1903347848068075522",
+        "name": "流浪咪",
+        "pinned_tweet_id": "2044511178563682579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010344452758630401/amaAI_Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 10,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 237
+        },
+        "username": "Mianm9i",
+        "verified": false
+      }
+    ]
+  }
+}

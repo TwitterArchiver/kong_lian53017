@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2061853002504495185",
+    "created_at": "2026-06-02T16:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061853002504495185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eek1k1/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/eek1k1/status/2061468027699511564",
+          "start": 6,
+          "url": "https://t.co/9Lq8R86HKM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061853002504495185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061468027699511564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是笨啊 https://t.co/9Lq8R86HKM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2061853002504495185",
+        "created_at": "2026-06-02T16:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061853002504495185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eek1k1/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/eek1k1/status/2061468027699511564",
+              "start": 6,
+              "url": "https://t.co/9Lq8R86HKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061853002504495185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061468027699511564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是笨啊 https://t.co/9Lq8R86HKM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883043976670011392",
+        "conversation_id": "2061468027699511564",
+        "created_at": "2026-06-01T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061468027699511564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061468027699511564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2308,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我就是特别缺爱呀 从小到大没有谁坚定地选择过我 也没有谁让我觉得自己很特别过 所以一旦有人表现得非我不可 对我要死要活的时候 我就容易上钩 没办法呀 谁让我这么缺爱 这么吃这套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 115,
+          "like_count": 19330,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4947
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T06:47:42.000Z",
+        "description": "本人不对该账号0:00-24:00发表的任何言论负责 | 我是菠萝心 请不要伤害我૮₍◞‸◟₎ა",
+        "id": "1883043976670011392",
+        "name": "宝子你继续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054485531766202368/XaGp5Dkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 183,
+          "like_count": 2763,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 4445
+        },
+        "username": "eek1k1",
+        "verified": false
+      }
+    ]
+  }
+}

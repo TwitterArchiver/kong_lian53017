@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2074721185506701510",
+    "created_at": "2026-07-08T05:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074721185506701510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034548472234536960",
+          "start": 3,
+          "username": "paxe1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074721185506701510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074254556016566433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paxe1e: 何か嫌なことがあったり不安なことがあったらすぐに「自殺」が思いつく。だって死ねば全部解決なんだもん仕方ないじゃん"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2074721185506701510",
+        "created_at": "2026-07-08T05:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074721185506701510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034548472234536960",
+              "start": 3,
+              "username": "paxe1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074721185506701510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074254556016566433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paxe1e: 何か嫌なことがあったり不安なことがあったらすぐに「自殺」が思いつく。だって死ねば全部解決なんだもん仕方ないじゃん"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034548472234536960",
+        "conversation_id": "2074254556016566433",
+        "created_at": "2026-07-06T22:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074254556016566433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074254556016566433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10738,
+          "like_count": 683,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "何か嫌なことがあったり不安なことがあったらすぐに「自殺」が思いつく。だって死ねば全部解決なんだもん仕方ないじゃん"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 118,
+          "like_count": 23868,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 4374
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T08:34:49.000Z",
+        "description": "死ぬべき人間です。不快になるような発言することがあります。\nエロ垢❌",
+        "id": "2034548472234536960",
+        "location": "ベッドの上",
+        "name": "現実拒否ちゃん",
+        "pinned_tweet_id": "2069993370379022795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060163706470924288/U2u7yQ1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 229,
+          "like_count": 13997,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "paxe1e",
+        "verified": false
+      }
+    ]
+  }
+}

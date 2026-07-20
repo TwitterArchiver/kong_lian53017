@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037677576928501919",
+    "created_at": "2026-03-27T23:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T00:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037680001060139235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037680001060139235",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037677576928501919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对另一半的要求有很大一部分就是受这段早恋的影响（应该算早恋吧）我就是喜欢能照顾我包容我的，不管是情绪还是日常生活。在爹系男友这词出来前我的择偶标准就已是如此了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037677576928501919",
+        "created_at": "2026-03-27T23:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037680001060139235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037680001060139235",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037677576928501919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对另一半的要求有很大一部分就是受这段早恋的影响（应该算早恋吧）我就是喜欢能照顾我包容我的，不管是情绪还是日常生活。在爹系男友这词出来前我的择偶标准就已是如此了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037677576928501919",
+        "created_at": "2026-03-27T23:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037677576928501919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037677576928501919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起吃早餐。我没有吃早餐的习惯，我初恋就天天给我带早餐。冬天鸡蛋牛奶面包这类他还会专门加热放保温袋带到学校给我。我吃饭不规律，懒得吃或不知道吃什么他就跑学校外给我买，下雨就算没带伞也会淋着去给我买，哪怕我只是突然提了嘴想吃这个。初恋是初中谈的，越长大越觉得很难谈到纯粹的恋爱了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 60,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 480
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

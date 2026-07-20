@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046654023147868566",
+    "created_at": "2026-04-21T18:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046661491781460075"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046661491781460075",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046654023147868566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我从不否认你对我的好，我也很感谢你教我怎么在生活中爱自己对自己好，可我确实也因为这段关系精神状态变差了。你没有多喜欢我你只是喜欢沉浸在自己付出的幻想中，你看似自卑实则高高在上。你说得对，你一点都不纯粹，你就是对不起我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046654023147868566",
+        "created_at": "2026-04-21T18:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046661491781460075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046661491781460075",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046654023147868566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从不否认你对我的好，我也很感谢你教我怎么在生活中爱自己对自己好，可我确实也因为这段关系精神状态变差了。你没有多喜欢我你只是喜欢沉浸在自己付出的幻想中，你看似自卑实则高高在上。你说得对，你一点都不纯粹，你就是对不起我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046654023147868566",
+        "created_at": "2026-04-21T18:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046654023147868566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046654023147868566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我复盘总有些地方想不通。想来想去只有两个可能：你一直在骗我或你本身就是混乱的。我偏向后者。你时不时给我一种很奇怪的感觉，我察觉到了但是我忽略了。后来你自己也说了其实你不够喜欢我。你得不到幸福。这不是诅咒。你这样的人得不到幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 100,
+          "like_count": 8359,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3534
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

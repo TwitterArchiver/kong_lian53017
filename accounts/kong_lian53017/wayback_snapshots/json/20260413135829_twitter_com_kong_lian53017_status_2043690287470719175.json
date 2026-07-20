@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043687169907384811",
+    "created_at": "2026-04-13T13:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043690287470719175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038300113920249857",
+          "start": 0,
+          "username": "bibibibib1470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043690287470719175",
+    "in_reply_to_user_id": "2038300113920249857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043690022466204032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibibib1470 可以可以，搜索特摄only或者特摄展就可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043687169907384811",
+        "created_at": "2026-04-13T13:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043690287470719175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038300113920249857",
+              "start": 0,
+              "username": "bibibibib1470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043690287470719175",
+        "in_reply_to_user_id": "2038300113920249857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043690022466204032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibibib1470 可以可以，搜索特摄only或者特摄展就可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038300113920249857",
+        "conversation_id": "2043687169907384811",
+        "created_at": "2026-04-13T13:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043690022466204032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043690022466204032",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043689536300200250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 哦，那我看看我在我这边能不能能有这种活动，我去瞅两眼😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 90,
+          "like_count": 5067,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2221
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T17:00:59.000Z",
+        "description": "想和别人聊天，任何人都可以（不聊H）\n别一进来就骂我😮‍💨\n一般都在😎",
+        "id": "2038300113920249857",
+        "name": "Hai",
+        "pinned_tweet_id": "2043533593990009076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038440194194735104/BR4Z6k2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 495
+        },
+        "username": "bibibibib1470",
+        "verified": false
+      }
+    ]
+  }
+}

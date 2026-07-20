@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042900005401583921",
+    "created_at": "2026-04-11T09:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042900005401583921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802754536710262784",
+          "start": 3,
+          "username": "Dan0115qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042900005401583921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042456055867924847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dan0115qwq: 兄弟你听我的 把煤气打开 把窗户关上 好好的睡一觉 别想那么多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042900005401583921",
+        "created_at": "2026-04-11T09:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042900005401583921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802754536710262784",
+              "start": 3,
+              "username": "Dan0115qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042900005401583921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042456055867924847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dan0115qwq: 兄弟你听我的 把煤气打开 把窗户关上 好好的睡一觉 别想那么多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802754536710262784",
+        "conversation_id": "2042456055867924847",
+        "created_at": "2026-04-10T04:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042456055867924847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042456055867924847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2982,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟你听我的 把煤气打开 把窗户关上 好好的睡一觉 别想那么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 91,
+          "like_count": 4290,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1842
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T17:25:59.000Z",
+        "description": "不会去眨眼睛",
+        "id": "1802754536710262784",
+        "name": "Dan",
+        "pinned_tweet_id": "1888663296250961954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903651201214029824/uOGkCZTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 145,
+          "like_count": 482,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 1926
+        },
+        "username": "Dan0115qwq",
+        "verified": false
+      }
+    ]
+  }
+}

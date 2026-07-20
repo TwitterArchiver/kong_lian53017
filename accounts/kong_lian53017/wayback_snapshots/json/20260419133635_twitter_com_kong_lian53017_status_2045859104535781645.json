@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045858033801281897",
+    "created_at": "2026-04-19T13:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045859104535781645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740012227124744192",
+          "start": 0,
+          "username": "dejvvinthenight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045859104535781645",
+    "in_reply_to_user_id": "1740012227124744192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045858033801281897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dejvvinthenight 我也这样！去不熟悉的地方首选永远不会出错的口味。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045858033801281897",
+        "created_at": "2026-04-19T13:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045859104535781645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740012227124744192",
+              "start": 0,
+              "username": "dejvvinthenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045859104535781645",
+        "in_reply_to_user_id": "1740012227124744192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045858033801281897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dejvvinthenight 我也这样！去不熟悉的地方首选永远不会出错的口味。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740012227124744192",
+        "conversation_id": "2045858033801281897",
+        "created_at": "2026-04-19T13:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045858033801281897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045858033801281897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直是个留在自己舒适区的胆怯的人，就像走进一家新的餐厅，点菜的第一选择永远是那些我曾经吃过的、认为再怎么烹饪也不会难吃到哪里去的东西，哪怕品牌不同。例如日式拉面馆我第一次光顾永远只会点豚骨汤拉面，哪怕我早就吃腻了。所以我也因此错过很多。但那些奖赏确实只该留给足够勇敢的人们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 95,
+          "like_count": 7374,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3150
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:10:29.000Z",
+        "description": "born to live fast and die young｜intp-t｜174 70kg｜这里只是盛满我烟蒂与泪水的日记",
+        "id": "1740012227124744192",
+        "location": "Mars",
+        "name": "wetislandme",
+        "pinned_tweet_id": "1858054622427881818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045833745987674112/TKlduMfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 72,
+          "like_count": 1245,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1048
+        },
+        "username": "dejvvinthenight",
+        "verified": false
+      }
+    ]
+  }
+}

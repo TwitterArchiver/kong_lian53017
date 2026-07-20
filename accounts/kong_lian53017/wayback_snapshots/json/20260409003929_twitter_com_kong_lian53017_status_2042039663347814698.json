@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042039663347814698",
+    "created_at": "2026-04-09T00:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042039663347814698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whereisyourc/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/whereisyourc/status/2041542802882830562",
+          "start": 2,
+          "url": "https://t.co/GbJznK2uka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042039663347814698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041542802882830562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爽 https://t.co/GbJznK2uka"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042039663347814698",
+        "created_at": "2026-04-09T00:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042039663347814698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whereisyourc/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/whereisyourc/status/2041542802882830562",
+              "start": 2,
+              "url": "https://t.co/GbJznK2uka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042039663347814698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041542802882830562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爽 https://t.co/GbJznK2uka"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767691817456476160",
+        "conversation_id": "2041542802882830562",
+        "created_at": "2026-04-07T15:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:38:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041541222326489473",
+          "2041542802882830562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "bdsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041542802882830562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 54682,
+          "like_count": 1240,
+          "quote_count": 30,
+          "reply_count": 16,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢被掐脖子的人，往往在潜意识中对伴侣有极高的安全感依附。正因为她极度信任对方不会真的掐死她，她才能享受那種交出生命主导权的快感。这是一种脆弱性的极致展露。\n只有安全感才是探索危险的前提\n#bdsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 78,
+          "like_count": 3453,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1472
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T23:19:18.000Z",
+        "description": "很难介绍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/where98094",
+                "end": 23,
+                "expanded_url": "https://ngl.link/where98094",
+                "start": 0,
+                "url": "https://t.co/cogZdpPI9s"
+              }
+            ]
+          }
+        },
+        "id": "1767691817456476160",
+        "location": "匿名箱➡️",
+        "name": "星期七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008533709834661889/CJy3RQCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 491,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/cogZdpPI9s",
+        "username": "whereisyourc",
+        "verified": true
+      }
+    ]
+  }
+}

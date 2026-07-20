@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058043795170869488",
+    "created_at": "2026-05-23T10:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058140820453404751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2019305666465394689",
+          "start": 0,
+          "username": "Xuan1136985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058140820453404751",
+    "in_reply_to_user_id": "2019305666465394689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058135542676746269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuan1136985 没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058043795170869488",
+        "created_at": "2026-05-23T10:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058140820453404751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019305666465394689",
+              "start": 0,
+              "username": "Xuan1136985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058140820453404751",
+        "in_reply_to_user_id": "2019305666465394689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058135542676746269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuan1136985 没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019305666465394689",
+        "conversation_id": "2058043795170869488",
+        "created_at": "2026-05-23T10:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058135542676746269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058135542676746269",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058043795170869488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我的也经常。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 113,
+          "like_count": 16889,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 5721
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T07:03:00.000Z",
+        "description": "对我请保持礼貌🐰不聊骚🥰🤝 私信随缘回\n我是照片本人 纯绿推\n推文也随缘发吧 就先这样\n匿名提问来了👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xu%E2%80%86an1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xu%E2%80%86an1",
+                "start": 0,
+                "url": "https://t.co/VRASSOMtYq"
+              }
+            ]
+          }
+        },
+        "id": "2019305666465394689",
+        "location": "世界各地",
+        "name": "YuY",
+        "pinned_tweet_id": "2056063299297382425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055420597040013312/9lMZFeVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 23,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/VRASSOMtYq",
+        "username": "Xuan1136985",
+        "verified": false
+      }
+    ]
+  }
+}

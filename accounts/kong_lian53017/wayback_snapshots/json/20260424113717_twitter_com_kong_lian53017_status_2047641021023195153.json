@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047637345244196966",
+    "created_at": "2026-04-24T11:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047641021023195153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613926971658108930",
+          "start": 0,
+          "username": "xx95944623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047641021023195153",
+    "in_reply_to_user_id": "1613926971658108930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047637345244196966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx95944623 女神羊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2800,
+        "height": 1280,
+        "media_key": "13_2047637313451331584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047637313451331584/img/Nhme_XG9C7OuFnEU.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047637313451331584/vid/avc1/320x568/iNUF01cX4HLAeyHQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047637313451331584/vid/avc1/480x852/_GGrTGJGv-6YHKv0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047637313451331584/vid/avc1/720x1280/UiHMeQ0QcRDsag3n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047637313451331584/pl/wCIkVUQtKZxMQoow.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047637345244196966",
+        "created_at": "2026-04-24T11:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047641021023195153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613926971658108930",
+              "start": 0,
+              "username": "xx95944623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047641021023195153",
+        "in_reply_to_user_id": "1613926971658108930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047637345244196966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx95944623 女神羊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047637313451331584"
+          ]
+        },
+        "author_id": "1613926971658108930",
+        "conversation_id": "2047637345244196966",
+        "created_at": "2026-04-24T11:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047637345244196966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0f1iKcTkX",
+              "end": 31,
+              "expanded_url": "https://x.com/xx95944623/status/2047637345244196966/video/1",
+              "media_key": "13_2047637313451331584",
+              "start": 8,
+              "url": "https://t.co/U0f1iKcTkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047637345244196966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有种人妻感的羊 https://t.co/U0f1iKcTkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 103,
+          "like_count": 9414,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3954
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T15:52:45.000Z",
+        "description": "INFP/碎碎念日记📓\n人就像一个洋葱，切下来每一片都让人落泪",
+        "id": "1613926971658108930",
+        "location": "眠眠羊的小世界",
+        "name": "眠眠羊",
+        "pinned_tweet_id": "2041525145781805326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037088683237793792/qU3yJ-pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 30,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 631
+        },
+        "username": "xx95944623",
+        "verified": false
+      }
+    ]
+  }
+}

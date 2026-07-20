@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060471278063239397",
+    "created_at": "2026-05-29T21:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060471278063239397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/losloove/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/losloove/status/2060013356720025605",
+          "start": 3,
+          "url": "https://t.co/YYg7c0Ady8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060471278063239397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060013356720025605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美味 https://t.co/YYg7c0Ady8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1678,
+        "media_key": "3_2060013332992864257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJajNkGbsAE5ju4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1441,
+        "media_key": "3_2060013332975980544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJajNkCaEAAvRLK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060471278063239397",
+        "created_at": "2026-05-29T21:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060471278063239397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/losloove/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/losloove/status/2060013356720025605",
+              "start": 3,
+              "url": "https://t.co/YYg7c0Ady8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060471278063239397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060013356720025605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美味 https://t.co/YYg7c0Ady8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060013332992864257",
+            "3_2060013332975980544"
+          ]
+        },
+        "author_id": "1750167138227077120",
+        "conversation_id": "2060013356720025605",
+        "created_at": "2026-05-28T15:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060013356720025605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwrf3KJYUI",
+              "end": 25,
+              "expanded_url": "https://x.com/losloove/status/2060013356720025605/photo/1",
+              "media_key": "3_2060013332992864257",
+              "start": 2,
+              "url": "https://t.co/qwrf3KJYUI"
+            },
+            {
+              "display_url": "pic.x.com/qwrf3KJYUI",
+              "end": 25,
+              "expanded_url": "https://x.com/losloove/status/2060013356720025605/photo/1",
+              "media_key": "3_2060013332975980544",
+              "start": 2,
+              "url": "https://t.co/qwrf3KJYUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060013356720025605",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1103,
+          "impression_count": 166045,
+          "like_count": 7792,
+          "quote_count": 152,
+          "reply_count": 26,
+          "retweet_count": 594
+        },
+        "reply_settings": "everyone",
+        "text": "🫣 https://t.co/qwrf3KJYUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 112,
+          "like_count": 18410,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 5991
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T14:42:26.000Z",
+        "description": "",
+        "id": "1750167138227077120",
+        "name": "🫧",
+        "pinned_tweet_id": "2033928111017103713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055262802139553792/fz5YkebX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 38,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "losloove",
+        "verified": false
+      }
+    ]
+  }
+}

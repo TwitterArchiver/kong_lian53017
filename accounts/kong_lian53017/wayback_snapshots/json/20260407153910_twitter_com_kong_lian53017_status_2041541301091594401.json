@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2041313464996827169",
+    "created_at": "2026-04-07T15:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041541301091594401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1875906425517662208",
+          "start": 0,
+          "username": "Asuka080s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041541301091594401",
+    "in_reply_to_user_id": "1875906425517662208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041539096527696186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka080s 是的😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2041313464996827169",
+        "created_at": "2026-04-07T15:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041541301091594401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1875906425517662208",
+              "start": 0,
+              "username": "Asuka080s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041541301091594401",
+        "in_reply_to_user_id": "1875906425517662208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041539096527696186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka080s 是的😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875906425517662208",
+        "conversation_id": "2041313464996827169",
+        "created_at": "2026-04-07T15:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041539096527696186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041539096527696186",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041313464996827169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我也是这样，越是让自己痛苦的事，我反而要拿出来一直回想，并且加入延伸，让事情变得更糟糕，为更坏的情况做准备，直到自己对这个事无感，可以像一个旁人一样去看待评价自己过去的痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 78,
+          "like_count": 3281,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1397
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "请关注我，请关注我，谢谢",
+        "id": "1875906425517662208",
+        "location": "日本 東京",
+        "name": "我的猫很爱我.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038769189889146880/oCvkoCvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 317
+        },
+        "username": "Asuka080s",
+        "verified": false
+      }
+    ]
+  }
+}

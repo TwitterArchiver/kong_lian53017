@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060470839276175374",
+    "created_at": "2026-05-29T21:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060470839276175374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882937199735590912",
+          "start": 3,
+          "username": "mmng_yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060470839276175374",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060307175193579836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmng_yu: 好きな人に溺愛されたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060470839276175374",
+        "created_at": "2026-05-29T21:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060470839276175374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882937199735590912",
+              "start": 3,
+              "username": "mmng_yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060470839276175374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060307175193579836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmng_yu: 好きな人に溺愛されたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882937199735590912",
+        "conversation_id": "2060307175193579836",
+        "created_at": "2026-05-29T10:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060307175193579836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060307175193579836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 41344,
+          "like_count": 1985,
+          "quote_count": 19,
+          "reply_count": 15,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人に溺愛されたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 112,
+          "like_count": 18408,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 5990
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:43:13.000Z",
+        "description": "幸せになりたい人の味方🤍",
+        "id": "1882937199735590912",
+        "location": "報われたいね‎🤍🪄︎︎",
+        "name": "もも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891779799380893696/wS2YIh5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21989,
+          "following_count": 1,
+          "like_count": 1347,
+          "listed_count": 35,
+          "media_count": 2,
+          "tweet_count": 1317
+        },
+        "username": "mmng_yu",
+        "verified": false
+      }
+    ]
+  }
+}

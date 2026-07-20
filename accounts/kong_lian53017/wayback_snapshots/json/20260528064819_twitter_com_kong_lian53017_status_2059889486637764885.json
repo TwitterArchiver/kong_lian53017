@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2059889486637764885",
+    "created_at": "2026-05-28T06:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059889486637764885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fangfang044758…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/fangfang0447581/status/2056058911778857169",
+          "start": 4,
+          "url": "https://t.co/UwKjJtePJl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059889486637764885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056058911778857169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好笑 https://t.co/UwKjJtePJl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2059889486637764885",
+        "created_at": "2026-05-28T06:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059889486637764885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fangfang044758…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/fangfang0447581/status/2056058911778857169",
+              "start": 4,
+              "url": "https://t.co/UwKjJtePJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059889486637764885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056058911778857169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好笑 https://t.co/UwKjJtePJl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967700907052912640",
+        "conversation_id": "2055944721718210993",
+        "created_at": "2026-05-17T17:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056058911778857169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055256414688567296",
+              "start": 0,
+              "username": "povoi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056058911778857169",
+        "in_reply_to_user_id": "2055256414688567296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 26135,
+          "like_count": 392,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055944721718210993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@povoi7 我哥哥都不让我叫他哥哥了，说有女朋友了要避嫌，我现在都叫他兄长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 111,
+          "like_count": 18007,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 5935
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T21:24:52.000Z",
+        "description": "非正常人勿扰",
+        "id": "1967700907052912640",
+        "location": "圣心医院",
+        "name": "牂牂宝贝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968151086788997120/6kD-poH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 150,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 164
+        },
+        "username": "fangfang0447581",
+        "verified": false
+      }
+    ]
+  }
+}

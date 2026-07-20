@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2074722113043538091",
+    "created_at": "2026-07-08T05:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074722113043538091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822166549504950272",
+          "start": 3,
+          "username": "JiaoPiman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074722113043538091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074428724167245902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiaoPiman: 永远过不上想要的生活那活着还有啥意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2074722113043538091",
+        "created_at": "2026-07-08T05:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074722113043538091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822166549504950272",
+              "start": 3,
+              "username": "JiaoPiman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074722113043538091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074428724167245902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiaoPiman: 永远过不上想要的生活那活着还有啥意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822166549504950272",
+        "conversation_id": "2074428724167245902",
+        "created_at": "2026-07-07T09:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074428724167245902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074428724167245902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1438,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永远过不上想要的生活那活着还有啥意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 118,
+          "like_count": 23873,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 4373
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:02:23.000Z",
+        "description": "精神不稳定经常发疯 自伤od🈶 只回有礼貌的私信 暂不过门",
+        "id": "1822166549504950272",
+        "name": "ネズミ",
+        "pinned_tweet_id": "2009950637354877270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054183133638176768/ugbQlLWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4028,
+          "following_count": 6,
+          "like_count": 577,
+          "listed_count": 15,
+          "media_count": 90,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "JiaoPiman",
+        "verified": false
+      }
+    ]
+  }
+}

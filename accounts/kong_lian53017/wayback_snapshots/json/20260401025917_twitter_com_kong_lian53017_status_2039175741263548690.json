@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038895602235539938",
+    "created_at": "2026-04-01T02:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039175741263548690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953951648235368448",
+          "start": 0,
+          "username": "Susu123123456"
+        },
+        {
+          "end": 31,
+          "id": "1705662085793976320",
+          "start": 15,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039175741263548690",
+    "in_reply_to_user_id": "1953951648235368448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039174671443362285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Susu123123456 @Stupidest_Lover 😽😽😽就这样和女孩子贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038895602235539938",
+        "created_at": "2026-04-01T02:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039175741263548690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953951648235368448",
+              "start": 0,
+              "username": "Susu123123456"
+            },
+            {
+              "end": 31,
+              "id": "1705662085793976320",
+              "start": 15,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039175741263548690",
+        "in_reply_to_user_id": "1953951648235368448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039174671443362285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Susu123123456 @Stupidest_Lover 😽😽😽就这样和女孩子贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953951648235368448",
+        "conversation_id": "2038895602235539938",
+        "created_at": "2026-04-01T02:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039174671443362285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            },
+            {
+              "end": 32,
+              "id": "1705662085793976320",
+              "start": 16,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039174671443362285",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039174466702598382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 @Stupidest_Lover 心软软🥹🥹宝宝你真好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 70,
+          "like_count": 1897,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 851
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T22:49:28.000Z",
+        "description": "20➕\n171 55\n喜欢动漫 游戏和推理小说",
+        "id": "1953951648235368448",
+        "name": "苏苏",
+        "pinned_tweet_id": "2033735600566870399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035137487413374976/lx6PRkYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 41,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "username": "Susu123123456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页很话唠 没有陪聊的义务 忧郁 抽象 发骚ing\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 49,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 26,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "  无🚪神秘数字⭕ 推止于推",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 90,
+          "like_count": 8838,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 419
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

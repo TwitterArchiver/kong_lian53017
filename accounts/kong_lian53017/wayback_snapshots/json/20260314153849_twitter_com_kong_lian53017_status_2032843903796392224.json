@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032839464343769322",
+    "created_at": "2026-03-14T15:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032843903796392224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013218070689447936",
+          "start": 0,
+          "username": "rita_burns52614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032843903796392224",
+    "in_reply_to_user_id": "2013218070689447936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032839464343769322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rita_burns52614 蹲之"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2032839464343769322",
+        "created_at": "2026-03-14T15:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032843903796392224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013218070689447936",
+              "start": 0,
+              "username": "rita_burns52614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032843903796392224",
+        "in_reply_to_user_id": "2013218070689447936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032839464343769322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rita_burns52614 蹲之"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013218070689447936",
+        "conversation_id": "2032839464343769322",
+        "created_at": "2026-03-14T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032839464343769322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032839464343769322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想买个戒指有什么好的牌子推荐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 |00年INFJ|跟我互关聊天扩列的话我会很高兴",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 25,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 92
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123\n07男大学生傻卵二次，碎碎念区煮波，可以找我打游戏，apex|英雄联盟|王者|瓦|邦邦人|明日方舟……\n欢迎提问！https://t.co/bgDcJAfMGm\n100fo抽红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST",
+                "end": 93,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 70,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "name": "困困神（真身）",
+        "pinned_tweet_id": "2032087293234962881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 100,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 189
+        },
+        "username": "rita_burns52614",
+        "verified": false
+      }
+    ]
+  }
+}

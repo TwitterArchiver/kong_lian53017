@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037008045772042739",
+    "created_at": "2026-03-26T11:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037132079818039588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1654489581499170820",
+          "start": 0,
+          "username": "krbjscam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037132079818039588",
+    "in_reply_to_user_id": "1654489581499170820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037008045772042739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krbjscam oh不😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037008045772042739",
+        "created_at": "2026-03-26T11:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037132079818039588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1654489581499170820",
+              "start": 0,
+              "username": "krbjscam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037132079818039588",
+        "in_reply_to_user_id": "1654489581499170820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037008045772042739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krbjscam oh不😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654489581499170820",
+        "conversation_id": "2037008045772042739",
+        "created_at": "2026-03-26T03:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037008045772042739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037008045772042739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想再给大家的推文点赞评论了，我说出我的想法得不到夸夸没关系但是要是会被骂我就很想隐藏自己，我是男的咋了男的不能有自己的想法吗，给女推评论就是有性的想法吗，人都是立体的，心情都是实时的，你在我的立场不见得比我处理的好，大家都是第一次做人凭什么要让着你，相互尊重平等交流我做的很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 51,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 332
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T14:13:59.000Z",
+        "description": "爱爸爸还是爱妈妈？",
+        "id": "1654489581499170820",
+        "location": "San Jose, CA",
+        "name": "吃饭吃饱了（养胃版）",
+        "pinned_tweet_id": "1996240982007017526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987015633310261248/5Fdghmtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 106,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 569
+        },
+        "username": "krbjscam",
+        "verified": false
+      }
+    ]
+  }
+}

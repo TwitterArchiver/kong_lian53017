@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032918734801875447",
+    "created_at": "2026-03-15T06:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033075609644224960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662347659842076673",
+          "start": 0,
+          "username": "isschessfour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033075609644224960",
+    "in_reply_to_user_id": "1662347659842076673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032999265073787026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isschessfour 那很辛苦了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2032918734801875447",
+        "created_at": "2026-03-15T06:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033075609644224960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662347659842076673",
+              "start": 0,
+              "username": "isschessfour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033075609644224960",
+        "in_reply_to_user_id": "1662347659842076673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032999265073787026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isschessfour 那很辛苦了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662347659842076673",
+        "conversation_id": "2032918734801875447",
+        "created_at": "2026-03-15T01:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032999265073787026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032999265073787026",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032918734801875447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我倒是没想早睡，但这几天都累到不到十二点上床就着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 |00年INFJ|跟我互关聊天扩列的话我会很高兴",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 30,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T06:39:40.000Z",
+        "description": "不管怎么说歇会儿吧",
+        "id": "1662347659842076673",
+        "name": "乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013309846729232384/WuS82y5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 31,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 123
+        },
+        "username": "isschessfour",
+        "verified": false
+      }
+    ]
+  }
+}

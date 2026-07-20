@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1968032721953034380",
+    "created_at": "2025-09-16T19:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T20:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968032721953034380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968032721953034380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "试图了解我只会让我觉得冒犯，毕竟我自己都不了解我自己。我需要的只是一个喜欢分享却又不问太多的人。我不想诉说我的创伤，我只想想象隔着屏幕的你讲述你的生活时那双亮晶晶的眼睛，我只需要你需要我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1968032721953034380",
+        "created_at": "2025-09-16T19:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T20:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968032721953034380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968032721953034380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试图了解我只会让我觉得冒犯，毕竟我自己都不了解我自己。我需要的只是一个喜欢分享却又不问太多的人。我不想诉说我的创伤，我只想想象隔着屏幕的你讲述你的生活时那双亮晶晶的眼睛，我只需要你需要我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "自我一点没什么不好",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967485429869170957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042044205393178720",
+    "created_at": "2026-04-09T18:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042303368237105157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878860725701263360",
+          "start": 0,
+          "username": "shnooki347821"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042303368237105157",
+    "in_reply_to_user_id": "1878860725701263360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042303019271016731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shnooki347821 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-09T18:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042303368237105157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878860725701263360",
+              "start": 0,
+              "username": "shnooki347821"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042303368237105157",
+        "in_reply_to_user_id": "1878860725701263360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042303019271016731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnooki347821 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878860725701263360",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-09T18:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042303019271016731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042303019271016731",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042044205393178720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我都希望对面最好一个朋友都没有，最多接受有一个朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 88,
+          "like_count": 3901,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1679
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T17:44:53.000Z",
+        "description": "骂你是你该的臭婊婊\n看我鸟不鸟你\nhttps://t.co/0sEuVC0oDD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sn99567",
+                "end": 40,
+                "expanded_url": "https://ngl.link/sn99567",
+                "start": 17,
+                "url": "https://t.co/0sEuVC0oDD"
+              }
+            ]
+          }
+        },
+        "id": "1878860725701263360",
+        "location": "韩国首尔",
+        "name": "shnooki",
+        "pinned_tweet_id": "2041201317591556131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034281458156834816/lMrPgqV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 173,
+          "like_count": 2068,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 326
+        },
+        "username": "shnooki347821",
+        "verified": false
+      }
+    ]
+  }
+}

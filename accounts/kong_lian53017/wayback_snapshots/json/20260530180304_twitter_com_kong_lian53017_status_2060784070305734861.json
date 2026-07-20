@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060784070305734861",
+    "created_at": "2026-05-30T18:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060784070305734861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dapiso1224/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/dapiso1224/status/2060709967683006714",
+          "start": 11,
+          "url": "https://t.co/wtXvUEytWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060784070305734861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060709967683006714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想把我自己删了∧∧ https://t.co/wtXvUEytWO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060784070305734861",
+        "created_at": "2026-05-30T18:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060784070305734861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dapiso1224/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/dapiso1224/status/2060709967683006714",
+              "start": 11,
+              "url": "https://t.co/wtXvUEytWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060784070305734861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060709967683006714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想把我自己删了∧∧ https://t.co/wtXvUEytWO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937744297874616320",
+        "conversation_id": "2060709967683006714",
+        "created_at": "2026-05-30T13:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060709967683006714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060709967683006714",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 902,
+          "impression_count": 346531,
+          "like_count": 7992,
+          "quote_count": 1936,
+          "reply_count": 27,
+          "retweet_count": 2977
+        },
+        "reply_settings": "everyone",
+        "text": "단절욕구 있는사람 있나요\n잘지내다가 갑자기 다 끊어내고싶고\n잘있다가 갑자기 사라지고싶고\n멀쩡하다가 전부 삭제하고싶은"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 113,
+          "like_count": 18740,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 6039
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T05:27:11.000Z",
+        "description": "본계: @suki2967\n커미션 계정: @mongrim7118\n대피용 인스타: mongae4352",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "suki2967"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "mongrim7118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "postype.com/@beencap",
+                "end": 23,
+                "expanded_url": "https://www.postype.com/@beencap",
+                "start": 0,
+                "url": "https://t.co/vFDd4V3QxF"
+              }
+            ]
+          }
+        },
+        "id": "1937744297874616320",
+        "name": "비상대피소",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008841062903959552/elG21kii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78733,
+          "following_count": 50,
+          "like_count": 7158,
+          "listed_count": 48,
+          "media_count": 328,
+          "tweet_count": 6007
+        },
+        "url": "https://t.co/vFDd4V3QxF",
+        "username": "dapiso1224",
+        "verified": false
+      }
+    ]
+  }
+}

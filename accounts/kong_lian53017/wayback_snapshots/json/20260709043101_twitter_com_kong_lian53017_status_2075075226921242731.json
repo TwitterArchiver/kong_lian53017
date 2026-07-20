@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2075070517489684597",
+    "created_at": "2026-07-09T04:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075075226921242731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1518083228136984576",
+          "start": 0,
+          "username": "ArivenDar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075075226921242731",
+    "in_reply_to_user_id": "1518083228136984576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075070517489684597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArivenDar 煲仔饭好食！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2075070498237792256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwhn7tbQAAF_jK.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2075070517489684597",
+        "created_at": "2026-07-09T04:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075075226921242731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1518083228136984576",
+              "start": 0,
+              "username": "ArivenDar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075075226921242731",
+        "in_reply_to_user_id": "1518083228136984576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075070517489684597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArivenDar 煲仔饭好食！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075070498237792256"
+          ]
+        },
+        "author_id": "1518083228136984576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075070517489684597",
+        "created_at": "2026-07-09T04:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075070517489684597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YR56j3WAOE",
+              "end": 33,
+              "expanded_url": "https://x.com/ArivenDar/status/2075070517489684597/photo/1",
+              "media_key": "3_2075070498237792256",
+              "start": 10,
+              "url": "https://t.co/YR56j3WAOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075070517489684597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂这一口的含金量 https://t.co/YR56j3WAOE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 119,
+          "like_count": 24039,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 4398
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T04:24:13.000Z",
+        "description": "你可以一直陪我玩吗？",
+        "id": "1518083228136984576",
+        "location": "好吧",
+        "name": "白烏鴉.",
+        "pinned_tweet_id": "2064551618436313236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042806254687653890/NULHpSeq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 2367,
+          "like_count": 142405,
+          "listed_count": 4,
+          "media_count": 1601,
+          "tweet_count": 13638
+        },
+        "url": "",
+        "username": "ArivenDar",
+        "verified": false
+      }
+    ]
+  }
+}

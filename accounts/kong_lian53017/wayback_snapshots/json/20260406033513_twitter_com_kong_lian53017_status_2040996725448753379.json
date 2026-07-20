@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040996725448753379",
+    "created_at": "2026-04-06T03:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040996725448753379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wtt0715/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/wtt0715/status/2040878321928667451",
+          "start": 14,
+          "url": "https://t.co/YjNZmnPaSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040996725448753379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040878321928667451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这辈子就是被青年音毁了！ https://t.co/YjNZmnPaSe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040996725448753379",
+        "created_at": "2026-04-06T03:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040996725448753379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wtt0715/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/wtt0715/status/2040878321928667451",
+              "start": 14,
+              "url": "https://t.co/YjNZmnPaSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040996725448753379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040878321928667451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这辈子就是被青年音毁了！ https://t.co/YjNZmnPaSe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804513757458255872",
+        "conversation_id": "2040878321928667451",
+        "created_at": "2026-04-05T19:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040878321928667451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040878321928667451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1986,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要青年音给我打电话\n我要青年音哄我睡觉\n我要青年音给我讲故事\n我要青年音骚叫给我听\n我要青年音哭给我听\n我要青年音和我每天都打电话\n我要青年音\n我这辈子就是被青年音毁了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 77,
+          "like_count": 3025,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1319
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T13:56:36.000Z",
+        "description": "咪的世界下小鱼/锁推推广自辩",
+        "id": "1804513757458255872",
+        "name": "秋秋秋诗漓",
+        "pinned_tweet_id": "1992273610569068638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988941455965171712/vHWQJSGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11247,
+          "following_count": 105,
+          "like_count": 3548,
+          "listed_count": 16,
+          "media_count": 73,
+          "tweet_count": 558
+        },
+        "username": "wtt0715",
+        "verified": false
+      }
+    ]
+  }
+}

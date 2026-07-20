@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045394890742485249",
+    "created_at": "2026-04-18T06:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045396366772568121"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045396366772568121",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045394896216015025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么等对方提分手因为我觉得主动提我不知道该怎么处理那个局面我觉得很尴尬。但其实谈了三段两段都是我主动提的，就上一段是那个网恋对象主动提的，分手理由是介意我跟人同居过……我现在想起来依然生气因为我跟他刚认识的时候就跟他说明白了，结果谈了两个月又跟我说接受不了。这不纯有病吗😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045394890742485249",
+        "created_at": "2026-04-18T06:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045396366772568121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045396366772568121",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045394896216015025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么等对方提分手因为我觉得主动提我不知道该怎么处理那个局面我觉得很尴尬。但其实谈了三段两段都是我主动提的，就上一段是那个网恋对象主动提的，分手理由是介意我跟人同居过……我现在想起来依然生气因为我跟他刚认识的时候就跟他说明白了，结果谈了两个月又跟我说接受不了。这不纯有病吗😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045394890742485249",
+        "created_at": "2026-04-18T06:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045394896216015025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045394896216015025",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045394892613149103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我提分手的时候没有一点不舍，关系走到无法挽回的地步我才会选择放手，到最后我对他确实也没耐心了总主动挑事让他跟我提分手结果他一直不提，于是我提了。不管别人怎么想，谈这么久是我自己选的，我尽力了我问心无愧。有时候会因为不早点提分手有点后悔但是其实我也理解当时的自己，我选择原谅。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 92,
+          "like_count": 6791,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2888
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

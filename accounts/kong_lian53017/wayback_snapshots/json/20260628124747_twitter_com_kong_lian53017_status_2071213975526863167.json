@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2071186194453733677",
+    "created_at": "2026-06-28T12:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071213975526863167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031327513981628420",
+          "start": 0,
+          "username": "HaoHaoWodec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071213975526863167",
+    "in_reply_to_user_id": "2031327513981628420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071186194453733677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoHaoWodec 咋这么漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14583,
+        "height": 1280,
+        "media_key": "13_2071186121007177728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071186121007177728/img/hvZHyIlu-rX4PgPE.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071186121007177728/vid/avc1/320x568/-EuLboCXR3mNNI7i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071186121007177728/vid/avc1/480x852/ZN4lWEbiERVNOSIX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071186121007177728/vid/avc1/720x1280/9FrPDs6ESNrMG0Pa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071186121007177728/pl/ZDVJCn8EfzBppq-J.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2071186194453733677",
+        "created_at": "2026-06-28T12:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071213975526863167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031327513981628420",
+              "start": 0,
+              "username": "HaoHaoWodec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071213975526863167",
+        "in_reply_to_user_id": "2031327513981628420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071186194453733677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoHaoWodec 咋这么漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071186121007177728"
+          ]
+        },
+        "author_id": "2031327513981628420",
+        "conversation_id": "2071186194453733677",
+        "created_at": "2026-06-28T10:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071186194453733677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPeZO0N2bw",
+              "end": 39,
+              "expanded_url": "https://x.com/HaoHaoWodec/status/2071186194453733677/video/1",
+              "media_key": "13_2071186121007177728",
+              "start": 16,
+              "url": "https://t.co/KPeZO0N2bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071186194453733677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢呀我自己看了八百遍¯꒳¯ https://t.co/KPeZO0N2bw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 117,
+          "like_count": 22671,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 4333
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T11:14:33.000Z",
+        "description": "想做的就做 不想做的就不做 就这样就好了小冰冰\n我没有办法评论呀TVTT",
+        "id": "2031327513981628420",
+        "location": "对女人卖萌完全无法控制…",
+        "name": "哦我就冷冰冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031328314657505280/Z4yC7Ics_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 85,
+          "like_count": 7055,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1163
+        },
+        "url": "",
+        "username": "HaoHaoWodec",
+        "verified": false
+      }
+    ]
+  }
+}

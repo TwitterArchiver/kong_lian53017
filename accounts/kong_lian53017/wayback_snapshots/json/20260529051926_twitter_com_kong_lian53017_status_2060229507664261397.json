@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060229507664261397",
+    "created_at": "2026-05-29T05:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060229507664261397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bloomele_/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/bloomele_/status/2059709824191824127",
+          "start": 14,
+          "url": "https://t.co/oHjKLdT85q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060229507664261397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059709824191824127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特别喜欢波光粼粼的水面。 https://t.co/oHjKLdT85q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16975,
+        "height": 1280,
+        "media_key": "13_2059709710715043846",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059709710715043846/img/Db9HAA5HN65NjQiV.jpg",
+        "public_metrics": {
+          "view_count": 58595
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059709710715043846/vid/avc1/320x568/j-AoD0GvBEFEk1yY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059709710715043846/vid/avc1/480x852/D2vbTHT4KyPbXLiM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059709710715043846/vid/avc1/720x1280/pf7wnOOXEt9Uz2mR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059709710715043846/pl/Iyb-PRiDypdiK0dj.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059709710698233859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWPEa6XQAMzE95.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060229507664261397",
+        "created_at": "2026-05-29T05:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060229507664261397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bloomele_/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bloomele_/status/2059709824191824127",
+              "start": 14,
+              "url": "https://t.co/oHjKLdT85q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060229507664261397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059709824191824127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别喜欢波光粼粼的水面。 https://t.co/oHjKLdT85q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059709710715043846",
+            "3_2059709710698233859"
+          ]
+        },
+        "author_id": "2040213244690755584",
+        "conversation_id": "2059709824191824127",
+        "created_at": "2026-05-27T18:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059709824191824127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2I3WaftTA",
+              "end": 83,
+              "expanded_url": "https://x.com/bloomele_/status/2059709824191824127/video/1",
+              "media_key": "13_2059709710715043846",
+              "start": 60,
+              "url": "https://t.co/C2I3WaftTA"
+            },
+            {
+              "display_url": "pic.x.com/C2I3WaftTA",
+              "end": 83,
+              "expanded_url": "https://x.com/bloomele_/status/2059709824191824127/video/1",
+              "media_key": "3_2059709710698233859",
+              "start": 60,
+              "url": "https://t.co/C2I3WaftTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059709824191824127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 222738,
+          "like_count": 10798,
+          "quote_count": 90,
+          "reply_count": 63,
+          "retweet_count": 2758
+        },
+        "reply_settings": "everyone",
+        "text": "look how beautiful the sun sparkles on top of the water 💎🌊✨ https://t.co/C2I3WaftTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 111,
+          "like_count": 18138,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 5965
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T23:42:38.000Z",
+        "description": "where nature speaks softly",
+        "id": "2040213244690755584",
+        "name": "bloomelle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040219106990071808/F8TkGzYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 5,
+          "like_count": 2598,
+          "listed_count": 9,
+          "media_count": 700,
+          "tweet_count": 719
+        },
+        "username": "bloomele_",
+        "verified": false
+      }
+    ]
+  }
+}

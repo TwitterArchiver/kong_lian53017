@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045856872427896868",
+    "created_at": "2026-04-19T13:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045856872427896868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dejvvinthenigh…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/dejvvinthenight/status/2045856028110323780",
+          "start": 9,
+          "url": "https://t.co/Bx7eRjpFAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045856872427896868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045856028110323780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种翻脸最狠了。 https://t.co/Bx7eRjpFAA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045856872427896868",
+        "created_at": "2026-04-19T13:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045856872427896868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dejvvinthenigh…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dejvvinthenight/status/2045856028110323780",
+              "start": 9,
+              "url": "https://t.co/Bx7eRjpFAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045856872427896868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045856028110323780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种翻脸最狠了。 https://t.co/Bx7eRjpFAA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740012227124744192",
+        "conversation_id": "2045856028110323780",
+        "created_at": "2026-04-19T13:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045856028110323780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045856028110323780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很反感在获得某个人的“喜欢”时被对方无故捧上神坛。事实上我所碰见的这类人在喜欢我和不喜欢我后的区别反差简直可以堪称恐怖。爱你时使劲自私无端自主地给你赋魅，捧了一阵子发现得不到就立马变脸诋毁。人与人能够发展为良好关系的前提一定是平等，一开始就自愿把自己位置放低的人我都持谨慎怀疑态度。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 95,
+          "like_count": 7378,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3146
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:10:29.000Z",
+        "description": "born to live fast and die young｜intp-t｜174 70kg｜这里只是盛满我烟蒂与泪水的日记",
+        "id": "1740012227124744192",
+        "location": "Mars",
+        "name": "wetislandme",
+        "pinned_tweet_id": "1858054622427881818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045833745987674112/TKlduMfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 72,
+          "like_count": 1245,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1045
+        },
+        "username": "dejvvinthenight",
+        "verified": false
+      }
+    ]
+  }
+}

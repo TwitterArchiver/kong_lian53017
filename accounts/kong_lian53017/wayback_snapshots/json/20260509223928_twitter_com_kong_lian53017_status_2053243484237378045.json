@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2053243482358391154",
+    "created_at": "2026-05-09T22:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T23:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053243484237378045"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053243484237378045",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053243482358391154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不论东玄还是西玄，我觉得一旦去算自己的命就是把自己框在了一个固定的走向或者流程里，选择难免会受当时算出的结果影响。这是在潜意识里的东西，很难说到底是命真是如此还是你潜意识自认为你的命是如此所以你那么选了，你自己根本意识不到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2053243482358391154",
+        "created_at": "2026-05-09T22:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053243484237378045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053243484237378045",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053243482358391154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不论东玄还是西玄，我觉得一旦去算自己的命就是把自己框在了一个固定的走向或者流程里，选择难免会受当时算出的结果影响。这是在潜意识里的东西，很难说到底是命真是如此还是你潜意识自认为你的命是如此所以你那么选了，你自己根本意识不到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2053243482358391154",
+        "created_at": "2026-05-09T22:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053243482358391154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053243482358391154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直不太信命。我觉得命运的走向可能存在大概的框架（毕竟出身不是自己能决定的）但是没有确定的结局，结局如何取决于自己每一个决定和选择，类似许多支线这样。在我看来命运从来就不是所谓的造物主的安排而是跟自己的认知思维逻辑，先天或后天周边一切环境的变化有关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 105,
+          "like_count": 13866,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4808
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058967210174152919",
+    "created_at": "2026-05-25T17:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058967210174152919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/firework1209/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/firework1209/status/2058936343833759884",
+          "start": 5,
+          "url": "https://t.co/K6zo0lQdNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058967210174152919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058936343833759884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总之溺爱 https://t.co/K6zo0lQdNQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058967210174152919",
+        "created_at": "2026-05-25T17:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058967210174152919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/firework1209/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/firework1209/status/2058936343833759884",
+              "start": 5,
+              "url": "https://t.co/K6zo0lQdNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058967210174152919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058936343833759884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总之溺爱 https://t.co/K6zo0lQdNQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724382058921807872",
+        "conversation_id": "2058936343833759884",
+        "created_at": "2026-05-25T15:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058936343833759884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058936343833759884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 734,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朋友想出轨我就这样辩护：人是需要一点秩序外的瞬间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17459,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 5886
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T11:01:47.000Z",
+        "description": "银鞍白马度春风｜ 想找我请漂流瓶见https://t.co/EiUThAwE4z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ttoast",
+                "end": 40,
+                "expanded_url": "https://ngl.link/ttoast",
+                "start": 17,
+                "url": "https://t.co/EiUThAwE4z"
+              }
+            ]
+          }
+        },
+        "id": "1724382058921807872",
+        "location": "撒辣子 谢谢",
+        "name": "草原龙胆",
+        "pinned_tweet_id": "2023807263056818522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058602073827196928/utSNTfLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 148,
+          "like_count": 9043,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 2830
+        },
+        "username": "firework1209",
+        "verified": false
+      }
+    ]
+  }
+}

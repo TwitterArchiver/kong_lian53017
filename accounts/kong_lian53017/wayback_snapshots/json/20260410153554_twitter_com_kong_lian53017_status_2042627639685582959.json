@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042044205393178720",
+    "created_at": "2026-04-10T15:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042627639685582959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940829948400619520",
+          "start": 0,
+          "username": "litchyyy70265"
+        },
+        {
+          "end": 23,
+          "id": "1999521093032509443",
+          "start": 15,
+          "username": "SMNBKLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042627639685582959",
+    "in_reply_to_user_id": "1940829948400619520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042622872997499181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litchyyy70265 @SMNBKLS 那很糟糕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-10T15:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042627639685582959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940829948400619520",
+              "start": 0,
+              "username": "litchyyy70265"
+            },
+            {
+              "end": 23,
+              "id": "1999521093032509443",
+              "start": 15,
+              "username": "SMNBKLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042627639685582959",
+        "in_reply_to_user_id": "1940829948400619520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042622872997499181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litchyyy70265 @SMNBKLS 那很糟糕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940829948400619520",
+        "conversation_id": "2042044205393178720",
+        "created_at": "2026-04-10T15:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042622872997499181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999521093032509443",
+              "start": 0,
+              "username": "SMNBKLS"
+            },
+            {
+              "end": 24,
+              "id": "1722693102367039488",
+              "start": 9,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042622872997499181",
+        "in_reply_to_user_id": "1999521093032509443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042272587066269974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SMNBKLS @kong_lian53017 现在谈久了发现跑不掉了我晕惹^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 90,
+          "like_count": 4062,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1744
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T17:48:22.000Z",
+        "description": "小圈 ddlg",
+        "id": "1940829948400619520",
+        "name": "luluwatermelon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986823094233911297/2TEn_vZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 117,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "username": "litchyyy70265",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T16:46:53.000Z",
+        "description": "",
+        "id": "1999521093032509443",
+        "name": "小痣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000981092992741376/widJkd5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 116,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 109
+        },
+        "username": "SMNBKLS",
+        "verified": false
+      }
+    ]
+  }
+}

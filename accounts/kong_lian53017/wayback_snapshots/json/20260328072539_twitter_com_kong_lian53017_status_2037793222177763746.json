@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037793222177763746",
+    "created_at": "2026-03-28T07:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037793222177763746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1783058785134895104",
+          "start": 3,
+          "username": "youaremylove976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037793222177763746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037764495444181274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youaremylove976: 我就是那种笨蛋，交付真心100次，受到100次伤害，第101次也毫不犹疑，不一定是要同样获得什么东西，但求问心无愧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037793222177763746",
+        "created_at": "2026-03-28T07:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037793222177763746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1783058785134895104",
+              "start": 3,
+              "username": "youaremylove976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037793222177763746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037764495444181274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youaremylove976: 我就是那种笨蛋，交付真心100次，受到100次伤害，第101次也毫不犹疑，不一定是要同样获得什么东西，但求问心无愧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783058785134895104",
+        "conversation_id": "2037764495444181274",
+        "created_at": "2026-03-28T05:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037764495444181274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037764495444181274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 293,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我就是那种笨蛋，交付真心100次，受到100次伤害，第101次也毫不犹疑，不一定是要同样获得什么东西，但求问心无愧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 61,
+          "like_count": 1226,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 508
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "pinned_tweet_id": "2028499025851560030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 306,
+          "like_count": 5818,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2046
+        },
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

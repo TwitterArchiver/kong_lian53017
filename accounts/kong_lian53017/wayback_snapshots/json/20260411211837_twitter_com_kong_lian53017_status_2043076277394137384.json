@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042984446505423333",
+    "created_at": "2026-04-11T21:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043076277394137384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1352156135466430465",
+          "start": 0,
+          "username": "Seven_Hot9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043076277394137384",
+    "in_reply_to_user_id": "1352156135466430465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042984446505423333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Hot9 好听爱听🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50503,
+        "height": 720,
+        "media_key": "13_2042984319925559296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042984319925559296/img/PL4v5MWaf0S5ngMT.jpg",
+        "public_metrics": {
+          "view_count": 1253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042984319925559296/vid/avc1/302x270/0Lpj2fUXf2_bpOev.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042984319925559296/vid/avc1/404x360/n8pDFhhTUPZozgmo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042984319925559296/vid/avc1/810x720/ShZm3LAGuaZZc9ck.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042984319925559296/pl/3Ht8wmw048EI_hX-.m3u8?v=16f"
+          }
+        ],
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042984446505423333",
+        "created_at": "2026-04-11T21:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043076277394137384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1352156135466430465",
+              "start": 0,
+              "username": "Seven_Hot9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043076277394137384",
+        "in_reply_to_user_id": "1352156135466430465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042984446505423333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Hot9 好听爱听🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042984319925559296"
+          ]
+        },
+        "author_id": "1352156135466430465",
+        "conversation_id": "2042984446505423333",
+        "created_at": "2026-04-11T15:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042984446505423333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJ5iq8webV",
+              "end": 34,
+              "expanded_url": "https://x.com/Seven_Hot9/status/2042984446505423333/video/1",
+              "media_key": "13_2042984319925559296",
+              "start": 11,
+              "url": "https://t.co/wJ5iq8webV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042984446505423333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4128,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越是不吃，越是很想吃 https://t.co/wJ5iq8webV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 87,
+          "like_count": 4474,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1926
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T07:28:48.000Z",
+        "description": "一些日常，或许还有碎碎念。难喘账号：@Seven_Cold9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Seven_Cold9"
+              }
+            ]
+          }
+        },
+        "id": "1352156135466430465",
+        "name": "栖热",
+        "pinned_tweet_id": "2026656654650126829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020810229169147904/E6j1Lp_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 65,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 241
+        },
+        "username": "Seven_Hot9",
+        "verified": false
+      }
+    ]
+  }
+}

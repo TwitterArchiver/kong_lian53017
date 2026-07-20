@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042313909592604706",
+    "created_at": "2026-04-10T04:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042452899784269915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861944400038727680",
+          "start": 0,
+          "username": "betty0059817333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042452899784269915",
+    "in_reply_to_user_id": "1861944400038727680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042437797660049856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@betty0059817333 我刚吃完瑞幸的巴斯克芝士蛋糕😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042313909592604706",
+        "created_at": "2026-04-10T04:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042452899784269915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861944400038727680",
+              "start": 0,
+              "username": "betty0059817333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042452899784269915",
+        "in_reply_to_user_id": "1861944400038727680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042437797660049856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@betty0059817333 我刚吃完瑞幸的巴斯克芝士蛋糕😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861944400038727680",
+        "conversation_id": "2042313909592604706",
+        "created_at": "2026-04-10T03:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042437797660049856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042437797660049856",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042313909592604706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 太淡了就会崩溃 吃点甜食补充下能量 恋老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 88,
+          "like_count": 3943,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1689
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T01:25:28.000Z",
+        "description": "花都已经枯萎了 你浇再多的水都是多余的",
+        "id": "1861944400038727680",
+        "name": "露染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042290069508407296/8V7CeOZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 229
+        },
+        "username": "betty0059817333",
+        "verified": false
+      }
+    ]
+  }
+}

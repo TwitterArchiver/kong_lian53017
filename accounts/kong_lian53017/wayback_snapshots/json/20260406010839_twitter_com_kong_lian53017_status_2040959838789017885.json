@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2040955369443504571",
+    "created_at": "2026-04-06T01:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040959838789017885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829117318409891840",
+          "start": 0,
+          "username": "justhtgnofake45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040959838789017885",
+    "in_reply_to_user_id": "1829117318409891840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040955369443504571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justhtgnofake45 早安~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2040955369443504571",
+        "created_at": "2026-04-06T01:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040959838789017885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829117318409891840",
+              "start": 0,
+              "username": "justhtgnofake45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040959838789017885",
+        "in_reply_to_user_id": "1829117318409891840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040955369443504571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justhtgnofake45 早安~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829117318409891840",
+        "conversation_id": "2040955369443504571",
+        "created_at": "2026-04-06T00:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040955369443504571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040955369443504571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 77,
+          "like_count": 2992,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1306
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T11:22:41.000Z",
+        "description": "神秘流浪oc自设入。。。我想口嗨oc😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35467477626418…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546747762641843",
+                "start": 0,
+                "url": "https://t.co/1nX3vJSfUN"
+              }
+            ]
+          }
+        },
+        "id": "1829117318409891840",
+        "location": "who knows",
+        "name": "justhtgnofake",
+        "pinned_tweet_id": "2033191097204453419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808121171656704/17bhzNdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 211,
+          "like_count": 2369,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/1nX3vJSfUN",
+        "username": "justhtgnofake45",
+        "verified": false
+      }
+    ]
+  }
+}

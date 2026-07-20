@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2038085303462924437",
+    "created_at": "2026-03-29T02:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038088256752124163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037868323602407424",
+          "start": 0,
+          "username": "xing1827911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038088256752124163",
+    "in_reply_to_user_id": "2037868323602407424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038085909099290646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xing1827911 谈过一个这样的😋相信自己还能再遇到这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2038085303462924437",
+        "created_at": "2026-03-29T02:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038088256752124163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037868323602407424",
+              "start": 0,
+              "username": "xing1827911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038088256752124163",
+        "in_reply_to_user_id": "2037868323602407424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038085909099290646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xing1827911 谈过一个这样的😋相信自己还能再遇到这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037868323602407424",
+        "conversation_id": "2038085303462924437",
+        "created_at": "2026-03-29T02:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038085909099290646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038085909099290646",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038085303462924437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 洗洗睡就有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 65,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 629
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T12:24:16.000Z",
+        "description": "不会露脸，有事私信，不看点赞",
+        "id": "2037868323602407424",
+        "name": "星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037868546798297088/cT_T8MR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "xing1827911",
+        "verified": false
+      }
+    ]
+  }
+}

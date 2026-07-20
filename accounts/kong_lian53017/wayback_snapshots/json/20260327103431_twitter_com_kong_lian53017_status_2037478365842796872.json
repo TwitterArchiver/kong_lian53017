@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037478365842796872",
+    "created_at": "2026-03-27T10:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037478365842796872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/w0qvn1made/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/w0qvn1made/status/2037409826519826747",
+          "start": 6,
+          "url": "https://t.co/GXETv2G3tP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037478365842796872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037409826519826747",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在哭 https://t.co/GXETv2G3tP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037478365842796872",
+        "created_at": "2026-03-27T10:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037478365842796872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/w0qvn1made/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/w0qvn1made/status/2037409826519826747",
+              "start": 6,
+              "url": "https://t.co/GXETv2G3tP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037478365842796872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037409826519826747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在哭 https://t.co/GXETv2G3tP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800818819503738880",
+        "conversation_id": "2037409826519826747",
+        "created_at": "2026-03-27T06:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037409826519826747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037409826519826747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想有个依靠，习惯每次崩溃你都在身边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 55,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 397
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:14:13.000Z",
+        "description": "",
+        "id": "1800818819503738880",
+        "location": "你妈血逼里",
+        "name": "我的逼好痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037473798589734912/B-25Epdn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 0,
+          "like_count": 561,
+          "listed_count": 7,
+          "media_count": 7,
+          "tweet_count": 226
+        },
+        "username": "w0qvn1made",
+        "verified": false
+      }
+    ]
+  }
+}

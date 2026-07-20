@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2039705934826742132",
+    "created_at": "2026-04-02T14:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039705934826742132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/obumemeow/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/obumemeow/status/2039681993823412433",
+          "start": 2,
+          "url": "https://t.co/bOCXhFewiC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039705934826742132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039681993823412433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/bOCXhFewiC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2039705934826742132",
+        "created_at": "2026-04-02T14:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039705934826742132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/obumemeow/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/obumemeow/status/2039681993823412433",
+              "start": 2,
+              "url": "https://t.co/bOCXhFewiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039705934826742132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039681993823412433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/bOCXhFewiC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827001961750904832",
+        "conversation_id": "2039681993823412433",
+        "created_at": "2026-04-02T12:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039681993823412433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hsn8086/status/2039388859285549382",
+              "start": 12,
+              "url": "https://t.co/nSidOM105h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039681993823412433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039388859285549382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我未来对象必须能这样： https://t.co/nSidOM105h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 73,
+          "like_count": 2243,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 997
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:16:49.000Z",
+        "description": "♀/ 🇨🇳 / sub / m /  bi双性恋 /不搞4i！很爱碎碎念 偶尔一擦 不约不接推广 喜欢夸夸 欢迎你们都来和我玩🥺！这是我的匿名信箱⬇️！have a nice day^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/obumemeow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/obumemeow",
+                "start": 0,
+                "url": "https://t.co/iiicEIsMi4"
+              }
+            ]
+          }
+        },
+        "id": "1827001961750904832",
+        "location": "🚪66/99纯绿",
+        "name": "哦不喵喵",
+        "pinned_tweet_id": "1925530823991992664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827002281075806208/AvaSjiUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 173,
+          "like_count": 363,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/iiicEIsMi4",
+        "username": "obumemeow",
+        "verified": false
+      }
+    ]
+  }
+}

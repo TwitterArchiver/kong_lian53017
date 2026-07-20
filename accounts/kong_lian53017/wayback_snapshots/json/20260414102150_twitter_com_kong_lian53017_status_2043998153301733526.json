@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043940957809455425",
+    "created_at": "2026-04-14T10:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043998153301733526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387321771",
+          "start": 0,
+          "username": "EZoutis777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043998153301733526",
+    "in_reply_to_user_id": "3387321771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043994750097993907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EZoutis777 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043940957809455425",
+        "created_at": "2026-04-14T10:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043998153301733526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387321771",
+              "start": 0,
+              "username": "EZoutis777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043998153301733526",
+        "in_reply_to_user_id": "3387321771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043994750097993907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EZoutis777 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3387321771",
+        "conversation_id": "2043940957809455425",
+        "created_at": "2026-04-14T10:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043994750097993907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043994750097993907",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043940957809455425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 其实不上班花不了多少钱 只要不出门根本没啥支出 反而上班又花通勤费+中午点外卖+其他一些社交支出反而花得更多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 91,
+          "like_count": 5322,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2325
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-22T14:19:55.000Z",
+        "description": "在幻境里感受雪",
+        "id": "3387321771",
+        "name": "莎末",
+        "pinned_tweet_id": "2015255143353295134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013957184808513536/hbZFNgRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 11,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1573
+        },
+        "username": "EZoutis777",
+        "verified": false
+      }
+    ]
+  }
+}

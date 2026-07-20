@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047381009541550135",
+    "created_at": "2026-04-23T18:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047381619888320593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047381619888320593",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047381009541550135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能在他看来安静陪我这种事谁都可以做，对他倾诉具体的痛苦才会让他觉得他比较特别和重要。就算我再剖析自己他也不会懂我。不是谁都能在我难过脆弱的时候陪我，很多时候我都会选择躲起来拒绝跟人沟通。我痛苦时第一反应是想跟他打电话让他陪我就足以证明当时我对他有多依赖了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047381009541550135",
+        "created_at": "2026-04-23T18:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047381619888320593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047381619888320593",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047381009541550135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能在他看来安静陪我这种事谁都可以做，对他倾诉具体的痛苦才会让他觉得他比较特别和重要。就算我再剖析自己他也不会懂我。不是谁都能在我难过脆弱的时候陪我，很多时候我都会选择躲起来拒绝跟人沟通。我痛苦时第一反应是想跟他打电话让他陪我就足以证明当时我对他有多依赖了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047381009541550135",
+        "created_at": "2026-04-23T18:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047381009541550135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047381009541550135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢情绪低落的时候被问为什么。我只希望对方什么都别问安静陪着我，不管线上线下都是。我想说自己会主动说的。上一任就喜欢追问这些，他觉得我不跟他讲是我不依赖他，跟他不亲密。但其实这种东西讲不明白的，我没精力整理自己的思绪组织语言去解释为什么，我只想有人陪我静静的待一会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 90,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 67,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 102,
+          "like_count": 9234,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3902
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

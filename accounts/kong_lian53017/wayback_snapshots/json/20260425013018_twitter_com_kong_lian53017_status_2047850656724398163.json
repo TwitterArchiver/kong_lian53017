@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047846551138210167",
+    "created_at": "2026-04-25T01:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047850656724398163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038300113920249857",
+          "start": 0,
+          "username": "bibibibib1470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047850656724398163",
+    "in_reply_to_user_id": "2038300113920249857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047850602810749290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibibib1470 好事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047846551138210167",
+        "created_at": "2026-04-25T01:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047850656724398163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038300113920249857",
+              "start": 0,
+              "username": "bibibibib1470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047850656724398163",
+        "in_reply_to_user_id": "2038300113920249857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047850602810749290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibibib1470 好事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038300113920249857",
+        "conversation_id": "2047846551138210167",
+        "created_at": "2026-04-25T01:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047850602810749290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047850602810749290",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047850262514286716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 不过我不抽烟👉🏻👈🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名Q&A：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 102,
+          "like_count": 9667,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 4075
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T17:00:59.000Z",
+        "description": "想和别人聊天，任何人都可以（不聊H）\n别一进来就骂我😮‍💨\n一般都在😎",
+        "id": "2038300113920249857",
+        "name": "Hai",
+        "pinned_tweet_id": "2043533593990009076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038440194194735104/BR4Z6k2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 37,
+          "like_count": 2005,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1152
+        },
+        "username": "bibibibib1470",
+        "verified": false
+      }
+    ]
+  }
+}

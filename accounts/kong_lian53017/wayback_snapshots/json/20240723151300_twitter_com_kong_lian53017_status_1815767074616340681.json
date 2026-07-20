@@ -1,0 +1,260 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "1815731851329421354",
+    "created_at": "2024-07-23T15:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T16:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815767074616340681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260383491142717440",
+          "start": 0,
+          "username": "MiNiCoo98765241"
+        },
+        {
+          "end": 27,
+          "id": "1784887323211280384",
+          "start": 17,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815767074616340681",
+    "in_reply_to_user_id": "1260383491142717440",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815766878893269105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiNiCoo98765241 @ljng15760 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "1815731851329421354",
+        "created_at": "2024-07-23T15:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T16:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815767074616340681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260383491142717440",
+              "start": 0,
+              "username": "MiNiCoo98765241"
+            },
+            {
+              "end": 27,
+              "id": "1784887323211280384",
+              "start": 17,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815767074616340681",
+        "in_reply_to_user_id": "1260383491142717440",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815766878893269105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiNiCoo98765241 @ljng15760 😋😋"
+      },
+      {
+        "attachments": {},
+        "author_id": "1260383491142717440",
+        "conversation_id": "1815731851329421354",
+        "created_at": "2024-07-23T15:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T16:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815766878893269105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            },
+            {
+              "end": 26,
+              "id": "1784887323211280384",
+              "start": 16,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815766878893269105",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815732731894239582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 @ljng15760 娇娇小男友🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "发碎碎念┃好说话 心情不好的时候不聊天┃天塌下来我也要搞纯爱┃switch┃分享欲旺盛的i人┃双标 只对喜欢的人特别┃回避型┃网络社交不涉三┃不图不文不磕炮 直接发图发视频我会已读不回",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815255011137576960/W9JysngA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 27,
+          "listed_count": 0,
+          "tweet_count": 23
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T01:37:01.000Z",
+        "description": "那个会喘的男的/男同不要关注我/switch/青年/工作原因不定时失踪或营业/希望可以帮到你们🥺/欢迎私信提意见或者推台本给我！！都会回的QAQ/生日🍰的宝宝可以私信我送祝福//提问箱https://t.co/7xIg8TJHPC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minicoo9876524…",
+                "end": 115,
+                "expanded_url": "https://ngl.link/minicoo987652412",
+                "start": 92,
+                "url": "https://t.co/7xIg8TJHPC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minicookie.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://minicookie.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/xHTCprSjd9"
+              }
+            ]
+          }
+        },
+        "id": "1260383491142717440",
+        "location": "🚪88 接连麦",
+        "name": "一块黄色小饼干",
+        "pinned_tweet_id": "1814987757598720360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472867019347349506/o27RLnvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17257,
+          "following_count": 460,
+          "like_count": 6088,
+          "listed_count": 26,
+          "tweet_count": 2665
+        },
+        "url": "https://t.co/xHTCprSjd9",
+        "username": "MiNiCoo98765241",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "ENFJ/白羊座/什么都写点/录本需要关注我，然后私信找我拿授权，发布请务必圈@我一下/正常的私信看见会回，不在的时候，授权过的老师直接录就行，我很好说话=(^.^)=/小号有所有本子的转帖@qipaoshui15760 匿名信：https://t.co/7Wg9tCsfXq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "qipaoshui15760"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bohe15760",
+                "end": 138,
+                "expanded_url": "https://ngl.link/bohe15760",
+                "start": 115,
+                "url": "https://t.co/7Wg9tCsfXq"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "name": "星星气泡水⭐️🫧",
+        "pinned_tweet_id": "1813201531736584439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813848644577382400/64owzvbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7270,
+          "following_count": 120,
+          "like_count": 2504,
+          "listed_count": 12,
+          "tweet_count": 1331
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

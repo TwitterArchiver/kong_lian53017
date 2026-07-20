@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2048484253714055481",
+    "created_at": "2026-04-27T08:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048685048086589944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827001961750904832",
+          "start": 0,
+          "username": "obumemeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048685048086589944",
+    "in_reply_to_user_id": "1827001961750904832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048681370462163355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obumemeow 嗯哼哼😼我蹭蹭~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2048484253714055481",
+        "created_at": "2026-04-27T08:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048685048086589944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827001961750904832",
+              "start": 0,
+              "username": "obumemeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048685048086589944",
+        "in_reply_to_user_id": "1827001961750904832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048681370462163355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obumemeow 嗯哼哼😼我蹭蹭~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827001961750904832",
+        "conversation_id": "2048484253714055481",
+        "created_at": "2026-04-27T08:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048681370462163355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048681370462163355",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048484253714055481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 恭喜！是超级好事🫳🫳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 68,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 101,
+          "like_count": 10329,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 4361
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:16:49.000Z",
+        "description": "♀/ 🇨🇳 / sub / m /  bi双性恋 /不搞4i！很爱碎碎念 偶尔一擦 不约不接推广 喜欢夸夸 欢迎你们都来和我玩🥺！这是我的匿名信箱⬇️！have a nice day^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/obumemeow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/obumemeow",
+                "start": 0,
+                "url": "https://t.co/iiicEIsMi4"
+              }
+            ]
+          }
+        },
+        "id": "1827001961750904832",
+        "location": "🚪66/99纯绿",
+        "name": "哦不喵喵",
+        "pinned_tweet_id": "1925530823991992664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827002281075806208/AvaSjiUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 196,
+          "like_count": 725,
+          "listed_count": 6,
+          "media_count": 251,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/iiicEIsMi4",
+        "username": "obumemeow",
+        "verified": false
+      }
+    ]
+  }
+}

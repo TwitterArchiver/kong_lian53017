@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2055646589285183811",
+    "created_at": "2026-05-16T13:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055647032002720141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2019305666465394689",
+          "start": 0,
+          "username": "Xuan1136985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055647032002720141",
+    "in_reply_to_user_id": "2019305666465394689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055646589285183811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuan1136985 宝宝你是个美萌的宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8100,
+        "height": 960,
+        "media_key": "13_2055646522084057088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055646522084057088/img/-7f8ZsE-PsQ0x_5M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055646522084057088/vid/avc1/320x426/qvdZOeOMV2q8Kz_A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055646522084057088/vid/avc1/480x640/kfPe5HFwPo4I9qth.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055646522084057088/vid/avc1/720x960/1mrwznU3hkXzgkN4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055646522084057088/pl/mJ_eAkygyVXQi_S5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2055646589285183811",
+        "created_at": "2026-05-16T13:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055647032002720141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019305666465394689",
+              "start": 0,
+              "username": "Xuan1136985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055647032002720141",
+        "in_reply_to_user_id": "2019305666465394689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055646589285183811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuan1136985 宝宝你是个美萌的宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055646522084057088"
+          ]
+        },
+        "author_id": "2019305666465394689",
+        "conversation_id": "2055646589285183811",
+        "created_at": "2026-05-16T13:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055646589285183811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "女高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/04m9o7HirL",
+              "end": 29,
+              "expanded_url": "https://x.com/Xuan1136985/status/2055646589285183811/video/1",
+              "media_key": "13_2055646522084057088",
+              "start": 6,
+              "url": "https://t.co/04m9o7HirL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055646589285183811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#女高 喵 https://t.co/04m9o7HirL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 112,
+          "like_count": 15361,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 5234
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T07:03:00.000Z",
+        "description": "对我请保持礼貌🐰不聊骚🥰🤝\n#s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 14,
+                "tag": "s"
+              }
+            ]
+          }
+        },
+        "id": "2019305666465394689",
+        "location": "世界各地",
+        "name": "YuY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055420597040013312/9lMZFeVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 21,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 133
+        },
+        "username": "Xuan1136985",
+        "verified": false
+      }
+    ]
+  }
+}

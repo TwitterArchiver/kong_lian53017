@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046519078282744047",
+    "created_at": "2026-04-21T09:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046519078282744047"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046519078282744047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我：我好想谈恋爱。\n朋友：你别谈了行不，哪次谈不是给自己整得难受。\n我：但是我想谈恋爱。\n朋友：那你谈呗你搁身边随便抓一个谈着玩，你这性格又不缺人喜欢。\n我：？零人真的喜欢我。我不想谈随便的恋爱。\n朋友：你这么难伺候呢。别想着谈恋爱了真没啥意思，来跟我打派。\n我：已读不回。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046519078282744047",
+        "created_at": "2026-04-21T09:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046519078282744047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046519078282744047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：我好想谈恋爱。\n朋友：你别谈了行不，哪次谈不是给自己整得难受。\n我：但是我想谈恋爱。\n朋友：那你谈呗你搁身边随便抓一个谈着玩，你这性格又不缺人喜欢。\n我：？零人真的喜欢我。我不想谈随便的恋爱。\n朋友：你这么难伺候呢。别想着谈恋爱了真没啥意思，来跟我打派。\n我：已读不回。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 98,
+          "like_count": 8123,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3464
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

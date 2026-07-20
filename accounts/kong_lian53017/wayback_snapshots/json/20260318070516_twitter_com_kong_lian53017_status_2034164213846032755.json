@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034075670427627820",
+    "created_at": "2026-03-18T07:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034164213846032755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013218070689447936",
+          "start": 0,
+          "username": "rita_burns52614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034164213846032755",
+    "in_reply_to_user_id": "2013218070689447936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034086090882355558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rita_burns52614 草这个生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034075670427627820",
+        "created_at": "2026-03-18T07:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034164213846032755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013218070689447936",
+              "start": 0,
+              "username": "rita_burns52614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034164213846032755",
+        "in_reply_to_user_id": "2013218070689447936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034086090882355558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rita_burns52614 草这个生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013218070689447936",
+        "conversation_id": "2034075670427627820",
+        "created_at": "2026-03-18T01:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034086090882355558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034086090882355558",
+        "in_reply_to_user_id": "2013218070689447936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034075670427627820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 33,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 165
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123\n07男大学生傻卵二次，碎碎念区煮波，可以找我打游戏，apex|英雄联盟|王者|瓦|邦邦人|明日方舟……\n欢迎提问！https://t.co/bgDcJAfMGm\n100fo抽红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST",
+                "end": 93,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 70,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "name": "困困神（真身）",
+        "pinned_tweet_id": "2034103288556331008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 111,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 244
+        },
+        "username": "rita_burns52614",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2060542892960362907",
+    "created_at": "2026-05-30T02:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060542892960362907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lv4yI/status/2…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Lv4yI/status/2060348172082520113",
+          "start": 26,
+          "url": "https://t.co/9qNXdPPN1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060542892960362907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060348172082520113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能够看到我不爱自己，但能做的也只是隔岸观火罢了。 https://t.co/9qNXdPPN1t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2060542892960362907",
+        "created_at": "2026-05-30T02:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060542892960362907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lv4yI/status/2…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Lv4yI/status/2060348172082520113",
+              "start": 26,
+              "url": "https://t.co/9qNXdPPN1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060542892960362907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060348172082520113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能够看到我不爱自己，但能做的也只是隔岸观火罢了。 https://t.co/9qNXdPPN1t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558521768976846849",
+        "conversation_id": "2060348172082520113",
+        "created_at": "2026-05-29T13:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060348172082520113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060348172082520113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常要和不知道从哪儿冒出来的自毁倾向作斗争，比如现在手腕疼得不行也还是在继续练枪，比如需要通过穿孔的痛感来感知到自己在活着。我能够看到我不爱自己，但能做的也只是隔岸观火罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058978549831446528/b7LpiZIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 112,
+          "like_count": 18454,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 5995
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T18:32:09.000Z",
+        "description": "キティって呼んで| 🇨🇳 | 20↑ | 🚺 | 日本語を勉強し始めたばかり♡ | @k1ttyiwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "k1ttyiwi"
+              }
+            ]
+          }
+        },
+        "id": "1558521768976846849",
+        "name": "小郁",
+        "pinned_tweet_id": "2054953436551234036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053283168728608768/kOamveHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 86,
+          "like_count": 6727,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 950
+        },
+        "username": "Lv4yI",
+        "verified": true
+      }
+    ]
+  }
+}

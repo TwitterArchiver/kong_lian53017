@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2041298318849167510",
+    "created_at": "2026-04-06T23:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T00:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041298318849167510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1190880292589817857",
+          "start": 3,
+          "username": "xxfkfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041298318849167510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041189191909081239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxfkfk: 你一出现 世界上就再也没有第二个人 我也消失 我也是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2041298318849167510",
+        "created_at": "2026-04-06T23:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T00:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041298318849167510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1190880292589817857",
+              "start": 3,
+              "username": "xxfkfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041298318849167510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041189191909081239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxfkfk: 你一出现 世界上就再也没有第二个人 我也消失 我也是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190880292589817857",
+        "conversation_id": "2041189191909081239",
+        "created_at": "2026-04-06T16:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041189191909081239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041189191909081239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你一出现 世界上就再也没有第二个人 我也消失 我也是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 77,
+          "like_count": 3145,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1361
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-03T06:36:22.000Z",
+        "description": "",
+        "id": "1190880292589817857",
+        "name": "xxfkfk",
+        "pinned_tweet_id": "2041187513231102322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790410319552192512/GTfIPg26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18677,
+          "following_count": 7,
+          "like_count": 75,
+          "listed_count": 79,
+          "media_count": 21,
+          "tweet_count": 29
+        },
+        "username": "xxfkfk",
+        "verified": false
+      }
+    ]
+  }
+}

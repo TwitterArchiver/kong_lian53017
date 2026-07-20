@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2041843101413863754",
+    "created_at": "2026-04-09T00:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042036739561418878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042036739561418878",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041843101413863754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 好惬意~我也喜欢吃铁板豆腐！但是我们这好像没有什么地方卖了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041843084389150720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYVd5QacAAjdwc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041843084397608960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYVd5SbgAAlG-v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2041843084393377796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYVd5Ra8AQglWF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041843085727166464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYVd-Pa8AA5jsN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2041843101413863754",
+        "created_at": "2026-04-09T00:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042036739561418878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042036739561418878",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041843101413863754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 好惬意~我也喜欢吃铁板豆腐！但是我们这好像没有什么地方卖了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041843084389150720",
+            "3_2041843084397608960",
+            "3_2041843084393377796",
+            "3_2041843085727166464"
+          ]
+        },
+        "author_id": "1917734495786041344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041843101413863754",
+        "created_at": "2026-04-08T11:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041843101413863754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkQ9VXV7E6",
+              "end": 108,
+              "expanded_url": "https://x.com/chelsey24517/status/2041843101413863754/photo/1",
+              "media_key": "3_2041843084389150720",
+              "start": 85,
+              "url": "https://t.co/bkQ9VXV7E6"
+            },
+            {
+              "display_url": "pic.x.com/bkQ9VXV7E6",
+              "end": 108,
+              "expanded_url": "https://x.com/chelsey24517/status/2041843101413863754/photo/1",
+              "media_key": "3_2041843084397608960",
+              "start": 85,
+              "url": "https://t.co/bkQ9VXV7E6"
+            },
+            {
+              "display_url": "pic.x.com/bkQ9VXV7E6",
+              "end": 108,
+              "expanded_url": "https://x.com/chelsey24517/status/2041843101413863754/photo/1",
+              "media_key": "3_2041843084393377796",
+              "start": 85,
+              "url": "https://t.co/bkQ9VXV7E6"
+            },
+            {
+              "display_url": "pic.x.com/bkQ9VXV7E6",
+              "end": 108,
+              "expanded_url": "https://x.com/chelsey24517/status/2041843101413863754/photo/1",
+              "media_key": "3_2041843085727166464",
+              "start": 85,
+              "url": "https://t.co/bkQ9VXV7E6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041843101413863754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熟悉的回顾假期环节\n去逛了逛老街，我们这边老街已经拆了很长时间了，很多东西都没有了。但觉得拿着辣条，吃着关东煮和铁板豆腐仿佛又回到了从前。\n没什么太阳，凉风吹着很舒适。 https://t.co/bkQ9VXV7E6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 78,
+          "like_count": 3388,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1458
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享",
+        "id": "1917734495786041344",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041678334929858561/10RAjko9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 286,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 548
+        },
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

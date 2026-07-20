@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2049196554918211761",
+    "created_at": "2026-04-28T18:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049196554918211761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bei_haishui/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bei_haishui/status/2049128404826607779",
+          "start": 5,
+          "url": "https://t.co/zqfV7WhfLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049196554918211761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049128404826607779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是吗？ https://t.co/zqfV7WhfLU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2049196554918211761",
+        "created_at": "2026-04-28T18:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049196554918211761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bei_haishui/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bei_haishui/status/2049128404826607779",
+              "start": 5,
+              "url": "https://t.co/zqfV7WhfLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049196554918211761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049128404826607779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是吗？ https://t.co/zqfV7WhfLU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "2049128404826607779",
+        "created_at": "2026-04-28T14:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049128404826607779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049128404826607779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3611,
+          "like_count": 100,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得想和我玩那就只能和我一个人玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 94,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 71,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 101,
+          "like_count": 11051,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 4622
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "非常低质非常日常的一头猪\n私信常开允许骚扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=GXfczkiy&from=%E5%86%B0%E5%98%B4%E5%94%87",
+                "start": 0,
+                "url": "https://t.co/5dh5BaiMY7"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "location": "自用vpn",
+        "name": "冰嘴唇.",
+        "pinned_tweet_id": "2048378588043637013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018942052453744640/_YsWMcxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10014,
+          "following_count": 406,
+          "like_count": 46378,
+          "listed_count": 12,
+          "media_count": 112,
+          "tweet_count": 5883
+        },
+        "url": "https://t.co/5dh5BaiMY7",
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

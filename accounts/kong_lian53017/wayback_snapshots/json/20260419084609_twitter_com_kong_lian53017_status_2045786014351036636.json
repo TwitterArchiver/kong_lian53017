@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045779421857214744",
+    "created_at": "2026-04-19T08:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045786014351036636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038300113920249857",
+          "start": 0,
+          "username": "bibibibib1470"
+        },
+        {
+          "end": 26,
+          "id": "1905471455640649730",
+          "start": 15,
+          "username": "paki_great"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045786014351036636",
+    "in_reply_to_user_id": "2038300113920249857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045785677087039845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibibib1470 @paki_great 找一个平衡点。如果只是活下去，人有个角落住有口饭吃有口水喝有氧气就能活下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045779421857214744",
+        "created_at": "2026-04-19T08:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045786014351036636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038300113920249857",
+              "start": 0,
+              "username": "bibibibib1470"
+            },
+            {
+              "end": 26,
+              "id": "1905471455640649730",
+              "start": 15,
+              "username": "paki_great"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045786014351036636",
+        "in_reply_to_user_id": "2038300113920249857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045785677087039845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibibib1470 @paki_great 找一个平衡点。如果只是活下去，人有个角落住有口饭吃有口水喝有氧气就能活下去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038300113920249857",
+        "conversation_id": "2045779421857214744",
+        "created_at": "2026-04-19T08:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045785677087039845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            },
+            {
+              "end": 27,
+              "id": "1905471455640649730",
+              "start": 16,
+              "username": "paki_great"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045785677087039845",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045785175838310421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 @paki_great 做自己是很快乐呀，但是很难活不下去😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 95,
+          "like_count": 7239,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3066
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T17:00:59.000Z",
+        "description": "想和别人聊天，任何人都可以（不聊H）\n别一进来就骂我😮‍💨\n一般都在😎",
+        "id": "2038300113920249857",
+        "name": "Hai",
+        "pinned_tweet_id": "2043533593990009076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038440194194735104/BR4Z6k2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 33,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 789
+        },
+        "username": "bibibibib1470",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T04:06:40.000Z",
+        "description": "活着",
+        "id": "1905471455640649730",
+        "location": "随便在哪都好",
+        "name": "21世纪的精神异常者",
+        "pinned_tweet_id": "1940262943167586700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005219268468850688/IcQqd-zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 71,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 784
+        },
+        "username": "paki_great",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032366288849473536"
+      ]
+    },
+    "author_id": "1722693102367039488",
+    "conversation_id": "2032366293039661397",
+    "created_at": "2026-03-13T08:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T09:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032366293039661397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HsuMLACFhf",
+          "end": 48,
+          "expanded_url": "https://x.com/kong_lian53017/status/2032366293039661397/photo/1",
+          "media_key": "3_2032366288849473536",
+          "start": 25,
+          "url": "https://t.co/HsuMLACFhf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032366293039661397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚涂完身体乳感觉自己的胸型好难看，又小又外扩😅 https://t.co/HsuMLACFhf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032366293039661397].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032366293039661397",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032366293039661397"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2032366288849473536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRqXyxaEAA7Rgi.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗",
+        "id": "1722693102367039488",
+        "name": "空恋",
+        "pinned_tweet_id": "1967745547328205092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 18,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}

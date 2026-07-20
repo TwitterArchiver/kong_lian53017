@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2037901185550860663",
+    "created_at": "2026-03-28T14:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037901185550860663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SherryJxpbp/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/SherryJxpbp/status/2037761925669695544",
+          "start": 5,
+          "url": "https://t.co/dIz9vSSV8j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037901185550860663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037761925669695544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真这样 https://t.co/dIz9vSSV8j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2037901185550860663",
+        "created_at": "2026-03-28T14:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037901185550860663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SherryJxpbp/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/SherryJxpbp/status/2037761925669695544",
+              "start": 5,
+              "url": "https://t.co/dIz9vSSV8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037901185550860663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037761925669695544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真这样 https://t.co/dIz9vSSV8j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2037761925669695544",
+        "created_at": "2026-03-28T05:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037761925669695544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037761925669695544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我粘人没有达到目的我就会气急败坏的把自己气死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义碎碎念｜间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 63,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 539
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…喜欢和小女孩互动！请小女孩多找我玩！ 私信只回有意思的——定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 107,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 84,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "1998734953572413730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879799374022385664/TVkLtRn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 126,
+          "like_count": 650,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 603
+        },
+        "username": "SherryJxpbp",
+        "verified": false
+      }
+    ]
+  }
+}

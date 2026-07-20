@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042063632247517379",
+    "created_at": "2026-04-09T08:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042155849691623872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725076813305757696",
+          "start": 0,
+          "username": "z2719431605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042155849691623872",
+    "in_reply_to_user_id": "1725076813305757696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042150713732821116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z2719431605 。。。我只是发自己的想法，并没有想找的意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042063632247517379",
+        "created_at": "2026-04-09T08:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042155849691623872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725076813305757696",
+              "start": 0,
+              "username": "z2719431605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042155849691623872",
+        "in_reply_to_user_id": "1725076813305757696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042150713732821116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z2719431605 。。。我只是发自己的想法，并没有想找的意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725076813305757696",
+        "conversation_id": "2042063632247517379",
+        "created_at": "2026-04-09T08:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042150713732821116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042150713732821116",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042063632247517379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 你在这里发想找到就更不可能了，共鸣是需要一定情绪门槛的，可以看看自己日主或者mbti之类的，找比较合适的对应的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 81,
+          "like_count": 3639,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1569
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T09:02:25.000Z",
+        "description": "",
+        "id": "1725076813305757696",
+        "name": "凌迟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725077005123936256/XOOvegYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 92,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "z2719431605",
+        "verified": false
+      }
+    ]
+  }
+}

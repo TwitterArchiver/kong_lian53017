@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2054272505792348604",
+    "created_at": "2026-05-12T18:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054272505792348604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/engine61308931…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/engine613089311/status/2054268427095990439",
+          "start": 26,
+          "url": "https://t.co/T4uNg4ZPhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054272505792348604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054268427095990439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恋爱观已经扭曲到了要么当狗要么病娇，不然滚蛋的程度 https://t.co/T4uNg4ZPhy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2054272505792348604",
+        "created_at": "2026-05-12T18:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054272505792348604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/engine61308931…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/engine613089311/status/2054268427095990439",
+              "start": 26,
+              "url": "https://t.co/T4uNg4ZPhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054272505792348604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054268427095990439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恋爱观已经扭曲到了要么当狗要么病娇，不然滚蛋的程度 https://t.co/T4uNg4ZPhy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990166110067662848",
+        "conversation_id": "2054268427095990439",
+        "created_at": "2026-05-12T18:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054268427095990439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054268427095990439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恋爱观已经扭曲到了要么当狗要么病娇，不然滚蛋的程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 110,
+          "like_count": 14653,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5097
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T21:12:42.000Z",
+        "description": "07摩羯intj，switch（应该？）门槛2778/1145.14\nhttps://t.co/gdE2DLPs6f\n匿名问题，勋美康粉\n男，不见证不打拳，专心经营自己的唐氏生活中...这里算是我的牢骚日记本，偶尔更新点鬼脑发动的黄色废料，浩all党",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/engine48856",
+                "end": 58,
+                "expanded_url": "https://ngl.link/engine48856",
+                "start": 35,
+                "url": "https://t.co/gdE2DLPs6f"
+              }
+            ]
+          }
+        },
+        "id": "1990166110067662848",
+        "location": "你心里",
+        "name": "engine",
+        "pinned_tweet_id": "2048669196079472871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011991340222201856/_IxOo9AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 373,
+          "like_count": 26124,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 4577
+        },
+        "username": "engine613089311",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2058921021907120407",
+    "created_at": "2026-05-25T15:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058930996926701966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1047171322990587904",
+          "start": 0,
+          "username": "Kawasaki_Fritz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058930996926701966",
+    "in_reply_to_user_id": "1047171322990587904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058928464561111069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawasaki_Fritz 是的。在我看来没有什么所谓的标准，自己想要的喜欢的才是最适合自己的，最重要的是自己要享受自己所选择以及所拥有的。还有就是谢谢你总是给我写长评呀，但是我现在被shadowban了所以很少回复。抱歉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2058921021907120407",
+        "created_at": "2026-05-25T15:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058930996926701966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1047171322990587904",
+              "start": 0,
+              "username": "Kawasaki_Fritz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058930996926701966",
+        "in_reply_to_user_id": "1047171322990587904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058928464561111069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawasaki_Fritz 是的。在我看来没有什么所谓的标准，自己想要的喜欢的才是最适合自己的，最重要的是自己要享受自己所选择以及所拥有的。还有就是谢谢你总是给我写长评呀，但是我现在被shadowban了所以很少回复。抱歉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1047171322990587904",
+        "conversation_id": "2058921021907120407",
+        "created_at": "2026-05-25T15:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058928464561111069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058928464561111069",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058921021907120407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 自己的生活是由自己决定的，现在很多人都很喜欢去套用他人生活的模板，但明明自己是一个独立的个体，为什么要把自己活成别人的克隆体？别人“很好”的生活也许并不适合自己，就算在别人看来自己的生活“不好”那又如何，那是属于自己独一无二的人生（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜赞赏码在置顶评论，感谢喜欢感谢投喂~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 113,
+          "like_count": 17434,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 5879
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-02T17:07:53.000Z",
+        "description": "エロが好き エロい人も好き 中国人です、日本語を勉強しています 希望は世界平和 インターナショナルは必ず現実になる！",
+        "id": "1047171322990587904",
+        "location": "People's Republic of China",
+        "name": "E❌usiai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497673750708224/0m3YkIht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 248,
+          "like_count": 935,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 363
+        },
+        "username": "Kawasaki_Fritz",
+        "verified": false
+      }
+    ]
+  }
+}

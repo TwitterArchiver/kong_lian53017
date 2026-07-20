@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2065129943072432568",
+    "created_at": "2026-06-11T17:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065129943072432568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773119589062418432",
+          "start": 3,
+          "username": "Ed5JelrpAd93177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065129943072432568",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12818
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064679511619469532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ed5JelrpAd93177: 사랑은 티 나게 해야함 아니면 뭐 하러 사랑함"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2065129943072432568",
+        "created_at": "2026-06-11T17:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065129943072432568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1773119589062418432",
+              "start": 3,
+              "username": "Ed5JelrpAd93177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065129943072432568",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12818
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064679511619469532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ed5JelrpAd93177: 사랑은 티 나게 해야함 아니면 뭐 하러 사랑함"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773119589062418432",
+        "conversation_id": "2064679511619469532",
+        "created_at": "2026-06-10T12:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064679511619469532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064679511619469532",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3122,
+          "impression_count": 1189267,
+          "like_count": 35177,
+          "quote_count": 2116,
+          "reply_count": 39,
+          "retweet_count": 12818
+        },
+        "reply_settings": "everyone",
+        "text": "사랑은 티 나게 해야함 아니면 뭐 하러 사랑함"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区或在主页搜索赞赏码三个字🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 69,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋（被shadowban中）",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 114,
+          "like_count": 20811,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 4294
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T22:47:18.000Z",
+        "description": "부계 @haeju_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "haeju_2"
+              }
+            ]
+          }
+        },
+        "id": "1773119589062418432",
+        "name": "해줘",
+        "pinned_tweet_id": "2062533651313914356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060725368802492416/_qkGu633_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 169,
+          "like_count": 7571,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 260
+        },
+        "username": "Ed5JelrpAd93177",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2034552079411527954",
+    "created_at": "2026-03-19T08:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034554655121056104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1976383726855839744",
+          "start": 0,
+          "username": "MmeTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034554655121056104",
+    "in_reply_to_user_id": "1976383726855839744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034552079411527954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MmeTuT 这么会卷！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10007,
+        "height": 1280,
+        "media_key": "7_2034552045974544384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2034552045974544384/pu/img/ZGjXFIsBo-WUvuLy.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034552045974544384/pu/vid/avc1/320x568/vx5e81CAd2FOLLvu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034552045974544384/pu/vid/avc1/480x852/O3e3UZSPpP4GOo42.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034552045974544384/pu/vid/avc1/720x1280/-5mtJPXjLjcL6P98.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2034552045974544384/pu/pl/LdEz-Zy-mFTisK0E.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2034552079411527954",
+        "created_at": "2026-03-19T08:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034554655121056104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976383726855839744",
+              "start": 0,
+              "username": "MmeTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034554655121056104",
+        "in_reply_to_user_id": "1976383726855839744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034552079411527954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmeTuT 这么会卷！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2034552045974544384"
+          ]
+        },
+        "author_id": "1976383726855839744",
+        "conversation_id": "2034552079411527954",
+        "created_at": "2026-03-19T08:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034552079411527954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGzZgFDs3j",
+              "end": 37,
+              "expanded_url": "https://x.com/MmeTuT/status/2034552079411527954/video/1",
+              "media_key": "7_2034552045974544384",
+              "start": 14,
+              "url": "https://t.co/YGzZgFDs3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034552079411527954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卷完头发等定型我就这样臭美 https://t.co/YGzZgFDs3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗 | 女孩请跟我互关聊天扩列",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2033934620199424399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 34,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 191
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "哥哥控｜不收🚪不闲聊｜只打王者和平｜互关欢迎来找我玩 只互感兴趣的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki95570",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki95570",
+                "start": 0,
+                "url": "https://t.co/wJeivsFncV"
+              }
+            ]
+          }
+        },
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024284032037720223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 153,
+          "like_count": 7440,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2163
+        },
+        "url": "https://t.co/wJeivsFncV",
+        "username": "MmeTuT",
+        "verified": false
+      }
+    ]
+  }
+}

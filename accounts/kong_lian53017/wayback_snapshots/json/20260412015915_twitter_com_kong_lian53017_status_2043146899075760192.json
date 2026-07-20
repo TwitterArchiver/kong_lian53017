@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2043146899075760192",
+    "created_at": "2026-04-12T01:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043146899075760192"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043146899075760192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我很多时候跟人聊天都挺人机的，总会给对方一种很难接话不知道接什么的感觉。之前谈其实就有被指出过，不过谈的都是话唠＋主动分享型的所以并不影响什么。还有就是在谈上之前我基本不怎么主动。一般可能会觉得我这人很冷淡但其实我是那种被死缠烂打一两个月就会同意交往的类型，很好追（卡感觉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2043146899075760192",
+        "created_at": "2026-04-12T01:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043146899075760192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043146899075760192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我很多时候跟人聊天都挺人机的，总会给对方一种很难接话不知道接什么的感觉。之前谈其实就有被指出过，不过谈的都是话唠＋主动分享型的所以并不影响什么。还有就是在谈上之前我基本不怎么主动。一般可能会觉得我这人很冷淡但其实我是那种被死缠烂打一两个月就会同意交往的类型，很好追（卡感觉）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 87,
+          "like_count": 4487,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1934
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}
