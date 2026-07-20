@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2046920333689815087",
+    "created_at": "2026-04-23T17:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047373629206442028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661415676819673089",
+          "start": 0,
+          "username": "kyirekevin83614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047373629206442028",
+    "in_reply_to_user_id": "1661415676819673089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046920333689815087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyirekevin83614 好香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2046920316056944640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgfLrIawAA60vH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2046920333689815087",
+        "created_at": "2026-04-23T17:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047373629206442028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661415676819673089",
+              "start": 0,
+              "username": "kyirekevin83614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047373629206442028",
+        "in_reply_to_user_id": "1661415676819673089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046920333689815087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyirekevin83614 好香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046920316056944640"
+          ]
+        },
+        "author_id": "1661415676819673089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046920333689815087",
+        "created_at": "2026-04-22T11:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046920333689815087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WE7Gqm93at",
+              "end": 27,
+              "expanded_url": "https://x.com/kyirekevin83614/status/2046920333689815087/photo/1",
+              "media_key": "3_2046920316056944640",
+              "start": 4,
+              "url": "https://t.co/WE7Gqm93at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046920333689815087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒽焖面 https://t.co/WE7Gqm93at"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互｜匿名https://t.co/OkTldu1tmL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 90,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 67,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 102,
+          "like_count": 9210,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3890
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T16:55:54.000Z",
+        "description": "皮下男和门槛姐不要点赞关注我",
+        "id": "1661415676819673089",
+        "location": "guangzhou",
+        "name": "kyirekevin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036746414881955840/poN_UOxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 47,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 375
+        },
+        "username": "kyirekevin83614",
+        "verified": false
+      }
+    ]
+  }
+}

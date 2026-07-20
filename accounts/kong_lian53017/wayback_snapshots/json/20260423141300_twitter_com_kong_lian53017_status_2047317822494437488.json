@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2047316860270772665",
+    "created_at": "2026-04-23T14:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047317822494437488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038300113920249857",
+          "start": 0,
+          "username": "bibibibib1470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047317822494437488",
+    "in_reply_to_user_id": "2038300113920249857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047317278610661406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibibib1470 我感觉也不是。一年抽一包这频率完全不像有瘾🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2047316860270772665",
+        "created_at": "2026-04-23T14:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047317822494437488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038300113920249857",
+              "start": 0,
+              "username": "bibibibib1470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047317822494437488",
+        "in_reply_to_user_id": "2038300113920249857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047317278610661406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibibib1470 我感觉也不是。一年抽一包这频率完全不像有瘾🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038300113920249857",
+        "conversation_id": "2047316860270772665",
+        "created_at": "2026-04-23T14:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047317278610661406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047317278610661406",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047316860270772665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 应该不是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信我，随缘互",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 102,
+          "like_count": 9076,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3825
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T17:00:59.000Z",
+        "description": "想和别人聊天，任何人都可以（不聊H）\n别一进来就骂我😮‍💨\n一般都在😎",
+        "id": "2038300113920249857",
+        "name": "Hai",
+        "pinned_tweet_id": "2043533593990009076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038440194194735104/BR4Z6k2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 35,
+          "like_count": 1784,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1048
+        },
+        "username": "bibibibib1470",
+        "verified": false
+      }
+    ]
+  }
+}

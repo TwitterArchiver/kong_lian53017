@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2042578557365555414",
+    "created_at": "2026-04-10T13:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042597389148787142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646175801404956672",
+          "start": 0,
+          "username": "LightDark0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042597389148787142",
+    "in_reply_to_user_id": "1646175801404956672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042586690590773503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightDark0615 😼😼😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2042578557365555414",
+        "created_at": "2026-04-10T13:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042597389148787142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646175801404956672",
+              "start": 0,
+              "username": "LightDark0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042597389148787142",
+        "in_reply_to_user_id": "1646175801404956672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042586690590773503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightDark0615 😼😼😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646175801404956672",
+        "conversation_id": "2042578557365555414",
+        "created_at": "2026-04-10T12:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042586690590773503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042586690590773503",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042578557365555414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 谢谢 亲测有效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 90,
+          "like_count": 4048,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1738
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T15:37:57.000Z",
+        "description": "旧淤青在雨季生锈。",
+        "id": "1646175801404956672",
+        "location": "Birmingham, England",
+        "name": "明暗的Ld",
+        "pinned_tweet_id": "1865872878509699099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646176076870172672/-5JIGy_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 649
+        },
+        "username": "LightDark0615",
+        "verified": false
+      }
+    ]
+  }
+}

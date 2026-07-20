@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2045754530235916733",
+    "created_at": "2026-04-19T06:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045759109329461702"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045759109329461702",
+    "in_reply_to_user_id": "1722693102367039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045754530235916733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直觉得如果他们真的对我很差我就不会这么痛苦了，我能痛苦是因为我真的完全能理解在我看来对我不好的点要么是因为观念不合要么是因为他们作为父母只能做到这种程度。我明白他们是想爱我的有时候却又会无意伤害到我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045754530235916733",
+        "created_at": "2026-04-19T06:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045759109329461702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045759109329461702",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045754530235916733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直觉得如果他们真的对我很差我就不会这么痛苦了，我能痛苦是因为我真的完全能理解在我看来对我不好的点要么是因为观念不合要么是因为他们作为父母只能做到这种程度。我明白他们是想爱我的有时候却又会无意伤害到我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2045754530235916733",
+        "created_at": "2026-04-19T06:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045754530235916733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045754530235916733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天有个不得不放纵的理由：我弟十八岁生日。早上起来心情不好是因为想到自己的18岁生日。其实记不太清楚了，貌似就是普通的一天，好像连蛋糕都没买。就是那两天收到了我养的小狗去世了的消息（其实没有去世是被丢掉了但是瞒着我）我是个很注重仪式感的人但我成人那天什么都没有也一点都不快乐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念｜精神状态不稳定间歇性发疯｜会查主页，互fo随缘",
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808614358966272/yjU8OVI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 94,
+          "like_count": 7200,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 3046
+        },
+        "username": "kong_lian53017",
+        "verified": false
+      }
+    ]
+  }
+}
