@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2082135336747208847",
+    "created_at": "2026-07-28T17:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082158457755758746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749428995492573184",
+          "start": 0,
+          "username": "jiejieluo111423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082158457755758746",
+    "in_reply_to_user_id": "1749428995492573184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082135336747208847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejieluo111423 真正爱你的人不需要你完美。一段感情的结束一定是双方都有一定的问题，不要过于反思自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2082135336747208847",
+        "created_at": "2026-07-28T17:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082158457755758746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749428995492573184",
+              "start": 0,
+              "username": "jiejieluo111423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082158457755758746",
+        "in_reply_to_user_id": "1749428995492573184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082135336747208847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejieluo111423 真正爱你的人不需要你完美。一段感情的结束一定是双方都有一定的问题，不要过于反思自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749428995492573184",
+        "conversation_id": "2082135336747208847",
+        "created_at": "2026-07-28T16:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082135336747208847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082135336747208847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是在检讨每个人离开我的原因。我是太依恋粘人了让你厌烦吗？还是没有闪光点吸引你？最近又看到一个方面，我是不是没能给够她安全感，才会让她开始冷淡推开我？好多对我的不好我已经淡忘，越来越多的内疚产生。我很遗憾每一次遇到想永远的人，我都做的不够好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 135,
+          "like_count": 27112,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 4770
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T13:49:27.000Z",
+        "description": "所以说  永远多长  永远短暂  永远很遗憾",
+        "id": "1749428995492573184",
+        "location": "广西",
+        "name": "jiejieluo",
+        "pinned_tweet_id": "2055730500657164685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040530635102765057/YLccjDga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1164,
+          "like_count": 29975,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "jiejieluo111423",
+        "verified": false
+      }
+    ]
+  }
+}

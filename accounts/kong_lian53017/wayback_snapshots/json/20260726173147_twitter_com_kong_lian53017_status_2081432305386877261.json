@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2081432305386877261",
+    "created_at": "2026-07-26T17:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081432305386877261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081432305386877261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081387450191204615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 我开始接受世界不是有来有回的交易 当你将整颗心都放上天平时 对方可以只放上一片轻飘飘的羽毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2081432305386877261",
+        "created_at": "2026-07-26T17:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081432305386877261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081432305386877261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081387450191204615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 我开始接受世界不是有来有回的交易 当你将整颗心都放上天平时 对方可以只放上一片轻飘飘的羽毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2081387450191204615",
+        "created_at": "2026-07-26T14:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081387450191204615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081387450191204615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2476,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我开始接受世界不是有来有回的交易 当你将整颗心都放上天平时 对方可以只放上一片轻飘飘的羽毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 134,
+          "like_count": 26702,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 4708
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11418,
+          "following_count": 78,
+          "like_count": 9064,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2143
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2081609745950253320",
+    "created_at": "2026-07-27T13:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081731137614025070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950594261029883904",
+          "start": 0,
+          "username": "Stupidbabycell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081731137614025070",
+    "in_reply_to_user_id": "1950594261029883904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081714477830111236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupidbabycell 确实！手动真的好累……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2081609745950253320",
+        "created_at": "2026-07-27T13:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081731137614025070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950594261029883904",
+              "start": 0,
+              "username": "Stupidbabycell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081731137614025070",
+        "in_reply_to_user_id": "1950594261029883904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081714477830111236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupidbabycell 确实！手动真的好累……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950594261029883904",
+        "conversation_id": "2081609745950253320",
+        "created_at": "2026-07-27T12:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081714477830111236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081714477830111236",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081609745950253320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我现在只用电动牙刷因为手动很少人会巴氏刷牙，超级累，直接电动辅助就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 134,
+          "like_count": 26783,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 4730
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T16:28:16.000Z",
+        "description": "我想要沉醉在LSD和苯二氮卓带来的白云。",
+        "id": "1950594261029883904",
+        "location": "Nakano-ku, Tokyo",
+        "name": "我想你轻轻的想你",
+        "pinned_tweet_id": "2050062107836908010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049423490244304896/gWlNnpqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 33,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "Stupidbabycell",
+        "verified": false
+      }
+    ]
+  }
+}

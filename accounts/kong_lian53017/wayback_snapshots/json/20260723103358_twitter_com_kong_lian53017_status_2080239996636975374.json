@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2080239996636975374",
+    "created_at": "2026-07-23T10:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080239996636975374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_yukinaOvO/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/_yukinaOvO/status/2080224241363169647",
+          "start": 5,
+          "url": "https://t.co/GHbS0DM9gH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080239996636975374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080224241363169647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要钱 https://t.co/GHbS0DM9gH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2080239996636975374",
+        "created_at": "2026-07-23T10:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080239996636975374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_yukinaOvO/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/_yukinaOvO/status/2080224241363169647",
+              "start": 5,
+              "url": "https://t.co/GHbS0DM9gH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080239996636975374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080224241363169647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要钱 https://t.co/GHbS0DM9gH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404997135360270343",
+        "conversation_id": "2080224241363169647",
+        "created_at": "2026-07-23T09:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080224241363169647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080224241363169647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对象什么时候可以成为那种给我爆很多钱的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 131,
+          "like_count": 26145,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 4581
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ 04┆碎碎念記錄合集┆水色🩵┆中文En OK、日本語勉強中┆音游┆繪畫┆毛绒大好き┆ハチワレ、湊友希那┆直fo成分回┆不喜歡我請滾出我的世界┆最爱@TheDuckyyyyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "TheDuckyyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yuki_ovo_neko",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yuki_ovo_neko",
+                "start": 0,
+                "url": "https://t.co/MI0cejXPTN"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2078877479339700333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 338,
+          "like_count": 3283,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/MI0cejXPTN",
+        "username": "_yukinaOvO",
+        "verified": false
+      }
+    ]
+  }
+}

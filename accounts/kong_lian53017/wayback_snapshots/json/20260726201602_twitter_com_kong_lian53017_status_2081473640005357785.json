@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2080907618608906352",
+    "created_at": "2026-07-26T20:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081473640005357785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999623043648491520",
+          "start": 0,
+          "username": "senyoku_saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081473640005357785",
+    "in_reply_to_user_id": "1999623043648491520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081440919606493589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senyoku_saki 喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2080907618608906352",
+        "created_at": "2026-07-26T20:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081473640005357785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999623043648491520",
+              "start": 0,
+              "username": "senyoku_saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081473640005357785",
+        "in_reply_to_user_id": "1999623043648491520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081440919606493589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senyoku_saki 喝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999623043648491520",
+        "conversation_id": "2080907618608906352",
+        "created_at": "2026-07-26T18:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081440919606493589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081440919606493589",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080907618608906352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 我也想喝茶瀑布。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 135,
+          "like_count": 26668,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 4712
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T23:31:18.000Z",
+        "description": "♪我想你 轻轻地 亲亲🎵\n直fo就是喜欢你🥺💕\n性取向正常🖐🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usotsuki23381",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usotsuki23381",
+                "start": 0,
+                "url": "https://t.co/YNlehPRGy2"
+              }
+            ]
+          }
+        },
+        "id": "1999623043648491520",
+        "location": "広東、広州",
+        "name": "嘘月",
+        "pinned_tweet_id": "2077620189320138991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076604144920797184/QGTpvJR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 346,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/YNlehPRGy2",
+        "username": "senyoku_saki",
+        "verified": false
+      }
+    ]
+  }
+}

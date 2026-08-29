@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2083577553894486329",
+    "created_at": "2026-08-01T16:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083589302345499081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965861664307527680",
+          "start": 0,
+          "username": "mimipuppy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083589302345499081",
+    "in_reply_to_user_id": "1965861664307527680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083577553894486329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimipuppy_ 好陶醉的觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 98275,
+        "height": 720,
+        "media_key": "13_2083577434016980992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083577434016980992/img/wsWGCet_46pNCQ6N.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083577434016980992/vid/avc1/320x320/Vse2P73n4pt6cit9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083577434016980992/vid/avc1/540x540/FBeD4bYIYAcl8U-t.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083577434016980992/vid/avc1/720x720/A6Y0HIoR4UEFwKVo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083577434016980992/pl/BeTwtpqS6SeMmU7X.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2083577553894486329",
+        "created_at": "2026-08-01T16:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083589302345499081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965861664307527680",
+              "start": 0,
+              "username": "mimipuppy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083589302345499081",
+        "in_reply_to_user_id": "1965861664307527680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083577553894486329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimipuppy_ 好陶醉的觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083577434016980992"
+          ]
+        },
+        "author_id": "1965861664307527680",
+        "conversation_id": "2083577553894486329",
+        "created_at": "2026-08-01T15:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083577553894486329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zq2PEjjk7v",
+              "end": 38,
+              "expanded_url": "https://x.com/mimipuppy_/status/2083577553894486329/video/1",
+              "media_key": "13_2083577434016980992",
+              "start": 15,
+              "url": "https://t.co/zq2PEjjk7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083577553894486329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊8，，所有人听到最后。 https://t.co/zq2PEjjk7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 136,
+          "like_count": 28054,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3349
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T19:35:50.000Z",
+        "description": "偶是觉觉，大号封惹。不删的日记本💧",
+        "id": "1965861664307527680",
+        "location": "🚪88888888",
+        "name": "喜欢睡觉（雪地打滚版",
+        "pinned_tweet_id": "2083437712812769317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083449079703707648/yFx0M00u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 46,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "mimipuppy_",
+        "verified": false
+      }
+    ]
+  }
+}

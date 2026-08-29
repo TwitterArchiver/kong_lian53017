@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2083550255594053905",
+    "created_at": "2026-08-01T13:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083550255594053905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lyuaei/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Lyuaei/status/2082939573160538587",
+          "start": 7,
+          "url": "https://t.co/E54DQttzxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083550255594053905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082939573160538587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕天赋怪😭 https://t.co/E54DQttzxk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10143,
+        "height": 704,
+        "media_key": "13_2082939550033174528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082939550033174528/img/OzrE_HnQ9BhSCIkX.jpg",
+        "public_metrics": {
+          "view_count": 783482
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082939550033174528/vid/avc1/436x270/jc03hh5yc0eEQRrA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082939550033174528/vid/avc1/580x360/n_Kf8jSK6QPgH0AK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082939550033174528/vid/avc1/1138x704/7wArRSIVlPdXNJns.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082939550033174528/pl/YRuEqxHFu1ysnyZR.m3u8"
+          }
+        ],
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2083550255594053905",
+        "created_at": "2026-08-01T13:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083550255594053905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lyuaei/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Lyuaei/status/2082939573160538587",
+              "start": 7,
+              "url": "https://t.co/E54DQttzxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083550255594053905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082939573160538587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕天赋怪😭 https://t.co/E54DQttzxk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082939550033174528"
+          ]
+        },
+        "author_id": "1859692257638522880",
+        "conversation_id": "2082939573160538587",
+        "created_at": "2026-07-30T21:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082939573160538587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SeLg4ZRQMQ",
+              "end": 29,
+              "expanded_url": "https://x.com/Lyuaei/status/2082939573160538587/video/1",
+              "media_key": "13_2082939550033174528",
+              "start": 6,
+              "url": "https://t.co/SeLg4ZRQMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082939573160538587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16034,
+          "impression_count": 1531560,
+          "like_count": 65743,
+          "quote_count": 395,
+          "reply_count": 452,
+          "retweet_count": 3205
+        },
+        "reply_settings": "everyone",
+        "text": "Tummy https://t.co/SeLg4ZRQMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 136,
+          "like_count": 28009,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3334
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T20:16:09.000Z",
+        "description": "@curiokills ˚⊹ ᰔ ig: xeiyza\nyes i have one…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "curiokills"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lyuaei",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lyuaei",
+                "start": 0,
+                "url": "https://t.co/BkHZzbvbyb"
+              }
+            ]
+          }
+        },
+        "id": "1859692257638522880",
+        "location": " snap: lyuaei",
+        "name": "ִ",
+        "pinned_tweet_id": "2082939573160538587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083117466511695873/st0zxRIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103568,
+          "following_count": 15,
+          "like_count": 2718,
+          "listed_count": 122,
+          "media_count": 167,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/BkHZzbvbyb",
+        "username": "Lyuaei",
+        "verified": false
+      }
+    ]
+  }
+}

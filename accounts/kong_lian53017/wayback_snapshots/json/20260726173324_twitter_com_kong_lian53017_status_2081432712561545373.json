@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2081432712561545373",
+    "created_at": "2026-07-26T17:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081432712561545373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1469027102536380416",
+          "start": 3,
+          "username": "auesea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081432712561545373",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 968
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080996984987775426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @auesea: 온 세상이 당신에게는 항상 다정하기만 했으면"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2081432712561545373",
+        "created_at": "2026-07-26T17:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081432712561545373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1469027102536380416",
+              "start": 3,
+              "username": "auesea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081432712561545373",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 968
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080996984987775426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @auesea: 온 세상이 당신에게는 항상 다정하기만 했으면"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469027102536380416",
+        "conversation_id": "2080996984987775426",
+        "created_at": "2026-07-25T12:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080996984987775426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080996984987775426",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 102558,
+          "like_count": 3578,
+          "quote_count": 94,
+          "reply_count": 0,
+          "retweet_count": 968
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "온 세상이 당신에게는 항상 다정하기만 했으면"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 134,
+          "like_count": 26705,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 4710
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T19:32:24.000Z",
+        "description": "",
+        "id": "1469027102536380416",
+        "name": "໊",
+        "pinned_tweet_id": "1862826866912231706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076644065647747072/13c69AqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59623,
+          "following_count": 0,
+          "like_count": 100264,
+          "listed_count": 136,
+          "media_count": 1195,
+          "tweet_count": 16417
+        },
+        "url": "",
+        "username": "auesea",
+        "verified": false
+      }
+    ]
+  }
+}

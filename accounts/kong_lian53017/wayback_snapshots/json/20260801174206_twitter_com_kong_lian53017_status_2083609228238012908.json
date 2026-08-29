@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2083575599864627543",
+    "created_at": "2026-08-01T17:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083609228238012908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1442900362373959681",
+          "start": 0,
+          "username": "ClarkOAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083609228238012908",
+    "in_reply_to_user_id": "1442900362373959681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083597685605765186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClarkOAO 是这样的，或者鬓边的刘海长一点也会被打湿T∧T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2083575599864627543",
+        "created_at": "2026-08-01T17:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083609228238012908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1442900362373959681",
+              "start": 0,
+              "username": "ClarkOAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083609228238012908",
+        "in_reply_to_user_id": "1442900362373959681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083597685605765186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClarkOAO 是这样的，或者鬓边的刘海长一点也会被打湿T∧T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442900362373959681",
+        "conversation_id": "2083575599864627543",
+        "created_at": "2026-08-01T16:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083597685605765186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722693102367039488",
+              "start": 0,
+              "username": "kong_lian53017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083597685605765186",
+        "in_reply_to_user_id": "1722693102367039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083575599864627543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong_lian53017 确实...特别是只想洗澡的时候, 虽然盘起来了, 但是头发尖尖还是会湿..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 136,
+          "like_count": 28057,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3353
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T17:13:59.000Z",
+        "description": "我叫 Clark, 大概是写代码的, 其他嘛...嗯...让我想想...开发者? 黑客? 投机者? 卑微打工人?\n不不, 其实我只是个 freeman, 做自己喜欢的事情最重要! ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "njump.me/npub1clarklr7c…",
+                "end": 23,
+                "expanded_url": "https://njump.me/npub1clarklr7c43nklyhrr0f6h6j358pc4wfk92r2vjedjj2qk95el5ssm0w8h",
+                "start": 0,
+                "url": "https://t.co/jbXg47mmnK"
+              }
+            ]
+          }
+        },
+        "id": "1442900362373959681",
+        "name": "Clark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043706696460345344/oi_dIyCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 13,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/jbXg47mmnK",
+        "username": "ClarkOAO",
+        "verified": false
+      }
+    ]
+  }
+}

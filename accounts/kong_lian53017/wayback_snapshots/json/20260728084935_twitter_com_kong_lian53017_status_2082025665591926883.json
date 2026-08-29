@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1722693102367039488",
+    "conversation_id": "2082025665591926883",
+    "created_at": "2026-07-28T08:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082025665591926883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ed5JelrpAd9317…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Ed5JelrpAd93177/status/2081681637516128544",
+          "start": 7,
+          "url": "https://t.co/5SVMrUBRrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082025665591926883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081681637516128544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢秋天呀 https://t.co/5SVMrUBRrW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722693102367039488",
+        "conversation_id": "2082025665591926883",
+        "created_at": "2026-07-28T08:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082025665591926883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ed5JelrpAd9317…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Ed5JelrpAd93177/status/2081681637516128544",
+              "start": 7,
+              "url": "https://t.co/5SVMrUBRrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082025665591926883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081681637516128544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢秋天呀 https://t.co/5SVMrUBRrW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773119589062418432",
+        "conversation_id": "2081681637516128544",
+        "created_at": "2026-07-27T10:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081681637516128544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081681637516128544",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 56647,
+          "like_count": 802,
+          "quote_count": 391,
+          "reply_count": 1,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "사람은 자신이 태어난 계절에\n쉽게 사랑에 빠진대요"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-09T19:10:42.000Z",
+        "description": "我的生命也能如烟花般绚烂吗｜00年INFJ｜主页充斥无意义日常碎碎念和负能｜精神状态不稳定间歇性发疯｜会查主页，互fo请私信，只互感兴趣的｜匿名：https://t.co/OkTldu1tmL｜若想投喂请看置顶评论区🤲感谢喜欢~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kong_lian",
+                "end": 96,
+                "expanded_url": "https://ngl.link/kong_lian",
+                "start": 73,
+                "url": "https://t.co/OkTldu1tmL"
+              }
+            ]
+          }
+        },
+        "id": "1722693102367039488",
+        "location": "一颗星",
+        "name": "空恋",
+        "pinned_tweet_id": "2036676205458632900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730580014989313/Jf4-cUUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 136,
+          "like_count": 27013,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 4751
+        },
+        "url": "",
+        "username": "kong_lian53017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T22:47:18.000Z",
+        "description": "부계: @haeju_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "haeju_2"
+              }
+            ]
+          }
+        },
+        "id": "1773119589062418432",
+        "location": "폐쇄병동",
+        "name": "해줘",
+        "pinned_tweet_id": "2062533651313914356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060725368802492416/_qkGu633_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 265,
+          "like_count": 14424,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "Ed5JelrpAd93177",
+        "verified": true
+      }
+    ]
+  }
+}
